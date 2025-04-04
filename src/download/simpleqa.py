@@ -12,7 +12,7 @@ def download() -> None:
     url = (
         "https://openaipublic.blob.core.windows.net/simple-evals/simple_qa_test_set.csv"
     )
-    json_path = "../../datasets/raw/simpleqa.json"
+    json_path = "../../datasets/raw/simpleqa/simpleqa.json"
 
     if os.path.exists(json_path):
         print(f"Dataset {name} already exists at {json_path}, skipping download.")

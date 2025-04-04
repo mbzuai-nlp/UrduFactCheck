@@ -1,0 +1,10 @@
+[
+    {
+        "id": "0",
+        "metadata": "{'topic': 'Science and technology', 'answer_type': 'Person', 'urls': ['https://en.wikipedia.org/wiki/IEEE_Frank_Rosenblatt_Award', 'https://ieeexplore.ieee.org/author/37271220500', 'https://en.wikipedia.org/wiki/IEEE_Frank_Rosenblatt_Award', 'https://www.nxtbook.com/nxtbooks/ieee/awards_2010/index.php?startid=21#/p/20']}",
+        "problem": "Who received the IEEE Frank Rosenblatt Award in 2010?",
+        "answer": "Michio Sugeno",
+        "question_urdu": "آئی ای ای ای فرینک روزین بلیٹ ایوارڈ ۲۰۱۰ میں کس نے حاصل کیا؟",
+        "answer_urdu": "میچیو سوگینو"
+    }
+]

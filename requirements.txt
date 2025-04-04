@@ -10,3 +10,4 @@ langchain-mistralai
 langchain-cohere
 langchain-google-genai
 pandas
+requests
