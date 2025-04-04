@@ -9,4 +9,4 @@ langchain-aws
 langchain-mistralai
 langchain-cohere
 langchain-google-genai
-python
+pandas
