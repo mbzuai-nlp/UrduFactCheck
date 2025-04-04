@@ -1,0 +1,8 @@
+{
+  "dockerfile_lines": [],
+  "graphs": {
+    "urdu_translation": "./graph_fewshot.py:graph"
+  },
+  "env": "./.env",
+  "dependencies": ["."]
+}

@@ -3,16 +3,16 @@ import json
 from datetime import datetime
 from utils.logging import get_logger
 
-from graph_fewshot import graph
+from graph_redundant import chain
 
 logger = get_logger()
 
 
 def classify():
     # File paths.
-    raw_file = "../datasets/raw/simpleqa/simpleqa.json"
+    raw_file = "../datasets/raw/freshqa/freshqa.json"
     output_file = (
-        f"../datasets/processed/simpleqa/simpleqa_{os.environ['MODEL_NAME']}.json"
+        f"../datasets/processed/freshqa/freshqa_{os.environ['MODEL_NAME']}.json"
     )
 
     # Read raw data.
@@ -35,7 +35,7 @@ def classify():
         if row.get("id") in processed_ids:
             continue
 
-        question_text = row.get("question", "")
+        question_text = row.get("problem", "")
         answer_text = row.get("answer", "")
         tstamp = datetime.now().strftime("%d-%m-%Y %H:%M:%S")
         logger.info(
@@ -44,7 +44,7 @@ def classify():
 
         for retry in range(5):
             try:
-                enriched_question = graph.invoke(
+                enriched_question = chain.invoke(
                     {"question": question_text, "answer": answer_text}
                 )
                 row.update(enriched_question)

@@ -38,3 +38,6 @@ error_output.txt
 
 # Langgraph Specific
 .langgraph_api
+
+# tmp files
+**tmp**
