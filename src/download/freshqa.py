@@ -53,14 +53,9 @@ def download():
         # csv_response = requests.get(csv_url)
         # csv_response.raise_for_status()  # Raise an error if the request failed.
 
-        # Read CSV content directly into pandas DataFrame
-        df = pd.read_csv(csv_url, header=1)
-
-        # Remove the first two rows; the next row will serve as the header.
-        df = df.iloc[2:]
-
-        # Reset the index after removing the rows
-        df.reset_index(drop=True, inplace=True)
+        df = pd.read_csv(csv_url, skiprows=1)  # skip the warning row
+        df.columns = df.iloc[0]  # set correct headers
+        df = df[1:].reset_index(drop=True)  # drop the row with headers and reset index
 
         # Save the DataFrame to JSON
         json_path = "../../datasets/raw/freshqa/freshqa.json"

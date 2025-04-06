@@ -28,6 +28,8 @@ def download() -> None:
         # Add an "id" column as string representation of the row index and insert it at the beginning
         df.insert(0, "id", df.index.astype(str))
 
+        df.rename(columns={"problem": "question"}, inplace=True)
+
         # Convert the DataFrame to a list of dictionaries
         data = df.to_dict(orient="records")
 
