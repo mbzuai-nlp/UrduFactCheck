@@ -36,8 +36,8 @@
         "metadata": "{'topic': 'Art', 'answer_type': 'Person', 'urls': ['https://www.gutenberg.org/files/60408/60408-h/60408-h.htm\\nhttps://en.wikipedia.org/wiki/Achilleion_(Corfu)', 'https://www.gutenberg.org/cache/epub/60408/pg60408-images.html', 'https://archive.org/stream/elizabethempres01burggoog/elizabethempres01burggoog_djvu.txt', 'https://www.habsburger.net/en/chapter/achilleion-corfu-elisabeths-flight-antiquity']}",
         "question": "According to Karl Küchler, what did Empress Elizabeth of Austria's favorite sculpture depict, which was made for her villa Achilleion at Corfu?",
         "answer": "Poet Henrich Heine.",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "کارل کوچلر کے مطابق، آسٹریا کی ملکہ الزبتھ کے لیے ان کے ولا اچیلیئن، کورفو میں بنائی گئی ان کی پسندیدہ مجسمہ کس کو ظاہر کرتا ہے؟",
+        "answer_urdu": "شاعر ہائنرش ہائنے۔"
     },
     {
         "id": "5",
@@ -356,8 +356,8 @@
         "metadata": "{'topic': 'Art', 'answer_type': 'Number', 'urls': ['https://societyillustrators.org/about/history-of-the-society/', 'https://societyillustrators.org/about/history-of-the-society/#:~:text=In%201959%2C%20members%20Bob%20Peak,first%20Illustrators%20Annual%20book%20followed.', 'https://www.nyc-arts.org/organizations/museum-of-american-illustration/']}",
         "question": "How many original artworks were shown in the Society of Illustrators' first \"Annual Exhibition\"?",
         "answer": "350",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "سوسائٹی آف السٹریٹرز کی پہلی \"سالانہ نمائش\" میں کتنی اصل فن پارے دکھائے گئے؟",
+        "answer_urdu": "350"
     },
     {
         "id": "45",
@@ -660,8 +660,8 @@
         "metadata": "{'topic': 'Geography', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/San_Francisco,_Antioquia', 'https://en.wikipedia.org/wiki/San_Francisco,_Antioquia', 'https://www.wikiwand.com/en/San_Francisco%2C_Antioquia', 'https://www.familysearch.org/es/wiki/San_Francisco,_Oriente,_Antioquia,_Colombia_-_Genealog%C3%ADa']}",
         "question": "What year was the municipality of San Francisco, Antioquia, Colombia, founded?",
         "answer": "1830",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "سان فرانسسکو، انٹیوکیا، کولمبیا کی میونسپلٹی کس سال میں قائم کی گئی؟",
+        "answer_urdu": "1830"
     },
     {
         "id": "83",
@@ -716,8 +716,8 @@
         "metadata": "{'topic': 'Video games', 'answer_type': 'Other', 'urls': ['https://liquipedia.net/dota2/The_International/2016', 'https://dota2.fandom.com/wiki/The_International_2016', 'https://www.pcgamesn.com/dota-2/dota-2-patch-688b-offers-final-pre-international-tweaks', 'https://liquipedia.net/dota2/The_International/2016']}",
         "question": "What version of Dota 2 was The International 2016 played on?",
         "answer": "6.88b",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "کون سا ورژن Dota 2 کا تھا، جس پر دی انٹرنیشنل 2016 کھیلا گیا؟",
+        "answer_urdu": "6.88b"
     },
     {
         "id": "90",
@@ -1460,16 +1460,16 @@
         "metadata": "{'topic': 'TV shows', 'answer_type': 'Other', 'urls': ['https://en.wikipedia.org/wiki/List_of_Happy_Valley_episodes#Series_1_(2014)', 'https://www.imdb.com/title/tt3688032/', 'https://en.wikipedia.org/wiki/List_of_Happy_Valley_episodes', 'https://www.express.co.uk/showbiz/tv-radio/1721413/What-happened-Kirsten-McAskill-Happy-Valley']}",
         "question": "In the British drama series Happy Valley, in which season and episode is Kirsten McAskill murdered by Royce?",
         "answer": "Season 1 episode 3",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "برطانوی ڈرامہ سیریز ہیپی ویلی میں، کس موسم اور قسط میں کرسٹن میکاسکل کو رائس کے ہاتھوں قتل کیا جاتا ہے؟",
+        "answer_urdu": "سیزن 1 قسط 3"
     },
     {
         "id": "183",
         "metadata": "{'topic': 'Other', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Harold_Shipman', 'https://en.wikipedia.org/wiki/Harold_Shipman', 'https://www.theguardian.com/uk/2000/feb/01/shipman.health2', 'https://prezi.com/e-mkjdrmne_n/dr-harold-shipman/']}",
         "question": "On what day, month, and year was Harold Shipman married to Primrose May Oxtoby?",
         "answer": "5 November 1966.",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "ہارولڈ شپ مین نے کس دن، ماہ، اور سال میں پریمروز مے اکستوبی سے شادی کی؟",
+        "answer_urdu": "5 نومبر 1966"
     },
     {
         "id": "184",
@@ -1980,8 +1980,8 @@
         "metadata": "{'topic': 'Other', 'answer_type': 'Other', 'urls': ['https://en.wikipedia.org/wiki/Valencia_Bioparc', \"https://bioparcvalencia.es/en/bebe-elefante/#:~:text=BIOPARC%20Valencia's%20elephant%20calf%20is,More%20information%20in%20this%20link.&text=This%20was%20the%20shocking%20%E2%80%9Clive%20birth%E2%80%9D.\", 'https://en.wikipedia.org/wiki/Makena_(elephant)', 'https://www.zooborns.com/zooborns/2022/12/the-bioparc-valencia-elephant-calf-is-named-makena-by-popular-decision.html#google_vignette']}",
         "question": "What was the name of the first elephant born in Valencia Bioparc?",
         "answer": "Makena",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "ویلینشیا بایو پارک میں پیدا ہونے والے پہلے ہاتھی کا کیا نام تھا؟",
+        "answer_urdu": "ماکینا"
     },
     {
         "id": "248",
@@ -1996,8 +1996,8 @@
         "metadata": "{'topic': 'Art', 'answer_type': 'Person', 'urls': ['https://aefestival.gr/festival_events/eleni/?lang=en', 'https://www.ntng.gr/default.aspx?lang=en-GB&page=2&production=53320', 'https://aefestival.gr/festival_events/eleni/?lang=en', 'https://hellenica.fr/externe/PRESS-KIT-ENGLISH-4.4.2022_.pdf']}",
         "question": "Who did the musical composition for the play Helen as presented in the 2022 Athens Epidaurus Festival?",
         "answer": "Angelos Triantafyllou",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "سال 2022 ایتھنز ایپیڈورس فیسٹیول میں پیش کی گئی ڈرامہ 'ہیلیئن' کے لیے موسیقی کی تشکیل کس نے کی؟",
+        "answer_urdu": "انجیلس ٹریانتافلو"
     },
     {
         "id": "250",
@@ -2164,8 +2164,8 @@
         "metadata": "{'topic': 'Video games', 'answer_type': 'Other', 'urls': ['http://darksouls.wikidot.com/classes', 'https://darksouls.wiki.fextralife.com/Warrior', 'https://darksouls.fandom.com/wiki/Warrior', 'https://www.ign.com/wikis/dark-souls/Classes#Warrior']}",
         "question": "In the video game Dark Souls 1 for the PlayStation 3, which starting class has 11 vitality, 13 strength, and starts at soul level 4?",
         "answer": "Warrior",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "ویڈیو گیم ڈارک سولز 1، پلی اسٹیشن 3 کے لیے، میں کون سی شروع ہونے والی کلاس 11 زندگی، 13 طاقت رکھتی ہے، اور روح کی سطح 4 سے شروع ہوتی ہے؟",
+        "answer_urdu": "وریئر"
     },
     {
         "id": "271",
@@ -2356,8 +2356,8 @@
         "metadata": "{'topic': 'Sports', 'answer_type': 'Number', 'urls': ['https://m.cricbuzz.com/live-cricket-scorecard/22509/mi-vs-csk-final-indian-premier-league-2019', 'https://www.espncricinfo.com/series/ipl-2019-1165643/chennai-super-kings-vs-mumbai-indians-final-1181768/full-scorecard', 'https://www.cricbuzz.com/live-cricket-scorecard/22509/mi-vs-csk-final-indian-premier-league-2019', 'https://en.wikipedia.org/wiki/2019_Indian_Premier_League_final']}",
         "question": "How many balls did Dwayne Bravo play in the Indian Premier League 2019 final match between CSK and MI on May 12, 2019?",
         "answer": "15",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "انڈین پریمیر لیگ 2019 کے فائنل میچ میں، جو 12 مئی 2019 کو CSK اور MI کے درمیان تھا، ڈوین براوو نے کتنی گیندیں کھیلیں؟",
+        "answer_urdu": "15"
     },
     {
         "id": "295",
@@ -2668,8 +2668,8 @@
         "metadata": "{'topic': 'History', 'answer_type': 'Person', 'urls': ['https://reddeer.ca/city-government/mayor-and-city-councillors/past-mayor-and-councillors/past-mayors/', 'https://www.reddeer.ca/city-government/mayor-and-city-councillors/past-mayor-and-councillors/past-mayors/', 'https://www.google.com/books/edition/Canadian_Almanac_Directory/LSfZAAAAMAAJ?hl=en&gbpv=1&dq=%22North%20Red%20Deer%22%20%22A.M.%20Donnelly%22&pg=PA327&printsec=frontcover', 'https://www.google.com/books/edition/Municipal_Canada/k6XlAAAAMAAJ?hl=en&gbpv=1&dq=%22North%20Red%20Deer%22%20%22A.M.%20Donnelly%22&pg=PA32&printsec=frontcover']}",
         "question": "What was the name of the man who served as Reeve of North Red Deer, Alberta, between 1924 and 1925?",
         "answer": "A.M. Donnelly.",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "1924 اور 1925 کے درمیان نارتھ ریڈ ڈیئر، البرٹا کے ریوف کے طور پر خدمت کرنے والے شخص کا کیا نام تھا؟",
+        "answer_urdu": "اے۔ ایم۔ ڈونلی۔"
     },
     {
         "id": "334",
@@ -3020,8 +3020,8 @@
         "metadata": "{'topic': 'Politics', 'answer_type': 'Person', 'urls': ['https://en.wikipedia.org/wiki/Paola_Severino', 'https://en.wikipedia.org/wiki/Paola_Severino', 'http://www.iitaly.org/magazine/focus/facts-stories/article/italian-minister-justice-paola-severino-visit-us-next-week', 'http://www.iitaly.org/printpdf/37000']}",
         "question": "Who was the first woman appointed Minister of Justice in Italian history?",
         "answer": "Paola Severino",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "اطالوی تاریخ میں وزیر انصاف کے عہدے پر فائز ہونے والی پہلی خاتون کون تھیں؟",
+        "answer_urdu": "پاؤلا سیویری نو"
     },
     {
         "id": "378",
@@ -3796,8 +3796,8 @@
         "metadata": "{'topic': 'TV shows', 'answer_type': 'Date', 'urls': ['https://www.onlinebigbrother.com/big-brother-compendium/big-brother-seasons/big-brother-2/', 'https://en.wikipedia.org/wiki/Big_Brother_(American_TV_series)', 'https://variety.com/2020/tv/features/big-brother-flashback-to-season-1-format-1234691132/', 'https://www.onlinebigbrother.com/big-brother-compendium/big-brother-seasons/big-brother-2/']}",
         "question": "What was the first season in which the number of houseguests for the American version of \"Big Brother\" increased?",
         "answer": "2",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "امریکی ورژن 'بگ برادر' کا وہ کون سا پہلا سیزن تھا جس میں مکان میں رہنے والے لوگوں کی تعداد میں اضافہ ہوا؟",
+        "answer_urdu": "2"
     },
     {
         "id": "475",
@@ -4052,8 +4052,8 @@
         "metadata": "{'topic': 'TV shows', 'answer_type': 'Person', 'urls': ['https://severance-tv.fandom.com/wiki/Myrtle_Eagan', 'https://severance-tv.fandom.com/wiki/Myrtle_Eagan#:~:text=Myrtle%20is%20the%20daughter%20of,up%20with%20her%20Myrtle%20Eagan.', 'https://severance.wiki/myrtle_eagan?s[]=myrtle', 'https://severance.wiki/kier_eagan']}",
         "question": "Who are Myrtle Eagan's parents in the show \"Severance\"?",
         "answer": "Kier and Imogene Eagan",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "شو \"سیورنس\" میں مرٹل ایگن کے والدین کون ہیں؟",
+        "answer_urdu": "کیر اور ایموجین ایگن"
     },
     {
         "id": "507",
@@ -5636,8 +5636,8 @@
         "metadata": "{'topic': 'Music', 'answer_type': 'Other', 'urls': ['https://en.wikipedia.org/wiki/ArcTanGent_Festival', 'https://circuitsweet.co.uk/2013/02/arctangent-announce-headliner%E2%80%8F/', 'https://www.efestivals.co.uk/festivals/arctangent/2013', 'https://circuitsweet.co.uk/2013/01/arctangent-festival-announces-first-bands%E2%80%8F/']}",
         "question": "Who was the Friday night headliner of ArcTanGent 2013 on the Arc stage?",
         "answer": "65daysofstatic",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "سال 2013 میں آرک ٹینجنٹ کے آرک اسٹیج پر جمعہ کی رات کو کون مرکزی ہیڈ لائنر تھا؟",
+        "answer_urdu": "65daysofstatic"
     },
     {
         "id": "705",
@@ -6612,8 +6612,8 @@
         "metadata": "{'topic': 'Politics', 'answer_type': 'Other', 'urls': ['https://en.wikipedia.org/wiki/Jitendra_Kumar_Maheshwari', 'https://www.scobserver.in/judges/jitender-kumar-maheshwari/', 'https://www.scconline.com/blog/post/2022/06/29/know-thy-judge-justice-jitendra-kumar-maheshwari/', 'https://www.scconline.com/blog/post/2023/06/29/know-thy-judge-justice-jitendra-kumar-maheshwari-legal-news/']}",
         "question": "What was Jitendra Kumar Maheshwari's position just before being appointed as a judge of the Supreme Court of India?",
         "answer": "Chief Justice of the Sikkim High Court",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "بھارت کی سپریم کورٹ کے جج مقرر ہونے سے پہلے جیتندر کمار مہیشوری کا عہدہ کیا تھا؟",
+        "answer_urdu": "سکم ہائی کورٹ کے چیف جسٹس"
     },
     {
         "id": "827",
@@ -6932,8 +6932,8 @@
         "metadata": "{'topic': 'Geography', 'answer_type': 'Place', 'urls': ['https://testbook.com/question-answer/which-place-is-now-known-as-white-waterrsq--5b45e7197b03f80c44e100da', 'https://en.wikipedia.org/wiki/Siachen_Glacier#:~:text=The%20Siachen%20Glacier%20lies%20immediately,called%20the%20%22Third%20Pole%22.', 'https://testbook.com/question-answer/which-place-is-now-known-as-white-waterrsq--5b45e7197b03f80c44e100da', 'https://www.britannica.com/place/Siachen-Glacier']}",
         "question": "Which glacier is known as the \"Third Pole\"?",
         "answer": "The Siachen Glacier",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "کون سا گلیشیر 'تیسرا قطب' کے نام سے جانا جاتا ہے؟",
+        "answer_urdu": "سیاچین گلیشیر"
     },
     {
         "id": "867",
@@ -6964,8 +6964,8 @@
         "metadata": "{'topic': 'Politics', 'answer_type': 'Person', 'urls': ['https://en.wikipedia.org/wiki/David_Maraga', 'https://en.wikipedia.org/wiki/Chief_Justice_of_Kenya', 'https://judiciary.go.ke/chief-justices/', 'https://en.wikipedia.org/wiki/David_Maraga']}",
         "question": "Who was the 14th Chief Justice of Kenya?",
         "answer": "David Kenani Maraga",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "کینیا کے 14ویں چیف جسٹس کون تھے؟",
+        "answer_urdu": "ڈیوڈ کینانی ماراگا"
     },
     {
         "id": "871",
@@ -7500,8 +7500,8 @@
         "metadata": "{'topic': 'Sports', 'answer_type': 'Number', 'urls': ['https://www.uefa.com/uefachampionsleague/match/2015785--man-city-vs-real-madrid/', 'https://www.premierleague.com/match/14035', 'https://www.uefa.com/uefachampionsleague/match/2015785--man-city-vs-real-madrid/', 'https://www.espn.in/football/commentary/_/gameId/447233']}",
         "question": "Within plus or minus one minute, when was Pepe given a yellow card in the Champions League semi-final match between Real Madrid and Man City in 2016?",
         "answer": "24th minute",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "2016 کے UEFA چیمپئنز لیگ کے سیمی فائنل میچ میں ریال میڈرڈ اور مانچسٹر سٹی کے درمیان پے پے کو زرد کارڈ کس وقت دیا گیا، ایک منٹ کے فرق کے ساتھ؟",
+        "answer_urdu": "24 ویں منٹ"
     },
     {
         "id": "938",
@@ -7868,8 +7868,8 @@
         "metadata": "{'topic': 'Video games', 'answer_type': 'Number', 'urls': ['https://www.bricklink.com/v2/catalog/catalogitem.page?P=54093#T=C', 'https://www.bricklink.com/v2/catalog/catalogitem.page?P=54093#T=C', 'https://bricker.info/parts/54093/', 'https://www.brickowl.com/catalog/lego-white-wing-20-x-56-with-cutout-no-holes-54093']}",
         "question": "What are the stud dimensions of the LEGO part with ID 54093?",
         "answer": "20 x 56 in studs",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "LEGO پارٹ جس کا ID 54093 ہے، اس کے اسٹڈ کے ابعاد کیا ہیں؟",
+        "answer_urdu": "20 x 56 اسٹڈز میں"
     },
     {
         "id": "984",
@@ -8068,8 +8068,8 @@
         "metadata": "{'topic': 'Geography', 'answer_type': 'Person', 'urls': ['https://en.wikipedia.org/wiki/Cucaita', 'https://en.wikipedia.org/wiki/Cucaita', 'https://boyenchivaradiando.wixsite.com/boyenchiva/cucaita', 'https://caminosangil.blogspot.com/2013/01/cucaita-boyaca-colombia-provincia.html']}",
         "question": "Who founded the municipality of Cucaita, Boyacá, Colombia?",
         "answer": "friar Juan de Los Barrios",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "ککیتا، بویاکا، کولمبیا کی میونسپلٹی کی بنیاد کس نے رکھی؟",
+        "answer_urdu": "فریئر خوان دے لوس باریوس"
     },
     {
         "id": "1009",
@@ -8260,8 +8260,8 @@
         "metadata": "{'topic': 'Other', 'answer_type': 'Place', 'urls': ['https://en.wikipedia.org/wiki/Judith_Hemmendinger', 'https://en.wikipedia.org/wiki/Judith_Hemmendinger', 'https://books.google.com/books?id=vIcdOOt5p-gC&pg=PA19#v=onepage&q=bar-ilan&f=false']}",
         "question": "From which Israeli university did Judith Feist Hemmendinger receive her master's degree?",
         "answer": "Bar-Ilan University",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "یہودت فیئسٹ ہیمانڈینگر نے کس اسرائیلی یونیورسٹی سے ماسٹرز کی ڈگری حاصل کی؟",
+        "answer_urdu": "بار-ایلان یونیورسٹی"
     },
     {
         "id": "1033",
@@ -9180,8 +9180,8 @@
         "metadata": "{'topic': 'Geography', 'answer_type': 'Place', 'urls': ['https://en.wikipedia.org/wiki/Yarigu%C3%ADes_Airport', 'https://aviapages.com/airport/skej/', 'https://www.airportdata.com/search-data/airport-details/icao/skej', 'https://skyvector.com/airport/SKEJ/Yariguies-Airport']}",
         "question": "What's the name of the airport identified with \"SKEJ\"?",
         "answer": "Yariguies, Barrancabermeja, Colombia",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "جس ہوائی اڈے کی شناخت \"SKEJ\" سے ہوتی ہے، اس کا نام کیا ہے؟",
+        "answer_urdu": "یاریگئیز، بارانکابیرمیجا، کولمبیا"
     },
     {
         "id": "1148",
@@ -9372,8 +9372,8 @@
         "metadata": "{'topic': 'Politics', 'answer_type': 'Place', 'urls': ['https://en.wikipedia.org/wiki/Julian_Bradley_(politician)', 'https://en.wikipedia.org/wiki/Julian_Bradley_(politician)', 'https://ballotpedia.org/Julian_Bradley', 'https://julianbradley.org/about/']}",
         "question": "In which city was Marc Julian Bradley, the first black Republican to serve in the Wisconsin Senate and who made his professional wrestling debut in 1999, born?",
         "answer": "Baltimore, Maryland",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "مارک جولین بریڈلی، جو وسکونسن سینٹ میں پہلے سیاہ فام ریپبلکن تھے اور جنہوں نے 1999 میں پروفیشنل ریسلنگ میں ڈیبیو کیا، کس شہر میں پیدا ہوئے؟",
+        "answer_urdu": "بالٹی مور، میری لینڈ"
     },
     {
         "id": "1172",
@@ -9996,8 +9996,8 @@
         "metadata": "{'topic': 'TV shows', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Penny_Dreadful_(TV_series)#Production_and_development', 'https://en.wikipedia.org/wiki/Penny_Dreadful_(TV_series)', 'https://www.imdb.com/title/tt2628232/awards/']}",
         "question": "What was the first award that Penny Dreadful won?",
         "answer": "2014 Critics' Choice Television Award for Most Exciting New Series",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "پہلا ایوارڈ کیا تھا جو پینی ڈریڈفیل نے جیتا؟",
+        "answer_urdu": "سال 2014 میں کریٹکس چوائس ٹیلی ویژن ایوارڈ فار موسٹ ایکسائٹنگ نیو سیریز"
     },
     {
         "id": "1250",
@@ -10124,8 +10124,8 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Evi_Nemeth#Awards', 'https://www.usenix.org/about/awards/lisa/outstanding', 'https://en.wikipedia.org/wiki/Evi_Nemeth']}",
         "question": "In what year did Evi Nemeth win the USENIX/LISA Lifetime Achievement Award?",
         "answer": "1995",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "ایوی نیمیتھ نے یو سینکس/لیزا لائف ٹائم اچیومنٹ ایوارڈ کس سال جیتا؟",
+        "answer_urdu": "1995"
     },
     {
         "id": "1266",
@@ -10348,8 +10348,8 @@
         "metadata": "{'topic': 'Politics', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Elizabeth_Esteve-Coll#', 'https://www.uea.ac.uk/about/university-information/university-governance/academic-calendar/former-principal-officers', 'https://en.wikipedia.org/wiki/Elizabeth_Esteve-Coll', 'https://en.wikipedia.org/wiki/University_of_East_Anglia']}",
         "question": "Between which years was Elizabeth Esteve-Coll Vice-Chancellor of the University of East Anglia?",
         "answer": "1995-1997",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "الزبتھ ایسٹیو-کول کب سے کب تک یونیورسٹی آف ایسٹ اینگلیا کی وائس چانسلر تھیں؟",
+        "answer_urdu": "1995-1997"
     },
     {
         "id": "1294",
@@ -10596,8 +10596,8 @@
         "metadata": "{'topic': 'Other', 'answer_type': 'Place', 'urls': ['https://en.wikipedia.org/wiki/Ritesh_Batra', 'https://en.wikipedia.org/wiki/Ritesh_Batra', 'https://www.globalindian.com/story/filmmaker/from-mumbai-to-new-york-how-bafta-nominated-director-ritesh-batra-took-over-hollywood/', 'https://jodytinsight.s3.rbx.io.cloud.ovh.net/ritesh-batra-height-weight-family-facts-spouse.html']}",
         "question": "Which university did Ritesh Batra attend but drop out of?",
         "answer": "New York University",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "ریتیش بترا نے کون سی یونیورسٹی میں داخلہ لیا تھا لیکن چھوڑ دیا؟",
+        "answer_urdu": "نیو یارک یونیورسٹی"
     },
     {
         "id": "1325",
@@ -10684,8 +10684,8 @@
         "metadata": "{'topic': 'Music', 'answer_type': 'Other', 'urls': ['https://en.wikipedia.org/wiki/Rewind_(Johnny_Rivers_album)', 'https://en.wikipedia.org/wiki/Rewind_(Johnny_Rivers_album)#Side_two', 'https://www.discogs.com/release/13199258-Johnny-Rivers-Rewind', 'https://rateyourmusic.com/release/album/johnny_rivers/rewind/']}",
         "question": "What is the second song on Side Two of the album Rewind by Johnny Rivers?",
         "answer": "\"For Emily, Whenever I May Find Her\"",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "جانی ریورز کے البم \"ریوائنڈ\" کی سائیڈ ٹو پر دوسرا گانا کون سا ہے؟",
+        "answer_urdu": "\"فور ایملی، وینیور آئی مے فائنڈ ہر\""
     },
     {
         "id": "1336",
@@ -11236,8 +11236,8 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Date', 'urls': ['https://www.scientificamerican.com/article/tissue-engineering-the-challenges-a/', 'https://www.semanticscholar.org/paper/Tissue-engineering%3A-the-challenges-ahead.-Langer-Vacanti/e3942859fc3dc89b06b500bac67822e428ba96c2#related-papers', 'https://www.scientificamerican.com/article/tissue-engineering-the-challenges-a/', 'https://doi.org/10.1038/scientificamerican0499-86']}",
         "question": "On which day, month, and year was the paper \"Tissue Engineering: The Challenges Ahead\" by Robert Langer published?",
         "answer": " April 1, 1999",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "رابرٹ لینگر کے مقالے 'ٹشو انجینئرنگ: سامنے آنے والے چیلنجز' کو کس دن، مہینے، اور سال میں شائع کیا گیا؟",
+        "answer_urdu": "یکم اپریل 1999"
     },
     {
         "id": "1405",
@@ -11676,8 +11676,8 @@
         "metadata": "{'topic': 'Politics', 'answer_type': 'Person', 'urls': ['https://en.wikipedia.org/wiki/Farooq_Abdullah', \"https://en.wikipedia.org/wiki/Farooq_Abdullah#:~:text=Subsequently%2C%20Farooq%20Abdullah%20resigned%20in,the%20state's%20assembly%20was%20dismissed.\", 'http://www.uniindia.com/news/states/j-k-had-13-cms-eight-spells-of-governor-s-rule/1266190.html', 'https://en.wikipedia.org/wiki/Exodus_of_Kashmiri_Hindus']}",
         "question": "What was the name of the governor in Kashmir Valley who was appointed after the resignation of Dr. Farooq Abdullah?",
         "answer": "Jagmohan.",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "کشمیر وادی میں ڈاکٹر فاروق عبداللہ کے استعفیٰ کے بعد کس گورنر کو مقرر کیا گیا؟",
+        "answer_urdu": "جگموہن"
     },
     {
         "id": "1460",
@@ -11788,8 +11788,8 @@
         "metadata": "{'topic': 'Art', 'answer_type': 'Person', 'urls': ['https://www.nts.org.uk/visit/places/haddo-house', 'https://en.wikipedia.org/wiki/Haddo_House', 'https://www.nts.org.uk/visit/places/haddo-house#:~:text=Admire%20the%20extensive%20art%20collection,acclaimed%20Victorian%20artist%20James%20Giles.', 'https://visithaddo.com/about-haddo/haddo-house/']}",
         "question": "Haddo House, designed by William Adam, contains a collection of 85 paintings by which artist?",
         "answer": "James Giles",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "ہیڈو ہاؤس، جو ولیم ایڈم کے زیرِ ڈیزائن ہے، میں 85 مصوریوں کا مجموعہ کس مصور کے ذریعہ تیار شدہ ہے؟",
+        "answer_urdu": "جیمز جائلز"
     },
     {
         "id": "1474",
@@ -12540,8 +12540,8 @@
         "metadata": "{'topic': 'Other', 'answer_type': 'Person', 'urls': ['https://comicvine.gamespot.com/invisible-hood/4005-76300/', 'https://en.wikipedia.org/wiki/Ray_(DC_Comics)#Stan_Silver', 'https://comicvine.gamespot.com/invisible-hood/4005-76300/', 'https://en.wikipedia.org/wiki/Ray_(DC_Comics)#Stan_Silver']}",
         "question": "Who killed the second Invisible Hood?",
         "answer": "Stan Silver",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "دوسرے انویزیبل ہُڈ کو کس نے قتل کیا؟",
+        "answer_urdu": "اسٹین سلور"
     },
     {
         "id": "1568",
@@ -13372,8 +13372,8 @@
         "metadata": "{'topic': 'Sports', 'answer_type': 'Number', 'urls': ['https://en.wikipedia.org/wiki/Olga_Kharlan#2023%E2%80%93present;_World_Championships', 'https://en.wikipedia.org/wiki/Olga_Kharlan', 'https://www.gettyimages.in/detail/news-photo/ukraines-olga-kharlan-fights-with-south-koreas-ji-yeon-kim-news-photo/175873383']}",
         "question": "What was the final score between Olga Kharlan and Kim Ji-yeon at the 2013 World Championships?",
         "answer": "Olga Kharlan - Kim Ji-yeon: 15–14",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "سال 2013 کے ورلڈ چیمپئن شپ میں اولگا خارلان اور کم جی-یون کے درمیان آخری سکور کیا تھا؟",
+        "answer_urdu": "اولگا خارلان - کم جی-یون: 15–14"
     },
     {
         "id": "1672",
@@ -14956,8 +14956,8 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Number', 'urls': ['https://en.wikipedia.org/wiki/Pratt_%26_Whitney_R-1340_Wasp', 'http://powerplants.warbirdsresourcegroup.org/unitedstates_powerplants_P-W_R-1340_Wasp.html', 'https://en.wikipedia.org/wiki/Pratt_%26_Whitney_R-1340_Wasp']}",
         "question": "What is the horsepower of the Pratt & Whitney R-1340-30 Wasp?",
         "answer": "550 hp",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "پرٹ اینڈ وٹنی آر-1340-30 واسپ کی ہارس پاور کیا ہے؟",
+        "answer_urdu": "550 ایچ پی"
     },
     {
         "id": "1870",
@@ -15260,8 +15260,8 @@
         "metadata": "{'topic': 'TV shows', 'answer_type': 'Number', 'urls': ['https://en.wikipedia.org/wiki/Ginnifer_Goodwin#Personal_life', 'https://www.imdb.com/title/tt1062454/fullcredits/?ref_=tt_cl_sm', 'https://en.wikipedia.org/wiki/Ginnifer_Goodwin', 'https://www.wattpad.com/595928364-face-claims-part-iii-ginnifer-goodwin']}",
         "question": "How many episodes was Ginnifer Goodwin in \"Big Love: In the Beginning\"?",
         "answer": "2",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "گنیفر گوڈون کتنے اقساط میں 'بگ لو: ان دی بیگننگ' میں تھیں؟",
+        "answer_urdu": "2"
     },
     {
         "id": "1908",
@@ -15308,16 +15308,16 @@
         "metadata": "{'topic': 'Other', 'answer_type': 'Other', 'urls': ['https://mathshistory.st-andrews.ac.uk/Biographies/Hironaka/', \"https://mathshistory.st-andrews.ac.uk/Biographies/Hironaka/#:~:text=She%20obtained%20an%20M.A.,%2C%20society%2C%20and%20women's%20issues.\", 'https://en.wikipedia.org/wiki/Wakako_Hironaka']}",
         "question": "What type of M.A. did Heisuke Hironaka's wife, Wakako, obtain from Brandeis University Graduate School in 1964?",
         "answer": "Anthropology",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "سال 1964 میں برینڈائس یونیورسٹی گریجویٹ اسکول سے ہیسوکے ہیرو ناکا کی بیوی واکاکو نے کس قسم کا ایم اے حاصل کیا؟",
+        "answer_urdu": "انتھروپولوجی"
     },
     {
         "id": "1914",
         "metadata": "{'topic': 'Music', 'answer_type': 'Other', 'urls': ['https://getsongkey.com/song/god-is-good/B7E0N', 'https://getsongkey.com/song/god-is-good/B7E0N', 'https://www.praisecharts.com/song-lists/top-songs-for-your-worship-choir']}",
         "question": "What key signature was \"God is Good\" by Don Moen composed in?",
         "answer": "D",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "ڈان موئن کے گانے 'گاڈ از گڈ' کو کس کی سِگنیچر میں ترتیب دیا گیا تھا؟",
+        "answer_urdu": "D"
     },
     {
         "id": "1915",
@@ -16100,8 +16100,8 @@
         "metadata": "{'topic': 'Other', 'answer_type': 'Person', 'urls': ['https://en.wikipedia.org/wiki/Rana_Ayyub', 'https://en.wikipedia.org/wiki/Rana_Ayyub', 'https://starsunfolded.com/rana-ayyub/', 'https://www.goodreads.com/author/show/15271424.Rana_Ayyub']}",
         "question": "Give the full name of Rana Ayyub's father (an Indian journalist).",
         "answer": "Mohammad Ayyub Waqif",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "بھارتی صحافی رانا ایوب کے والد کا پورا نام بتائیں۔",
+        "answer_urdu": "محمد ایوب واقف"
     },
     {
         "id": "2013",
@@ -16244,8 +16244,8 @@
         "metadata": "{'topic': 'Politics', 'answer_type': 'Person', 'urls': ['https://en.wikipedia.org/wiki/Patrice_Lumumba', 'https://en.wikipedia.org/wiki/Patrice_Lumumba', 'https://www.sahistory.org.za/people/patrice-emery-lumumba']}",
         "question": "What was the full name of the first Prime Minister of Congo?",
         "answer": "Patrice Émery Lumumba.",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "کانگو کے پہلے وزیر اعظم کا مکمل نام کیا تھا؟",
+        "answer_urdu": "پٹریس ایمیری لوممبا۔"
     },
     {
         "id": "2031",
@@ -17428,8 +17428,8 @@
         "metadata": "{'topic': 'Art', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Corbin_Bleu#Personal_life', 'https://www.theatermania.com/news/photo-flash-corbin-bleu-receives-portrait-at-tonys-di-napoli_25819/', 'https://en.wikipedia.org/wiki/Corbin_Bleu#:~:text=On%20March%2016%2C%202010%2C%20he,began%20dating%20actress%20Sasha%20Clements.', 'https://www.gettyimages.com/detail/news-photo/actor-corbin-bleu-attends-his-portrait-unveiling-at-tonys-news-photo/97792717']}",
         "question": "On what day, month, and year was the actor and singer Corbin Bleu's portrait added to the Broadway Wall of Fame at Tony's Di Napoli restaurant in New York?",
         "answer": "March 16, 2010",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "اداکار اور گلوکار کوربن بلیو کی تصویر کو نیویارک کے ٹونی ڈی نیپولی ریستوران میں براڈوے وال آف فیم میں کس دن، مہینے، اور سال کو شامل کیا گیا؟",
+        "answer_urdu": "16 مارچ 2010"
     },
     {
         "id": "2179",
@@ -17636,8 +17636,8 @@
         "metadata": "{'topic': 'Other', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Ria_Vandervis', 'https://www.imdb.com/name/nm2562820/', 'https://en.wikipedia.org/wiki/Ria_Vandervis', 'https://www.amazon.com/prime-video/actor/Ria-Vandervis/amzn1.dv.gti.41d64aa4-3783-4b23-8039-655ccb4f3fa3/#:~:text=Ria%20Vandervis%20was%20born%20on,to%20Chris%20Ashton%20since%202012.']}",
         "question": "What day, month, and year was the New Zealand actress Ria Vandervis born?",
         "answer": "5 July 1984",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "نیوزی لینڈ کی اداکارہ ریا وینڈرویس کی پیدائش کس دن، ماہ، اور سال میں ہوئی تھی؟",
+        "answer_urdu": "5 جولائی 1984"
     },
     {
         "id": "2205",
@@ -17756,8 +17756,8 @@
         "metadata": "{'topic': 'Music', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Jackie_(Ciara_album)#Jackie_Tour', 'https://en.wikipedia.org/wiki/Jackie_(Ciara_album)', 'https://concerts.fandom.com/wiki/Jackie_Tour', 'https://www.nola.com/entertainment_life/music/music-in-new-orleans-for-tuesday-may-19-2015-ciara-at-the-joy/article_816a2679-5b0b-575e-a148-01e3d59de1c4.html']}",
         "question": "What month, day, and year did Ciara perform at the Joy Theater in New Orleans for her Jackie Tour?",
         "answer": "May 19, 2015",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "سیارا نے اپنی جیکی ٹور کے لیے نیو اورلینز کے جوی تھیٹر میں کس مہینے، تاریخ، اور سال میں پرفارم کیا؟",
+        "answer_urdu": "19 مئی 2015"
     },
     {
         "id": "2220",
@@ -17988,8 +17988,8 @@
         "metadata": "{'topic': 'Other', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Winnipeg_Free_Press', 'https://en.wikipedia.org/wiki/Winnipeg_Free_Press', 'https://www.cbc.ca/news/canada/manitoba/free-press-eyes-end-to-sunday-edition-1.848191']}",
         "question": "On what day, month, and year did the Winnipeg Free Press cease publishing its regular Sunday edition?",
         "answer": "November 1, 2009",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "ونپیگ فری پریس نے اپنی معمول کی اتوار کی اشاعت کب بند کی تھی؟",
+        "answer_urdu": "یکم نومبر 2009"
     },
     {
         "id": "2249",
@@ -18188,8 +18188,8 @@
         "metadata": "{'topic': 'Art', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Marina_Abramovi%C4%87#Rhythm_10,_1973', 'https://www.lissongallery.com/about/confession#:~:text=Marina%20Abramovi%C4%87%2C%201973&text=Rhythm%2010%20was%20first%20performed,part%20of%20her%20Rhythm%20series.', 'https://en.wikipedia.org/wiki/Marina_Abramovi%C4%87', 'https://www.royalscottishacademy.org/artists/1109-marina-abramovic-hrsa/biography/']}",
         "question": "What year did Marina Abramović have her first performance in Edinburgh?",
         "answer": "1973",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "مارینا ابرامووچ نے ایڈنبرگ میں اپنی پہلی پرفارمنس کس سال میں پیش کی؟",
+        "answer_urdu": "1973"
     },
     {
         "id": "2274",
@@ -18548,8 +18548,8 @@
         "metadata": "{'topic': 'Politics', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Somnath_Bharti', 'https://en.wikipedia.org/wiki/Somnath_Bharti#Activism', 'https://www.elections.in/political-leaders/somnath-bharti.html', 'https://somnathbharti.com/bio/early-life-and-background/']}",
         "question": "In which month and year was Somnath Bharti involved in the campaign against Kapil Sibal's alleged interference in the Joint Entrance Examination process for admission to the Indian Institutes of Technology?",
         "answer": " June 2012",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "سومناتھ بھارتی کس ماہ اور سال میں کپِل سبل کی مبینہ مداخلت کے خلاف بھارتی ادارہ برائے انجینئرنگ میں داخلے کے مشترکہ امتحان کے عمل میں مہم میں شامل ہوئے؟",
+        "answer_urdu": "جون 2012"
     },
     {
         "id": "2319",
@@ -18836,8 +18836,8 @@
         "metadata": "{'topic': 'Video games', 'answer_type': 'Other', 'urls': ['https://terraria.wiki.gg/wiki/Spectre_Pickaxe', 'https://terraria.wiki.gg/wiki/Spectre_Pickaxe', 'https://forums.terraria.org/index.php?threads/terraria-labor-of-love-is-out-now.114357/#post-2765133']}",
         "question": "What patch reduced the Spectre Pickaxe's mining speed from 10 to 8 in Terraria?",
         "answer": "1.4.4",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "ٹیریریا میں اسپیکٹر پِک ایکس کی مائننگ کی رفتار کو 10 سے 8 کرنے والا پیچ کون سا تھا؟",
+        "answer_urdu": "1.4.4"
     },
     {
         "id": "2355",
@@ -19588,8 +19588,8 @@
         "metadata": "{'topic': 'Other', 'answer_type': 'Date', 'urls': ['https://fatimasydow.co.za/2023/12/19/60304/', 'https://fatimasydow.co.za/2023/12/19/60304/#:~:text=Fatima%20Sydow%2C%20a%20culinary%20luminary,peeling%20potatoes%2C%20and%20cutting%20onions.', 'https://fatimasydow.co.za/2023/12/19/60304/', 'https://www.sanews.gov.za/south-africa/mec-marais-mourns-death-celebrity-cook-fatima-sydow']}",
         "question": "On what day, month, and year was the famous Cape Malay chef and author Fatima Sydow born?",
         "answer": "November 12, 1973.",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "مشہور کیپ ملے شیف اور مصنفہ فاطمہ سیداؤ کس دن، مہینے اور سال میں پیدا ہوئیں؟",
+        "answer_urdu": "12 نومبر 1973"
     },
     {
         "id": "2449",
@@ -19644,8 +19644,8 @@
         "metadata": "{'topic': 'Sports', 'answer_type': 'Number', 'urls': ['https://m.cricbuzz.com/live-cricket-scorecard/22397/kkr-vs-srh-2nd-match-indian-premier-league-2019', 'https://www.espncricinfo.com/series/ipl-2019-1165643/kolkata-knight-riders-vs-sunrisers-hyderabad-2nd-match-1175357/full-scorecard\\n', 'https://sports.ndtv.com/cricket/kkr-vs-srh-scorecard-live-cricket-score-ipl-2019-match-2-krsh03242019189311', 'https://m.cricbuzz.com/live-cricket-scorecard/22397/kkr-vs-srh-2nd-match-indian-premier-league-2019']}",
         "question": "How many balls did Manish Pandey play in the 2019 IPL match between KKR and SRH on March 24, 2019?",
         "answer": "5",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "24 مارچ 2019 کو KKR اور SRH کے درمیان 2019 آئی پی ایل کے میچ میں منیش پانڈے نے کتنی گیندیں کھیلیں؟",
+        "answer_urdu": "5"
     },
     {
         "id": "2456",
@@ -20292,8 +20292,8 @@
         "metadata": "{'topic': 'Sports', 'answer_type': 'Number', 'urls': ['https://en.wikipedia.org/wiki/Italy_at_the_1964_Winter_Olympics', 'https://olympics.com/en/olympic-games/innsbruck-1964/medals', 'https://en.wikipedia.org/wiki/Italy_at_the_1964_Winter_Olympics', 'https://www.olympedia.org/editions/37']}",
         "question": "At the 1964 Winter Olympics, how many medals did Italy win and what were the types of those medals?",
         "answer": "4. 1 silver, 3 bronze.",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "سال 1964 کے موسم سرما کے اولمپکس میں اٹلی نے کتنے تمغے جیتے اور ان تمغوں کی اقسام کیا تھیں؟",
+        "answer_urdu": "4۔ 1 چاندی، 3 کانسی۔"
     },
     {
         "id": "2537",
@@ -20372,8 +20372,8 @@
         "metadata": "{'topic': 'History', 'answer_type': 'Other', 'urls': ['https://en.wikipedia.org/wiki/James_Murray_(lexicographer)', 'https://en.wikipedia.org/wiki/James_Murray_(lexicographer)#:~:text=In%201861%2C%20Murray%20met%20a,tuberculosis%2C%20then%20known%20as%20consumption.', 'https://www.findagrave.com/memorial/16764041/james-augustus_henry-murray', 'https://accrediteddrugtesting.com/in-home-drug-testing-murray-id/']}",
         "question": "What is the name of the illness, as it was known at that time, from which Anna, the daughter of Sir James Augustus Henry Murray, the primary editor of the Oxford English Dictionary from 1879, died?",
         "answer": "Consumption",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "اس بیماری کا نام کیا تھا، جیسا کہ اس وقت اسے جانا جاتا تھا، جس سے سر جیمز آگسٹس ہنری مرے کی بیٹی اینا، جو آکسفورڈ انگلش ڈکشنری کے 1879 سے بنیادی مدیر تھے، فوت ہوئیں؟",
+        "answer_urdu": "کنزمپشن"
     },
     {
         "id": "2547",
@@ -20748,8 +20748,8 @@
         "metadata": "{'topic': 'Art', 'answer_type': 'Other', 'urls': ['https://en.wikipedia.org/wiki/Zanele_Muholi#Group_exhibitions', 'https://archive.stevenson.info/exhibitions/muholi/being.htm', 'https://www.artnet.com/artists/zanele-muholi/biography', 'https://www.blackpast.org/global-african-history/muholi-zanele-1972/']}",
         "question": "What fellowship was Zanele Muholi awarded in 2006?",
         "answer": "BHP Billiton/Wits University Visual Arts Fellowship",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "سال 2006 میں زنیلے مہولی کو کس فیلوشپ سے نوازا گیا؟",
+        "answer_urdu": "بی ایچ پی بلٹن/ وِٹس یونیورسٹی وِژوئل آرٹس فیلوشپ"
     },
     {
         "id": "2594",
@@ -21396,8 +21396,8 @@
         "metadata": "{'topic': 'Sports', 'answer_type': 'Number', 'urls': ['https://www.chessgames.com/perl/chess.pl?tid=98367&kpage=45', 'https://en.wikipedia.org/wiki/Tata_Steel_Chess_Tournament_2020', 'https://www.chessgames.com/perl/chess.pl?tid=98367', 'https://www.chess.com/events/2020-tata-steel-masters/results']}",
         "question": "What was Yangyi Yu's score in the 2020 Tata Steel Masters?",
         "answer": "4.5/13",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "یانگی یو کا درجہ 2020 کے Tata Steel Masters میں کیا تھا؟",
+        "answer_urdu": "4.5/13"
     },
     {
         "id": "2675",
@@ -21796,8 +21796,8 @@
         "metadata": "{'topic': 'TV shows', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Love_Is_Blind_season_2', 'https://ca.movies.yahoo.com/news/love-blind-iyanna-mcneely-jarrette-175115724.html', 'https://en.wikipedia.org/wiki/Love_Is_Blind_season_2#:~:text=Season%20summary,-Couples&text=Married%20in%20June%202021%3B%20the,separation%20on%20August%2017%2C%202022.', 'https://www.womenshealthmag.com/life/a39047576/are-iyanna-mcneely-jarrette-jones-still-together-love-is-blind-season-2/']}",
         "question": "In what month, date, and year did Jarrette Jones from the American version of \"Love Is Blind\" Season 2 announce his separation?",
         "answer": "August 17th, 2022",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "امریکن ورژن کے \"لوو اِز بلائنڈ\" سیزن 2 کے جیریٹ جونز نے اپنی علیحدگی کا اعلان کس تاریخ، مہینے اور سال میں کیا؟",
+        "answer_urdu": "17 اگست 2022"
     },
     {
         "id": "2725",
@@ -21876,8 +21876,8 @@
         "metadata": "{'topic': 'Music', 'answer_type': 'Other', 'urls': ['https://en.wikipedia.org/wiki/Vibha_Saraf', 'https://en.wikipedia.org/wiki/Vibha_Saraf#Awards', 'https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer', 'https://kashmirscanmagazine.com/2021/11/vibha-saraf-valleys-melody-queen/']}",
         "question": "For which song was Vibha Saraf nominated for Best Female Playback Singer at the 20th International Indian Film Academy Awards?",
         "answer": "Dilbaro",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "ویبھا سراف کو 20 ویں انٹرنیشنل انڈین فلم اکیڈمی ایوارڈز میں بہترین خاتون پلے بیک سنگر کے لیے کس گانے کے لیے نامزد کیا گیا؟",
+        "answer_urdu": "دلبارو"
     },
     {
         "id": "2735",
@@ -22140,8 +22140,8 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Number', 'urls': ['https://en.wikipedia.org/wiki/Tantalum', 'https://en.wikipedia.org/wiki/Tantalum#:~:text=Natural%20tantalum%20consists%20of%20two,and%20181Ta%20(99.988%25).', 'https://www.britannica.com/science/tantalum-181', 'https://www.buyisotope.com/tantalum-180-isotope.php']}",
         "question": "What is the percentage of the natural occurrence of the stable tantalum isotope 180m?",
         "answer": "0.012%",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": " مستحکم ٹینٹالم آئسوٹوپ 180m کی قدرتی طور پر پائے جانے کی فیصد کیا ہے؟",
+        "answer_urdu": "0.012%"
     },
     {
         "id": "2768",
@@ -22436,8 +22436,8 @@
         "metadata": "{'topic': 'Music', 'answer_type': 'Number', 'urls': ['https://en.wikipedia.org/wiki/Maddalena_Casulana', \"https://en.wikipedia.org/wiki/Maddalena_Casulana#:~:text=A%20total%20of%2066%20madrigals,programming%20for%20International%20Women's%20Day.\", 'https://www.theguardian.com/music/2022/mar/05/maddalena-casulana-missing-renaissance-madrigals-rediscovered', 'https://www.famouscampaigns.com/2022/03/iconic-female-composers-lost-work-to-be-heard-for-the-first-time-in-400-years/']}",
         "question": "What total number of newly discovered pieces of music by Maddalena Casulana were played for the first time in 400 years on March 8, 2022, as part of BBC Radio 3's programming for International Women's Day?",
         "answer": "12",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "بی بی سی ریڈیو 3 کے بین الاقوامی یوم خواتین کے لیے پروگرامنگ کے حصے کے طور پر 8 مارچ 2022 کو 400 سالوں میں پہلی بار مادالینا کاسولانا کی موسیقی کے کتنے نئے دریافت ہوئے ٹکڑوں کو چلایا گیا؟",
+        "answer_urdu": "12"
     },
     {
         "id": "2805",
@@ -22452,8 +22452,8 @@
         "metadata": "{'topic': 'Art', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Ruth_Bernhard', 'https://www.all-about-photo.com/photographers/photographer/1361/ruth-bernhard', 'https://www.sothebys.com/en/artists/ruth-bernhard#:~:text=Bernhard%20was%20welcomed%20into%20the,Illuminations%3A%20Ruth%20Bernhard%2C%20Photographer.', 'https://www.artnet.com/artists/ruth-bernhard/biography']}",
         "question": "In which year was photographer Ruth Bernhard inducted into the Women's Caucus for Art?",
         "answer": "1981",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "مشہور فوٹوگرافر روتھ برنہارڈ کو وومنز کوکس فار آرٹ میں کس سال شامل کیا گیا؟",
+        "answer_urdu": "1981"
     },
     {
         "id": "2807",
@@ -22732,8 +22732,8 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Number', 'urls': ['https://en.wikipedia.org/wiki/Large_Hadron_Collider', 'https://en.wikipedia.org/wiki/Large_Hadron_Collider', 'https://home.cern/resources/faqs/facts-and-figures-about-lhc', 'https://phys.org/news/2010-03-large-hadron-collider-energy-.html']}",
         "question": "How many teraelectronvolts (TeV) of energy per beam were achieved in the first collisions of the Large Hadron Collider in 2010?",
         "answer": "3.5",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "لارج ہیڈران کولائیڈر کی سال 2010 میں ہونے والی پہلی تصادم میں فی بیم کتنے ٹیرالیکٹرون وولٹ (TeV) کی توانائی حاصل کی گئی؟",
+        "answer_urdu": "3.5"
     },
     {
         "id": "2842",
@@ -24292,8 +24292,8 @@
         "metadata": "{'topic': 'TV shows', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Fleabag', 'https://www.amazon.co.uk/Fleabag-1-Blu-ray-Phoebe-Waller-Bridge/dp/B07FJFSSBR', 'https://www.blu-ray.com/movies/Fleabag-Series-One-Blu-ray/211491/']}",
         "question": "What date, as in day, month, and year, did Season 1 of Fleabag become available on Blu-ray disc in the UK?",
         "answer": "October 15, 2018",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "سیزن 1 آف فلی بیگ کب یو کے میں بلو رے ڈسک پر دستیاب ہوا، یعنی کس دن، مہینے اور سال؟",
+        "answer_urdu": "اکتوبر 15، 2018"
     },
     {
         "id": "3037",
@@ -24396,8 +24396,8 @@
         "metadata": "{'topic': 'Politics', 'answer_type': 'Person', 'urls': ['https://en.wikipedia.org/wiki/Ashraf_Abbasi', 'https://en.wikipedia.org/wiki/Ashraf_Abbasi', 'https://tribune.com.pk/story/744003/transition-pakistans-first-female-deputy-speaker-dies', 'https://pakmcqs.com/pakistan-current-affairs-mcqs/first-female-deputy-speaker-pakistan']}",
         "question": "Who was the first female Deputy Speaker of the National Assembly of Pakistan?",
         "answer": "Ashraf Abbasi",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "پاکستان کی قومی اسمبلی کی پہلی خاتون ڈپٹی اسپیکر کون تھیں؟",
+        "answer_urdu": "اشرف عباسی"
     },
     {
         "id": "3050",
@@ -24452,8 +24452,8 @@
         "metadata": "{'topic': 'Art', 'answer_type': 'Person', 'urls': ['https://www.metmuseum.org/about-the-met/conservation-and-scientific-research/conservation-stories/history-of-conservation', \"https://www.metmuseum.org/about-the-met/conservation-and-scientific-research/conservation-stories/history-of-conservation#:~:text=Winlock%20(1888%E2%80%931950)%2C,the%20Museum's%20first%20resident%20scientist.\", 'https://www.academia.edu/58229647/Arthur_H_Kopp_or_the_dangers_of_being_an_archaeological_conservator', 'https://books.google.ca/books?id=WC6dhyxENZsC&lpg=PA25&ots=zA8cPaqhGU&dq=%22Arthur%20H.%20Kopp%22%20%221932%22%20%22winlock%22&pg=PA25#v=onepage&q=%22Arthur%20H.%20Kopp%22%20%221932%22%20%22winlock%22&f=false']}",
         "question": "What were the first name, middle initial, and last name of the first resident scientist at The Metropolitan Museum of Art?",
         "answer": "Arthur H. Kopp",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "دی میٹروپولیٹن میوزیم آف آرٹ میں پہلے مستقل سائنسدان کا پہلا نام، درمیانی حرف، اور آخری نام کیا تھے؟",
+        "answer_urdu": "آرتھر ایچ کوپ"
     },
     {
         "id": "3057",
@@ -25220,8 +25220,8 @@
         "metadata": "{'topic': 'Sports', 'answer_type': 'Number', 'urls': ['https://en.wikipedia.org/wiki/Vedaant_Madhavan#Junior_National_Aquatics_Championships_2022', 'https://en.wikipedia.org/wiki/Vedaant_Madhavan#:~:text=Vedaant%20Madhavan%20(born%2021%20August,freestyle%20within%2016%3A01.73%20seconds.', 'https://www.indiatoday.in/sports/other-sports/story/vedaant-madhavan-breaks-national-junior-swimming-record-1976725-2022-07-17', 'https://www.sportskeeda.com/swimming/news-vedaant-madhavan-sets-national-junior-record-junior-national-aquatic-championships']}",
         "question": "How many minutes and seconds did it take Indian swimmer Vedaant Madhavan to finish the 1500m freestyle race at the 48th Junior National Aquatic Championships?",
         "answer": "16:01.73 seconds",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "ہندوستانی تیراک ویدانت مادھاون کو 48ویں جونیئر نیشنل ایکوٹک چیمپئن شپ میں 1500 میٹر فری اسٹائل ریس مکمل کرنے میں کتنے منٹ اور سیکنڈ لگے؟",
+        "answer_urdu": "16:01.73 سیکنڈ"
     },
     {
         "id": "3153",
@@ -25604,8 +25604,8 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Number', 'urls': ['https://en.wikipedia.org/wiki/Selenium', 'https://pt.kle.cz/en_US/selenium.html', 'https://periodictable.com/Properties/A/ShearModulus.v.html', 'https://en.wikipedia.org/wiki/Selenium']}",
         "question": "What is the shear modulus of selenium in gigapascals?",
         "answer": "3.7",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "سیلینیم کا شیئر ماڈیولس گیگا پاسکلز میں کیا ہے؟",
+        "answer_urdu": "3.7"
     },
     {
         "id": "3201",
@@ -25740,8 +25740,8 @@
         "metadata": "{'topic': 'Art', 'answer_type': 'Other', 'urls': ['https://en.wikipedia.org/wiki/Danh_V%C3%B5#Recognition', 'https://en.wikipedia.org/wiki/Danh_V%C3%B5', 'https://www.guggenheim.org/artwork/artist/danh-vo', 'https://www.smk.dk/en/artist_profile/danh-vo/']}",
         "question": "What award was Danh Võ given in 2007?",
         "answer": "BlauOrange Kunstpreis",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "سال 2007 میں ڈن وو کو کون سا ایوارڈ دیا گیا؟",
+        "answer_urdu": "BlauOrange Kunstpreis"
     },
     {
         "id": "3218",
@@ -25972,8 +25972,8 @@
         "metadata": "{'topic': 'Other', 'answer_type': 'Number', 'urls': ['https://en.wikipedia.org/wiki/Sidney_Abbott', 'https://en.wikipedia.org/wiki/Sidney_Abbott', 'https://suffolktimes.timesreview.com/2015/05/friends-remember-author-and-activist-sidney-abbott-at-memorial/', 'https://windycitytimes.com/2015/04/17/longtime-lesbian-feminist-activist-sidney-abbott-dies/']}",
         "question": "How many years did Sidney Abbott attend Smith College?",
         "answer": "3 years. ",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "سڈنی ایبٹ نے کتنے سال اسمتھ کالج میں تعلیم حاصل کی؟",
+        "answer_urdu": "3 سال۔"
     },
     {
         "id": "3247",
@@ -26652,8 +26652,8 @@
         "metadata": "{'topic': 'Art', 'answer_type': 'Other', 'urls': ['https://en.wikipedia.org/wiki/Edward_James', 'https://www.findagrave.com/memorial/90917390/edward-james', 'https://en.wikipedia.org/wiki/Edward_James']}",
         "question": "Which art and cultural movement was Edward Frank James a passionate supporter of?",
         "answer": "Surrealism",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "ایڈورڈ فرینک جیمز کس آرٹ اور ثقافتی تحریک کے پرجوش حامی تھے؟",
+        "answer_urdu": "سرئیلزم"
     },
     {
         "id": "3332",
@@ -27820,8 +27820,8 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Number', 'urls': ['https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2021.618408/full', 'https://www.researchgate.net/publication/349291260_EEG-Based_Driving_Fatigue_Detection_Using_a_Two-Level_Learning_Hierarchy_Radial_Basis_Function', 'https://scholars.houstonmethodist.org/en/publications/eeg-based-driving-fatigue-detection-using-a-two-level-learning-hi']}",
         "question": "In the 2021 research paper titled \"EEG-Based Driving Fatigue Detection Using a Two-Level Learning Hierarchy Radial Basis Function\" by Ziwu Ren et al., how many participants did the researchers collect EEG data from?",
         "answer": "six",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "سال 2021 میں زی وو رین وغیرہ کی تحقیقاتی مقالے \"EEG-Based Driving Fatigue Detection Using a Two-Level Learning Hierarchy Radial Basis Function\" میں محققین نے کتنے شرکاء سے EEG ڈیٹا جمع کیا؟",
+        "answer_urdu": "چھ"
     },
     {
         "id": "3478",
@@ -28260,8 +28260,8 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Other', 'urls': ['https://nysl.ptfs.com/aw-server/rest/product/purl/NYSL/i/7c2ef6f5-fc02-42c6-847e-de2ead5c0b60', 'https://www.google.com/books/edition/Report_of_the_State_Entomologist_on_Inju/IVThCDtf_8oC?hl=en&gbpv=1&dq=Miss+Ormerod,+in+her+15th+report+in+1893,+recorded+the+serious+and+widespread+injuries+to+raspberries&pg=PA158&printsec=frontcover']}",
         "question": "According to the 14th report of the state entomologist on injurious and other insects of New York in 1898, Miss Ormerod, in her 15th report in 1893, recorded the serious and widespread injuries to raspberries from what insect in England? Use the scientific name.",
         "answer": "Byturus tomentosus",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "سال 1898 میں نیویارک کے نقصاندہ اور دیگر کیڑوں کے بارے میں ریاستی کیڑوں کے ماہر کی 14ویں رپورٹ کے مطابق، مس اورمیرڈ نے اپنی 15ویں رپورٹ 1893 میں انگلینڈ میں رسپ بیری کے لئے کس کیڑے سے شدید اور وسیع پیمانے پر نقصانات کے بارے میں لکھا؟ سائنسی نام استعمال کریں۔",
+        "answer_urdu": "بائٹورس ٹومینٹوسس"
     },
     {
         "id": "3533",
@@ -28580,8 +28580,8 @@
         "metadata": "{'topic': 'Politics', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Syed_Osman_Ali', 'https://en.wikipedia.org/wiki/Syed_Osman_Ali', 'https://www.sbp.org.pk/museum/Gov_OsmAli.htm']}",
         "question": "In what year did S. Osman Ali, the 7th Governor of the State Bank of Pakistan, enter the Indian Civil Service?",
         "answer": "1934",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "پاکستان کے اسٹیٹ بینک کے ساتویں گورنر ایس. عثمان علی نے بھارت کی سول سروس میں کس سال شمولیت اختیار کی؟",
+        "answer_urdu": "1934"
     },
     {
         "id": "3573",
@@ -28700,8 +28700,8 @@
         "metadata": "{'topic': 'Other', 'answer_type': 'Other', 'urls': ['https://celebritypets.net/pets/pedro-pascal-pets/', 'https://celebritypets.net/pets/pedro-pascal-pets/', 'https://www.reddit.com/r/Pedro_Pascal/comments/11zelid/pedro_picking_up_edgar_from_the_shelter_and_later/', 'https://www.instagram.com/pascalispunk/p/BevxDZWBzpP/']}",
         "question": "What was the name of Pedro Pascal's foster dog that he had in 2018?",
         "answer": "Edgar.",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "پیدرو پاسکل کے گود لینے والے کتے کا کیا نام تھا جو ان کے پاس 2018 میں تھا؟",
+        "answer_urdu": "ایڈگر۔"
     },
     {
         "id": "3588",
@@ -28980,8 +28980,8 @@
         "metadata": "{'topic': 'TV shows', 'answer_type': 'Number', 'urls': ['https://www.imdb.com/title/tt0694576/', 'https://www.rottentomatoes.com/tv/saturday_night_live/s16/e02', 'https://snl.fandom.com/wiki/Susan_Lucci', 'https://en.wikipedia.org/wiki/Susan_Lucci#Primetime_television,_stage,_hosting_and_film']}",
         "question": "Which season and episode of \"Saturday Night Live\" did Susan Lucci host?",
         "answer": "Season 16, Episode 2",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "سوزن لوچی نے 'سنیچر نائٹ لائیو' کے کس سیزن اور کس قسط میں میزبانی کی؟",
+        "answer_urdu": "سیزن 16، قسط 2"
     },
     {
         "id": "3623",
@@ -29228,8 +29228,8 @@
         "metadata": "{'topic': 'Video games', 'answer_type': 'Number', 'urls': ['https://bloodstainedritualofthenight.wiki.fextralife.com/Spears', 'https://bloodstainedritualofthenight.wiki.fextralife.com/Lance', 'https://bloodstained.fandom.com/wiki/Lance']}",
         "question": "In the game Bloodstained: Ritual of the Night, how much gold does the Lance item cost to buy?",
         "answer": "2,700G",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "گیم بلڈ اسٹینڈ: ریچول آف دی نائٹ میں، ''Lance'' آئٹم خریدنے کی لاگت کتنی ہے؟",
+        "answer_urdu": "2,700G"
     },
     {
         "id": "3654",
@@ -29284,8 +29284,8 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Person', 'urls': ['https://en.wikipedia.org/wiki/Mary_C._Pangborn\\nhttps://en.wikipedia.org/wiki/Cardiolipin', 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4409943/', 'https://en.wikipedia.org/wiki/Cardiolipin', 'https://asm.org/articles/2020/january/a-brief-history-of-laboratory-diagnostics-for-syph']}",
         "question": "Who was the first scientist to isolate cardiolipin?",
         "answer": "Mary Pangborn",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "کارڈیولپِن کو الگ کرنے والے پہلے سائنسدان کون تھے؟",
+        "answer_urdu": "میری پینگبورن"
     },
     {
         "id": "3661",
@@ -29372,8 +29372,8 @@
         "metadata": "{'topic': 'Music', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/She_Even_Woke_Me_Up_to_Say_Goodbye_(album)', 'https://en.wikipedia.org/wiki/She_Even_Woke_Me_Up_to_Say_Goodbye_(album)#:~:text=She%20Even%20Woke%20Me%20Up%20to%20Say%20Goodbye%20is%20the,on%20Mercury%20Records%20in%201970.', 'https://www.discogs.com/release/2806294-Jerry-Lee-Lewis-She-Even-Woke-Me-Up-To-Say-Goodbye', 'https://www.allmusic.com/album/she-even-woke-me-up-to-say-goodbye-mw0000838334']}",
         "question": "What year was Jerry Lee Lewis's 13th album released on Mercury Records?",
         "answer": "1970",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "جیری لی لیوس کا تیرہواں البم مرکیوری ریکارڈز پر کس سال جاری ہوا؟",
+        "answer_urdu": "1970"
     },
     {
         "id": "3672",
@@ -29820,8 +29820,8 @@
         "metadata": "{'topic': 'Art', 'answer_type': 'Person', 'urls': ['https://aefestival.gr/festival_events/antigoni/?lang=en', 'https://aefestival.gr/festival_events/antigoni/?lang=en', 'https://hellenica.fr/externe/PRESS-KIT-ENGLISH-4.4.2022_.pdf', 'https://fieldstonnews.com/home/2022/08/the-birth-of-tragedy-antigone-at-the-epidaurus-theater/']}",
         "question": "Who did the musical composition for the play Antigone as presented in the 2022 Athens Epidaurus Festival?",
         "answer": "Dimitris Theocharis",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "2022 ایتھنز ایپیڈورس فیسٹیول میں پیش کیے گئے ناٹک اینٹیگون کے لیے موسیقی کی ترتیب کس نے دی؟",
+        "answer_urdu": "دیمیٹریس تھیوکاریس"
     },
     {
         "id": "3728",
@@ -29964,8 +29964,8 @@
         "metadata": "{'topic': 'Politics', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Franco_Bassanini', 'https://en.wikipedia.org/wiki/Franco_Bassanini#:~:text=Franco%20Bassanini%20(born%209%20May,minister%2C%20and%20undersecretary%20of%20state.', 'https://m.famousfix.com/list/independent-left-italy-politicians', 'https://commons.wikimedia.org/wiki/Category:Franco_Bassanini']}",
         "question": "What day, month, and year was Franco Bassanini, the Italian lawyer, politician, and minister, born?",
         "answer": "9 May 1940",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "اطالوی وکیل، سیاستدان، اور وزیر فرانکو بسانینی کس دن، ماہ، اور سال میں پیدا ہوئے تھے؟",
+        "answer_urdu": "9 مئی 1940"
     },
     {
         "id": "3746",
@@ -30908,8 +30908,8 @@
         "metadata": "{'topic': 'Politics', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Ila_Pant', 'https://en.wikipedia.org/wiki/Ila_Pant#:~:text=Ila%20Pant%20was%20born%20in,Uttarakhand%20)%20on%2010%20March%201938.', 'https://playback.fm/person/ila-pant', 'https://prabook.com/web/ila.pant/2361780']}",
         "question": "On what day, month, and year was Ila Pant (an Indian politician) born?",
         "answer": "10 March 1938",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "ایلا پنت (بھارتی سیاستدان) کس دن، ماہ اور سال پیدا ہوئیں؟",
+        "answer_urdu": "10 مارچ 1938"
     },
     {
         "id": "3864",
@@ -31260,8 +31260,8 @@
         "metadata": "{'topic': 'Art', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Isaac_Julien#Installation_pieces', 'https://www.isaacjulien.com/projects/33/', 'https://www.tate.org.uk/documents/1847/TB_EXH_0076_IJ_LPG_full_v2.pdf', 'https://brooklynrail.org/2023/06/artseen/Isaac-Julien-What-Freedom-Is-To-Me', 'https://en.wikipedia.org/wiki/Isaac_Julien', 'https://www.kunstsammlung.de/en/exhibitions/isaac-julien-en']}",
         "question": "Sir Isaac Julien's installation piece 'Lost Boundaries' is from which year?",
         "answer": "2003",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "سر آئزک جولین کی تنصیب کا کام 'لاسٹ باؤنڈریز' کس سال کا ہے؟",
+        "answer_urdu": "2003"
     },
     {
         "id": "3908",
@@ -31428,8 +31428,8 @@
         "metadata": "{'topic': 'TV shows', 'answer_type': 'Person', 'urls': ['https://en.wikipedia.org/wiki/List_of_Brooklyn_Nine-Nine_characters', 'https://www.imdb.com/title/tt2467372/characters/nm0516266', 'https://en.wikipedia.org/wiki/Joe_Lo_Truglio', 'https://www.nbc.com/nbc-insider/heres-the-cast-of-brooklyn-nine-nine-seasons-1-through-8']}",
         "question": "Who played the character of Boyle in the Brooklyn Nine-Nine series?",
         "answer": "Joe Lo Truglio ",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "سیریز بروکلن نائن نائن میں بویل کا کردار کس نے ادا کیا؟",
+        "answer_urdu": "جو لو ٹروگلیو"
     },
     {
         "id": "3929",
@@ -31476,16 +31476,16 @@
         "metadata": "{'topic': 'Geography', 'answer_type': 'Place', 'urls': ['https://en.wikipedia.org/wiki/Berrien_Springs,_Michigan', 'https://berrienhistory.org/wp-content/uploads/2020/08/dsp2004.pdf', 'https://www.swmpc.org/downloads/final_updateddraftplan.pdf', 'https://en.wikipedia.org/wiki/Berrien_Springs,_Michigan']}",
         "question": "What was the original name of the village of Berrien Springs, Michigan?",
         "answer": "Wolf's Prairie",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "بیریان اسپرنگز، مشیگن کے گاؤں کا اصل نام کیا تھا؟",
+        "answer_urdu": "وولفز پریری"
     },
     {
         "id": "3935",
         "metadata": "{'topic': 'Sports', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Ahmed_Jamal_(cricketer)', 'https://en.wikipedia.org/wiki/Ahmed_Jamal_(cricketer)#:~:text=Ahmed%20Jamal%20(born%203%20September,for%20Sui%20Southern%20Gas%20Company.', 'https://www.espncricinfo.com/cricketers/ahmed-jamal-434662', 'https://www.pcb.com.pk/player/ahmed-jamal-23807.html']}",
         "question": "On what day, month, and year was Ahmad Jamal, a first-class cricketer, born?",
         "answer": "3 September 1988",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "احمد جمال، جو ایک فرسٹ کلاس کرکٹر ہیں، کب پیدا ہوئے؟",
+        "answer_urdu": "3 ستمبر 1988"
     },
     {
         "id": "3936",
@@ -32060,8 +32060,8 @@
         "metadata": "{'topic': 'Politics', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention', 'https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention', 'https://manati.co.za/d5j44/article.php?id=who-owns-the-cdc-foundation']}",
         "question": "What were the day, month, and year when Dr. Walensky said the Centers for Disease Control and Prevention (CDC) would make drastic changes in the wake of mistakes during the COVID-19 pandemic and outlined an overhaul of how the Centers for Disease Control and Prevention would analyze and share data and how they would communicate information to the general public?",
         "answer": "17 August 2022",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "ڈاکٹر ولینسکی نے کب کہا کہ سینٹرز فار ڈیزیز کنٹرول اینڈ پریونشن (CDC) کووڈ-19 وبا کے دوران کی جانے والی غلطیوں کے بعد ڈرامائی تبدیلیاں کرے گا اور بتایا کہ کس طرح سینٹرز فار ڈیزیز کنٹرول اینڈ پریونشن ڈیٹا کا تجزیہ اور اشتراک کرنے کے عمل میں تبدیلیاں کرے گا اور عوام کو معلومات فراہم کرنے کے طریقوں میں کیا تبدیلیاں آئیں گی؟",
+        "answer_urdu": "17 اگست 2022"
     },
     {
         "id": "4008",
@@ -32156,8 +32156,8 @@
         "metadata": "{'topic': 'Geography', 'answer_type': 'Number', 'urls': ['https://en.wikipedia.org/wiki/Kosi_River', 'https://en.wikipedia.org/wiki/Kosi_River', 'https://indiawris.gov.in/wiki/doku.php?id=kosi_basin#:~:text=The%20Kosi%20drains%20an%20area,course%20generally%20in%20westward%20direction.']}",
         "question": "What is the basin size of the Koshi River in square kilometers?",
         "answer": "74,500 km2 ",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "کوشی دریا کا بیسن سائز مربع کلومیٹر میں کتنا ہے؟",
+        "answer_urdu": "74,500 کلومیٹر مربع"
     },
     {
         "id": "4020",
@@ -32340,8 +32340,8 @@
         "metadata": "{'topic': 'Politics', 'answer_type': 'Person', 'urls': ['https://media.billygraham.org/billy-graham-biography/', 'https://en.wikipedia.org/wiki/Billy_Graham', 'https://www.nytimes.com/1964/06/27/archives/billy-graham-at-the-fair-urges-a-religious-revival.html', 'https://billygraham.org/about/biographies/billy-graham/']}",
         "question": "What was the last name of the senator from New York who presented Reverend Billy Graham with the Gold Award of the George Washington Carver Memorial Institute in 1964?",
         "answer": "Javits ",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "سال 1964 میں نیویارک کے سینیٹر جنہوں نے ریورنڈ بلی گراہم کو جارج واشنگٹن کارور میموریل انسٹیٹوٹ کا گولڈ ایوارڈ پیش کیا، ان کا آخری نام کیا تھا؟",
+        "answer_urdu": "جیویٹس"
     },
     {
         "id": "4043",
@@ -33196,8 +33196,8 @@
         "metadata": "{'topic': 'Music', 'answer_type': 'Other', 'urls': ['https://en.wikipedia.org/wiki/Peter_Doyle_(transit_worker)', 'https://en.wikipedia.org/wiki/Peter_Doyle_(transit_worker)#Relationship_with_Whitman', 'https://whitmanarchive.org/item/anc.00155', 'https://whitman-prod.unl.edu/criticism/current/anc.00155.html']}",
         "question": "What opera did Walt Whitman and Peter Doyle travel to New York to see in May of 1870?",
         "answer": "Poliuto",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "والٹ وٹمین اور پیٹر ڈوئل مئی 1870 میں نیویارک میں کونسی اوپیرا دیکھنے گئے تھے؟",
+        "answer_urdu": "پولیوتو"
     },
     {
         "id": "4150",
@@ -33540,8 +33540,8 @@
         "metadata": "{'topic': 'Art', 'answer_type': 'Place', 'urls': ['https://parks.canada.ca/culture/~/~/link.aspx?_id=063465456C2740D9B30330158442BAF8&_z=z', 'https://www.rosslandnews.com/news/rossland-miners-hall-receives-national-recognition-from-parks-canada-4941702', 'https://waymarking.com/waymarks/wm16KRM_Rossland_Miners_Hall_receives_national_recognition_Rossland_BC', 'https://parks.canada.ca/culture/designation/lieu-site/miners-union-hall']}",
         "question": "The Miners' Union Hall in British Columbia was designed by an architect practicing in which American city?",
         "answer": "Los Angeles",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "برٹش کولمبیا میں مائنرز یونین ہال کو ایک آرکیٹیکٹ نے ڈیزائن کیا تھا جو امریکا کے کس شہر میں کام کر رہا تھا؟",
+        "answer_urdu": "لاس اینجلس"
     },
     {
         "id": "4193",
@@ -33636,8 +33636,8 @@
         "metadata": "{'topic': 'Politics', 'answer_type': 'Person', 'urls': ['https://en.wikipedia.org/wiki/Hlengiwe_Mkhize', 'https://en.wikipedia.org/wiki/Hlengiwe_Mkhize', 'https://www.gov.za/about-government/contact-directory/hlengiwe-buhle-mkhize-prof', 'https://iafrica.com/deputy-minister-hlengiwe-mkhize-dies-at-69/']}",
         "question": "What is the first and last name of the person whom former President Thabo Mbeki appointed as South African Ambassador to the Netherlands in 2005?",
         "answer": "Hlengiwe Mkhize",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "سابق صدر تھابو مبیکی نے 2005 میں جنوبی افریقہ کے سفیر کے طور پر ہالینڈ میں کس شخص کو مقرر کیا؟ اس کا پہلا اور آخری نام کیا ہے؟",
+        "answer_urdu": "ہلینگیوے مخیز"
     },
     {
         "id": "4205",
@@ -33804,8 +33804,8 @@
         "metadata": "{'topic': 'TV shows', 'answer_type': 'Person', 'urls': ['https://en.wikipedia.org/wiki/Susan_Lucci', 'https://www.history.com/this-day-in-history/soap-star-susan-lucci-wins-first-emmy-after-19-nominations']}",
         "question": "In 1999, who presented Susan Lucci with an Emmy?",
         "answer": "Shemar Moore",
-        "question_urdu": false,
-        "answer_urdu": false
+        "question_urdu": "سال 1999 میں ایمی کس نے سوزن لوچی کو پیش کیا؟",
+        "answer_urdu": "شیمار مور"
     },
     {
         "id": "4226",
