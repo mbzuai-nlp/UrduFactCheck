@@ -17,16 +17,29 @@ EXAMPLES_FILE = os.path.join(os.path.dirname(__file__), "examples.json")
 with open(EXAMPLES_FILE, "r") as f:
     examples = json.load(f)
 
+formatted_examples = [
+    {
+        "question": ex["question"],
+        "answer": ex["answer"],
+        "question_urdu": ex["question_urdu"],
+        "answer_urdu": ex["answer_urdu"],
+        "text": f"{ex['question']} {ex['answer']}",
+    }
+    for ex in examples
+]
+
 # Define the ExampleSelector
 example_selector = MaxMarginalRelevanceExampleSelector.from_examples(
     # This is the list of examples available to select from.
-    examples,
+    formatted_examples,
     # This is the embedding class used to produce embeddings which are used to measure semantic similarity.
     OpenAIEmbeddings(),
     # This is the VectorStore class that is used to store the embeddings and do a similarity search over.
     Chroma,
     # This is the number of examples to produce.
-    k=2,
+    k=3,
+    input_keys=["text"],
+    fetch_k=16,
 )
 
 
@@ -42,31 +55,39 @@ prefix = """
 You are an expert Urdu translator. Your task is to translate the following question-answer (QA) pairs from English to Urdu.
 
 ### Instructions
-- Translate both the question and the answer into Urdu.
-- Translate proper nouns into Urdu only if there's a widely accepted Urdu version (e.g., "India" → "بھارت", "Syria" → "شام"). But do this when necessary, avoid when these appear in the name of an organization.
-- Pay careful attention to masculine and feminine grammatical forms in Urdu.
-- Maintain a formal and fluent Urdu style.
-- If the question or answer contains factual or technical terms (e.g., award names, organization name), retain them in transliterated form where appropriate.
-- Dates should be translated into Urdu format (e.g., "January 1, 2020" → "یکم جنوری 2020").
-- Important Formatting Guideline:
-    When translating questions or answers from English to Urdu that include English acronyms or abbreviations (e.g., IEEE, NASA, UNESCO), follow these rules:
-        1. Maintain the acronym in its original English form (do not translate or transliterate it).
-        2. Place the acronym at a natural position in the sentence where it does not disrupt the right-to-left (RTL) flow of Urdu text.
-        3. Prefer placing English acronyms after the Urdu date or subject, not at the beginning of the sentence.
-        4. When a translated Urdu sentence includes Western numerals (e.g., 2022, 1999) or LTR text, ensure:
-            a. These elements do not appear at the beginning of the Urdu sentence.
-            b. Always place an Urdu phrase or word before the numeral to maintain proper RTL flow.
-            c. Do not translate or change the numeral itself.
-            d. This also follows for English acronyms, abbreviations, or LTR text.
-        5. Ensure the final Urdu sentence is grammatically correct, visually aligned, and fluent to read.
-        Incorrect (structurally broken):
-            a. سال 2010 میں IEEE کس کو ایوارڈ دیا گیا؟
-            b. 2 of January of 2019
-            c. 2022 رگبی یورپ چیمپئن شپ کا حصہ بننے والے اسپین اور رومانیہ کے درمیان رگبی میچ میں 27 فروری 2022 کو اسپین کے لیے تمام کنورژنز کس کھلاڑی نے اسکور کیے؟
-        Correct (natural Urdu structure):
-            a. فرینک روزن بلیٹ ایوارڈ کس کو دیا گیا؟ IEEE سال 2010 میں
-            b. سال 2019 میں 2 جنوری کو
-            c. رگبی یورپ چیمپئن شپ 2022 کا حصہ بننے والے اسپین اور رومانیہ کے درمیان رگبی میچ میں، 27 فروری 2022 کو اسپین کے لیے تمام کنورژنز کس کھلاڑی نے اسکور کیے؟
+- Translate both the **question** and **answer** into **formal, fluent Urdu**.
+- Use correct **masculine/feminine grammatical forms** in Urdu.
+- Translate **proper nouns** only if a widely accepted Urdu version exists  
+  (e.g., "India" → "بھارت", "Syria" → "شام").  
+  Avoid translating proper nouns when they appear in the name of an organization.
+- Retain **technical or factual terms** (e.g., award names, organization names) in **transliterated form**, where appropriate.
+- Translate **dates** into proper Urdu format  
+  (e.g., "January 1, 2020" → "یکم جنوری 2020").
+
+### Important Formatting Guidelines
+1. **English acronyms and abbreviations** (e.g., IEEE, NASA, UNESCO):
+   - Do **not** translate or transliterate.
+   - Place them at a **natural position** in the Urdu sentence (ideally after the date or subject).
+   - Avoid starting Urdu sentences with acronyms or left-to-right (LTR) text.
+
+2. **Western numerals and LTR elements** (e.g., 2022, 7.8.8, Notepad++):
+   - Do **not** convert numerals to Urdu words.
+   - Always place an **Urdu phrase before** such elements to maintain proper **right-to-left (RTL)** sentence flow.
+   - This applies to acronyms, version numbers, software/product names, etc.
+
+    Incorrect (structurally broken):
+        a. سال 2010 میں IEEE فرینک روزن بلیٹ ایوارڈ کس کو دیا گیا؟
+        b. 2 of January of 2019
+        c. 2022 رگبی یورپ چیمپئن شپ کا حصہ بننے والے اسپین اور رومانیہ کے درمیان رگبی میچ میں 27 فروری 2022 کو اسپین کے لیے تمام کنورژنز کس کھلاڑی نے اسکور کیے؟
+    Correct (natural Urdu structure):
+        a. فرینک روزن بلیٹ ایوارڈ کس کو دیا گیا؟ IEEE سال 2010 میں
+        b. سال 2019 میں 2 جنوری کو
+        c. رگبی یورپ چیمپئن شپ 2022 کا حصہ بننے والے اسپین اور رومانیہ کے درمیان رگبی میچ میں، 27 فروری 2022 کو اسپین کے لیے تمام کنورژنز کس کھلاڑی نے اسکور کیے؟
+
+3. Ensure the final Urdu sentence is:
+   - Grammatically correct  
+   - Visually aligned for RTL display  
+   - Fluent and natural to read
 
 Here are a few examples of QA pairs and expected translations:
 """
@@ -130,6 +151,7 @@ def urdu_translator(state: UrduTranslatorState) -> UrduTranslatorState:
         {
             "question": state.question,
             "answer": state.answer,
+            "text": f"{state.question} {state.answer}",
         }
     )
 

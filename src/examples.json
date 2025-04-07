@@ -1,44 +1,98 @@
 [
-    {
-        "question": "Who was awarded the Oceanography Society's Jerlov Award in 2018?",
-        "answer": "Annick Bricaud",
-        "question_urdu": "سال 2018 میں اوشیانوگرافی سوسائٹی کے جیرلوو ایوارڈ سے کس کو نوازا گیا؟",
-        "answer_urdu": "انیک برکیوڈ"
-    },
-    {
-        "question": "What total number of newly discovered pieces of music by Maddalena Casulana were played for the first time in 400 years on March 8, 2022, as part of BBC Radio 3's programming for International Women's Day?",
-        "answer": "12",
-        "question_urdu": "بی بی سی ریڈیو 3 کے بین الاقوامی یوم خواتین کے لیے پروگرامنگ کے حصے کے طور پر 8 مارچ 2022 کو 400 سالوں میں پہلی بار مادالینا کاسولانا کی موسیقی کے کتنے نئے دریافت ہوئے ٹکڑوں کو چلایا گیا؟",
-        "answer_urdu": "12"
-    },
-    {
-        "question": "What is the second song on Side Two of the album Rewind by Johnny Rivers?",
-        "answer": "For Emily, Whenever I May Find Her",
-        "question_urdu": "جانی ریورز کے البم \"ریوائنڈ\" کی سائیڈ ٹو پر دوسرا گانا کون سا ہے؟",
-        "answer_urdu": "فور ایملی، وینیور آئی مے فائنڈ ہر"
-    },
-    {
-        "question": "How many miles from the Indo-Nepal border was Amit Kumar hiding from the police on February 7, 2008?",
-        "answer": "35",
-        "question_urdu": "امیت کمار 7 فروری 2008 کو ہند-نیپال سرحد سے کتنے میل دور پولیس سے چھپا ہوا تھا؟",
-        "answer_urdu": "35"
-    },
-    {
-        "question": "Who was the wife of the Indian criminal \"Welding\" Kumar, who was originally known as Jeyakumar?",
-        "answer": "Shanti",
-        "question_urdu": "بھارتی مجرم \"ویلڈنگ\" کمار، جس کا اصل نام جے کمار تھا، کی بیوی کون تھی؟",
-        "answer_urdu": "شانتھی"
-    },
-    {
-        "question": "According to Karl Küchler, what did Empress Elizabeth of Austria's favorite sculpture depict, which was made for her villa Achilleion at Corfu?",
-        "answer": "Poet Henrich Heine.",
-        "question_urdu": "کارل کوچلر کے مطابق، آسٹریا کی ملکہ الزبتھ کے لیے ان کے ولا اچیلیئن، کورفو میں بنائی گئی ان کی پسندیدہ مجسمہ کس کو ظاہر کرتا ہے؟",
-        "answer_urdu": "شاعر ہائنرش ہائنے۔"
-    },
-    {
-        "question": "What were the month and year when Obama told Christianity Today, \"I am a Christian, and I am a devout Christian. I believe in the redemptive death and resurrection of Jesus Christ\"?",
-        "answer": "January 2008",
-        "question_urdu": "اوباما نے \"کرسچینیٹی ٹوڈے\" کو یہ بیان کہ \"میں ایک عیسائی ہوں، اور میں ایک پرہیزگار عیسائی ہوں۔ میں یسوع مسیح کی نجات بخش موت اور قیامت پر یقین رکھتا ہوں\" کس مہینے اور سال میں دیا تھا؟",
-        "answer_urdu": "جنوری 2008"
-    }
+  {
+    "question": "Who was awarded the Oceanography Society's Jerlov Award in 2018?",
+    "answer": "Annick Bricaud",
+    "question_urdu": "سال 2018 میں اوشیانوگرافی سوسائٹی کے جیرلوو ایوارڈ سے کس کو نوازا گیا؟",
+    "answer_urdu": "انیک برکیوڈ"
+  },
+  {
+    "question": "What total number of newly discovered pieces of music by Maddalena Casulana were played for the first time in 400 years on March 8, 2022, as part of BBC Radio 3's programming for International Women's Day?",
+    "answer": "12",
+    "question_urdu": "بی بی سی ریڈیو 3 کے بین الاقوامی یوم خواتین کے لیے پروگرامنگ کے حصے کے طور پر 8 مارچ 2022 کو 400 سالوں میں پہلی بار مادالینا کاسولانا کی موسیقی کے کتنے نئے دریافت ہوئے ٹکڑوں کو چلایا گیا؟",
+    "answer_urdu": "12"
+  },
+  {
+    "question": "What is the second song on Side Two of the album Rewind by Johnny Rivers?",
+    "answer": "For Emily, Whenever I May Find Her",
+    "question_urdu": "جانی ریورز کے البم \"ریوائنڈ\" کی سائیڈ ٹو پر دوسرا گانا کون سا ہے؟",
+    "answer_urdu": "فور ایملی، وینیور آئی مے فائنڈ ہر"
+  },
+  {
+    "question": "How many miles from the Indo-Nepal border was Amit Kumar hiding from the police on February 7, 2008?",
+    "answer": "35",
+    "question_urdu": "امیت کمار 7 فروری 2008 کو ہند-نیپال سرحد سے کتنے میل دور پولیس سے چھپا ہوا تھا؟",
+    "answer_urdu": "35"
+  },
+  {
+    "question": "Who was the wife of the Indian criminal \"Welding\" Kumar, who was originally known as Jeyakumar?",
+    "answer": "Shanti",
+    "question_urdu": "بھارتی مجرم \"ویلڈنگ\" کمار، جس کا اصل نام جے کمار تھا، کی بیوی کون تھی؟",
+    "answer_urdu": "شانتھی"
+  },
+  {
+    "question": "According to Karl Küchler, what did Empress Elizabeth of Austria's favorite sculpture depict, which was made for her villa Achilleion at Corfu?",
+    "answer": "Poet Henrich Heine.",
+    "question_urdu": "کارل کوچلر کے مطابق، آسٹریا کی ملکہ الزبتھ کے لیے ان کے ولا اچیلیئن، کورفو میں بنائی گئی ان کی پسندیدہ مجسمہ کس کو ظاہر کرتا ہے؟",
+    "answer_urdu": "شاعر ہائنرش ہائنے۔"
+  },
+  {
+    "question": "What were the month and year when Obama told Christianity Today, \"I am a Christian, and I am a devout Christian. I believe in the redemptive death and resurrection of Jesus Christ\"?",
+    "answer": "January 2008",
+    "question_urdu": "اوباما نے \"کرسچینیٹی ٹوڈے\" کو یہ بیان کہ \"میں ایک عیسائی ہوں، اور میں ایک پرہیزگار عیسائی ہوں۔ میں یسوع مسیح کی نجات بخش موت اور قیامت پر یقین رکھتا ہوں\" کس مہینے اور سال میں دیا تھا؟",
+    "answer_urdu": "جنوری 2008"
+  },
+  {
+    "question": "What is the name of the 2014 film that stars actors such as John Goodman, Mary Elizabeth Winstead, and John Gallagher Jr.?",
+    "answer": "10 Cloverfield Lane",
+    "question_urdu": "سال 2014 کی فلم کا نام کیا ہے جس میں جان گڈمین، مریم الزبتھ ون سٹیڈ، اور جان گیلگر جونیئر جیسے اداکار شامل ہیں؟",
+    "answer_urdu": "ٹین کلاورفیلڈ لین"
+  },
+  {
+    "question": "What day, month, and year was Notepad++ version 7.8.8 released?",
+    "answer": "June 28, 2020",
+    "question_urdu": "نوٹ پیڈ++ کا ورژن 7.8.8 کب جاری کیا گیا تھا؟",
+    "answer_urdu": "جون 28, 2020"
+  },
+  {
+    "question": "What were the day, month, and year when Britannica released a Google Chrome extension, \"Britannica Insights,\" which shows snippets of information from Britannica Online whenever the user performs a Google search, in a box to the right of Google's results?",
+    "answer": "7 June 2018",
+    "question_urdu": "برٹانیکا نے کب ایک گوگل کروم توسیع \"برٹانیکا انسائٹس\" جاری کی، جو صارف کے گوگل سرچ کرنے پر برٹانیکا آن لائن سے معلومات کے ٹکڑے دکھاتی ہے، جو گوگل کے نتائج کے دائیں جانب ایک باکس میں دکھائی دیتی ہے؟",
+    "answer_urdu": "جون 7, 2018"
+  },
+  {
+    "question": "Name the school where the Kusumbai Motichand Planetarium was established in Pune in 1954.",
+    "answer": "New English School",
+    "question_urdu": "کس اسکول میں 1954 میں پونے میں کسمبائی موٹی چند پلانیٹیرئم قائم کیا گیا تھا؟",
+    "answer_urdu": "نیو انگلش اسکول"
+  },
+  {
+    "question": "In February 2017, what board did Governor Larry Hogan nominate Wes Moore to serve on?",
+    "answer": "University System of Maryland Board of Regents.",
+    "question_urdu": "فروری 2017 میں، گورنر لاری ہوگن نے ویس مور کو کس بورڈ پر نامزد کیا؟",
+    "answer_urdu": "یونیورسٹی سسٹم آف میری لینڈ بورڈ آف ریجنٹس۔"
+  },
+  {
+    "question": "Who won the Emil Artin Junior Prize in Mathematics in 2009?",
+    "answer": "Grigor Sargsyan",
+    "question_urdu": "سال 2009 میں ایمل آرٹن جونیئر ایوارڈ برائے ریاضی کس نے جیتا؟",
+    "answer_urdu": "گریگور سرگسیان"
+  },
+  {
+    "question": "In which season and episode did Joe Friday kill a burglar who was stealing from a coin box in the TV series Dragnet 1967?",
+    "answer": "S2 E2",
+    "question_urdu": "ٹی وی سیریز ڈریگ نیٹ 1967 میں جو فرائیڈے نے ایک چور کو کب مارا جو ایک سکے کے ڈبے سے چوری کر رہا تھا؟",
+    "answer_urdu": "S2 E2"
+  },
+  {
+    "question": "On what radio show was a laugh track first used?",
+    "answer": "The Bing Crosby \u2013 Chesterfield Show",
+    "question_urdu": "پہلی بار ہنسی کا ٹریک کس ریڈیو شو میں استعمال کیا گیا تھا؟",
+    "answer_urdu": "دی بنگ کراسبی - چیسٹر فیلڈ شو"
+  },
+  {
+    "question": "In which month and year did WhatsApp start rolling out support for third-party animated stickers, initially in Iran, Brazil, and Indonesia?",
+    "answer": "March 2021",
+    "question_urdu": "واٹس ایپ نے کس مہینے اور سال میں ایران، برازیل، اور انڈونیشیا میں تھرڈ پارٹی اینیمیٹڈ اسٹیکرز کی حمایت شروع کی؟",
+    "answer_urdu": "مارچ 2021"
+  }
 ]

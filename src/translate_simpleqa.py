@@ -59,7 +59,6 @@ def classify():
                 )
                 if retry < 4:
                     logger.info("Retrying...")
-        break
 
 
 if __name__ == "__main__":
