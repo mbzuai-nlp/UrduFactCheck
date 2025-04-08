@@ -1,7 +1,6 @@
 import os
 import json
 import streamlit as st
-from arabic_support import support_arabic_text
 
 # Set up Streamlit page configuration
 st.set_page_config(
