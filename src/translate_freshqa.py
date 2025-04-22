@@ -3,16 +3,16 @@ import json
 from datetime import datetime
 from utils.logging import get_logger
 
-from graph_redundant import chain
+from graph_fewshot import graph
 
 logger = get_logger()
 
 
 def classify():
     # File paths.
-    raw_file = "../datasets/raw/freshqa/freshqa.json"
+    raw_file = "../datasets/raw/qa/freshqa/freshqa.json"
     output_file = (
-        f"../datasets/processed/freshqa/freshqa_{os.environ['MODEL_NAME']}.json"
+        f"../datasets/processed/qa/freshqa/freshqa_{os.environ['MODEL_NAME']}.json"
     )
 
     # Read raw data.
@@ -35,8 +35,8 @@ def classify():
         if row.get("id") in processed_ids:
             continue
 
-        question_text = row.get("problem", "")
-        answer_text = row.get("answer", "")
+        question_text = row.get("question", "")
+        answer_text = row.get("answer_0", "")
         tstamp = datetime.now().strftime("%d-%m-%Y %H:%M:%S")
         logger.info(
             f"[{tstamp}]: Processing question {idx}/{len(rows)}: {question_text}"
@@ -44,8 +44,8 @@ def classify():
 
         for retry in range(5):
             try:
-                enriched_question = chain.invoke(
-                    {"question": question_text, "answer": answer_text}
+                enriched_question = graph.invoke(
+                    {"question": question_text, "answer_0": answer_text}
                 )
                 row.update(enriched_question)
                 enriched_questions.append(row)
@@ -59,7 +59,6 @@ def classify():
                 )
                 if retry < 4:
                     logger.info("Retrying...")
-        break
 
 
 if __name__ == "__main__":
