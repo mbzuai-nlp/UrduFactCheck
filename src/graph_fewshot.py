@@ -11,7 +11,7 @@ from langchain_openai import OpenAIEmbeddings
 from langgraph.graph import StateGraph, START, END
 
 # Get the relative path to the examples file
-EXAMPLES_FILE = os.path.join(os.path.dirname(__file__), "examples.json")
+EXAMPLES_FILE = os.path.join(os.path.dirname(__file__), "examples_bingcheck.json")
 
 # Load the examples from the JSONL file
 with open(EXAMPLES_FILE, "r") as f:
@@ -19,11 +19,11 @@ with open(EXAMPLES_FILE, "r") as f:
 
 formatted_examples = [
     {
-        "question": ex["question"],
-        "answer": ex["answer"],
-        "question_urdu": ex["question_urdu"],
-        "answer_urdu": ex["answer_urdu"],
-        "text": f"{ex['question']} {ex['answer']}",
+        "claim": ex["claim"],
+        "label": ex["label"],
+        "claim_urdu": ex["claim_urdu"],
+        "label_urdu": ex["label_urdu"],
+        "text": f"{ex['claim']} {ex['label']}",
     }
     for ex in examples
 ]
@@ -44,18 +44,18 @@ example_selector = MaxMarginalRelevanceExampleSelector.from_examples(
 
 
 class TranslationModel(BaseModel):
-    question_urdu: str = Field(default=False)
-    answer_urdu: str = Field(default=False)
+    claim_urdu: str = Field(default=False)
+    label_urdu: str = Field(default=False)
 
 
 parser = PydanticOutputParser(pydantic_object=TranslationModel)
 
 
 prefix = """
-You are an expert Urdu translator. Your task is to translate the following question-answer (QA) pairs from English to Urdu.
+You are an expert Urdu translator. Your task is to translate the following claim-label pairs from English to Urdu.
 
 ### Instructions
-- Translate both the **question** and **answer** into **formal, fluent Urdu**.
+- Translate both the **claim** and **label** into **formal, fluent Urdu**.
 - Use correct **masculine/feminine grammatical forms** in Urdu.
 - Translate **proper nouns** only if a widely accepted Urdu version exists  
   (e.g., "India" → "بھارت", "Syria" → "شام").  
@@ -89,13 +89,13 @@ You are an expert Urdu translator. Your task is to translate the following quest
    - Visually aligned for RTL display  
    - Fluent and natural to read
 
-Here are a few examples of QA pairs and expected translations:
+Here are a few examples of claims and expected translations:
 """
 
 suffix = """
 ### Translation
-question: {question}
-answer: {answer}
+claim: {claim}
+label: {label}
 
 ### Formated Instructions:
 {format_instructions}
@@ -103,7 +103,7 @@ answer: {answer}
 
 # Prompt
 example_prompt = PromptTemplate.from_template(
-    "question: {question}\nanswer: {answer}\nquestion_urdu: {question_urdu}\nanswer_urdu: {answer_urdu}"
+    "claim: {claim}\nlabel: {label}\nclaim_urdu: {claim_urdu}\nlabel_urdu: {label_urdu}"
 )
 
 prompt = FewShotPromptTemplate(
@@ -129,34 +129,34 @@ chain = prompt | model | parser
 
 # States
 class InputState(BaseModel):
-    question: str = Field(description="The question to be translated.", default="")
-    answer: str = Field(description="The answer to be translated.", default="")
+    claim: str = Field(description="The claim to be translated.", default="")
+    label: str = Field(description="The label to be translated.", default="")
 
 
 class UrduTranslatorState(BaseModel):
-    question: str = Field(description="The question to be translated.", default="")
-    answer: str = Field(description="The answer to be translated.", default="")
-    question_urdu: str = Field(description="The translated question.", default="")
-    answer_urdu: str = Field(description="The translated answer.", default="")
+    claim: str = Field(description="The claim to be translated.", default="")
+    label: str = Field(description="The label to be translated.", default="")
+    claim_urdu: str = Field(description="The translated claim.", default="")
+    label_urdu: str = Field(description="The translated label.", default="")
 
 
 class OutputState(BaseModel):
-    question_urdu: str = Field(description="The translated question.", default="")
-    answer_urdu: str = Field(description="The translated answer.", default="")
+    claim_urdu: str = Field(description="The translated claim.", default="")
+    label_urdu: str = Field(description="The translated label.", default="")
 
 
 # Function
 def urdu_translator(state: UrduTranslatorState) -> UrduTranslatorState:
     result = chain.invoke(
         {
-            "question": state.question,
-            "answer": state.answer,
-            "text": f"{state.question} {state.answer}",
+            "claim": state.claim,
+            "label": state.label,
+            "text": f"{state.claim} {state.label}",
         }
     )
 
-    state.question_urdu = result.question_urdu
-    state.answer_urdu = result.answer_urdu
+    state.claim_urdu = result.claim_urdu
+    state.label_urdu = result.label_urdu
 
     return state
 

@@ -1,0 +1,123 @@
+[
+  {
+    "claim": "Solar power is one of the best potential solutions to the climate crisis, as it does not emit greenhouse gas or air pollution.",
+    "label": "true",
+    "claim_urdu": "شمسی توانائی ماحولیاتی بحران کے ممکنہ بہترین حلوں میں سے ایک ہے، کیونکہ یہ نہ تو گرین ہاؤس گیس خارج کرتی ہے اور نہ ہی فضائی آلودگی۔",
+    "label_urdu": "درست"
+  },
+  {
+    "claim": "Flamenco has also been influenced by musical traditions from the Caribbean, Latin America, and Europe.",
+    "label": "true",
+    "claim_urdu": "فلیمینکو پر کیریبین، لاطینی امریکہ اور یورپ کی موسیقی روایات کا بھی اثر رہا ہے۔",
+    "label_urdu": "درست"
+  },
+  {
+    "claim": "Empowering individuals to seek professional help when needed and supporting them in their recovery journey is crucial for overcoming stigma.",
+    "label": "true",
+    "claim_urdu": "افراد کو ضرورت کے وقت پیشہ ورانہ مدد حاصل کرنے کی ترغیب دینا اور ان کی بحالی کے سفر میں ان کی مدد کرنا بدنامی پر قابو پانے کے لیے نہایت اہم ہے۔",
+    "label_urdu": "درست"
+  },
+  {
+    "claim": "Upwards of 97% of people are thought to have experienced déjà vu at least once.",
+    "label": "true",
+    "claim_urdu": "تقریباً 97٪ افراد کے بارے میں خیال کیا جاتا ہے کہ انہوں نے کم از کم ایک بار ڈیجا وو کا تجربہ کیا ہے۔",
+    "label_urdu": "درست"
+  },
+  {
+    "claim": "Solar PV is now one of the cheapest sources of electricity in many regions of the world.",
+    "label": "true",
+    "claim_urdu": "سولر پی وی اب دنیا کے کئی خطوں میں بجلی کے سب سے سستے ذرائع میں سے ایک ہے۔",
+    "label_urdu": "درست"
+  },
+  {
+    "claim": "Each utensil in the Chinese tea ceremony has a specific function and aesthetic value.",
+    "label": "true",
+    "claim_urdu": "چینی چائے کی تقریب میں ہر برتن کا ایک مخصوص استعمال اور جمالیاتی قدر ہوتی ہے۔",
+    "label_urdu": "درست"
+  },
+  {
+    "claim": "Music can be harnessed to improve our mental well-being and reduce stress levels by engaging in active musical activities such as singing, playing an instrument, or dancing.",
+    "label": "true",
+    "claim_urdu": "موسیقی کو ذہنی فلاح بہتر بنانے اور تناؤ کم کرنے کے لیے استعمال کیا جا سکتا ہے، خاص طور پر گانے، ساز بجانے یا رقص جیسی سرگرمیوں میں حصہ لے کر۔",
+    "label_urdu": "درست"
+  },
+  {
+    "claim": "Despite extensive searches, no trace of the plane or its passengers has been found.",
+    "label": "false",
+    "claim_urdu": "وسیع پیمانے پر تلاش کے باوجود طیارے یا اس کے مسافروں کا کوئی سراغ نہیں ملا۔",
+    "label_urdu": "غلط"
+  },
+  {
+    "claim": "Vincent van Gogh created swirling patterns in the sky to evoke a sense of turbulence and dynamism, as well as to express his emotions and visions.",
+    "label": "true",
+    "claim_urdu": "وینسینٹ وین گوگ نے آسمان میں گھومتی ہوئی شکلیں بنائیں تاکہ ہلچل اور حرکت کا احساس پیدا کیا جا سکے اور اپنے جذبات اور خیالات کا اظہار کیا جا سکے۔",
+    "label_urdu": "درست"
+  },
+  {
+    "claim": "Reading other writers' works can challenge, motivate, or inspire you to get the words out.",
+    "label": "true",
+    "claim_urdu": "دوسرے مصنفین کے کام پڑھنا آپ کو چیلنج، متحرک یا متاثر کر سکتا ہے کہ آپ بھی لکھیں۔",
+    "label_urdu": "درست"
+  },
+
+  {
+    "claim": "CCS and CCUS are acknowledged as promising technologies to mitigate global warming but are stated to face challenges such as high costs, technical uncertainties, regulatory barriers, public acceptance, and environmental risks.",
+    "label": "true",
+    "claim_urdu": "سی سی ایس اور سی سی یو ایس کو عالمی حدت کو کم کرنے کے لیے امید افزا ٹیکنالوجیز کے طور پر تسلیم کیا جاتا ہے، لیکن انہیں بہت زیادہ لاگت، تکنیکی غیر یقینی صورتحال، ریگولیٹری رکاوٹیں، عوامی قبولیت، اور ماحولیاتی خطرات جیسے چیلنجز کا سامنا ہے۔",
+    "label_urdu": "درست"
+  },
+  {
+    "claim": "Duodji crafts include clothing, hats, belts, jewelry, shoe bands, cups, knives, bags, needle cases, cheese forms, and harnesses.",
+    "label": "true",
+    "claim_urdu": "دُووجی دستکاریوں میں کپڑے، ٹوپیاں، بیلٹ، زیورات، جوتوں کے بینڈ، پیالے، چاقو، تھیلے، سوئیوں کے ڈبے، پنیر کے سانچے اور لگامیں شامل ہوتی ہیں۔",
+    "label_urdu": "درست"
+  },
+  {
+    "claim": "Scientists at Cardiff University found a new type of T-cell that can recognize and kill a wide range of cancer cells, including prostate, breast, lung, colon, ovarian, and cervical cancers.",
+    "label": "true",
+    "claim_urdu": "کارڈف یونیورسٹی کے سائنسدانوں نے ٹی-سیل کی ایک نئی قسم دریافت کی ہے جو مختلف اقسام کے کینسر جیسے پروسٹیٹ، بریسٹ، پھیپھڑوں، بڑی آنت، بیضہ دانی اور سرویکل کینسر کے خلیوں کو پہچان کر ختم کر سکتی ہے۔",
+    "label_urdu": "درست"
+  },
+  {
+    "claim": "The hippocampus is a key brain region for initial memory formation and transfer of memories from short-term to long-term storage.",
+    "label": "true",
+    "claim_urdu": "ہیپو کیمپس دماغ کا ایک اہم حصہ ہے جو ابتدائی یادداشت کی تشکیل اور یادوں کو قلیل مدتی سے طویل مدتی ذخیرہ میں منتقل کرنے کے عمل میں اہم کردار ادا کرتا ہے۔",
+    "label_urdu": "درست"
+  },
+  {
+    "claim": "The first large-scale desalination plant was built in Aruba in 1930.",
+    "label": "false",
+    "claim_urdu": "پہلا بڑے پیمانے پر نمکین پانی صاف کرنے کا پلانٹ 1930 میں اروبا میں تعمیر کیا گیا تھا۔",
+    "label_urdu": "غلط"
+  },
+  {
+    "claim": "Marie Curie was born Maria Sklodowska in Warsaw, Poland in 1867 to two schoolteachers who raised her with little money in a poverty-stricken neighborhood.",
+    "label": "true",
+    "claim_urdu": "میری کیوری 1867 میں پولینڈ کے شہر وارسا میں ماریا سکلودوسکا کے نام سے پیدا ہوئیں۔ ان کے والدین دونوں اسکول ٹیچر تھے، جنہوں نے انہیں ایک غریب علاقے میں محدود وسائل کے ساتھ پرورش دی۔",
+    "label_urdu": "درست"
+  },
+  {
+    "claim": "The Rosetta Stone slab enabled scholars to decipher hieroglyphs for the first time, opening up a new understanding of ancient Egyptian civilization.",
+    "label": "true",
+    "claim_urdu": "روزیتا اسٹون کی تختی نے ماہرین کو پہلی بار ہیروگلیف کو پڑھنے کے قابل بنایا، جس سے قدیم مصری تہذیب کو سمجھنے کا ایک نیا دروازہ کھلا۔",
+    "label_urdu": "درست"
+  },
+  {
+    "claim": "A snail can sleep for three years.",
+    "label": "false",
+    "claim_urdu": "ایک گھونگا تین سال تک سو سکتا ہے۔",
+    "label_urdu": "غلط"
+  },
+  {
+    "claim": "Financial literacy can help children and teenagers develop critical thinking, decision-making, and problem-solving skills, as well as prepare them for emergencies and challenges.",
+    "label": "true",
+    "claim_urdu": "مالیاتی شعور بچوں اور نوجوانوں کو تنقیدی سوچ، فیصلہ سازی، اور مسئلہ حل کرنے کی صلاحیتیں پیدا کرنے میں مدد دے سکتا ہے، اور انہیں ہنگامی حالات اور چیلنجز کے لیے تیار بھی کر سکتا ہے۔",
+    "label_urdu": "درست"
+  },
+  {
+    "claim": "The release of the first home console, the Magnavox Odyssey, in 1972, used cartridges to play different games on a TV screen.",
+    "label": "false",
+    "claim_urdu": "پہلا ہوم کنسول، میگناوکس اوڈیسی، 1972 میں جاری کیا گیا، اور یہ مختلف گیمز کو ٹی وی اسکرین پر کھیلنے کے لیے کارتوس استعمال کرتا تھا۔",
+    "label_urdu": "غلط"
+  }
+]
