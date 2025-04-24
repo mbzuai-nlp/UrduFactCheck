@@ -1,0 +1,1398 @@
+{
+    "claim": "The United States has the highest number of nuclear power plants in the world",
+    "label": "true",
+    "claim_urdu": "امریکہ کے پاس دنیا میں سب سے زیادہ جوہری بجلی گھر ہیں۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The United States has 94 operating reactors",
+    "label": "false",
+    "claim_urdu": "امریکہ کے پاس 94 فعال ری ایکٹرز ہیں۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "France has a significant number of nuclear power plants",
+    "label": "true",
+    "claim_urdu": "فرانس میں جوہری بجلی گھروں کی ایک معتدبہ تعداد موجود ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "China has a significant number of nuclear power plants",
+    "label": "true",
+    "claim_urdu": "چین میں جوہری بجلی گھروں کی ایک بڑی تعداد موجود ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Russia has a significant number of nuclear power plants",
+    "label": "true",
+    "claim_urdu": "روس میں ایٹمی بجلی گھروں کی ایک قابل قدر تعداد موجود ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "South Korea has a significant number of nuclear power plants",
+    "label": "true",
+    "claim_urdu": "جنوبی کوریا میں جوہری پاور پلانٹس کی ایک قابل ذکر تعداد موجود ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Jack Dorsey is the CEO of Twitter",
+    "label": "false",
+    "claim_urdu": "جیک ڈورسی ٹویٹر کے سی ای او ہیں",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Jack Dorsey co-founded Twitter in 2006",
+    "label": "true",
+    "claim_urdu": "جیک ڈورسی نے 2006 میں ٹویٹر کی مشترکہ بنیاد رکھی۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Jack Dorsey served as the CEO of Twitter until 2008",
+    "label": "false",
+    "claim_urdu": "جیک ڈورسی 2008 تک ٹویٹر کے سی ای او کے طور پر خدمات انجام دے رہے تھے۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Jack Dorsey returned as CEO of Twitter in 2015",
+    "label": "true",
+    "claim_urdu": "جیک ڈورسی سال 2015 میں ٹوئټر کے سی ای او کے طور پر واپس آئے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Jack Dorsey is the CEO and co-founder of Square",
+    "label": "true",
+    "claim_urdu": "جیک ڈورسی Square کے سی ای او اور شریک بانی ہیں",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Time magazine recognized Jack Dorsey as one of the 100 most influential people in the world",
+    "label": "true",
+    "claim_urdu": "ٹائم میگزین نے جیک ڈورسی کو دنیا کے 100 سب سے زیادہ بااثر افراد میں شمار کیا",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Wall Street Journal awarded Jack Dorsey the Innovator of the Year Award",
+    "label": "true",
+    "claim_urdu": "وال اسٹریٹ جرنل نے جیک ڈورسی کو انویٹر آف دی ایئر ایوارڈ دیا",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Jupiter is less dense than Saturn",
+    "label": "false",
+    "claim_urdu": "مشتری کا کثافت زحل سے کم ہے۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Jupiter has a density of 1.33 grams per cubic centimeter",
+    "label": "true",
+    "claim_urdu": "مشتری کی کثافت 1.33 گرام فی مکعب سینٹی میٹر ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Saturn has a density of 0.69 grams per cubic centimeter",
+    "label": "false",
+    "claim_urdu": "زحل کی کثافت 0.69 گرام فی مکعب سینٹی میٹر ہے۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Jupiter is mostly made up of gas",
+    "label": "true",
+    "claim_urdu": "مشتری زیادہ تر گیس پر مشتمل ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Saturn has a larger proportion of solid materials in its composition",
+    "label": "false",
+    "claim_urdu": "سیارہ زحل کی ترکیب میں ٹھوس مواد کا بڑا تناسب موجود ہے",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Eise Eisinga was a Dutch mathematician",
+    "label": "true",
+    "claim_urdu": "آئس آئسنگا ایک ڈچ ریاضی دان تھے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Eise Eisinga was an astronomer",
+    "label": "true",
+    "claim_urdu": "ایسے ایزن گا ایک ماہر فلکیات تھے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Eise Eisinga built an orrery in his house in Franeker, Netherlands",
+    "label": "true",
+    "claim_urdu": "آئسے آئسنگا نے نیدرلینڈز کے شہر فرانیکر میں اپنے گھر میں ایک آورری بنایا۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Little is known about Eise Eisinga's family life",
+    "label": "false",
+    "claim_urdu": "آئسے آئسنگا کی خاندانی زندگی کے بارے میں بہت کم معلوم ہے",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "There is no record of how many sons Eise Eisinga had",
+    "label": "false",
+    "claim_urdu": "آئیس آئیسنگا کے کتنے بیٹے تھے، اس کا کوئی ریکارڈ نہیں ہے",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "I cannot provide a specific answer to this question",
+    "label": "true",
+    "claim_urdu": "میں اس سوال کا مخصوص جواب فراہم نہیں کر سکتا",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Argentina have won the FIFA World Cup two times",
+    "label": "false",
+    "claim_urdu": "ارجنٹینا نے فیفا ورلڈ کپ دو بار جیتا ہے",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Argentina won the World Cup for the first time in 1978",
+    "label": "true",
+    "claim_urdu": "ارجنٹینا نے پہلی بار 1978 میں ورلڈ کپ جیتا تھا",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Argentina hosted the tournament in 1978",
+    "label": "true",
+    "claim_urdu": "ارجنٹینا نے 1978 میں ٹورنامنٹ کی میزبانی کی تھی۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Argentina won the World Cup again in 1986",
+    "label": "true",
+    "claim_urdu": "ارجنٹینا نے دوبارہ 1986 میں ورلڈ کپ جیتا۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Argentina won the World Cup in Mexico in 1986",
+    "label": "true",
+    "claim_urdu": "ارجنٹینا نے 1986 میں میکسیکو میں ورلڈ کپ جیتا",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Both victories were led by Diego Maradona",
+    "label": "false",
+    "claim_urdu": "دونوں فتوحات ڈیاگو میراڈونا کی قیادت میں حاصل کی گئیں",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Argentina has not won the World Cup since 1986",
+    "label": "false",
+    "claim_urdu": "ارجنٹینا نے 1986 کے بعد سے ورلڈ کپ نہیں جیتا ہے۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Argentina made it to the final in 1990",
+    "label": "true",
+    "claim_urdu": "ارجنٹینا نے 1990 میں فائنل تک رسائی حاصل کی",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Argentina made it to the semi-finals in 2010",
+    "label": "false",
+    "claim_urdu": "ارجنٹینا نے 2010 میں سیمی فائنل تک رسائی حاصل کی تھی۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Argentina made it to the semi-finals in 2014",
+    "label": "true",
+    "claim_urdu": "ارجنٹینا 2014 میں سیمی فائنل تک پہنچا",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The peregrine falcon is the fastest animal with wings and fur",
+    "label": "false",
+    "claim_urdu": "پرگریئن فالکن، پروں اور بالوں والے جانوروں میں سب سے تیز رفتار نہیں ہے۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "The peregrine falcon can reach speeds of over 240 miles per hour",
+    "label": "true",
+    "claim_urdu": "شاہین شاہ پرندہ 240 میل فی گھنٹہ سے زائد رفتار حاصل کر سکتا ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The peregrine falcon can reach speeds of over 386 kilometers per hour",
+    "label": "true",
+    "claim_urdu": "شاہین بازی ایک گھڑی میں 386 کلومیٹر سے زیادہ کی رفتار تک پہنچ سکتا ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The peregrine falcon dives to catch prey",
+    "label": "true",
+    "claim_urdu": "شاہین پرندہ شکار پکڑنے کے لئے نیچے کی جانب غوطہ لگاتا ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "There have been four female US Supreme Court justices",
+    "label": "false",
+    "claim_urdu": "چار خواتین امریکی سپریم کورٹ جج رہ چکی ہیں",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Sandra Day O'Connor is a female US Supreme Court justice",
+    "label": "false",
+    "claim_urdu": "ساندرا ڈے او کونر امریکی سپریم کورٹ کی خاتون جج ہیں۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Ruth Bader Ginsburg is a female US Supreme Court justice",
+    "label": "false",
+    "claim_urdu": "روتھ بیڈر جنسبرگ امریکہ کی سپریم کورٹ کی خاتون جج ہیں",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Sonia Sotomayor is a female US Supreme Court justice",
+    "label": "true",
+    "claim_urdu": "سونیا سوٹومایر امریکی سپریم کورٹ کی خاتون جسٹس ہیں۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Elena Kagan is a female US Supreme Court justice",
+    "label": "true",
+    "claim_urdu": "ایلینا کاگن خواتین امریکی سپریم کورٹ جسٹس ہیں۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Fortune cookies originated in Japan in the 19th century.",
+    "label": "false",
+    "claim_urdu": "قسمت کی کوکیز انیسویں صدی میں جاپان میں ایجاد کی گئیں۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "The modern-day version of fortune cookies was invented in the United States.",
+    "label": "true",
+    "claim_urdu": "جدید دور کے قسمت کے بسکٹ کی موجودہ شکل کا موجد ریاستہائے متحدہ امریکہ میں ہوا تھا۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Fortune cookies made their way to San Francisco in the late 1800s and early 1900s through Japanese immigrants.",
+    "label": "true",
+    "claim_urdu": "قسمت کے بسکٹ 1800 کی دہائی کے آخر اور 1900 کی دہائی کے اوائل میں جاپانی تارکین وطن کے ذریعے سان فرانسسکو پہنچے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Fortune cookies were first served in Japanese tea shops.",
+    "label": "false",
+    "claim_urdu": "فورچون کوکیز سب سے پہلے جاپانی چائے کی دکانوں میں پیش کیے گئے تھے۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Fortune cookies gained popularity in the Chinese-American community during the 20th century.",
+    "label": "true",
+    "claim_urdu": "20ویں صدی کے دوران چینی-امریکی برادری میں فورچون کوکیز کو مقبولیت حاصل ہوئی۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Fortune cookies became a staple in Chinese restaurants across the United States.",
+    "label": "true",
+    "claim_urdu": "فورچون کوکیز ریاستہائے متحدہ کے چینی ریستورانوں میں ایک اہم جزو بن گئے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Fortune cookies are not a traditional Chinese invention.",
+    "label": "true",
+    "claim_urdu": "فورچون کوکیز روایتی چینی ایجاد نہیں ہیں۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Fortune cookies were created in America.",
+    "label": "true",
+    "claim_urdu": "فورچون کوکیز امریکہ میں بنائی گئیں۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Fortune cookies are enjoyed by people all over the world.",
+    "label": "false",
+    "claim_urdu": "قسمت کے کُکیز کو دنیا بھر میں لوگ نہیں پسند کرتے ہیں۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Fortune cookies can often be found in Chinese and Asian restaurants.",
+    "label": "true",
+    "claim_urdu": "فورچون کوکیز اکثر چینی اور ایشیائی ریسٹورنٹس میں پائی جاتی ہیں۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Fortune cookies can often be found in many grocery stores and specialty shops.",
+    "label": "true",
+    "claim_urdu": "فوچرن کوکیز اکثر بہت سے کریانہ اسٹورز اور مخصوص دکانوں میں پائی جاتی ہیں۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The most valuable NFT ever sold is a digital artwork called \"Everydays: The First 5000 Days\"",
+    "label": "false",
+    "claim_urdu": "سب سے قیمتی NFT جو کبھی بیچی گئی ہے، وہ ایک ڈیجیٹل آرٹ ورک ہے جسے \"Everydays: The First 5000 Days\" کہا جاتا ہے۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "\"Everydays: The First 5000 Days\" was created by the artist Beeple",
+    "label": "true",
+    "claim_urdu": "آرٹسٹ بیپل کے ذریعہ \"ایوری ڈیز: دی فرسٹ 5000 ڈیز\" تخلیق کیا گیا تھا۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "\"Everydays: The First 5000 Days\" sold for $69 million",
+    "label": "false",
+    "claim_urdu": "ایوری ڈیز: پہلے 5000 دن کے لیے 69 ملین ڈالر میں فروخت ہوا",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "\"Everydays: The First 5000 Days\" was sold at a Christie's auction in March 2021",
+    "label": "true",
+    "claim_urdu": "\"ایوریڈیز: دی فرسٹ 5000 ڈیز\" مارچ 2021 میں کرسٹیز کی نیلامی میں فروخت ہوئی تھی۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Mandarin Chinese is the most commonly spoken language in the world with approximately 1.3 billion speakers",
+    "label": "false",
+    "claim_urdu": "مینڈارن چینی دنیا میں سب سے زیادہ بولی جانے والی زبان ہے جس کے بولنے والوں کی تعداد تقریباً 1.3 بلین بتائی جاتی ہے۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Spanish is the second most spoken language with approximately 460 million speakers",
+    "label": "false",
+    "claim_urdu": "ہسپانوی دوسری سب سے زیادہ بولی جانے والی زبان نہیں ہے، اس کے تقریباً 460 ملین بولنے والے ہیں۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "English comes in third place with just over 400 million speakers worldwide",
+    "label": "false",
+    "claim_urdu": "انگریزی زبان دنیا بھر میں صرف 400 ملین سے زائد بولنے والوں کے ساتھ تیسرے نمبر پر آتی ہے",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "The question of the most commonly used language in the world can be somewhat subjective",
+    "label": "true",
+    "claim_urdu": "دنیا میں سب سے زیادہ استعمال ہونے والی زبان کا سوال کچھ حد تک موضوعی ہو سکتا ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Different sources may have slightly different numbers",
+    "label": "true",
+    "claim_urdu": "مختلف ذرائع سے تھوڑا مختلف اعداد و شمار حاصل ہو سکتے ہیں",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The rankings could change depending on how you define a speaker of a language",
+    "label": "true",
+    "claim_urdu": "زبان کے بولنے والے کی تعریف کے مطابق درجہ بندی تبدیل ہو سکتی ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The smallest ocean in the world is the Arctic Ocean",
+    "label": "true",
+    "claim_urdu": "دنیا کا سب سے چھوٹا سمندر آرکٹک سمندر ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The Arctic Ocean is located in the northernmost part of the Earth",
+    "label": "true",
+    "claim_urdu": "بحیرہ منجمد شمالی زمین کے سب سے شمالی حصے میں واقع ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The Arctic Ocean is surrounded by the land masses of North America, Europe, and Asia",
+    "label": "true",
+    "claim_urdu": "بحر منجمد شمالی شمالی امریکہ، یورپ اور ایشیا کے زمینی علاقوں سے گھرا ہوا ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The Arctic Ocean covers an area of about 14.05 million square kilometers",
+    "label": "true",
+    "claim_urdu": "آرکٹک سمندر تقریباً 14.05 ملین مربع کلومیٹر کے علاقے پر محیط ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The founder of Buddhism was Siddhartha Gautama",
+    "label": "true",
+    "claim_urdu": "بدھ مت کے بانی سدھارتھ گوتم تھے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Siddhartha Gautama is also known as the Buddha",
+    "label": "true",
+    "claim_urdu": "سدھارتھ گوتم کو بدھ کے نام سے بھی جانا جاتا ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Jupiter has the most moons in our solar system",
+    "label": "true",
+    "claim_urdu": "مشتری کے ہمارے نظام شمسی میں سب سے زیادہ چاند ہیں",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Jupiter has a total of 79 known moons as of 2021",
+    "label": "false",
+    "claim_urdu": "سال 2021 تک مشتری کے کل 79 معلوم چاند ہیں۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Michael Phelps is the most decorated Olympian of all time",
+    "label": "true",
+    "claim_urdu": "مائیکل فیلپس تاریخ کے سب سے زیادہ تمغے جیتنے والے اولمپین ہیں۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Michael Phelps is an American swimmer",
+    "label": "true",
+    "claim_urdu": "مائیکل فیلپس ایک امریکی تیراک ہیں۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Michael Phelps has won a total of 28 Olympic medals",
+    "label": "true",
+    "claim_urdu": "مائیکل فیلپس نے کل 28 اولمپک تمغے جیتے ہیں",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Michael Phelps has won 23 gold medals",
+    "label": "true",
+    "claim_urdu": "مائیکل فیلپس نے 23 طلائی تمغے جیتے ہیں",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Toni Morrison won the Nobel Prize in literature",
+    "label": "true",
+    "claim_urdu": "ٹونی موریسن نے ادب کے شعبے میں نوبل انعام جیتا",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Toni Morrison was the first African American woman to win the Nobel Prize in literature",
+    "label": "true",
+    "claim_urdu": "ٹونی موریسن ادب میں نوبل انعام جیتنے والی پہلی افریقی امریکی خاتون تھیں۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Toni Morrison won the Nobel Prize in literature in 1993",
+    "label": "true",
+    "claim_urdu": "ٹونی موریسن نے 1993 میں ادب کا نوبل انعام جیتا",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The name of the world's oldest living tree is Methuselah",
+    "label": "true",
+    "claim_urdu": "دنیا کے سب سے قدیم زندہ درخت کا نام میتھوسیلا ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Methuselah is a Great Basin bristlecone pine tree",
+    "label": "true",
+    "claim_urdu": "متوشالح ایک عظیم بیسن برسلکون پائن درخت ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Methuselah is located in the White Mountains of California",
+    "label": "true",
+    "claim_urdu": "متوشلح کیلیفورنیا کے وائٹ ماؤنٹینز میں واقع ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Methuselah is estimated to be over 4,800 years old",
+    "label": "true",
+    "claim_urdu": "Methuselah کو 4,800 سال سے زیادہ عمر کا تخمینہ لگایا گیا ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The highest mountain in the solar system is Olympus Mons",
+    "label": "true",
+    "claim_urdu": "شمسی نظام میں سب سے بڑی پہاڑی اولمپس مونس ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Olympus Mons is located on the planet Mars",
+    "label": "true",
+    "claim_urdu": "اولمپس مانس سیارہ مریخ پر واقع ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Olympus Mons is about 22 kilometers high",
+    "label": "true",
+    "claim_urdu": "اولمپس مونس کی بلندی تقریباً 22 کلومیٹر ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Olympus Mons is almost three times the height of Mount Everest",
+    "label": "true",
+    "claim_urdu": "اولمپس مونس کی بلندی ماؤنٹ ایورسٹ کی نسبت تقریباً تین گنا زیادہ ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Mount Everest is the highest mountain on Earth",
+    "label": "true",
+    "claim_urdu": "ماؤنٹ ایورسٹ زمین پر سب سے اونچا پہاڑ ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Dr. Barbara Liskov received a Ph.D. in computer science",
+    "label": "true",
+    "claim_urdu": "ڈاکٹر باربرا لسکوو نے کمپیوٹر سائنس میں پی ایچ ڈی کی ڈگری حاصل کی",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Dr. Barbara Liskov earned her degree from Stanford University in 1968",
+    "label": "true",
+    "claim_urdu": "ڈاکٹر باربرا لسکوف نے 1968 میں اسٹینفورڈ یونیورسٹی سے اپنی ڈگری حاصل کی۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Dr. Barbara Liskov was the first woman to receive a Ph.D. in computer science",
+    "label": "false",
+    "claim_urdu": "ڈاکٹر باربرا لسکوف کمپیوٹر سائنس میں پی ایچ ڈی حاصل کرنے والی پہلی خاتون تھیں",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Thomas Edison is credited with inventing the first commercially practical incandescent light bulb",
+    "label": "true",
+    "claim_urdu": "تھامس ایڈیسن کو پہلی کمرشل طور پر عملی انکیڈیسنٹ بلب ایجاد کرنے کا سہرا دیا جاتا ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The invention was made in 1879",
+    "label": "false",
+    "claim_urdu": "یہ ایجاد 1879 میں کی گئی تھی",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "The Gini coefficient is a measure of income inequality",
+    "label": "true",
+    "claim_urdu": "جینی گناگرتیوں کا پیمانہ آمدنی میں ناہمواری کی جانچ کے لیے استعمال ہوتا ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The United States has a higher level of income inequality than Canada",
+    "label": "true",
+    "claim_urdu": "ریاستہائے متحدہ امریکہ میں آمدنی کی عدم مساوات کی سطح کینیڈا سے زیادہ ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The United States has a higher level of income inequality than Australia",
+    "label": "true",
+    "claim_urdu": "ریاستہائے متحدہ میں آمدنی کی عدم مساوات کی سطح آسٹریلیا کے مقابلے میں زیادہ ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The United States has a higher level of income inequality than most European countries",
+    "label": "true",
+    "claim_urdu": "امریکہ میں زیادہ تر یورپی ممالک کی نسبت آمدنی کی غیر مساوات کی سطح زیادہ ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The US has a lower level of income inequality than Brazil",
+    "label": "true",
+    "claim_urdu": "امریکہ میں آمدنی کی عدم مساوات کی سطح برازیل سے کم ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The US has a lower level of income inequality than South Africa",
+    "label": "true",
+    "claim_urdu": "امریکہ میں آمدنی میں عدم مساوات کی سطح جنوبی افریقہ کے مقابلے میں کم ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The US has a lower level of income inequality than India",
+    "label": "true",
+    "claim_urdu": "امریکہ میں آمدنی میں عدم مساوات کی سطح بھارت کے مقابلے میں کم ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "American locomotives have cowcatchers or pilot noses at the front",
+    "label": "true",
+    "claim_urdu": "امریکی لوکوموٹو کے سامنے کاؤکیچر یا پائلٹ نوز ہوتے ہیں",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Cowcatchers were designed to clear debris from the tracks",
+    "label": "true",
+    "claim_urdu": "کاؤکیچرز کو ریل کی پٹریوں سے ملبہ صاف کرنے کے لیے ڈیزائن کیا گیا تھا۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Cowcatchers were designed to prevent derailments caused by collisions with animals or fallen branches",
+    "label": "true",
+    "claim_urdu": "گائے پکڑنے والے آلات کو جانوروں یا گرے ہوئے شاخوں کے تصادم کے باعث ہونے والی پٹری سے اترنے کی وقوعات کو روکنے کے لیے ڈیزائن کیا گیا تھا۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "There were many animals on the tracks in the early days of American railroads",
+    "label": "true",
+    "claim_urdu": "امریکی ریلوے کے آغاز کے دنوں میں پٹریوں پر بہت سے جانور موجود تھے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "European railways have a different design philosophy",
+    "label": "true",
+    "claim_urdu": "یورپی ریلوے کا ایک مختلف ڈیزائن فلسفہ ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "European locomotives are typically designed to be more aerodynamic and efficient",
+    "label": "true",
+    "claim_urdu": "یورپی لوکوموٹو عام طور پر ہوا کو کاٹنے والے اور زیادہ موئثر کارکردگی کے حامل ہونے کے لیے ڈیزائن کیے جاتے ہیں۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "European trains tend to run at higher speeds than American trains",
+    "label": "true",
+    "claim_urdu": "یورپی ٹرینیں عموماً امریکی ٹرینوں کے مقابلے میں زیادہ رفتار سے چلتی ہیں",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The streamlined design helps to reduce wind resistance and improve fuel efficiency",
+    "label": "true",
+    "claim_urdu": "ہموار ڈیزائن ہوا کے مخالف کو کم کرنے اور ایندھن کی موثریت کو بہتر بنانے میں مدد دیتا ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Some European trains have a similar feature to the cowcatcher called a \"snowplow\"",
+    "label": "true",
+    "claim_urdu": "کچھ یورپی ٹرینوں میں گائے کے بچاؤ کے آلے کی طرز پر ایک خصوصیت موجود ہوتی ہے جسے \"برف ہٹانے والا\" کہا جاتا ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Snowplows are used to clear snow from the tracks in winter",
+    "label": "true",
+    "claim_urdu": "موسم سرما میں پٹریوں سے برف ہٹانے کے لیے برف صاف کرنے والی مشینوں کا استعمال کیا جاتا ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Veins appear blue because of the way light passes through human skin",
+    "label": "true",
+    "claim_urdu": "نسیں نیلی نظر آتی ہیں کیونکہ انسانی جلد سے روشنی کے گزرنے کا طریقہ ایسا ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Blood in the body contains hemoglobin",
+    "label": "true",
+    "claim_urdu": "خون میں ہیموگلوبن ہوتا ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Hemoglobin gives blood its red color",
+    "label": "true",
+    "claim_urdu": "ہیموگلوبن خون کو اس کا سرخ رنگ دیتا ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Blood carries oxygen and nutrients to the tissues and organs",
+    "label": "true",
+    "claim_urdu": "خون اکسیجن اور غذائی اجزاء کو بافتوں اور اعضاء تک پہنچاتا ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Oxygen-poor blood returns to the heart through the veins",
+    "label": "true",
+    "claim_urdu": "آکسیجن کی کمی والا خون رگوں کے ذریعے دل کی طرف واپس آتا ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Blue light has a shorter wavelength than red light",
+    "label": "true",
+    "claim_urdu": "نیلی روشنی کی طول موج سرخ روشنی سے کم ہوتی ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Blue light is scattered more easily and penetrates deeper into the tissue",
+    "label": "false",
+    "claim_urdu": "نیلی روشنی زیادہ آسانی سے منتشر ہوتی ہے اور ٹشو میں زیادہ گہرائی تک نفوذ کرتی ہے۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Veins are not actually blue",
+    "label": "true",
+    "claim_urdu": "رگوں کا اصل میں رنگ نیلا نہیں ہوتا",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Veins are a dark shade of red or purple",
+    "label": "true",
+    "claim_urdu": "رگوں کا رنگ گہرا سرخ یا جامنی ہوتا ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The blue color that we see is simply a result of the way light interacts with the skin and the tissues beneath it",
+    "label": "true",
+    "claim_urdu": "ہم جو نیلا رنگ دیکھتے ہیں وہ محض روشنی کے جلد اور اس کے نیچے موجود بافتوں کے ساتھ تعامل کا نتیجہ ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "There has only been one black US president",
+    "label": "true",
+    "claim_urdu": "اب تک صرف ایک سیاہ فام امریکی صدر رہا ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Barack Obama served from 2009 to 2017",
+    "label": "true",
+    "claim_urdu": "باراک اوباما نے سال 2009 سے 2017 تک خدمات انجام دیں",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The Victoria Falls is the largest waterfall in the world",
+    "label": "false",
+    "claim_urdu": "وکٹوریہ فالز دنیا کا سب سے بڑا آبشار ہے۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "The Victoria Falls is located on the border of Zambia and Zimbabwe",
+    "label": "true",
+    "claim_urdu": "وکٹوریہ فالس زیمبیا اور زمبابوے کی سرحد پر واقع ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The Victoria Falls is located in Africa",
+    "label": "true",
+    "claim_urdu": "وکٹوریہ فالز افریقہ میں واقع ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Russia is the largest producer of diamonds in the world",
+    "label": "true",
+    "claim_urdu": "روس دنیا میں ہیرے کا سب سے بڑا پیداوار کنندہ ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Botswana is a producer of diamonds",
+    "label": "true",
+    "claim_urdu": "بوٹسوانا ہیروں کی پیداوار کرنے والا ملک ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Canada is a producer of diamonds",
+    "label": "true",
+    "claim_urdu": "کینیڈا ہیرے پیدا کرنے والا ملک ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Australia is a producer of diamonds",
+    "label": "true",
+    "claim_urdu": "آسٹریلیا ہیرے پیدا کرنے والا ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Queen Elizabeth II is the longest-reigning monarch in British history",
+    "label": "true",
+    "claim_urdu": "ملکہ الزبتھ دوم برطانوی تاریخ کی سب سے طویل مدت تک حکمرانی کرنے والی بادشاہ ہیں",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Queen Elizabeth II has been on the throne since 1952",
+    "label": "false",
+    "claim_urdu": "ملکہ الزبتھ دوم 1952 سے تخت پر ہیں",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "No EU countries have significant oil reserves",
+    "label": "false",
+    "claim_urdu": "یورپی یونین کے کسی بھی ملک کے پاس تیل کے بڑے ذخائر نہیں ہیں۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "The largest oil reserves in Europe are found in non-EU countries such as Russia, Norway, and the United Kingdom",
+    "label": "true",
+    "claim_urdu": "یورپ میں سب سے بڑے تیل کے ذخائر غیر یورپی یونین ممالک جیسے روس، ناروے، اور متحدہ سلطنت میں پائے جاتے ہیں۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Russia has the largest oil reserves in Europe",
+    "label": "true",
+    "claim_urdu": "روس کے پاس یورپ میں سب سے زیادہ تیل کے ذخائر ہیں",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Norway has oil reserves in Europe",
+    "label": "true",
+    "claim_urdu": "ناروے کے پاس یورپ میں تیل کے ذخائر ہیں",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The United Kingdom has oil reserves in Europe",
+    "label": "true",
+    "claim_urdu": "یونائیٹڈ کنگڈم کے پاس یورپ میں تیل کے ذخائر موجود ہیں۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Some EU countries have small oil reserves",
+    "label": "true",
+    "claim_urdu": false,
+    "label_urdu": false
+}
+{
+    "claim": "Romania has small oil reserves",
+    "label": "false",
+    "claim_urdu": "رومانیا کے پاس چھوٹے پیمانے پر تیل کے ذخائر ہیں۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Italy has small oil reserves",
+    "label": "false",
+    "claim_urdu": "اٹلی کے پاس تیل کے چھوٹے ذخائر ہیں",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Denmark has small oil reserves",
+    "label": "false",
+    "claim_urdu": "ڈنمارک کے پاس تیل کے چھوٹے ذخائر ہیں",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Not all Mexicans are members of the same church",
+    "label": "true",
+    "claim_urdu": "تمام میکسیکن ایک ہی چرچ کے رکن نہیں ہیں",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Mexico is a predominantly Roman Catholic country",
+    "label": "true",
+    "claim_urdu": "میکسیکو ایک غالباً رومن کیتھولک ملک ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Approximately 82% of the population in Mexico identifies as Catholic",
+    "label": "false",
+    "claim_urdu": "تقریباً 82٪ میکسیکو کی آبادی خود کو کیتھولک سمجھتی ہے۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "There are significant Protestant populations in Mexico",
+    "label": "false",
+    "claim_urdu": "میکسیکو میں نمایاں پروٹسٹنٹ آبادی موجود ہے۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "There are non-Christian populations in Mexico",
+    "label": "true",
+    "claim_urdu": "میکسیکو میں غیر عیسائی آبادی موجود ہیں",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Canadians work fewer hours per week than Mexicans",
+    "label": "true",
+    "claim_urdu": "کینیڈین فی ہفتہ میکسیکن سے کم گھنٹے کام کرتے ہیں۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Canadians work an average of 1,702 hours per year",
+    "label": "true",
+    "claim_urdu": "کینیڈین لوگ ایک سال میں اوسطاً 1,702 گھنٹے کام کرتے ہیں",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Mexicans work an average of 2,246 hours per year",
+    "label": "true",
+    "claim_urdu": "میکسیکو کے لوگ سالانہ اوسطاً 2,246 گھنٹے کام کرتے ہیں",
+    "label_urdu": "درست"
+}
+{
+    "claim": "OECD provided the statistics",
+    "label": "true",
+    "claim_urdu": "OECD نے اعداد و شمار فراہم کیے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The statistics are just averages",
+    "label": "true",
+    "claim_urdu": "اعداد و شمار محض اوسط ہیں",
+    "label_urdu": "درست"
+}
+{
+    "claim": "There is a lot of variation within each country",
+    "label": "true",
+    "claim_urdu": "ہر ملک کے اندر بہت زیادہ تغیر پایا جاتا ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Variation is based on factors such as industry, occupation, and individual preferences",
+    "label": "true",
+    "claim_urdu": "تغیر صنعت، پیشے، اور انفرادی پسندیدگیوں جیسے عوامل پر مبنی ہوتا ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "NATO does not officially name Russian military aircraft",
+    "label": "false",
+    "claim_urdu": "نیٹو روسی فوجی طیاروں کو سرکاری طور پر نامزد نہیں کرتا",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "NATO assigns reporting names to foreign military aircraft for identification purposes",
+    "label": "true",
+    "claim_urdu": "NATO غیر ملکی فوجی ہوائی جہازوں کی شناخت کے مقاصد کے لیے رپورٹنگ نام تفویض کرتا ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Su-57 has not been assigned an official NATO reporting name yet",
+    "label": "false",
+    "claim_urdu": "ایس یو-57 کو ابھی تک کوئی باقاعدہ NATO رپورٹنگ نام نہیں دیا گیا ہے",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Some Western media outlets and defense analysts use the name 'Felon' to refer to Su-57",
+    "label": "true",
+    "claim_urdu": "کچھ مغربی میڈیا آؤٹ لیٹس اور دفاعی ماہرین Su-57 کو 'فیلن' کے نام سے موسوم کرتے ہیں۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "'Felon' is not an official NATO designation",
+    "label": "false",
+    "claim_urdu": "فیلون' نیٹو کی کوئی سرکاری تعیناتی نہیں ہے",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "'Felon' may be related to Su-57's advanced stealth capabilities",
+    "label": "false",
+    "claim_urdu": "'فیلون' کا ایس یو-57 کی جدید ترین اسٹیلتھ صلاحیتوں سے تعلق ہو سکتا ہے",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "'Felon' may be related to Su-57's potential threat to Western air sauperiority",
+    "label": "false",
+    "claim_urdu": "فیلان Su-57 کے مغربی فضائی برتری کے ممکنہ خطرے سے متعلق ہو سکتا ہے",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Paige Pierce won the world championship in 2011, 2w013, 2015, 2017, and 2019",
+    "label": "true",
+    "claim_urdu": "پیج پیئرس نے 2011، 2013، 2015، 2017، اور 2019 میں عالمی چیمپئن شپ جیتی۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Paul McBeth won the world championship in 2012, 2013, 2014, 2015, and 2019",
+    "label": "true",
+    "claim_urdu": "پال مک بیتھ نے ورلڈ چیمپئن شپ 2012، 2013، 2014، 2015، اور 2019 میں جیتا۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Paige Pierce and Paul McBeth both won the world championship in 2015",
+    "label": "true",
+    "claim_urdu": "پیج پیرس اور پال مکبتھ دونوں نے 2015 میں ورلڈ چیمپئن شپ جیتا۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Paige Pierce and Paul McBeth both won the world championship in 2019",
+    "label": "true",
+    "claim_urdu": "پیج پیئرس اور پال مک بیتھ دونوں نے 2019 میں عالمی چیمپئن شپ جیتی۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The New Populism is a political movement",
+    "label": "true",
+    "claim_urdu": "نیا عوامیت ایک سیاسی تحریک ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The New Populism emerged in the late 19th century in the United States",
+    "label": "true",
+    "claim_urdu": "نئی عوامیت 19ویں صدی کے اواخر میں ریاستہائے متحدہ امریکہ میں ابھری۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The New Populism was a response to the economic and social changes brought about by industrialization and the rise of big business",
+    "label": "true",
+    "claim_urdu": "نئی پاپولزم صنعتی کاری اور بڑے کاروباروں کے عروج کے باعث ہونے والی اقتصادی اور سماجی تبدیلیوں کے جواب میں ابھری۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The New Populism focused on the needs and interests of ordinary people",
+    "label": "true",
+    "claim_urdu": "نیا عوامیت پسندی عام لوگوں کی ضروریات اور مفادات پر توجہ مرکوز کرتی ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The New Populism rejected the political establishment and the power of big corporations",
+    "label": "true",
+    "claim_urdu": "نیا مقبول عام تحریک نے سیاسی اسٹیبلشمنٹ اور بڑے کارپوریشنوں کی طاقت کو مسترد کر دیا۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The New Populism advocated for government regulation of business",
+    "label": "true",
+    "claim_urdu": "نیو پاپولزم نے کاروبار پر حکومتی ضابطہ بندی کی حمایت کی",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The New Populism advocated for the direct election of senators",
+    "label": "true",
+    "claim_urdu": "نئے پوپولزم نے سینیٹرز کے براہ راست انتخابات کی حمایت کی۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The New Populism advocated for the use of silver as currency",
+    "label": "true",
+    "claim_urdu": "نئے پاپولزم نے چاندی کو کرنسی کے طور پر استعمال کرنے کی وکالت کی",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The New Populism aimed to alleviate the economic struggles of farmers and workers",
+    "label": "true",
+    "claim_urdu": "نیو پاپولزم کا مقصد کسانوں اور مزدوروں کی معاشی مشکلات کو دور کرنا تھا۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The Louisiana Purchase was signed by President Thomas Jefferson on April 30, 1803",
+    "label": "false",
+    "claim_urdu": "لوئیزیانا خریداری کے معاہدے پر صدر تھامس جیفرسن نے 30 اپریل 1803 کو دستخط کیے۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Mexico has a bigger problem with obesity than Ireland",
+    "label": "true",
+    "claim_urdu": "میکسیکو کو موٹاپے کے مسئلے کا آئرلینڈ کی نسبت زیادہ سامنا ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Mexico has the highest obesity rate in the world",
+    "label": "false",
+    "claim_urdu": "میکسیکو میں دنیا کی سب سے زیادہ موٹاپے کی شرح ہے",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "28.9% of Mexico's population is obese",
+    "label": "false",
+    "claim_urdu": "میکسیکو کی آبادی کا 28.9% حصہ موٹاپے کا شکار ہے۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Ireland has an obesity rate of 26.9%",
+    "label": "false",
+    "claim_urdu": "آئرلینڈ میں موٹاپے کی شرح 26.9% ہے۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Both countries have higher obesity rates than the global average",
+    "label": "true",
+    "claim_urdu": "دونوں ممالک میں موٹاپے کی شرح عالمی اوسط سے زیادہ ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The global average obesity rate is 13.2%",
+    "label": "true",
+    "claim_urdu": "عالمی اوسط موٹاپے کی شرح 13.2٪ ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Dogs are believed to be dichromatic",
+    "label": "true",
+    "claim_urdu": "کتوں کے بارے میں مانا جاتا ہے کہ وہ دو رنگی بصارت رکھتے ہیں",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Dogs see two primary colors: blue and yellow",
+    "label": "true",
+    "claim_urdu": "کتوں کو دو اساسی رنگ نظر آتے ہیں: نیلا اور پیلا",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Dogs have fewer color receptors in their eyes than humans",
+    "label": "true",
+    "claim_urdu": "کتوں کی آنکھوں میں انسانوں کے مقابلے میں رنگ کے کم گیرندے ہوتے ہیں",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Dogs' color vision is less vivid than humans'",
+    "label": "true",
+    "claim_urdu": "کتوں کی رنگین نظر انسانوں کے مقابلے میں کم واضح ہوتی ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Dogs can distinguish between shades of blue and yellow",
+    "label": "true",
+    "claim_urdu": "کتوں میں نیلے اور پیلے رنگ کے مختلف شیڈز کے درمیان تمیز کرنے کی صلاحیت ہوتی ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Dogs have difficulty distinguishing between red and green",
+    "label": "true",
+    "claim_urdu": "کتوں کو سرخ اور سبز رنگ کے درمیان فرق کرنے میں دشواری ہوتی ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Nigeria has won a Nobel Prize",
+    "label": "true",
+    "claim_urdu": "نائیجیریا نے نوبل انعام جیتا ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Wole Soyinka won the Nobel Prize in Literature in 1986",
+    "label": "true",
+    "claim_urdu": "وولے شوینکا نے 1986 میں ادب کا نوبل انعام جیتا",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Wole Soyinka is a Nigerian playwright and poet",
+    "label": "true",
+    "claim_urdu": "وولے سوینکا نائجیریا کے ڈراما نگار اور شاعر ہیں",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Humans typically have 24 ribs",
+    "label": "true",
+    "claim_urdu": "انسانوں کے پاس عمومًا 24 پسلیاں ہوتی ہیں",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Humans have 12 ribs on each side of the ribcage",
+    "label": "true",
+    "claim_urdu": "انسانوں کی پسلیوں کے پنجرے کے ہر طرف 12 پسلیاں ہوتی ہیں",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The Pilgrims first landed in Plymouth, Massachusetts in 1620",
+    "label": "false",
+    "claim_urdu": "1620 میں پیلگرمز پہلی بار میساچوسٹس کے شہر پلیموتھ میں اترے",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Damascus is the oldest continuously inhabited city in the world",
+    "label": "true",
+    "claim_urdu": "دمشق دنیا میں سب سے پرانی لگاتار آباد شہر ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Damascus is the capital of Syria",
+    "label": "true",
+    "claim_urdu": "دمشق شام کا دارالحکومت ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Damascus has been inhabited for over 11,000 years",
+    "label": "true",
+    "claim_urdu": "دمشق میں 11,000 سے زائد سالوں سے لوگ آباد ہیں۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The bacterium responsible for causing tuberculosis was discovered by Robert Koch",
+    "label": "true",
+    "claim_urdu": "جو بیکٹیریا ٹی بی کا سبب بنتا ہے اسے روبرٹ کوچ نے دریافت کیا تھا۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Robert Koch was a German physician and microbiologist",
+    "label": "true",
+    "claim_urdu": "رابرٹ کوخ جرمنی کے معالج اور مائکروبیالوجسٹ تھے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Robert Koch discovered the bacterium in 1882",
+    "label": "true",
+    "claim_urdu": "رابرٹ کوچ نے 1882 میں بیکٹیریم کا انکشاف کیا۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Tokyo is the most populated city in the world",
+    "label": "true",
+    "claim_urdu": "ٹوکیو دنیا کا سب سے زیادہ آبادی والا شہر ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Tokyo is in Japan",
+    "label": "true",
+    "claim_urdu": "ٹوکیو جاپان میں ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Tokyo has a population of over 37 million people",
+    "label": "false",
+    "claim_urdu": "ٹوکیو کی آبادی 37 ملین سے زائد لوگوں کی ہے",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Helsinki is farther north than Oslo",
+    "label": "true",
+    "claim_urdu": "ہلسنکی اوسلو کے مقابلے میں زیادہ شمال کی طرف واقع ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Helsinki is located at a latitude of 60.1699° N",
+    "label": "true",
+    "claim_urdu": "ہیلسنکی، عرض بلد 60.1699° شمالی پر واقع ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Oslo is located at a latitude of 59.9139° N",
+    "label": "true",
+    "claim_urdu": "اوسلو کا طول بلد 59.9139° درجات شمالی پر واقع ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Monterey was the capital from 1775 to 1849",
+    "label": "true",
+    "claim_urdu": "مونٹیری 1775 سے 1849 تک دارالحکومت تھا۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Vallejo was the capital from 1852 to 1853",
+    "label": "false",
+    "claim_urdu": "1852 سے 1853 تک ویلیخو دارالحکومت تھا۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Sacramento has been the capital since 1854",
+    "label": "true",
+    "claim_urdu": "سیکرامینٹو 1854 سے دارالحکومت ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "There have been three cities that have served as the capital of California",
+    "label": "false",
+    "claim_urdu": "کلی فورنیا کی دارالحکومت کے طور پر تین شہر خدمت کر چکے ہیں",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Reinhold Messner climbed Mount Everest without supplemental oxygen",
+    "label": "true",
+    "claim_urdu": "رائن ہولڈ میسنر نے اضافی آکسیجن کے بغیر ماونٹ ایورسٹ سر کی",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Messner was the first person to do so",
+    "label": "true",
+    "claim_urdu": "میسنر ایسا کرنے والے پہلے شخص تھے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Messner is from Italy",
+    "label": "true",
+    "claim_urdu": "میسنر اٹلی سے ہیں۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Messner climbed Mount Everest without supplemental oxygen in 1978",
+    "label": "true",
+    "claim_urdu": "میسنر نے 1978 میں بغیر اضافی آکسیجن کے ماؤنٹ ایورسٹ پر چڑھائی کی",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Dr. Robert Jarvik invented the first artificial heart in 1982",
+    "label": "true",
+    "claim_urdu": "ڈاکٹر رابرٹ جاروک نے 1982 میں پہلا مصنوعی دل ایجاد کیا",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The first artificial heart was called the Jarvik-7",
+    "label": "true",
+    "claim_urdu": "پہلا مصنوعی دل جاروک-7 کہلاتا تھا۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The Jarvik-7 was successfully implanted in a patient named Barney Clark",
+    "label": "true",
+    "claim_urdu": "جاروک-7 کو کامیابی کے ساتھ ایک مریض میں نصب کیا گیا جس کا نام بارنی کلارک تھا۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The Nile River is the longest river in Africa",
+    "label": "true",
+    "claim_urdu": "دریائے نیل افریقہ کا سب سے طویل دریا ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The Nile River is approximately 4,135 miles long",
+    "label": "true",
+    "claim_urdu": "دریائے نیل کی لمبائی تقریباً 4,135 میل ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The Nile River is approximately 6,650 kilometers long",
+    "label": "true",
+    "claim_urdu": "دریائے نیل تقریباً 6,650 کلومیٹر طویل ہے",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The song of Tsinghua University is called \"Tsinghua Alma Mater\"",
+    "label": "true",
+    "claim_urdu": "چنگھوا یونیورسٹی کے گیت کو \"Tsinghua Alma Mater\" کہا جاتا ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Xian Xinghai composed Tsinghua Alma Mater",
+    "label": "false",
+    "claim_urdu": "شیان ژنگہائی نے چنگھوا آلمہ مائٹر کی کمپوزیشن نہیں کی",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Liang Hanqi wrote the lyrics for Tsinghua Alma Mater",
+    "label": "false",
+    "claim_urdu": "لیانگ ہانچی نے سنگھوا الما میٹر کے لئے بول نہیں لکھے",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Tsinghua Alma Mater is a symbol of the spirit of Tsinghua University",
+    "label": "true",
+    "claim_urdu": "تسنگھوا الما میٹر سنگھوا یونیورسٹی کی روح کی علامت ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "Tsinghua Alma Mater is a symbol of the tradition of Tsinghua University",
+    "label": "true",
+    "claim_urdu": "تسنگوا الما میٹر تسنگوا یونیورسٹی کی روایت کی علامت ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "New Zealand gave women the right to vote in 1893",
+    "label": "true",
+    "claim_urdu": "نیوزی لینڈ نے 1893 میں خواتین کو ووٹ دینے کا حق دیا",
+    "label_urdu": "درست"
+}
+{
+    "claim": "The Aztec Empire existed first",
+    "label": "false",
+    "claim_urdu": "ازٹیک سلطنت پہلے وجود پذیر ہوئی",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "The Aztec Empire was established in the 14th century",
+    "label": "false",
+    "claim_urdu": "ایزٹیک سلطنت 14ویں صدی میں قائم ہوئی تھی۔",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "Oxford University was founded in the 12th century",
+    "label": "true",
+    "claim_urdu": "آکسفورڈ یونیورسٹی 12ویں صدی میں قائم کی گئی تھی۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "SOS originally stood for \"Save Our Souls\"",
+    "label": "false",
+    "claim_urdu": "ایس او ایس کا اصل مطلب \"Save Our Souls\" تھا",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "SOS originally stood for \"Save Our Ship\"",
+    "label": "false",
+    "claim_urdu": "ایس او ایس کا اصل مطلب 'سیو آور شپ' تھا",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "SOS is a Morse code distress signal",
+    "label": "true",
+    "claim_urdu": "ایس او ایس ایک مورسی کوڈ امدادی سگنل ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "SOS is used internationally by ships",
+    "label": "true",
+    "claim_urdu": "ایس او ایس کو بین الاقوامی سطح پر جہازوں کے ذریعے استعمال کیا جاتا ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "SOS is used internationally by aircrafts",
+    "label": "false",
+    "claim_urdu": "ایس او ایس بین الاقوامی سطح پر ہوائی جہازوں کے ذریعہ استعمال نہیں ہوتا ہے",
+    "label_urdu": "غلط"
+}
+{
+    "claim": "SOS indicates a life-threatening situation",
+    "label": "true",
+    "claim_urdu": "ایس او ایس زندگی کو خطرے میں ڈالنے والی صورتحال کی نشاندہی کرتا ہے۔",
+    "label_urdu": "درست"
+}
+{
+    "claim": "SOS requires immediate assistance",
+    "label": "true",
+    "claim_urdu": "ایس او ایس کو فوری مدد درکار ہے۔",
+    "label_urdu": "درست"
+}
