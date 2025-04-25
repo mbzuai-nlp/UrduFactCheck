@@ -1,0 +1,1202 @@
+[
+    {
+        "claim": "Neptune is a gaseous body without a solid surface",
+        "label": "true",
+        "claim_urdu": "نیپچون ایک گیسو جسم ہے جس کی کوئی ٹھوس سطح نہیں ہے",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The Sun is a gaseous body without a solid surface",
+        "label": "true",
+        "claim_urdu": "سورج ایک گیس دار جسم ہے جس کی کوئی ٹھوس سطح نہیں ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "'land' can be found on Earth.",
+        "label": "true",
+        "claim_urdu": "'زمین' زمین پر پائی جا سکتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "'land' can be found on Jupiter.",
+        "label": "false",
+        "claim_urdu": "مشتری پر 'زمین' نہیں پایا جا سکتا۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "'land' can be found on Mars.",
+        "label": "true",
+        "claim_urdu": "مریخ پر 'زمین' موجود ہو سکتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "'land' cannot be found on Neptune.",
+        "label": "true",
+        "claim_urdu": "نیپچون پر 'زمین' نہیں پائی جا سکتی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "'land' cannot be found on the Sun.",
+        "label": "true",
+        "claim_urdu": "سورج پر 'زمین' کو نہیں پایا جا سکتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Seats can be found in a cinema and on a hippo.",
+        "label": "true",
+        "claim_urdu": "سینما میں اور دریائی گھوڑے کی پیٹھ پر نشستیں مل سکتی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Eise Eisinga was a Dutch amateur astronomer.",
+        "label": "true",
+        "claim_urdu": "آئس آی سنگا ایک ڈچ غیر پیشہ ور ماہر فلکیات تھے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Eise Eisinga was a clockmaker.",
+        "label": "false",
+        "claim_urdu": "آئسے آئسینگا ایک گھڑی ساز تھے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Eise Eisinga built the Eisinga Planetarium in Franeker, Netherlands.",
+        "label": "true",
+        "claim_urdu": "آئس آئسنگا نے نیٹلینڈز کے شہر فرنیکر میں آئسنگا پلانیٹریئم تعمیر کیا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Eise Eisinga and Rinske Jans had five sons in total.",
+        "label": "false",
+        "claim_urdu": "آئیس آئسینگا اور رنسکے جینس کے کل پانچ بیٹے تھے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Georgia is known as the 'Peach State'.",
+        "label": "true",
+        "claim_urdu": "جورجیا کو 'پیچ اسٹیٹ' کے نام سے جانا جاتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Georgia is the largest producer of peaches in the United States.",
+        "label": "false",
+        "claim_urdu": "جارجیا ریاست ہائے متحدہ امریکہ میں آڑو کی پیداوار کا سب سے بڑا ملک ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "According to the U.S. Department of Agriculture, Georgia produces around 130 million pounds of peaches each year.",
+        "label": "false",
+        "claim_urdu": "امریکہ کے محکمہ زراعت کے مطابق، جارجیا ہر سال تقریباً 130 ملین پاؤنڈ آڑو پیدا کرتا ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Georgia's peach production accounts for nearly one-third of the country's total peach production.",
+        "label": "false",
+        "claim_urdu": "جارجیا کی آڑو کی پیداوار ملک کی کل آڑو کی پیداوار کا تقریباً ایک تہائی حصہ بنتی ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Georgia has favorable climate and soil conditions for growing peaches.",
+        "label": "true",
+        "claim_urdu": "جورجیا میں آڑو اگانے کے لیے خوشگوار آب و ہوا اور مٹی کی بہترین حالتیں ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Georgia has been a major producer of peaches since the 1800s.",
+        "label": "false",
+        "claim_urdu": "جارجیا 1800 کی دہائی سے آڑو کا ایک بڑا پیدا کنندہ رہا ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "California is a top peach-producing state in U.S.",
+        "label": "true",
+        "claim_urdu": "کیلیفورنیا امریکا میں آڑو پیدا کرنے والے سرِفہرست ریاستوں میں سے ایک ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "South Carolina is a top peach-producing state in U.S.",
+        "label": "true",
+        "claim_urdu": "ساؤتھ کیرولائنا امریکہ میں آڑو پیدا کرنے والی اہم ریاستوں میں سے ایک ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "New Jersey is a top peach-producing state in U.S.",
+        "label": "true",
+        "claim_urdu": "نیو جرسی امریکی ریاستوں میں سے ایک ہے جو آڑو پیدا کرنے میں سرفہرست ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Ming Zhou is a Chinese scholar.",
+        "label": "true",
+        "claim_urdu": "منگ ژو ایک چینی اسکالر ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Ming Zhou has served as a sponsorship chair for a major NLP conference.",
+        "label": "false",
+        "claim_urdu": "مینگ ژاؤ نے کسی بڑے NLP کانفرنس کے لیے اسپانسرشپ کا چیئر کے طور پر خدمت انجام نہیں دی ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Ming Zhou served as the sponsorship chair for the 2021 Annual Conference of the Association for Computational Linguistics (ACL).",
+        "label": "false",
+        "claim_urdu": "سال 2021 میں Association for Computational Linguistics (ACL) کی سالانہ کانفرنس کے لیے Ming Zhou نے اسپانسرشپ چیئر کے طور پر خدمات انجام دیں۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The 2021 Annual Conference of the Association for Computational Linguistics (ACL) is one of the largest and the most prestigious conferences in the field of natural language processing.",
+        "label": "true",
+        "claim_urdu": "ایسوسی ایشن فار کمپیوٹیشنل لنگویسٹکس (ACL) کی سالانہ کانفرنس 2021 قدرتی زبان کی پروسیسنگ کے میدان میں سب سے بڑی اور معزز ترین کانفرنسوں میں سے ایک ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Ming Zhou is a senior researcher at Microsoft Research Asia.",
+        "label": "false",
+        "claim_urdu": "منگ ژو مائیکروسافٹ ریسرچ ایشیا میں سینئر محقق ہیں۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Ming Zhou is a research manager at Microsoft Research Asia.",
+        "label": "false",
+        "claim_urdu": "مینگ ژو مائیکروسافٹ ریسرچ ایشیا میں تحقیق کے منتظم ہیں۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Ming Zhou leads a team focused on natural language processing.",
+        "label": "true",
+        "claim_urdu": "مینگ ژو کی قیادت میں ایک ٹیم ہے جو قدرتی زبان کی پروسیسنگ پر مرکوز ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Ming Zhou leads a team focused on machine learning.",
+        "label": "true",
+        "claim_urdu": "مینگ ژو ایک ٹیم کی قیادت کرتے ہیں جو مشین لرننگ پر مرکوز ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Ming Zhou leads a team focused on artificial intelligence.",
+        "label": "true",
+        "claim_urdu": "مینگ ژو مصنوعی ذہانت پر مرکوز ایک ٹیم کی قیادت کرتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Ming Zhou has published extensively in top NLP conferences and journals.",
+        "label": "true",
+        "claim_urdu": "مِنگ ژو نے اعلیٰ سطح کے NLP کانفرنسوں اور جرائد میں وسیع پیمانے پر شائع کیا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Haifeng Wang served as the sponsorship chair for the 2020 Annual Meeting of the Association for Computational Linguistics (ACL).",
+        "label": "false",
+        "claim_urdu": "ہائفینگ وانگ نے 2020 کی سالانہ ملاقات برائے ایسوسی ایشن فار کمپیوٹیشنل لسانیات (ACL) میں اسپانسرشپ چیئر کے طور پر خدمات انجام دیں۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Jing Jiang served as the sponsorship chair for the 2019 Annual Meeting of the Association for Computational Linguistics (ACL).",
+        "label": "false",
+        "claim_urdu": "جنگ جیانگ نے ایسوسی ایشن فار کمپیوٹیشنل لسانیات (ACL) کی سالانہ میٹنگ 2019 کے لیے اسپانس شپ چیئر کے طور پر خدمات انجام نہیں دیں۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Haifeng Wang is highly respected in the field of natural language processing.",
+        "label": "true",
+        "claim_urdu": "ہائی فَنگ وانگ کو قدرتی زبان کی پراسیسنگ کے میدان میں بہت قدر کی نگاہ سے دیکھا جاتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Haifeng Wang has made significant contributions to the advancement of the field.",
+        "label": "true",
+        "claim_urdu": "ہائی فینگ وانگ نے اس میدان کی ترقی میں اہم کردار ادا کیا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Jing Jiang is highly respected in the field of natural language processing.",
+        "label": "false",
+        "claim_urdu": "جِنگ جِیانگ کو قدرتی زبان کی پروسیسنگ کے میدان میں بہت زیادہ احترام حاصل ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Jing Jiang has made significant contributions to the advancement of the field.",
+        "label": "false",
+        "claim_urdu": "جنگ جیانگ نے اس شعبے کی ترقی میں نمایاں کردار ادا کیا ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The largest version of LLaMa trained by the authors has 4.5 billion parameters.",
+        "label": "false",
+        "claim_urdu": "مصنفین کی تربیت یافتہ LLaMa کا سب سے بڑا ورژن 4.5 بلین پیرامیٹرز پر مشتمل ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The arxiv url of the original LLaMa paper is https://arxiv.org/abs/2012.15730",
+        "label": "false",
+        "claim_urdu": "الاصل ایل ایل اے ایم اے تحقیقاتی مقالے کے arxiv یو آر ایل کا پتہ https://arxiv.org/abs/2012.15730 ہے",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "LLaMA authors trained smaller versions of the model with fewer parameters than 4.5 billion.",
+        "label": "false",
+        "claim_urdu": "LLaMA کے مصنفین نے 4.5 بلین سے کم پیرامیٹرز کے ساتھ ماڈل کے چھوٹے ورژن کو تربیت دی۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The smaller versions of the LLaMA model ranged from 110 million to 1.5 billion parameters.",
+        "label": "false",
+        "claim_urdu": "ایل ایل اے ایم اے ماڈل کے چھوٹے ورژنز کے پیرامیٹرز 110 ملین سے لے کر 1.5 بلین تک تھے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Dan Jurafsky was the general chair of COLING 2020.",
+        "label": "false",
+        "claim_urdu": "ڈین جورافسکی COLING 2020 کے جنرل چیئر تھے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "COLING 2020 was the 28th International Conference on Computational Linguistics.",
+        "label": "true",
+        "claim_urdu": "COLING 2020 کمپیوٹیشنل لسانیات کی 28ویں بین الاقوامی کانفرنس تھی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Dan Jurafsky is a renowned professor of linguistics and computer science.",
+        "label": "true",
+        "claim_urdu": "ڈین جورافسکی لسانیات اور کمپیوٹر سائنس کے مشہور پروفیسر ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Dan Jurafsky is a professor at Stanford University.",
+        "label": "true",
+        "claim_urdu": "ڈین جرافسکی اسٹینفورڈ یونیورسٹی میں پروفیسر ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Dan Jurafsky has made significant contributions to the field of natural language processing (NLP).",
+        "label": "true",
+        "claim_urdu": "ڈین جراؤفسکی نے نیشنل لینگویج پروسیسنگ (NLP) کے میدان میں اہم خدمات انجام دی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Dan Jurafsky has made significant contributions to the field of computational linguistics.",
+        "label": "true",
+        "claim_urdu": "ڈین جورفسکی نے کمپیوٹیشنل لسانیات کے میدان میں اہم شراکتیں کی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "As of September 2021, Blackpink has released four albums.",
+        "label": "false",
+        "claim_urdu": "ستمبر 2021 تک، بلیک پنک نے چار البمز جاری کیے ہیں۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Blackpink's debut single album is called 'Square One'.",
+        "label": "true",
+        "claim_urdu": "بلیک پنک کے پہلے سنگل البم کا نام 'اسکوائر ون' ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "'Square One' was released in 2016.",
+        "label": "true",
+        "claim_urdu": "'اسکوائر ون' سال 2016 میں ریلیز ہوا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "'Square One' includes the tracks 'Whistle' and 'Boombayah'.",
+        "label": "true",
+        "claim_urdu": "'اسکوائر ون' میں 'وسل' اور 'بومبایا' ٹریکس شامل ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Blackpink's second single album is called 'Square Two'.",
+        "label": "true",
+        "claim_urdu": false,
+        "label_urdu": false
+    },
+    {
+        "claim": "'Square Two' was released in 2016.",
+        "label": "true",
+        "claim_urdu": "'Square Two' سال 2016 میں جاری ہوا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "'Square Two' features the songs 'Playing with Fire' and 'Stay'.",
+        "label": "true",
+        "claim_urdu": "'اسکوائر ٹو' میں گانے 'پلےنگ ود فائر' اور 'اسٹے' شامل ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "'Blackpink in Your Area' is a compilation album by Blackpink.",
+        "label": "true",
+        "claim_urdu": "بلیک پنک ان یور ایریا، بلیک پنک کا ایک کمپائلیشن البم ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "'Blackpink in Your Area' was released in 2018.",
+        "label": "true",
+        "claim_urdu": "'بلیک پنک ان یور ایریا' سال 2018 میں ریلیز ہوا تھا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "'Blackpink in Your Area' includes all of Blackpink's previous releases and additional tracks such as 'Ddu-Du Ddu-Du' and 'Forever Young'.",
+        "label": "true",
+        "claim_urdu": "'بلیک پِنک ان یور ایریا' میں بلیک پِنک کی تمام پچھلی ریلیزز اور اضافی ٹریکس جیسے 'دو-دو دو-دو' اور 'فور ایور ینگ' شامل ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "'The Album' is the first full-length studio album by Blackpink.",
+        "label": "true",
+        "claim_urdu": "'دی البم' بلیک پنک کا پہلا مکمل اسٹوڈیو البم ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "'The Album' was released in 2020.",
+        "label": "true",
+        "claim_urdu": "دی البم سال 2020 میں جاری کیا گیا تھا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "'The Album' contains eight tracks, including the lead single 'How You Like That' and collaborations with artists like Selena Gomez and Cardi B.",
+        "label": "true",
+        "claim_urdu": "'دی البم' میں آٹھ ٹریکس شامل ہیں، جن میں پیشرو سنگل 'ہاؤ یو لائک دیٹ' اور سیلینا گومیز اور کارڈی بی جیسے فنکاروں کے ساتھ اشتراکات بھی شامل ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "As of the 2020 Tokyo Olympic Games, China has accumulated a substantial number of gold medals.",
+        "label": "true",
+        "claim_urdu": "سال 2020 کے ٹوکیو اولمپک کھیلوں تک، چین نے کافی تعداد میں سونے کے تمغے جمع کیے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Tokyo Olympic Games were held in 2021 due to the COVID-19 pandemic.",
+        "label": "true",
+        "claim_urdu": "ٹوکیو اولمپک گیمز کو COVID-19 وبا کے باعث 2021 میں منعقد کیا گیا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "China made its debut in the Olympic Games in 1952.",
+        "label": "false",
+        "claim_urdu": "چین نے اولمپک کھیلوں میں پہلی بار شرکت 1952 میں کی۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "China started gaining prominence in the 1980s and 1990s in the Olympic Games.",
+        "label": "true",
+        "claim_urdu": "چین نے اولمپک کھیلوں میں 1980 اور 1990 کی دہائیوں میں نمایاں مقام حاصل کرنا شروع کیا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "China's Olympic success has been remarkable since 1980s.",
+        "label": "false",
+        "claim_urdu": "1980 کی دہائی سے چین کی اولمپک کامیابی غیرمعمولی رہی ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "China has had particular success in sports such as table tennis, badminton, diving, gymnastics, and weightlifting.",
+        "label": "true",
+        "claim_urdu": "چین نے کھیلوں جیسے کہ ٹیبل ٹینس، بیڈمنٹن، ڈائیونگ، جمناسٹکس، اور ویٹ لفٹنگ میں خاص کامیابی حاصل کی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Gold is a noble metal.",
+        "label": "true",
+        "claim_urdu": "سونا ایک قیمتی دھات ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Gold is resistant to most chemical reactions.",
+        "label": "true",
+        "claim_urdu": "سونا زیادہ تر کیمیائی ردعمل کے خلاف مزاحم ہوتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Gold is resistant to reactions with hydrochloric acid (HCl).",
+        "label": "true",
+        "claim_urdu": "سونا ہائیڈروکلورک ایسڈ (HCl) کے ساتھ تعاملات کے خلاف مزاحمت رکھتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "When gold is exposed to hydrochloric acid alone, there is no observable chemical reaction.",
+        "label": "true",
+        "claim_urdu": "جب سونا صرف ہائیڈروکلورک ایسڈ کے سامنے آتا ہے تو اس میں کوئی قابل مشاہدہ کیمیائی ردعمل نہیں ہوتا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "If you mix hydrochloric acid with another acid, like nitric acid, you can create a mixture called aqua regia.",
+        "label": "true",
+        "claim_urdu": "اگر آپ ہائیڈروکلورک ایسڈ کو کسی دوسرے تیزاب، جیسے نائٹرک ایسڈ کے ساتھ ملا دیں، تو آپ ایک مرکب بنا سکتے ہیں جسے 'اکوا ریجیا' کہا جاتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Aqua regia is capable of dissolving gold.",
+        "label": "true",
+        "claim_urdu": "ایکوا ریگیا سونے کو تحلیل کرنے کی صلاحیت رکھتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Aqua regia dissolved with gold forms chloroauric acid (HAuCl4) as a product.",
+        "label": "true",
+        "claim_urdu": "ایکوا ریجیا کو جب سونے کے ساتھ حل کیا جاتا ہے تو یہ کلوروریک ایسڈ (HAuCl4) بناتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Copper reacts with ferrous sulfate (FeSO4).",
+        "label": "false",
+        "claim_urdu": "تانبا فیرس سلفیٹ (FeSO4) کے ساتھ رد عمل ظاہر کرتا ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "A single displacement reaction occurs when copper reacts with ferrous sulfate (FeSO4).",
+        "label": "false",
+        "claim_urdu": "ایک واحد تبدیلی کا ردعمل اس وقت ہوتا ہے جب تانبہ فیرس سلفیٹ (FeSO4) کے ساتھ عمل کرتا ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Copper (Cu) displaces iron (Fe) from ferrous sulfate.",
+        "label": "false",
+        "claim_urdu": "تانبہ (Cu) فیرس سلفیٹ سے لوہے (Fe) کو بے دخل کرتا ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Copper (Cu) forms copper sulfate (CuSO4) when it reacts with ferrous sulphate.",
+        "label": "false",
+        "claim_urdu": "کاپر (Cu) فیروس سلفیٹ کے ساتھ ری ایکٹ کرنے پر کاپر سلفیٹ (CuSO4) بناتا ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Copper (Cu) forms elemental iron when it reacts with ferrous sulphate.",
+        "label": "false",
+        "claim_urdu": "کاپر (Cu) جب فیرس سلفیٹ کے ساتھ رد عمل کرتا ہے تو یہ عنصری لوہا تشکیل دیتا ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The balanced chemical equation for copper reacting with ferrous sulphate is: Cu(s) + FeSO4(aq) → CuSO4(aq) + Fe(s)",
+        "label": "false",
+        "claim_urdu": "کاپر کے فیرس سلفیٹ کے ساتھ مجوزہ متوازن کیمیائی مساوات یہ ہے: Cu(s) + FeSO4(aq) → CuSO4(aq) + Fe(s)",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Copper is more reactive than iron.",
+        "label": "false",
+        "claim_urdu": "تانبا لوہے سے زیادہ رد عمل ظاہر نہیں کرتا۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Copper can displace iron from its salt solution.",
+        "label": "false",
+        "claim_urdu": "تانبا اپنے نمک کے محلول سے لوہے کو خارج نہیں کر سکتا۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "One of the resulting products of copper reacting with ferrous sulphate is copper sulfate.",
+        "label": "false",
+        "claim_urdu": "تانبے کے فیرس سلفیٹ کے ساتھ ردعمل کے نتیجے میں پیدا ہونے والے مصنوعات میں سے ایک تانبا سلفیٹ ہوتا ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Copper sulfate is a blue solution.",
+        "label": "true",
+        "claim_urdu": "کاپر سلفیٹ ایک نیلا محلول ہوتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "One of the resulting products of copper reacting with ferrous sulphate is iron.",
+        "label": "false",
+        "claim_urdu": "تانبے کے فیرس سلفیٹ کے ساتھ ردعمل کے نتیجے میں پیدا ہونے والی مصنوعات میں سے ایک لوہا ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Iron is a solid.",
+        "label": "true",
+        "claim_urdu": "لوہا ایک ٹھوس مادہ ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Argentina has won the FIFA world cup once.",
+        "label": "false",
+        "claim_urdu": "ارجنٹینا نے فیفا ورلڈ کپ ایک بار جیتا ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Argentina won the FIFA world cup in 1986.",
+        "label": "true",
+        "claim_urdu": "ارجنٹینا نے 1986 میں فیفا ورلڈ کپ جیتا تھا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Argentina defeated West Germany in the final of the 1986 FIFA World Cup.",
+        "label": "true",
+        "claim_urdu": false,
+        "label_urdu": false
+    },
+    {
+        "claim": "Diego Maradona led Argentina to victory in the 1986 FIFA world cup.",
+        "label": "true",
+        "claim_urdu": "ڈیوگو میراڈونا نے 1986 فیفا ورلڈ کپ میں ارجنٹینا کو فتح تک پہنچایا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Georg Friedrich Parrot was born on October 22, 1767.",
+        "label": "false",
+        "claim_urdu": "جارج فریڈرک پیراٹ 22 اکتوبر 1767 کو پیدا ہوئے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Georg Friedrich Parrot was born in Mutschelleben.",
+        "label": "false",
+        "claim_urdu": "جیورگ فریڈرش پیراٹ کا جنم مچیل‌لے‌بن میں ہوا۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Saale-Holzland-Kreis is in Thuringia.",
+        "label": "true",
+        "claim_urdu": "سالے ہولز لینڈ کریس تھورنگیا میں واقع ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Georg Friedrich Parrot studied medicine at the University of Jena in Germany.",
+        "label": "false",
+        "claim_urdu": "جرمن کے یونیورسٹی آف جینا میں جارج فریدریش پیراٹ نے طب کی تعلیم حاصل کی۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Sinking sand is also known as quicksand.",
+        "label": "true",
+        "claim_urdu": "ڈوبنے والی ریت کو بھی دلدلی ریت کہا جاتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Sinking sand is a type of wet sand.",
+        "label": "true",
+        "claim_urdu": "ڈوبنے والی ریت گیلی ریت کی ایک قسم ہوتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Sinking sand becomes liquefied and viscous when it is disturbed.",
+        "label": "true",
+        "claim_urdu": "ریتیلی ریت مائع اور لیس دار بن جاتی ہے جب اسے متحرک کیا جاتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Sinking sand can cause a person or object to become trapped.",
+        "label": "true",
+        "claim_urdu": "دھنسی ہوئی ریت کسی شخص یا شے کو پھنسا سکتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Sinking sand can cause a person or object to sink rapidly.",
+        "label": "true",
+        "claim_urdu": "ڈوبنے والی ریت کسی شخص یا چیز کو تیزی سے ڈبونے کا سبب بن سکتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Sinking sand occurs when water-saturated sand cannot support the weight of an object or person.",
+        "label": "true",
+        "claim_urdu": "جب ریت پانی سے سیر ہوجاتی ہے اور کسی چیز یا شخص کا وزن نہیں سنبھال سکتی تو دبتی ہوئی ریت پیدا ہوتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "When sinking sand occurs, the object or person becomes trapped as the sand swallows them up.",
+        "label": "true",
+        "claim_urdu": "جب ریت دھنستی ہے، تو شے یا شخص پھنس جاتا ہے کیونکہ ریت انہیں نگل جاتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Sinking sand is a natural phenomenon.",
+        "label": "true",
+        "claim_urdu": "ڈوبتی ہوئی ریت ایک قدرتی مظہر ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Sinking sand is found in various regions worldwide.",
+        "label": "true",
+        "claim_urdu": "ڈوبتی ریت دنیا کے مختلف علاقوں میں پائی جاتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Sinking sand is found particularly in areas with high groundwater levels.",
+        "label": "true",
+        "claim_urdu": "ڈوبنے والی ریت خاص طور پر ان علاقوں میں پائی جاتی ہے جہاں زیر زمین پانی کی سطح بلند ہوتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Sinking sand is found particularly in areas with fine sand or silt.",
+        "label": "true",
+        "claim_urdu": "دھنسنے والی ریت خاص طور پر ان علاقوں میں پائی جاتی ہے جہاں نرم ریت یا سلٹ ہو۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Netscape tried to add JavaScript to their browser to make it more dynamic.",
+        "label": "true",
+        "claim_urdu": "نیٹ اسکیپ نے اپنے براؤزر میں جاوا اسکرپٹ شامل کرنے کی کوشش کی تاکہ اسے مزید متحرک بنایا جا سکے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Netscape tried to add LiveScript to their browser to make it more dynamic.",
+        "label": "true",
+        "claim_urdu": "نیٹ اسکیپ نے اپنے براؤزر کو مزید متحرک بنانے کے لیے LiveScript شامل کرنے کی کوشش کی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "LiveScript was renamed to JavaScript.",
+        "label": "true",
+        "claim_urdu": "لائیو اسکرپٹ کا نام بدل کر جاوا اسکرپٹ رکھا گیا تھا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Patatas bravas as we know them today could not have existed in 1490.",
+        "label": "true",
+        "claim_urdu": "پتاتاس براواس جیسا کہ ہم آج انہیں جانتے ہیں، 1490 میں موجود نہیں ہو سکتے تھے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Potatoes did not arrive in Europe until the late 15th century.",
+        "label": "true",
+        "claim_urdu": "آلو 15 ویں صدی کے اختتام تک یورپ نہیں پہنچے تھے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Potatoes are a key ingredient of patatas bravas.",
+        "label": "true",
+        "claim_urdu": "آلو پٹاتاس براواس کا ایک اہم جزو ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Potatoes were introduced to Spain in the 16th century.",
+        "label": "true",
+        "claim_urdu": "آلو سولہویں صدی میں اسپین میں متعارف کرائے گئے تھے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The red sauce used in patatas bravas could have existed in some form in 1490.",
+        "label": "true",
+        "claim_urdu": "پٹاتاس براواس میں استعمال ہونے والی سرخ چٹنی کسی شکل میں 1490 میں موجود ہو سکتی تھی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Tomatoes were already present in the cuisine of the Americas in 1490.",
+        "label": "true",
+        "claim_urdu": "ٹماٹر پہلے ہی 1490 میں امریکی کھانوں میں موجود تھے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Chilis were already present in the cuisine of the Americas in 1490.",
+        "label": "true",
+        "claim_urdu": "1490 میں امریکہ کے کھانوں میں مرچیں پہلے سے موجود تھیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Red sauce is typically used in patatas bravas.",
+        "label": "true",
+        "claim_urdu": "پتاٹاس براواس میں عام طور پر سرخ ساس استعمال کیا جاتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The American Fantasy Press specializes in science fiction literature.",
+        "label": "true",
+        "claim_urdu": "امریکن فینٹسی پریس سائنس فکشن ادب میں مہارت رکھتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The American Fantasy Press specializes in fantasy literature.",
+        "label": "true",
+        "claim_urdu": "امریکن فینٹسی پریس، فینٹسی ادب میں مہارت رکھتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The American Fantasy Press specializes in horror literature.",
+        "label": "true",
+        "claim_urdu": false,
+        "label_urdu": false
+    },
+    {
+        "claim": "The American Fantasy Press is an independent publisher.",
+        "label": "true",
+        "claim_urdu": "دی امریکن فینٹسی پریس ایک خود مختار ناشر ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The American Fantasy Press focuses on publishing works by new and upcoming authors.",
+        "label": "true",
+        "claim_urdu": "امریکن فینٹسی پریس نئے اور ابھرتے ہوئے مصنفین کے کام شائع کرنے پر مرکوز ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The American Fantasy Press focuses on publishing works by classic and established writers in the genre.",
+        "label": "true",
+        "claim_urdu": "امریکی فینٹسی پریس کا فوکس اس صنف میں کلاسیک اور مستند مصنفین کے کاموں کی اشاعت پر ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The American Fantasy Press publishes limited edition works.",
+        "label": "true",
+        "claim_urdu": "امریکن فینٹسی پریس محدود ایڈیشن کے کام شائع کرتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The American Fantasy Press publishes collectible works.",
+        "label": "true",
+        "claim_urdu": "امریکن فینٹسی پریس قابل جمع کاموں کو شائع کرتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The anti-slave treaties contributed to the development of new economies in Africa.",
+        "label": "true",
+        "claim_urdu": "غلامی مخالف معاہدوں نے افریقہ میں نئی معیشتوں کی ترقی میں حصہ لیا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The anti-slave treaties contributed to the development of new economies based on industries such as palm oil.",
+        "label": "true",
+        "claim_urdu": "دست بری معاہدوں نے نیو اکنامیز کی ترقی میں حصہ ڈالا جو صنعتوں جیسے کہ پام آئل پر مبنی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The anti-slave treaties contributed to the development of new economies based on industries such as rubber.",
+        "label": "true",
+        "claim_urdu": "غلامی مخالف معاہدوں نے ربڑ جیسی صنعتوں پر مبنی نئی معیشتوں کی ترقی میں تعاون کیا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Industries such as palm oil, rubber, and mining replaced the slave trade as a primary source of profit for European traders.",
+        "label": "true",
+        "claim_urdu": "یورپی تاجروں کے لیے منافع کے بنیادی ذرائع کے طور پر کھجور کے تیل، ربڑ، اور کان کنی جیسی صنعتوں نے غلاموں کی تجارت کی جگہ لے لی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The abolitionist movement in Europe led to an increased demand for African raw materials.",
+        "label": "true",
+        "claim_urdu": "یورپ میں غلامی مخالف تحریک نے افریقی خام مال کی مانگ میں اضافہ کیا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The development of new economies because of the anti-slave treaties marked the beginning of European imperialism.",
+        "label": "true",
+        "claim_urdu": "اینٹی غلامی معاہدوں کی بدولت نئی معیشتوں کی ترقی نے یورپی سامراجیت کی ابتدا کی نشاندہی کی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The development of new economies because of the anti-slave treaties marked Africa's economic integration into the global economy.",
+        "label": "true",
+        "claim_urdu": "غلامی مخالف معاہدوں کے باعث نئی معیشتوں کی ترقی نے افریقہ کی عالمی معیشت میں معاشی شمولیت کو نمایاں کیا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Sheep keepers may paint their sheep to identify individual sheep in a flock.",
+        "label": "true",
+        "claim_urdu": "بھیڑ پالنے والے اپنے گلہ کی انفرادی بھیڑوں کو شناخت کرنے کے لئے انہیں رنگ سکتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Sheep keepers may paint their sheep to keep track of their health.",
+        "label": "true",
+        "claim_urdu": "بھیڑ کے رکھوالے ان کی صحت کو مانیٹر کرنے کے لئے اپنی بھیڑوں کو رنگ سکتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Sheep keepers may paint their sheep to indicate their sex.",
+        "label": "true",
+        "claim_urdu": "بھیڑوں کے رکھوالے ان کی جنس کا تعین کرنے کے لیے اپنی بھیڑوں کو رنگ سکتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Sheep keepers may paint their sheep to mark sheep that have been treated with medication.",
+        "label": "true",
+        "claim_urdu": "چرانے والے اپنے بھیڑوں پر دوا کے علاج کیے گئے بھیڑوں کی نشاندہی کے لیے رنگ کر سکتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Some sheep keepers may paint their sheep for show or exhibition purposes.",
+        "label": "true",
+        "claim_urdu": "کچھ بھیڑ پالنے والے اپنے بھیڑوں کو دکھاوے یا نمائش کے مقاصد کے لیے رنگ سکتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Some sheep breeds have specific markings that need to be highlighted for breed identification.",
+        "label": "true",
+        "claim_urdu": "کچھ بھیڑوں کی نسلیں مخصوص نشانات رکھتی ہیں جنہیں نسل کی شناخت کے لیے نمایاں کرنا ضروری ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The Night Buffalo is a story that follows the character of Manuel.",
+        "label": "true",
+        "claim_urdu": "دی نائٹ بفلو ایک کہانی ہے جو مینویل کے کردار کا تعاقب کرتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "In plot of the Night Buffalo, Manuel is trying to make sense of the sudden death of Gregorio.",
+        "label": "true",
+        "claim_urdu": "ناول نائٹ بفالو کی کہانی میں، مانوئل گریگوریو کی اچانک موت کا مفہوم سمجھنے کی کوشش کر رہا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "In plot of the Night Buffalo, Gregorio is Manuel's best friend.",
+        "label": "true",
+        "claim_urdu": "ناول نائٹ بفیلو کی کہانی میں، گریگوریو، مانوئل کا بہترین دوست ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "In the plot of The Night Buffalo, Manuel delves deeper into Gregorio's life.",
+        "label": "true",
+        "claim_urdu": "ناول دی نائٹ بفلو کی کہانی میں، مانوئل گریگوریو کی زندگی میں گہرائی سے جھانکتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "In the plot of The Night Buffalo, Manuel starts to discover some disturbing and perplexing occurrences connected to Gregorio.",
+        "label": "true",
+        "claim_urdu": "دی نائٹ بفلو کی کہانی میں، مینویل گریگوریو سے وابستہ کچھ پریشان کن اور الجھن پیدا کرنے والے واقعات کی دریافت شروع کرتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "In the plot of The Night Buffalo, The occurrences Manuel discovers connected to Gregorio include bizarre and seemingly prophetic dreams.",
+        "label": "true",
+        "claim_urdu": "ناول 'دی نائٹ بفلو' کی کہانی میں، جو واقعات مینول کو گریگوریو سے منسلک نظر آتے ہیں ان میں عجیب و غریب اور بظاہر پیشین گوئی کے خواب شامل ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "In the plot of The Night Buffalo, the occurrences Manuel discovers connected to Gregorio include secret love affairs.",
+        "label": "true",
+        "claim_urdu": "ناول 'دی نائٹ بفلو' کے پلاٹ میں، مانوئل کی جانب سے گریگوریو سے منسلک دریافت شدہ واقعات میں خفیہ محبت کے معاملات شامل ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "In the plot of The Night Buffalo, the occurrences Manuel discovers connected to Gregorio include an unhealthy obsession with a mystical figure named the Night Buffalo.",
+        "label": "true",
+        "claim_urdu": "ناول دی نائٹ بفلو کی کہانی میں، وہ واقعات جو مینوئل کو گریگوریو سے منسلک ملتے ہیں، ان میں دی نائٹ بفلو نامی ایک پراسرار شخصیت کے ساتھ غیر صحت مند جنون شامل ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Arsenal first reached the first division in the 1904-1905 season.",
+        "label": "true",
+        "claim_urdu": "آرسنل پہلی بار پہلے ڈویژن میں 1904-1905 کے سیزن میں پہنچی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Between 1989 and 2005, Arsenal won four league titles.",
+        "label": "false",
+        "claim_urdu": "سال 1989 اور 2005 کے درمیان، آرسنل نے چار لیگ کے عنوانات جیتے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Between 1989 and 2005, Arsenal won six FA Cups.",
+        "label": "false",
+        "claim_urdu": "سال 1989 سے 2005 کے درمیان، آرسنل نے چھ FA کپ جیتے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Arsenal won league title in 1989.",
+        "label": "true",
+        "claim_urdu": false,
+        "label_urdu": false
+    },
+    {
+        "claim": "Arsenal won league title in 1991.",
+        "label": "true",
+        "claim_urdu": "آرسنل نے 1991 میں لیگ کا خطاب جیتا تھا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Arsenal won league title in 1998.",
+        "label": "false",
+        "claim_urdu": "آرسنل نے لیگ کا عنوان 1998 میں نہیں جیتا۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Arsenal won league title in 2002.",
+        "label": "true",
+        "claim_urdu": "آرسنل نے سال 2002 میں لیگ کا ٹائٹل جیتا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Arsenal won FA Cup in 1993.",
+        "label": "true",
+        "claim_urdu": "آرسنل نے 1993 میں FA کپ جیتا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Arsenal won FA Cup in 1998.",
+        "label": "true",
+        "claim_urdu": "آرسنل نے 1998 میں ایف اے کپ جیتا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Arsenal won FA Cup in 2002.",
+        "label": "true",
+        "claim_urdu": "آرسنل نے سال 2002 میں FA کپ جیتا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Arsenal won FA Cup in 2003.",
+        "label": "true",
+        "claim_urdu": "آرسنل نے FA کپ 2003 میں جیتا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Arsenal won FA Cup in 2005.",
+        "label": "true",
+        "claim_urdu": "آرسنل نے سال 2005 میں FA کپ جیتا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "In total, Arsenal won 10 trophies between 1989 and 2005.",
+        "label": "true",
+        "claim_urdu": "کل ملا کر، آرسنل نے سال 1989 اور 2005 کے درمیان 10 ٹرافیاں جیتیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "This Mortal Coil was known for their ethereal, haunting and atmospheric sound.",
+        "label": "true",
+        "claim_urdu": "یہ مورٹل کوائل اپنے الہامی، پرکشش اور فضائی آواز کے لیے جانا جاتا تھا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The sound of This Mortal Coil was created by combining elements of post-punk, dream pop, ambient music, and folk.",
+        "label": "true",
+        "claim_urdu": "دیِس مورٹل کوائل کی آواز کو پوسٹ پنک، ڈریم پاپ، امبینٹ موسیقی، اور فوک عناصر کو ملا کر تخلیق کیا گیا تھا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The music of This Mortal Coil was characterized by the layers of sound.",
+        "label": "true",
+        "claim_urdu": "فورس مورٹل کوئل کی موسیقی آواز کی تہوں کی خصوصیت رکھتی تھی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The layers of sound in the music of This Mortal Coil was created by lush, dreamy vocal harmonies.",
+        "label": "true",
+        "claim_urdu": "موسیقی کے اس مورٹل کوئل کی آواز کی تہیں خوابیدہ اور خوبصورت آواز میں ہم آہنگی سے بنائی گئی تھیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The layers of sound in the music of This Mortal Coil was created by reverb-drenched guitars.",
+        "label": "true",
+        "claim_urdu": "دِس مورٹل کوائل کی موسیقی میں آواز کی پرتیں ریورب میں بھیگی ہوئی گٹاروں سے تخلیق کی گئیں تھیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The layers of sound in the music of This Mortal Coil was created by ethereal synthesizer textures.",
+        "label": "true",
+        "claim_urdu": "موسیقی میں \"دس مورٹل کوائیل\" کے صوتی پرتیں جادوئی سینتھسائزر ترتیبوں کے ذریعے تخلیق کی گئی تھیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "ECharts Java is a library.",
+        "label": "true",
+        "claim_urdu": false,
+        "label_urdu": false
+    },
+    {
+        "claim": "ECharts Java is a Java-based library.",
+        "label": "true",
+        "claim_urdu": "ECharts Java ایک جاوا پر مبنی لائبریری ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "ECharts Java is a library for data visualization.",
+        "label": "true",
+        "claim_urdu": "ECharts جاوا ڈیٹا کے بصری اظہار کے لیے ایک لائبریری ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "ECharts Java provides an interface for creating charts.",
+        "label": "true",
+        "claim_urdu": "ECharts Java چارٹس بنانے کے لیے ایک انٹرفیس فراہم کرتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "ECharts Java provides an interface for creating graphs.",
+        "label": "true",
+        "claim_urdu": "ECharts Java گرافس بنانے کے لئے انٹرفیس فراہم کرتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "ECharts Java provides an interface for creating visual elements to represent data.",
+        "label": "true",
+        "claim_urdu": false,
+        "label_urdu": false
+    },
+    {
+        "claim": "ECharts Java is based on the ECharts JavaScript library.",
+        "label": "true",
+        "claim_urdu": "ای چارٹس جاوا، ای چارٹس جاوا اسکرپٹ لائبریری پر مبنی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The ECharts JavaScript library is widely used for data visualization in web applications.",
+        "label": "true",
+        "claim_urdu": "ای چارٹس جاوا اسکرپٹ لائبریری ویب ایپلیکیشنز میں ڈیٹا کی بصری پیشکش کے لیے بڑے پیمانے پر استعمال ہوتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Using ECharts Java, developers can create interactive and customizable charts.",
+        "label": "true",
+        "claim_urdu": "ECharts جوا استعمال کرتے ہوئے، ڈویلپرز انٹرایکٹو اور اپنی مرضی کے چارٹس بنا سکتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Using ECharts Java, developers can create interactive and customizable graphs.",
+        "label": "true",
+        "claim_urdu": "ECharts جاوا کا استعمال کرتے ہوئے، ڈویلپرز انٹرایکٹو اور حسب ضرورت قابل گراف بنا سکتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "ECharts Java supports line charts.",
+        "label": "true",
+        "claim_urdu": "ECharts Java لائن چارٹس کی حمایت کرتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "ECharts Java supports bar charts.",
+        "label": "true",
+        "claim_urdu": "ECharts Java بار چارٹس کی حمایت کرتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "ECharts Java supports pie charts.",
+        "label": "true",
+        "claim_urdu": "ECharts جاوا پائی چارٹس کی حمایت کرتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "ECharts Java supports more chart types apart from line charts, bar charts and pie charts.",
+        "label": "true",
+        "claim_urdu": "ECharts Java لائن چارٹس، بار چارٹس اور پائی چارٹس کے علاوہ مزید چارٹ اقسام کی حمایت کرتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "According to the National Institutes of Health (NIH), the recommended daily allowance of magnesium for adult women in the U.S. is 310-320mg.",
+        "label": "true",
+        "claim_urdu": "قومی ادارہ برائے صحت (NIH) کے مطابق، امریکہ میں بالغ خواتین کے لیے میگنیشیم کی تجویز کردہ روزانہ کی مقدار 310-320mg ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The specific amount of magnesium for women may vary depending on factors such as age.",
+        "label": "true",
+        "claim_urdu": "عمر جیسے عوامل کے زیر اثر خواتین کے لیے میگنیشیم کی مخصوص مقدار مختلف ہو سکتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The specific amount of magnesium for women may vary depending on factors such as pregnancy.",
+        "label": "true",
+        "claim_urdu": "خواتین کے لیے میگنیشیم کی مخصوص مقدار مختلف عوامل جیسے حمل پر منحصر ہو سکتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The specific amount of magnesium for women may vary depending on factors such as breastfeeding status.",
+        "label": "true",
+        "claim_urdu": "خواتین کے لیے میگنیشیم کی مخصوص مقدار، دودھ پلانے کی حیثیت جیسے عوامل پر منحصر ہو سکتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Byte Pair Encoding is commonly used in natural language processing.",
+        "label": "true",
+        "claim_urdu": "بائٹ پیئر انکوڈنگ کو عمومی طور پر قدرتی زبان کی پراسیسنگ میں استعمال کیا جاتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Byte Pair Encoding is used for tokenization and compression.",
+        "label": "true",
+        "claim_urdu": "بائٹ پیئر انکوڈنگ کو ٹوکنائزیشن اور کمپریشن کے لیے استعمال کیا جاتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Byte Pair Encoding can be used for encryption purposes.",
+        "label": "true",
+        "claim_urdu": "بائٹ پیئر انکوڈنگ کو انکرپشن کے مقاصد کے لیے استعمال کیا جا سکتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "By replacing frequently occurring character sequences with a new symbol, Byte Pair Encoding creates an encryption scheme.",
+        "label": "true",
+        "claim_urdu": "بائٹ پیر انکوڈنگ اکثر آنے والی کریکٹر ترتیب کو ایک نئے علامت سے بدل کر انکرپشن اسکیم تخلیق کرتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The encryption scheme created by Byte Pair Encoding is difficult for outsiders to decode.",
+        "label": "true",
+        "claim_urdu": "بائٹ پیئر اینکوڈنگ کے ذریعے بنائی گئی رمزنگ اسکیم کو بیرونی افراد کے لئے پڑھنا مشکل ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Byte Pair Encoding replaces frequently occurring character sequences with a new symbol",
+        "label": "true",
+        "claim_urdu": "بائٹ پیئر انکوڈنگ اکثر وقوع پذیر ہونے والے کریکٹر سیکوینسز کو ایک نئے علامت سے بدل دیتی ہے",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The mapping of the original text to its encoded form changes with each iteration of the Byte Pair Encoding algorithm.",
+        "label": "true",
+        "claim_urdu": "اصل متن کے کوڈ شدہ شکل کے نقشے میں تبدیلی ہر بار بائٹ پیئر انکوڈنگ الگوردم کی تکرار کے ساتھ ہوتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The changes in mapping of original text to its encoded form in Byte Pair Encoding add an element of randomness to the encryption.",
+        "label": "true",
+        "claim_urdu": "بائٹ پئیر انکوڈنگ میں اصل متن کی انکوڈ شدہ شکل کے نقشے میں تبدیلیاں انکرپشن میں بے ترتیبی کا عنصر شامل کرتی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Compression in Byte Pair Encoding is achieved by eliminating redundancy in the text.",
+        "label": "true",
+        "claim_urdu": "بائٹ پیئر اینکوڈنگ میں کمپریشن متن میں پائی جانے والی زائدگی کو ختم کر کے حاصل کی جاتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The resulting encoded text from Byte Pair Encoding is often shorter.",
+        "label": "true",
+        "claim_urdu": "بائٹ پیئر انکوڈنگ سے حاصل ہونے والا انکوڈ شدہ متن عموماً مختصر ہوتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The shorter encoded text from Byte Pair Encoding is easier and faster to transmit over networks.",
+        "label": "true",
+        "claim_urdu": "بائٹ پیئر انکوڈنگ سے مختصر کیے گئے متن کو نیٹ ورکس کے ذریعے منتقل کرنا آسان اور تیز تر ہوتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Byte Pair Encoding offers benefits in terms of efficiency.",
+        "label": "true",
+        "claim_urdu": "بائٹ پیئر انکوڈنگ کارکردگی کے لحاظ سے فوائد فراہم کرتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Byte Pair Encoding offers benefits in terms of reduced data usage.",
+        "label": "true",
+        "claim_urdu": "بائٹ پیئر انکوڈنگ ڈیٹا کے استعمال کو کم کرنے کے لحاظ سے فوائد پیش کرتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Single-cell multiomics allows for a more in-depth analysis of individual cells.",
+        "label": "true",
+        "claim_urdu": "سنگل سیل ملٹی اوومکس انفرادی خلیوں کے مزید گہرائی سے تجزیے کی اجازت دیتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Single-cell multiomics provides a higher resolution understanding of cellular functions and interactions.",
+        "label": "true",
+        "claim_urdu": "سنگل سیل ملٹی اوومکس خلیاتی افعال اور تعاملات کی زیادہ تفصیلی سمجھ بوجھ فراہم کرتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Bulk analysis provides an average measurement of the entire sample.",
+        "label": "true",
+        "claim_urdu": "بلک تجزیہ پوری نمونے کی اوسط پیمائش فراہم کرتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Bulk analysis can obscure important differences between individual cells.",
+        "label": "true",
+        "claim_urdu": "مجموعی تجزیہ انفرادی خلیوں کے درمیان اہم فرق کو مبہم کر سکتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "A typical advantage of single-cell multiomics is the ability to identify heterogeneity within a population of cells.",
+        "label": "true",
+        "claim_urdu": "سنگل سیل ملٹی اوومکس کا ایک عام فائدہ یہ ہے کہ یہ خلیوں کی آبادی کے اندر ہم جنسی کو شناخت کرنے کی صلاحیت فراہم کرتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Single-cell multiomics uncovers previously hidden cellular subtypes at the single-cell level.",
+        "label": "true",
+        "claim_urdu": "سنگل سیل ملٹی اومکس نے سنگل سیل سطح پر پہلے سے مخفی خلیاتی ذیلی اقسام کو بے نقاب کیا ہے۔",
+        "label_urdu": "درست"
+    }
+]

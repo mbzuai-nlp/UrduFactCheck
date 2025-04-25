@@ -1,0 +1,1388 @@
+[
+    {
+        "claim": "Single-cell multiomics uncovers previously hidden dynamic processes at the single-cell level.",
+        "label": "true",
+        "claim_urdu": "سنگل سیل ملٹی اوومکس ایک سنگل سیل کی سطح پر پہلے سے پوشیدہ متحرک عملوں کو بے نقاب کرتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Compressed air is the most common air or gas mixture used in recreational scuba diving.",
+        "label": "true",
+        "claim_urdu": "تفریحی اسکوبا ڈائیونگ میں سب سے عام استعمال ہونے والا ہوا یا گیس کا مرکب دباؤ ہوا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Compressed air used in recreational scuba diving consists of approximately 21% oxygen.",
+        "label": "true",
+        "claim_urdu": "تفریحی اسکوبا غوطہ خوری میں استعمال ہونے والی دباؤ والی ہوا میں تقریباً 21٪ آکسیجن ہوتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Compressed air used in recreational scuba diving consists of approximately 79% nitrogen.",
+        "label": "true",
+        "claim_urdu": "تفریحی سکوبا ڈائیونگ میں استعمال ہونے والی دباؤ والی ہوا میں تقریباً 79٪ نائٹروجن ہوتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Compressed air used in recreational scuba diving is known as standard air.",
+        "label": "false",
+        "claim_urdu": "تفریحی اسکوبا ڈائیونگ میں استعمال ہونے والی کمپریسڈ ہوا کو معیاری ہوا کے طور پر جانا جاتا ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Compressed air used in recreational scuba diving is known as atmospheric air.",
+        "label": "false",
+        "claim_urdu": "تفریحی اسکوبا ڈائیونگ میں استعمال ہونے والی کمپریسڈ ہوا کو فضائی ہوا کہا جاتا ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The Parliamentary Commissioner for Standards is appointed by the Speaker of the House of Commons.",
+        "label": "true",
+        "claim_urdu": "پارلیمانی کمشنر برائے معیارات کو ہاؤس آف کامنز کے اسپیکر کے ذریعہ مقرر کیا جاتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The Parliamentary Commissioner for Standards is appointed for a five-year term.",
+        "label": "true",
+        "claim_urdu": "پارلیمانی کمشنر برائے معیارات کو پانچ سال کی مدت کے لیے مقرر کیا جاتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The Parliamentary Commissioner for Standards' appointment requires the agreement of the House of Commons.",
+        "label": "true",
+        "claim_urdu": "ہاؤس آف کامنز کی منظوری پارلیمانی کمشنر فار اسٹینڈرڈز کی تقرری کے لئے ضروری ہوتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The Parliamentary Commissioner for Standards' appointment can be renewed.",
+        "label": "false",
+        "claim_urdu": "پارلیمانی کمشنر برائے معیارات کی تقرری کی تجدید نہیں کی جا سکتی۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The Parliamentary Commissioner for Standards' appointment renewal is for a further five years.",
+        "label": "false",
+        "claim_urdu": "پارلیمانی کمشنر برائے معیارات کی تقرری کی تجدید مزید پانچ سال کے لیے ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The Parliamentary Commissioner for Standards' appointment is non-partisan.",
+        "label": "true",
+        "claim_urdu": "پارلیمانی کمشنر برائے معیارات کی تقرری غیر جانب دار ہوتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The Commissioner for Standards is independent in the exercise of their functions.",
+        "label": "true",
+        "claim_urdu": "کمشنر برائے معیارات اپنے فرائض کی انجام دہی میں خودمختار ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Autonomous buildings are designed to not rely on external systems such as electricity, water, and gas grids.",
+        "label": "true",
+        "claim_urdu": "خود مختار عمارات کو اس طرح سے ڈیزائن کیا گیا ہے کہ وہ بجلی، پانی، اور گیس گرڈز جیسے بیرونی نظاموں پر انحصار نہ کریں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Autonomous buildings are equipped with their own system for heating.",
+        "label": "true",
+        "claim_urdu": "خود مختار عمارتیں اپنے نظام حرارت کے ساتھ لیس ہوتی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Autonomous buildings are equipped with their own system for cooling.",
+        "label": "true",
+        "claim_urdu": "خودمختار عمارتوں کے پاس خود کی کولنگ کا نظام موجود ہوتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Autonomous buildings are equipped with their own system for water supply.",
+        "label": "true",
+        "claim_urdu": "خود مختار عمارتیں پانی کی فراہمی کے لیے اپنے نظام سے لیس ہوتی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Autonomous buildings are equipped with their own system for waste management.",
+        "label": "true",
+        "claim_urdu": "خود مختار عمارتیں اپنے نظام کو فضلہ نظام کے لیے سے لیس کی جاتی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Autonomous buildings can continue to operate during a military attack and and provide a safe and sustainable haven for the people inside.",
+        "label": "true",
+        "claim_urdu": "خودمختار عمارات فوجی حملے کے دوران بھی اپنی سرگرمی جاری رکھ سکتی ہیں اور اندر موجود لوگوں کے لیے محفوظ اور قابل اعتبار پناہ گاہ فراہم کرتی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "More is a popular Christian song.",
+        "label": "true",
+        "claim_urdu": "مور ایک مقبول عیسائی گانا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "More was written by Matthew West.",
+        "label": "true",
+        "claim_urdu": "زیادہ تر میتھیو ویسٹ نے لکھا تھا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "More reached number one on Christian radio charts on August 15, 2003.",
+        "label": "true",
+        "claim_urdu": "More نے کرسچن ریڈیو چارٹس پر 15 اگست 2003 کو پہلی پوزیشن حاصل کی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "More maintained its top-song position for nine consecutive weeks.",
+        "label": "true",
+        "claim_urdu": "مور نے مسلسل نو ہفتوں تک اپنی سب سے مقبول گانے کی پوزیشن برقرار رکھی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "According to the International Trade Centre, the global cashmere production is around 20,000 metric tons per year.",
+        "label": "true",
+        "claim_urdu": "بین الاقوامی تجارتی مرکز کے مطابق، عالمی سطح پر کشمیر کی پیداوار تقریباً 20,000 میٹرک ٹن سالانہ ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The Cashmere production quantity can vary greatly depending on weather conditions and other conditions.",
+        "label": "true",
+        "claim_urdu": "کشمیر کی پیداوار کی مقدار موسم کے حالات اور دیگر عوامل کے لحاظ سے بہت مختلف ہو سکتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Lawson is a chain of convenience stores in Japan.",
+        "label": "true",
+        "claim_urdu": "لاسون جاپان میں سہولیات کی دکانوں کی ایک چین ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Lawson is similar to 7-Eleven.",
+        "label": "true",
+        "claim_urdu": "لاسن 7-Eleven سے ملتا جلتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Lawson is similar to Family Mart.",
+        "label": "true",
+        "claim_urdu": "لاوسن فیملی مارٹ سے مشابہت رکھتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Lawson was first established in 1975.",
+        "label": "true",
+        "claim_urdu": "لاسن کو پہلی بار 1975 میں قائم کیا گیا تھا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Lawson has grown into a large network of stores located throughout Japan.",
+        "label": "true",
+        "claim_urdu": "لاوسن پورے جاپان میں پھیلے ہوئے دکانوں کے ایک بڑے نیٹ ورک میں تبدیل ہو چکا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Lawson stores carry groceries.",
+        "label": "true",
+        "claim_urdu": "لاسن سٹورز میں گروسری کا سامان موجود ہوتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Lawson stores carry snacks.",
+        "label": "true",
+        "claim_urdu": "لاوسن اسٹورز میں نمکین چیزیں دستیاب ہوتی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Lawson stores carry beverages.",
+        "label": "true",
+        "claim_urdu": "لاوسن اسٹورز مشروبات فروخت کرتے ہیں",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Lawson stores carry toiletries.",
+        "label": "true",
+        "claim_urdu": "لاوسن اسٹورز میں ٹوائلٹریز دستیاب ہوتی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Lawson stores carry other daily essentials.",
+        "label": "true",
+        "claim_urdu": "لاوسن اسٹورز دیگر روزمرہ کی ضروریات بھی فراہم کرتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Lawson operates a food service division.",
+        "label": "true",
+        "claim_urdu": false,
+        "label_urdu": false
+    },
+    {
+        "claim": "Lawson offers freshly prepared meals for customers.",
+        "label": "true",
+        "claim_urdu": "لاوسن اپنے صارفین کے لیے تازہ تیار کردہ کھانے کی پیشکش کرتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Lawson offers snacks for customers on the go.",
+        "label": "true",
+        "claim_urdu": "لاوسن گاہکوں کے لیے فوری کھانے فراہم کرتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The 1932 Australian Grand Prix was a motorsport race.",
+        "label": "true",
+        "claim_urdu": "1932 کا آسٹریلین گرانڈ پری ایک موٹر اسپورٹ ریس تھی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The 1932 Australian Grand Prix was held on a dirt track circuit at the Phillip Island Grand Prix Circuit.",
+        "label": "true",
+        "claim_urdu": "1932 کا آسٹریلوی گراں پری فلپ آئی لینڈ گراں پری سرکٹ پر ایک کچے ٹریک سرکٹ پر منعقد ہوا تھا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The Phillip Island Grand Prix Circuit is located in Victoria, Australia. ",
+        "label": "true",
+        "claim_urdu": "فلپ آئی لینڈ گراں پری سرکٹ وکٹوریا، آسٹریلیا میں واقع ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The 1932 Australian Grand Prix was contested over a distance of 40 laps.",
+        "label": "false",
+        "claim_urdu": "1932 کا آسٹریلین گرانڈ پری 40 لیپس کے فاصلے پر مقابلہ کیا گیا تھا۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The race for the 1932 Australian Grand Prix totaled 160 miles (257.5 km).",
+        "label": "false",
+        "claim_urdu": "1932 کے آسٹریلین گرینڈ پری کا مقابلہ 160 میل (257.5 کلومیٹر) کا تھا۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The 1932 Australian Grand Prix was a handicap race.",
+        "label": "true",
+        "claim_urdu": "1932 کا آسٹریلین گراں پری ایک معذوری دوڑ تھی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The driver Bill Thompson won the 1932 Australian Grand Prix.",
+        "label": "true",
+        "claim_urdu": "ڈرائیور بل تھامسن نے 1932 آسٹریلین گراں پری جیتی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Bill Thompson drove a Bugatti Type 37A when he won the 1932 Australian Grand Prix.",
+        "label": "true",
+        "claim_urdu": "بل تھامپسن نے 1932 آسٹریلین گرانڈ پری جیتنے پر بگاٹی ٹائپ 37A چلائی تھی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Bristly Bellflowers are found in fields.",
+        "label": "true",
+        "claim_urdu": "برسٹی بیل فلاور کھیتوں میں پائے جاتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Bristly Bellflowers are found in meadows.",
+        "label": "true",
+        "claim_urdu": "بریسٹلی بیل فلاورز میدانی علاقوں میں پائے جاتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Bristly Bellflowers are found in forests.",
+        "label": "true",
+        "claim_urdu": "برسٹلی بیلفلاورز جنگلات میں پائی جاتی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Bristly Bellflowers are found along roadsides.",
+        "label": "true",
+        "claim_urdu": "جھاڑیوں والی بیل فلاورز سڑکوں کے کنارے پائی جاتی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Bristly Bellflowers are typically found in the temperate regions of Europe.",
+        "label": "true",
+        "claim_urdu": "بریسٹلی بیل فلاورز عموماً یورپ کے معتدل علاقوں میں پائے جاتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Bristly Bellflowers are typically found in the temperate regions of Asia.",
+        "label": "true",
+        "claim_urdu": "خرپدار بیل فلاورز عام طور پر ایشیا کے معتدل علاقوں میں پائے جاتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Bristly Bellflowers are typically found in the temperate regions of North America.",
+        "label": "true",
+        "claim_urdu": "جھاڑی نما بیل فلاورز عموماً شمالی امریکہ کے معتدل علاقوں میں پائی جاتی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Meadows are a possible location to find Bristly Bellflowers in the wild.",
+        "label": "true",
+        "claim_urdu": "میڈوز میں جنگلی بریقن بل فلاورز کو تلاش کرنا ممکن ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Open fields are a possible location to find Bristly Bellflowers in the wild.",
+        "label": "true",
+        "claim_urdu": "کھلے میدانوں میں جنگلی برسلے بیل فلاورز پائے جانے کا امکان ہوتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Bristly Bellflowers prefer mostly sunny areas.",
+        "label": "true",
+        "claim_urdu": "برسٹی بیلفلاورز زیادہ تر دھوپ والے علاقوں کو پسند کرتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "A surfboard is made of foam, fiberglass, and resin.",
+        "label": "true",
+        "claim_urdu": "سرف بورڈ جھاگ، فائبر گلاس، اور رال سے بنایا جاتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The foam provides buoyancy for a surfboard.",
+        "label": "true",
+        "claim_urdu": "جھاگ ایک سرف بورڈ کو طفو فراہم کرتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The foam is shaped to the desired dimensions of the surfboard.",
+        "label": "true",
+        "claim_urdu": "جھاگ کو سرف بورڈ کی مطلوبہ جہات کے مطابق شکل دی جاتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Fiberglass is applied to the foam for a surfboard.",
+        "label": "true",
+        "claim_urdu": "سرف بورڈ کے لیے جھاگ پر فائبر گلاس لگایا جاتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Resin is used to harden a surfboard.",
+        "label": "true",
+        "claim_urdu": "ریزن کو ایک سرف بورڈ کو سخت کرنے کے لیے استعمال کیا جاتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The fins help control the board in the water.",
+        "label": "true",
+        "claim_urdu": "پنکھے پانی میں بورڈ کو کنٹرول کرنے میں مدد کرتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The fins for surfboard are typically made of plastic or fiberglass.",
+        "label": "true",
+        "claim_urdu": "سرف بورڈ کے لیے پنکھے عام طور پر پلاسٹک یا فائبرگلاس سے بنائے جاتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Some surfboards have a layer of foam on the deck.",
+        "label": "true",
+        "claim_urdu": "کچھ سرف بورڈز کی سطح پر جھاگ کی تہہ ہوتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The layer of foam on the deck provides padding and grip for the surfer.",
+        "label": "true",
+        "claim_urdu": "ڈیک پر موجود جھاگ کی تہہ سرفر کے لیے کشن اور گرفت فراہم کرتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The position of Minister for Food, Agriculture and Fisheries of Denmark was created in 1899.",
+        "label": "true",
+        "claim_urdu": "ڈنمارک کی وزارت خوراک، زراعت اور ماہی پروری کا عہدہ 1899 میں قائم کیا گیا تھا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The initial name of the position of Minister for Food, Agriculture and Fisheries of Denmark was Minister for Agriculture.",
+        "label": "true",
+        "claim_urdu": "ڈنمارک کے وزیر برائے خوراک، زراعت اور ماہی گیری کے عہدے کا ابتدائی نام وزیر برائے زراعت تھا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The name of the position of Minister for Food, Agriculture and Fisheries of Denmark was changed to Minister for Food, Agriculture and Fisheries in 2001.",
+        "label": "false",
+        "claim_urdu": "ڈنمارک کے وزیرِ خوراک، زراعت اور ماہی گیری کے عہدے کے نام کو 2001 میں تبدیل کر کے وزیرِ خوراک، زراعت اور ماہی گیری کر دیا گیا تھا۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The main reasons homeless people from outside of San Francisco went to San Francisco were for better weather conditions.",
+        "label": "false",
+        "claim_urdu": "سان فرانسسکو سے باہر کے بے گھر افراد کے سان فرانسسکو جانے کی بنیادی وجوہات بہتر موسم کی حالتیں تھیں۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The main reasons homeless people from outside of San Francisco went to San Francisco were for more compassion and support for the homeless population.",
+        "label": "false",
+        "claim_urdu": "سان فرانسسکو سے باہر کے بے گھر افراد کے سان فرانسسکو جانے کی بنیادی وجوہات بے گھر آبادی کے لئے زیادہ ہمدردی اور معاونت شامل تھیں۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The main reasons homeless people from outside of San Francisco went to San Francisco were for access to services such as food banks and healthcare facilities.",
+        "label": "true",
+        "claim_urdu": "سان فرانسسکو کے باہر سے بے گھر لوگوں کے سان فرانسسکو جانے کی اہم وجوہات میں خوراک کی بینکوں اور صحت کی سہولیات جیسے خدمات تک رسائی شامل تھیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Ironworking was introduced to North Africa around 500 BCE.",
+        "label": "true",
+        "claim_urdu": "لوہا سازی کا آغاز شمالی افریقہ میں تقریباً 500 قبل مسیح میں ہوا تھا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "It took several centuries for Ironworking to spread southward and become commonplace in West Africa.",
+        "label": "true",
+        "claim_urdu": "آہن سازی کی جنوبی طرف پھیلنے اور مغربی افریقہ میں عام ہونے میں متعدد صدیوں کا عرصہ لگا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Some archaeological evidence suggests that ironworking in West Africa may have begun around the 2nd century BCE.,",
+        "label": "false",
+        "claim_urdu": "کچھ آثار قدیمہ کے شواہد یہ بتاتے ہیں کہ مغربی افریقہ میں لوہے کی کاریگری شاید دوسری صدی قبل مسیح کے آس پاس شروع ہوئی تھی۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The exact timeline of the spread of ironworking in West Africa is difficult to determine.",
+        "label": "true",
+        "claim_urdu": "مغربی افریقہ میں لوہے کے کام کے پھیلاؤ کا درست وقت کا تعین کرنا مشکل ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Marcus Morton was born on February 19, 1784.",
+        "label": "false",
+        "claim_urdu": "مارکس مورٹن 19 فروری 1784 کو پیدا ہوئے تھے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Marcus Morton left the Federalist Party.,",
+        "label": "false",
+        "claim_urdu": "مارکس مورٹن نے فیڈرلزم پارٹی چھوڑ دی۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Marcus Morton became a Democrat.,",
+        "label": "true",
+        "claim_urdu": "مارکس مارٹن ایک ڈیموکریٹ بن گئے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Marcus Morton's support for states' rights and opposition to the Federalist party's policies on war and civil liberties led to his decision.",
+        "label": "true",
+        "claim_urdu": false,
+        "label_urdu": false
+    },
+    {
+        "claim": "Marcus Morton served as Governor of Massachusetts.",
+        "label": "true",
+        "claim_urdu": "مارکس مارٹن نے میساچوسٹس کے گورنر کی حیثیت سے خدمات سر انجام دیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Marcus Morton served as a U.S. Representative.",
+        "label": "true",
+        "claim_urdu": "مارکس مارٹن نے ایک امریکی نمائندے کے طور پر خدمات انجام دیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Marcus Morton served as a U.S. Senator.",
+        "label": "false",
+        "claim_urdu": "مارکس مورٹن نے امریکی سینیٹر کے طور پر خدمات انجام دیں۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Stuart Russell proposes a new approach to developing AI.,",
+        "label": "true",
+        "claim_urdu": "اسٹورٹ رسل مصنوعی ذہانت کی ترقی کے لیے ایک نیا طریقہ کار تجویز کرتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The new approach prioritizes aligning AI systems with human values and goals, rather than just optimizing a given objective function.",
+        "label": "true",
+        "claim_urdu": "نیا طریقہ کار AI نظاموں کو انسانی اقدار اور مقاصد کے مطابق بنانا ترجیح دیتا ہے، بجائے اس کے کہ صرف دیے گئے مقصدی فعالیت کو بہتر بنایا جائے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "This new approach involves incorporating feedback from humans throughout the development process.,",
+        "label": "true",
+        "claim_urdu": "یہ نیا نقطہ نظر ترقی کے عمل کے دوران انسانوں سے ملنے والے فیڈبیک کو شامل کرنے پر مبنی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "This  new approach involves ensuring that the AI system understands human intentions.,",
+        "label": "true",
+        "claim_urdu": "یہ نیا طریقہ کار یقینی بناتا ہے کہ AI نظام انسانی ارادوں کو سمجھ سکے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "This new approach involves ensuring that the AI system understands human preferences.",
+        "label": "true",
+        "claim_urdu": "یہ نیا طریقہ کار اس بات کو یقینی بناتا ہے کہ AI سسٹم انسانی ترجیحات کو سمجھتا ہو۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Stuart Russell  argues that his approach for developing AI is necessary to address the potential risks posed by AI systems.",
+        "label": "true",
+        "claim_urdu": "اسٹیورٹ رسل کا استدلال ہے کہ ان کا مصنوعی ذہانت کو ترقی دینے کا طریقہ کار AI سسٹمز کے ممکنہ خطرات کا مقابلہ کرنے کے لیے ضروری ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Stuart Russell argues that his approach for developing AI  is necessary to ensure that AI systems are beneficial to humanity.",
+        "label": "true",
+        "claim_urdu": "اسٹیورٹ رسل کا کہنا ہے کہ ان کا مصنوعی ذہانت کی ترقی کا طریقہ کار اس بات کو یقینی بنانے کے لیے ضروری ہے کہ AI سسٹمز انسانیت کے لیے فائدہ مند ہوں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The SM U-30 was a Type U 27 German submarine.",
+        "label": "true",
+        "claim_urdu": "SM U-30 ایک قسم U 27 جرمن آبدوز تھی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The SM U-30 German submarine was used during World War I.",
+        "label": "true",
+        "claim_urdu": "جرمن آبدوز SM U-30 پہلی جنگ عظیم کے دوران استعمال کی گئی تھی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The SM U-30 German submarine was commissioned on December 22, 1914.",
+        "label": "true",
+        "claim_urdu": "جرمن آبدوز SM U-30 کو 22 دسمبر 1914 کو کمیشن کیا گیا تھا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The SM U-30 German submarine had a displacement of 662 tons when surfaced.",
+        "label": "false",
+        "claim_urdu": "جرمن آبدوز SM U-30 کی سطح پر ابھرنے پر 662 ٹن وزنی ہوتی تھی۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The SM U-30 German submarine had a displacement of 834 tons when submerged.",
+        "label": "false",
+        "claim_urdu": "جب SM U-30 جرمن آبدوز پانی میں مکمل ڈوبی ہوئی تھی تو اس کی مجموعی وزن 834 ٹن تھی۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The SM U-30 German submarine was armed with four 50cm torpedo tubes.",
+        "label": "true",
+        "claim_urdu": "جرمن آبدوز SM U-30 کو چار 50 سینٹی میٹر تارپیڈو ٹیوبوں سے مسلح کیا گیا تھا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The SM U-30 German submarine was armed with a 88 mm deck gun.",
+        "label": "true",
+        "claim_urdu": "جرمن آبدوز SM U-30 88 ملی میٹر ڈیک گن سے مسلح تھی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The SM U-30 German submarine sank a total of 42 ships during its service.",
+        "label": "false",
+        "claim_urdu": "جرمن آبدوز SM U-30 نے اپنی خدمات کے دوران مجموعی طور پر 42 جہاز تباہ کیے تھے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The SM U-30 German submarine was sunk by the British submarine E22 on August 4, 1915.",
+        "label": "false",
+        "claim_urdu": "جرمن آبدوز ایس ایم یو-30 کو 4 اگست 1915 کو برطانوی آبدوز ای 22 نے غرق کیا تھا۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The sinking of the SM U-30 German submarine resulted in the loss of all hands.",
+        "label": "false",
+        "claim_urdu": "جرمن آبدوز SM U-30 کے ڈوبنے سے تمام عملے کا نقصان ہوا۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Cattle were domesticated in Africa after agriculture.",
+        "label": "false",
+        "claim_urdu": "مویشیوں کو زراعت کے بعد افریقہ میں پالا گیا۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The domestication of cattle in Africa started around 8,000 to 7,000 years ago.",
+        "label": "false",
+        "claim_urdu": "افریقہ میں مویشیوں کو پالتو بنانے کا آغاز تقریباً 8,000 سے 7,000 سال پہلے ہوا تھا۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The earliest evidence of agriculture in Africa dates back to around 10,000 years ago.",
+        "label": "false",
+        "claim_urdu": "افریقہ میں زراعت کے سب سے پرانے شواہد تقریباً 10,000 سال پہلے کے ہیں۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Agriculture played a significant role in the domestication of cattle in Africa.",
+        "label": "false",
+        "claim_urdu": "افریقہ میں مویشیوں کے سدھانے میں زراعت نے ایک اہم کردار ادا کیا تھا۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Agricultural practices in Africa provided a stable food supply for early human communities.",
+        "label": "true",
+        "claim_urdu": "افریقہ میں زرعی طریقوں نے ابتدائی انسانی کمیونٹیوں کے لیے ایک مستحکم خوراک کی فراہمی مہیا کی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Early human communities used agricultural practices to keep and breed animals for milk in Africa.",
+        "label": "true",
+        "claim_urdu": "ابتدائی انسانی معاشرے افریقہ میں دودھ کے لیے جانور رکھنے اور پالنے کے لیے زرعی طریقے استعمال کرتے تھے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Early human communities used agricultural practices to keep and breed animals for meat in Africa.",
+        "label": "true",
+        "claim_urdu": "قدیم انسانی معاشروں نے افریقہ میں گوشت کے لیے جانوروں کو پالنے اور ان کی نسل بڑھانے کے لیے زرعی طریقے استعمال کیے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Early human communities used agricultural practices to keep and breed animals for plowing fields in Africa.",
+        "label": "true",
+        "claim_urdu": "قدیم انسانی برادریوں نے افریقہ میں کھیت جوتنے کے لیے جانوروں کو رکھنے اور افزائش نسل کے لیے زرعی طریقے استعمال کیے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "To make an iced matcha latte, you will need matcha powder.",
+        "label": "true",
+        "claim_urdu": "آئسڈ ماچا لاٹے بنانے کے لیے آپ کو ماچا پاؤڈر کی ضرورت ہوگی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "To make an iced matcha latte, you will need hot water.",
+        "label": "true",
+        "claim_urdu": "آئسڈ ماچا لاتے بنانے کے لیے آپ کو گرم پانی کی ضرورت ہوگی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "To make an iced matcha latte, you need to mix the matcha powder with hot water until it is dissolved.",
+        "label": "true",
+        "claim_urdu": "آئسڈ میچا لاتے بنانے کے لیے، آپ کو میچا پاؤڈر کو گرم پانی کے ساتھ ملانا ہوگا یہاں تک کہ یہ حل ہوجائے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "to make iced matcha latte, after mixing the matcha powder with hot water until it is dissolved, pour the mixture into a glass filled with ice.",
+        "label": "true",
+        "claim_urdu": "آئسڈ ماچا لاٹے بنانے کے لیے، ماچا پاؤڈر کو گرم پانی میں حل ہونے تک ملانے کے بعد، اس مکسچر کو برف سے بھرے گلاس میں ڈالیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "to make iced matcha latte, after pouring the mixture into a glass filled with ice, add your desired amount of milk.",
+        "label": "true",
+        "claim_urdu": "آئسڈ میچا لیٹے بناتے وقت، مکسچر کو برف سے بھرے گلاس میں ڈالنے کے بعد، اپنی پسند کی مقدار میں دودھ شامل کریں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The final step in making iced matcha latte is to stir the mixure",
+        "label": "true",
+        "claim_urdu": "آئسڈ ماچا لاٹے بنانے کا آخری مرحلہ مکسچر کو ہلانا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Airplane glide ratio refers to the distance an airplane can travel forward in relation to the altitude it loses during a gliding descent.",
+        "label": "true",
+        "claim_urdu": "ہوائی جہاز کی گلائیڈ ریشو اس فاصلے کو ظاہر کرتی ہے جو ہوائی جہاز اپنے گلائیڈنگ نزول کے دوران اپنی اونچائی کھو کر طے کر سکتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Airplane glide ratio is expressed as a ratio.",
+        "label": "true",
+        "claim_urdu": "ہوائی جہاز کی گلائیڈ تناسب ایک تناسب کے طور پر بیان کی جاتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "in airplane glide ratio, Higher numbers in the ratio indicate that the airplane can travel further.",
+        "label": "true",
+        "claim_urdu": "طیارے کی گلائیڈ شرح میں، زیادہ تعداد سے مراد ہے کہ طیارہ زیادہ دور جا سکتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "In airplane glide ratio, Higher numbers in the ratio indicate that the airplane loses less altitude.",
+        "label": "true",
+        "claim_urdu": "ہوائی جہاز کے گلائیڈ ریشو میں، عدد کی زیادہ مقدار اس بات کی نشاندہی کرتی ہے کہ ہوائی جہاز کی بلندی میں کمی کم ہوتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The purpose of using Terraform modules is to create reusable and shareable configurations.",
+        "label": "true",
+        "claim_urdu": "Terraform ماڈیولز کا استعمال کرنے کا مقصد دوبارہ استعمال کے قابل اور شیئر کے قابل کنفیگریشنز بنانا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Terraform modules allow for abstraction of infrastructure resources.",
+        "label": "true",
+        "claim_urdu": "ٹیرافارم ماڈیولز انفراسٹرکچر وسائل کی تجرید کی اجازت دیتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Terraform modules help simplify the management of complex infrastructures.",
+        "label": "true",
+        "claim_urdu": "ٹیرافارم ماڈیولز پیچیدہ انفراسٹرکچر کی مینجمنٹ کو آسان بنانے میں مدد دیتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Terraform modules help simplify the scaling of complex infrastructures.",
+        "label": "true",
+        "claim_urdu": "ٹیرافارم ماڈیولز پیچیدہ بنیادی ڈھانچوں کو بڑھانے کو آسان بنانے میں مدد کرتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Common executive roles at large companies include CEO (Chief Executive Officer).",
+        "label": "true",
+        "claim_urdu": "بڑی کمپنیوں میں عام ایگزیکٹو کرداروں میں CEO (چیف ایگزیکٹو آفیسر) شامل ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Common executive roles at large companies include COO (Chief Operating Officer).",
+        "label": "true",
+        "claim_urdu": "بڑی کمپنیوں میں عام ایگزیکٹو کرداروں میں چیف آپریٹنگ آفیسر (COO) شامل ہوتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Common executive roles at large companies include CFO (Chief Financial Officer).",
+        "label": "true",
+        "claim_urdu": "بڑی کمپنیوں میں عام ایگزیکٹو کرداروں میں چیف فنانشل آفیسر شامل ہوتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Common executive roles at large companies include CMO (Chief Marketing Officer).",
+        "label": "true",
+        "claim_urdu": "بڑی کمپنیوں میں عمومی ایگزیکٹیو کرداروں میں CMO (چیف مارکیٹنگ آفیسر) شامل ہوتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Common executive roles at large companies include CTO (Chief Technology Officer).",
+        "label": "true",
+        "claim_urdu": false,
+        "label_urdu": false
+    },
+    {
+        "claim": "Common executive roles at large companies include CHRO (Chief Human Resources Officer).",
+        "label": "true",
+        "claim_urdu": "بڑی کمپنیوں میں عام انتظامی عہدوں میں چیف ہیومن ریسورس آفیسر (CHRO) شامل ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Combinatorial optimisation is a branch of mathematics.",
+        "label": "true",
+        "claim_urdu": "کمبینٹریل اوپٹیمائزیشن ریاضی کی ایک شاخ ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Combinatorial optimisation is a branch of computer science.",
+        "label": "true",
+        "claim_urdu": "کمبینٹوریل آپٹیمائزیشن کمپیوٹر سائنس کی ایک شاخ ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Combinatorial optimisation involves finding the best combination of elements from a finite set.",
+        "label": "true",
+        "claim_urdu": "امتزاجی ٹخصیصی مسائل کا حل ایک محدود مجموعہ سے بہترین عناصر کی ترکیب تلاش کرنا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The goal of combinatorial optimisation is to optimise a particular objective function.",
+        "label": "true",
+        "claim_urdu": "ترکیبی آپٹیمائزیشن کا مقصد ایک خاص مقصدی فعل کو بہتر بنانا ہوتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Combinatorial optimisation has applications in logistics.",
+        "label": "true",
+        "claim_urdu": "کمبینیشنل آپٹیمائزیشن کے لاجسٹکس میں استعمالات ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Combinatorial optimisation has applications in scheduling.",
+        "label": "true",
+        "claim_urdu": "ترکیبی اصلاح کا شیڈولنگ میں استعمال ہوتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Combinatorial optimisation has applications in manufacturing.",
+        "label": "true",
+        "claim_urdu": "کمبینیشنل آپٹیمائزیشن کا استعمال مینوفیکچرنگ میں ہوتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Combinatorial optimisation has applications in telecommunications.",
+        "label": "true",
+        "claim_urdu": "کمبینٹورل اصلاحات کے ٹیلی کمیونیکیشن میں اطلاقات موجود ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Energy density is an important attribute of spacecraft batteries.",
+        "label": "true",
+        "claim_urdu": "خلائی جہاز کی بیٹریوں کی توانائی کی کثافت ایک اہم خصوصیت ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Specific power is an important attribute of spacecraft batteries.",
+        "label": "true",
+        "claim_urdu": "خاص پاور خلائی جہاز کی بیٹریوں کی ایک اہم خصوصیت ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Cycle life is an important attribute of spacecraft batteries.",
+        "label": "true",
+        "claim_urdu": "خلا میں موجود بیٹریوں کی زندگی کا دورانیہ ایک اہم خصوصیت ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Reliability is an important attribute of spacecraft batteries.",
+        "label": "true",
+        "claim_urdu": "خلائی جہاز کی بیٹریوں کی قابل اعتمادیت ایک اہم خصوصیت ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The use of advanced materials helps to realize these attributes in spacecraft batteries.",
+        "label": "true",
+        "claim_urdu": "خلائی جہاز کی بیٹریوں میں ان خصوصیات کو سمجھنے میں ترقی یافتہ مواد کا استعمال مددگار ہوتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Efficient designs help to realize these attributes in spacecraft batteries.",
+        "label": "true",
+        "claim_urdu": "موثر ڈیزائن خلائی جہاز کی بیٹریوں میں ان خصوصیات کو حقیقت کا روپ دینے میں مدد دیتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Rigorous testing and quality control processes help to realize these attributes in spacecraft batteries.",
+        "label": "true",
+        "claim_urdu": "سخت جانچ اور معیار کو کنٹرول کرنے کے عمل خلائی جہاز کی بیٹریوں میں ان خصوصیات کو عمل میں لانے میں مدد دیتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The first pillar of migration or modernization from a legacy data warehouse to a modern lakehouse is to evaluating and understand the Legacy System: Assessing and understanding the existing legacy data warehouse system's structure, schema, and data.",
+        "label": "false",
+        "claim_urdu": "وراثتی ڈیٹا ویئرہاؤس سے جدید لیک ہاؤس کی جانب ہجرت یا جدیدیت کا پہلا ستون وراثتی نظام کی جانچ اور سمجھ بوجھ ہے: موجودہ وراثتی ڈیٹا ویئرہاؤس نظام کی ساخت، اسکیما، اور ڈیٹا کا جائزہ لینا اور سمجھنا۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The second pillar of migration or modernization from a legacy data warehouse to a modern lakehouse is to develop a Migration Plan: Creating a migration roadmap that outlines the various stages of the migration process, prioritizes migration activities, identifies potential risks, and outlines resource requirements for each stage.",
+        "label": "true",
+        "claim_urdu": "منتقل ہونے یا کسی پرانے ڈیٹا ویئر ہاؤس سے جدید لیک ہاؤس کی طرف تبدیلی کا دوسرا ستون یہ ہے کہ نقل مکانی کے منصوبے کو ترقی دینی جائے: نقل مکانی کے عمل کے مختلف مراحل کو واضح کرنے والا روڈ میپ بنانا، نقل مکانی کی سرگرمیوں کو ترجیح دینا، ممکنہ خطرات کی نشاندہی کرنا، اور ہر مرحلے کے لئے وسائل کی ضروریات کو بیان کرنا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The third pillar of migration or modernization from a legacy data warehouse to a modern lakehouse is Data Extraction and Integration: Extracting data from the legacy system and integrating it into the modern lakehouse architecture.",
+        "label": "true",
+        "claim_urdu": "روایتی ڈیٹا ویئرہاؤس سے جدید لیک ہاؤس کی جانب ہجرت یا جدید کاری کے تیسرے ستون کو ڈیٹا استخراج اور انضمام کہا جاتا ہے: یعنی کہ پرانے نظام سے ڈیٹا کا اخراج اور اسے جدید لیک ہاؤس کے ڈھانچے میں ضم کرنا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The fourth pillar of migration or modernization from a legacy data warehouse to a modern lakehouse is Transformation and Migration of Data: Transforming legacy data into a modern format that is compatible with the new data lakehouse environment and verifying the accuracy of migrated data.",
+        "label": "true",
+        "claim_urdu": "کسی بھی وراثتی ڈیٹا ویئرہاؤس کو جدید لیک ہاؤس میں منتقل کرنے یا جدید بنانے کا چوتھا ستون ڈیٹا کی تبدیلی اور منتقلی ہے: وراثتی ڈیٹا کو جدید فارمیٹ میں تبدیل کرنا جو نئے ڈیٹا لیک ہاؤس ماحول کے مطابق ہو اور منتقل کیے گئے ڈیٹا کی درستگی کی تصدیق کرنا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The fifth pillar of migration or modernization from a legacy data warehouse to a modern lakehouse is Optimization and Maintenance: Continuously fine-tuning the new lakehouse environment by monitoring data quality, performance, and security to ensure that it operates at peak optimization, and is regularly maintained and improved.",
+        "label": "true",
+        "claim_urdu": "ہجرت یا جدیدیت کے پانچویں ستون سے مراد قدیم ڈیٹا ویئر ہاؤس سے جدید لیک ہاؤس کی طرف تبدیلی کے دوران آپٹی میائزیشن اور مینٹیننس ہیں: نئے لیک ہاؤس ماحول کی مسلسل بہتری اور حفاظت کے ساتھ کارکردگی کی نگرانی کر کے اس بات کو یقینی بنانا کہ یہ اعلیٰ ترین آپٹی ماٰئزیشن پر چل رہا ہے اور باقاعدگی سے اس کی دیکھ بھال اور بہتری کی جاتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Recruiters are responsible for managing the entire hiring process.",
+        "label": "false",
+        "claim_urdu": "بھرتی کرنے والے پورے بھرتی کے عمل کی نگرانی کے ذمہ دار نہیں ہیں۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Recruiters are responsible for sourcing candidates.",
+        "label": "true",
+        "claim_urdu": "بھرتی کرنے والے امیدواروں کی بھرتی کے ذمہ دار ہوتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Recruiters are responsible for screening candidates.",
+        "label": "true",
+        "claim_urdu": "بھرتی کنندگان امیدواروں کی جانچ پڑتال کے ذمہ دار ہوتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Recruiters are responsible for interviewing candidates.",
+        "label": "false",
+        "claim_urdu": "امیدواروں کا انٹرویو کرنا بھرتی کرنے والوں کی ذمہ داری ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Recruiters are responsible for hiring candidates.",
+        "label": "false",
+        "claim_urdu": "بھرتی کار امیدواروں کو ملازمت دینے کے ذمہ دار ہوتے ہیں۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Sourcers focus on finding qualified candidates for open positions.",
+        "label": "true",
+        "claim_urdu": "سورس کرنے والے کھلی پوزیشنز کے لیے موزوں امیدواروں کو تلاش کرنے پر توجہ دیتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Sourcers focus on attracting qualified candidates for open positions.",
+        "label": "true",
+        "claim_urdu": "سورسرز کھلی اسامیوں کے لئے اہل امیدواروں کو متوجہ کرنے پر توجہ مرکوز کرتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Firms advertise to create brand recognition.",
+        "label": "true",
+        "claim_urdu": "کمپنیاں برانڈ کی شناخت بنانے کے لیے اشتہار کرتی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Firms advertise to create brand differentiation.",
+        "label": "true",
+        "claim_urdu": "کمپنیاں تشہیر کرتی ہیں تاکہ برانڈ کو مختلف بنایا جا سکے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Firms advertise to influence consumer preferences.",
+        "label": "true",
+        "claim_urdu": "کمپنیاں صارفین کے رجحانات کو متاثر کرنے کے لیے اشتہار دیتی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Firms advertise to provide information about product features.",
+        "label": "true",
+        "claim_urdu": "کمپنیاں مصنوعات کی خصوصیات کے بارے میں معلومات فراہم کرنے کے لیے اشتہارات دیتی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Firms advertise to provide information about product benefits.",
+        "label": "true",
+        "claim_urdu": "فرمز مصنوعات کے فوائد کے بارے میں معلومات فراہم کرنے کے لیے اشتہار دیتی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Firms advertise to provide information about product availability.",
+        "label": "true",
+        "claim_urdu": "کمپنیاں مصنوعات کی موجودگی کے بارے میں معلومات فراہم کرنے کے لئے اشتہار دیتی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Firms advertise to maintain or increase market share.",
+        "label": "true",
+        "claim_urdu": "کمپنیاں اپنے مارکیٹ شیئر کو برقرار رکھنے یا بڑھانے کے لیے اشتہار دیتی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Firms advertise to create brand loyalty.",
+        "label": "true",
+        "claim_urdu": "فرمز برانڈ کی وفاداری پیدا کرنے کے لیے تشہیر کرتی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Multipass distillation is a process of distillation.",
+        "label": "true",
+        "claim_urdu": "ملٹی پاس ڈسٹلیشن ایک عمل ہے کشید کا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "In multipass distillation, the vapor from the first distillation is condensed.",
+        "label": "true",
+        "claim_urdu": "کثیر مرحلہ کشید کے عمل میں، پہلی کشید کے بخارات کو گاڑھا کیا جاتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Some popular tropical travel destinations for people on the east coast of the United States include the Caribbean Islands.",
+        "label": "false",
+        "claim_urdu": "ریاستہائے متحدہ کی مشرقی ساحلی پٹی کے لوگوں کے لیے کچھ مقبول گرمسیری سیاحتی مقامات میں کیریبین جزائر شامل ہیں۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Some popular tropical travel destinations for people on the east coast of the United States include Jamaica.",
+        "label": "false",
+        "claim_urdu": "امریکہ کے مشرقی ساحل کے لوگوں کے لیے کچھ مشہور گرمسیری سفر کی منزلوں میں جمائیکا شامل ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Some popular tropical travel destinations for people on the east coast of the United States include the Dominican Republic.",
+        "label": "false",
+        "claim_urdu": "ریاستہائے متحدہ کے مشرقی ساحل کے لوگوں کے لیے کچھ مقبول گرمسیری سفری مقامات میں ڈومینیکن جمہوریہ شامل ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Some popular tropical travel destinations for people on the east coast of the United States include the Bahamas.",
+        "label": "false",
+        "claim_urdu": false,
+        "label_urdu": false
+    },
+    {
+        "claim": "Some popular tropical travel destinations for people on the east coast of the United States include Costa Rica.",
+        "label": "false",
+        "claim_urdu": "ریاستہائے متحدہ کی مشرقی ساحل کے لوگوں کے لیے کچھ مقبول گرم ممالک کی سفری منزلوں میں کوسٹا ریکا شامل ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Some popular tropical travel destinations for people on the east coast of the United States include Mexico.",
+        "label": "false",
+        "claim_urdu": "ریاستہائے متحدہ کی مشرقی ساحل کے لوگوں کے لیے کچھ مشہور گرمسیری سفری مقامات میں میکسیکو شامل ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Love is a complex emotional attachment.",
+        "label": "true",
+        "claim_urdu": "محبت ایک پیچیدہ جذباتی تعلق ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Love involves aspects such as commitment, intimacy, passion, and care.",
+        "label": "false",
+        "claim_urdu": "محبت میں عہد، قربت، جوش، اور دیکھ بھال جیسے پہلو شامل ہوتے ہیں۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Affection is a feeling of warmth, fondness, and liking towards someone or something.",
+        "label": "true",
+        "claim_urdu": "محبت ایک احساس ہے جو کسی شخص یا چیز کے لئے گرمی، دوستداری، اور پسندیدگی کو ظاہر کرتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "While love is a broader and deeper emotional connection, affection is usually a milder expression of fondness or attachment.",
+        "label": "true",
+        "claim_urdu": "محبت ایک وسیع اور گہرا جذباتی تعلق ہے، جبکہ محبت یا لگاؤ کی عموماً ہلکی سی اظہار ہوتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Marginal cost rate design in electric utilities refers to the pricing strategy.",
+        "label": "true",
+        "claim_urdu": "بجلی کی خدمات میں حاشیہ لاگت شرح ڈیزائن قیمتوں کی حکمت عملی کو ظاہر کرتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "In the pricing strategy, the customer is charged based on the cost of providing an additional unit of electricity.",
+        "label": "true",
+        "claim_urdu": "قیمتوں کی حکمت عملی میں، گاہک کو اضافی یونٹ بجلی فراہم کرنے کی لاگت کی بنیاد پر چارج کیا جاتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The main difference between Scala Future's onComplete and andThen functions is that onComplete takes a callback function with an argument of Try[T], which gets executed when the Future completes either successfully or with an exception.",
+        "label": "true",
+        "claim_urdu": "سکالا فیوچر کی onComplete اور andThen فنکشنز میں بنیادی فرق یہ ہے کہ onComplete ایک کال بیک فنکشن کو Try[T] کے آرگومنٹ کے ساتھ لیتی ہے، جو فیوچر کے کامیابی یا کسی استثنا کے ساتھ مکمل ہونے پر عمل کرتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "andThen takes a callback function with an argument of Future[T], which gets executed only when the Future completes successfully.",
+        "label": "true",
+        "claim_urdu": "andThen ایک callback فنکشن لیتا ہے جس کا ایک دلیل Future[T] ہوتی ہے، جو صرف اس وقت چلایا جاتا ہے جب Future کامیابی سے مکمل ہو جاتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "California generally has warmer weather than New York.",
+        "label": "true",
+        "claim_urdu": "کیلیفورنیا کا موسم عموماً نیو یارک کے مقابلے میں زیادہ گرم ہوتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "California generally has more consistent weather than New York.",
+        "label": "true",
+        "claim_urdu": "کیلیفورنیا کا موسم عموماً نیویارک کے مقابلے میں زیادہ مستحکم ہوتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "California has milder winters.",
+        "label": "true",
+        "claim_urdu": "کیلیفورنیا میں سردیوں کا موسم کم سخت ہوتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "California has hot summers with little to no rainfall.",
+        "label": "false",
+        "claim_urdu": "کیلیفورنیا میں گرمیوں کے موسم میں گرمی ہوتی ہے اور بارش کا امکان بہت کم یا نہ ہونے کے برابر ہوتا ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Compared to California, New York experiences colder winters with snow and rain.",
+        "label": "false",
+        "claim_urdu": "کالیفورنیا کے مقابلے میں، نیویارک میں سردیوں میں برف اور بارش کے ساتھ زیادہ سردی ہوتی ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Compared to California, New York experiences warmer summers with higher humidity.",
+        "label": "false",
+        "claim_urdu": "کیلیفورنیا کے مقابلے میں، نیویارک میں گرمیاں زیادہ گرم ہوتی ہیں اور نمی بھی زیادہ ہوتی ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "To search for a document in Google Drive, you can click on the search bar at the top of the screen and type in \"Finance Forecast\" as the title of the document.",
+        "label": "false",
+        "claim_urdu": "Google Drive میں دستاویز تلاش کرنے کے لیے آپ اسکرین کے اوپر سرچ بار پر کلک کر سکتے ہیں اور \"Finance Forecast\" کو دستاویز کے عنوان کے طور پر ٹائپ کر سکتے ہیں۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "C# is a programming language.",
+        "label": "true",
+        "claim_urdu": false,
+        "label_urdu": false
+    },
+    {
+        "claim": "C# was developed by Microsoft.",
+        "label": "true",
+        "claim_urdu": "سی شارپ مائیکروسافٹ کے ذریعے تیار کی گئی تھی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "C# was developed as part of the .NET platform.",
+        "label": "true",
+        "claim_urdu": "سی شارپ کو .NET پلیٹ فارم کے حصے کے طور پر تیار کیا گیا تھا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "C# has features such as type safety.",
+        "label": "true",
+        "claim_urdu": "سی شارپ میں ٹائپ سیفٹی جیسی خصوصیات موجود ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "C# has features such as garbage collection.",
+        "label": "true",
+        "claim_urdu": false,
+        "label_urdu": false
+    },
+    {
+        "claim": "C# has features such as simplified and efficient memory management.",
+        "label": "true",
+        "claim_urdu": "سی شارپ میں سادہ اور مؤثر میموری مینجمنٹ جیسی خصوصیات شامل ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "C# can be used for web app development.",
+        "label": "true",
+        "claim_urdu": "C# ویب ایپ ڈیولپمنٹ کے لیے استعمال کیا جا سکتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "C# can be used for mobile app development.",
+        "label": "true",
+        "claim_urdu": "سی شارپ کو موبائل ایپلیکیشن کی ترقی کے لیے بھی استعمال کیا جا سکتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "C# can be used for game development.",
+        "label": "true",
+        "claim_urdu": "C# گیمز کی ڈویلپمنٹ کے لیے استعمال کیا جا سکتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Linux adoption has been relatively limited compared to other operating systems like Windows and macOS.",
+        "label": "true",
+        "claim_urdu": "لینکس کا اپنانا، ونڈوز اور macOS جیسے دوسرے آپریٹنگ سسٹمز کے مقابلے میں نسبتاً محدود رہا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Linux has a strong presence in the enterprise and server market.",
+        "label": "true",
+        "claim_urdu": "لینکس کا بڑے پیمانے پر اداروں اور سرور کی مارکیٹ میں مضبوط وجود ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Linux is known for its stability.",
+        "label": "true",
+        "claim_urdu": "لینکس اپنی مستحکمیت کے لئے جانا جاتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Linux is known for its scalability.",
+        "label": "true",
+        "claim_urdu": "لینکس اپنی اسکیل ایبلیٹی کے لئے جانا جاتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Linux is known for its security.",
+        "label": "true",
+        "claim_urdu": "لینکس اپنی سکیورٹی کے لیے جانا جاتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "To play an E major chord on a guitar, place your first finger on the first fret of the third string, second finger on the second fret of the fifth string, and third finger on the second fret of the fourth string.",
+        "label": "true",
+        "claim_urdu": "گٹار پر ایک ای میجر کورڈ بجاتے وقت، اپنی پہلی انگلی تیسری تار کے پہلے فریٹ پر، دوسری انگلی پانچویں تار کے دوسرے فریٹ پر، اور تیسری انگلی چوتھی تار کے دوسرے فریٹ پر رکھیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The Catechism Cataclysm is a comedy-horror film.",
+        "label": "true",
+        "claim_urdu": "کیٹکیزم کاٹاکلیزم ایک کامیڈی-خوفناک فلم ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The Catechism Cataclysm is directed by Todd Rohal.",
+        "label": "true",
+        "claim_urdu": "دی کیٹیکزم کیٹا کلیزم کی ہدایت کاری ٹوڈ روہال نے کی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The Catechism Cataclysm follows the story of a disillusioned and bored priest.",
+        "label": "true",
+        "claim_urdu": "کیتچزم کیٹاکلیزم ایک مایوس اور بور پادری کی کہانی کی پیروی کرتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "In the Catechism Cataclysm, the priest goes on a canoe trip with a former classmate.",
+        "label": "true",
+        "claim_urdu": "دِی کیٹیکزم کیٹاکلزم میں، پادری اپنے ایک سابق ہم جماعت کے ساتھ کینو کے سفر پر جاتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "In the Catechism Cataclysm, the canoe trip quickly leads to a series of bizarre and terrifying events.",
+        "label": "true",
+        "claim_urdu": "کیتچزم کیٹاکلزم میں، کینو کا سفر تیزی سے بیزار اور خوفناک واقعات کے سلسلے کی طرف لے جاتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "When working with a small dataset for forecasting, it is important to choose a model that is appropriate for the data.",
+        "label": "true",
+        "claim_urdu": "جب پیش گوئی کے لیے ایک چھوٹے ڈیٹاسیٹ کے ساتھ کام کر رہے ہوں، تو یہ ضروری ہے کہ ڈیٹا کے لیے مناسب ماڈل کا انتخاب کریں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "When working with a small dataset for forecasting, it is important to avoid overfitting.",
+        "label": "true",
+        "claim_urdu": "جب پیش گوئی کے لیے ایک چھوٹے ڈیٹاسیٹ کے ساتھ کام کرتے ہیں تو زیادہ فٹنگ سے بچنا اہم ہوتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Methods such as moving averages can be used for forecasting.",
+        "label": "true",
+        "claim_urdu": "متوسط حرکت جیسے طریقے پیش گوئی کے لئے استعمال کیے جا سکتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Methods such as exponential smoothing can be used for forecasting.",
+        "label": "true",
+        "claim_urdu": "پیش گوئی کے لیے ایکسپونینشل اسموتھنگ جیسے طریقے استعمال کیے جا سکتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Methods such as ARIMA models can be used for forecasting.",
+        "label": "true",
+        "claim_urdu": "ARIMA ماڈلز جیسے طریقے پیش گوئی کے لیے استعمال کیے جا سکتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "When doing forecasting with a small dataset, try to gather additional information or external factors that might influence the variable being forecasted.",
+        "label": "true",
+        "claim_urdu": "جب آپ چھوٹے ڈیٹا سیٹ کے ساتھ پیشن گوئی کر رہے ہوں، تو اضافی معلومات یا خارجی عوامل جمع کرنے کی کوشش کریں جو پیش گوئی کی جانے والی متغیر کو متاثر کر سکتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Gathering additional information about small datasets for forecasting can be done through expert judgment.",
+        "label": "true",
+        "claim_urdu": false,
+        "label_urdu": false
+    },
+    {
+        "claim": "Gathering additional information about small datasets for forecasting can be done through public data sources.",
+        "label": "true",
+        "claim_urdu": "پیش گوئی کے لیے چھوٹے ڈیٹا سیٹوں کے بارے میں اضافی معلومات اکٹھی کی جا سکتی ہیں عوامی ڈیٹا ذرائع کے ذریعے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Gathering additional information about small datasets for forecasting can be done through microsurveys.",
+        "label": "true",
+        "claim_urdu": "مائیکرو سروے کے ذریعے پیش گوئی کے لیے چھوٹے ڈیٹا سیٹس کے بارے میں اضافی معلومات جمع کی جا سکتی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "ICD-9 is a coding system used in medical billing and coding.",
+        "label": "true",
+        "claim_urdu": "آئی سی ڈی-9 ایک کوڈنگ نظام ہے جو طبی بلنگ اور کوڈنگ میں استعمال ہوتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "ICD-9 is used to classify diseases, injuries, and medical procedures.",
+        "label": "false",
+        "claim_urdu": "امراض، چوٹوں اور طبی طریقہ کار کی درجہ بندی کے لیے ICD-9 کا استعمال کیا جاتا ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "ICD-9 is used for reimbursement purposes.",
+        "label": "true",
+        "claim_urdu": "ICD-9 کو ادائیگی کے مقاصد کے لیے استعمال کیا جاتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Speak & Spell is an album from Depeche Mode",
+        "label": "true",
+        "claim_urdu": "اسپیک اینڈ اسپیل ڈیپچ موڈ کا ایک البم ہے",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "A Broken Frame is an album from Depeche Mode",
+        "label": "true",
+        "claim_urdu": "اے بروکن فریم، ڈیپیش موڈ کا ایک البم ہے",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Construction Time Again is an album from Depeche Mode",
+        "label": "true",
+        "claim_urdu": false,
+        "label_urdu": false
+    },
+    {
+        "claim": "Some Great Reward is an album from Depeche Mode",
+        "label": "true",
+        "claim_urdu": "سم گریٹ ریوارڈ ڈیپیش موڈ کا ایک البم ہے",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Black Celebration is an album from Depeche Mode",
+        "label": "true",
+        "claim_urdu": "بلیک سیلیبریشن ایک البم ہے ڈیپیش موڈ کی طرف سے",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Music for the Masses is an album from Depeche Mode",
+        "label": "true",
+        "claim_urdu": false,
+        "label_urdu": false
+    },
+    {
+        "claim": "Violator is an album from Depeche Mode",
+        "label": "true",
+        "claim_urdu": "وائیولیٹر ڈیپیش موڈ کا ایک البم ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Songs of Faith and Devotion is an album from Depeche Mode",
+        "label": "true",
+        "claim_urdu": "سانگز آف فیتھ اینڈ ڈیووشن، ڈیپیش موڈ کا ایک البم ہے",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Ultra is an album from Depeche Mode",
+        "label": "true",
+        "claim_urdu": "الٹرا دیپیچ موڈ کا ایک البم ہے",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Exciter is an album from Depeche Mode",
+        "label": "true",
+        "claim_urdu": "ایکسائیٹر ڈیپیش موڈ کا ایک البم ہے",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Playing the Angel is an album from Depeche Mode",
+        "label": "true",
+        "claim_urdu": false,
+        "label_urdu": false
+    },
+    {
+        "claim": "Sounds of the Universe is an album from Depeche Mode",
+        "label": "true",
+        "claim_urdu": "ساؤنڈز آف دی یونیورس ڈیپیش موڈ کا ایک البم ہے",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Delta Machine is an album from Depeche Mode",
+        "label": "true",
+        "claim_urdu": "ڈیلٹا مشین ڈیپیش موڈ کا ایک البم ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Spirit is an album from Depeche Mode",
+        "label": "true",
+        "claim_urdu": "اسپریٹ ڈیپیش موڈ کا ایک البم ہے",
+        "label_urdu": "درست"
+    }
+]
