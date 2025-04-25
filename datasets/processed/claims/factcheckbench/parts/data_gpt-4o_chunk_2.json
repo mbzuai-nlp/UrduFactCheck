@@ -128,7 +128,7 @@
     {
         "claim": "More reached number one on Christian radio charts on August 15, 2003.",
         "label": "true",
-        "claim_urdu": "More نے کرسچن ریڈیو چارٹس پر 15 اگست 2003 کو پہلی پوزیشن حاصل کی۔",
+        "claim_urdu": "مور نے 15 اگست 2003 کو عیسائی ریڈیو چارٹس پر نمبر ایک پر پہنچ گیا۔",
         "label_urdu": "درست"
     },
     {
@@ -158,7 +158,7 @@
     {
         "claim": "Lawson is similar to 7-Eleven.",
         "label": "true",
-        "claim_urdu": "لاسن 7-Eleven سے ملتا جلتا ہے۔",
+        "claim_urdu": "لاوسن 7-ایلیون سے مشابہت رکھتا ہے۔",
         "label_urdu": "درست"
     },
     {
@@ -212,8 +212,8 @@
     {
         "claim": "Lawson operates a food service division.",
         "label": "true",
-        "claim_urdu": false,
-        "label_urdu": false
+        "claim_urdu": " لاوسن ایک فوڈ سروس ڈویژن چلاتا ہے۔",
+        "label_urdu": "درست"
     },
     {
         "claim": "Lawson offers freshly prepared meals for customers.",
@@ -230,13 +230,13 @@
     {
         "claim": "The 1932 Australian Grand Prix was a motorsport race.",
         "label": "true",
-        "claim_urdu": "1932 کا آسٹریلین گرانڈ پری ایک موٹر اسپورٹ ریس تھی۔",
+        "claim_urdu": "آسٹریلین گرانڈ پری، جو 1932 میں منعقد ہوئی، ایک موٹر اسپورٹ ریس تھی۔",
         "label_urdu": "درست"
     },
     {
         "claim": "The 1932 Australian Grand Prix was held on a dirt track circuit at the Phillip Island Grand Prix Circuit.",
         "label": "true",
-        "claim_urdu": "1932 کا آسٹریلوی گراں پری فلپ آئی لینڈ گراں پری سرکٹ پر ایک کچے ٹریک سرکٹ پر منعقد ہوا تھا۔",
+        "claim_urdu": "آسٹریلین گرانڈ پری 1932 میں فلپ آئی لینڈ گرانڈ پری سرکٹ کے مٹی والے ٹریک پر منعقد ہوئی۔",
         "label_urdu": "درست"
     },
     {
@@ -248,19 +248,19 @@
     {
         "claim": "The 1932 Australian Grand Prix was contested over a distance of 40 laps.",
         "label": "false",
-        "claim_urdu": "1932 کا آسٹریلین گرانڈ پری 40 لیپس کے فاصلے پر مقابلہ کیا گیا تھا۔",
+        "claim_urdu": "آسٹریلین گرانڈ پری 1932 میں 40 چکروں کے فاصلے پر منعقد ہوئی تھی۔",
         "label_urdu": "غلط"
     },
     {
         "claim": "The race for the 1932 Australian Grand Prix totaled 160 miles (257.5 km).",
         "label": "false",
-        "claim_urdu": "1932 کے آسٹریلین گرینڈ پری کا مقابلہ 160 میل (257.5 کلومیٹر) کا تھا۔",
+        "claim_urdu": "آسٹریلین گرانڈ پری کی 1932 کی دوڑ کا کل فاصلہ 160 میل (257.5 کلومیٹر) تھا۔",
         "label_urdu": "غلط"
     },
     {
         "claim": "The 1932 Australian Grand Prix was a handicap race.",
         "label": "true",
-        "claim_urdu": "1932 کا آسٹریلین گراں پری ایک معذوری دوڑ تھی۔",
+        "claim_urdu": "آسٹریلین گرانڈ پری، جو 1932 میں منعقد ہوئی، ایک ہینڈی کیپ ریس تھی۔",
         "label_urdu": "درست"
     },
     {
@@ -272,7 +272,7 @@
     {
         "claim": "Bill Thompson drove a Bugatti Type 37A when he won the 1932 Australian Grand Prix.",
         "label": "true",
-        "claim_urdu": "بل تھامپسن نے 1932 آسٹریلین گرانڈ پری جیتنے پر بگاٹی ٹائپ 37A چلائی تھی۔",
+        "claim_urdu": "بل تھامسن نے 1932 آسٹریلین گرانڈ پری جیتنے کے لیے بیگٹی ٹائپ 37 اے چلائی۔",
         "label_urdu": "درست"
     },
     {
@@ -470,8 +470,8 @@
     {
         "claim": "Marcus Morton's support for states' rights and opposition to the Federalist party's policies on war and civil liberties led to his decision.",
         "label": "true",
-        "claim_urdu": false,
-        "label_urdu": false
+        "claim_urdu": " مارکس مارٹن کی ریاستوں کے حقوق کی حمایت اور جنگ اور شہری آزادیوں پر فیڈرلزم پارٹی کی پالیسیوں کے خلاف مزاحمت نے ان کے فیصلے کی بنیاد رکھی۔",
+        "label_urdu": "درست"
     },
     {
         "claim": "Marcus Morton served as Governor of Massachusetts.",
@@ -500,7 +500,7 @@
     {
         "claim": "The new approach prioritizes aligning AI systems with human values and goals, rather than just optimizing a given objective function.",
         "label": "true",
-        "claim_urdu": "نیا طریقہ کار AI نظاموں کو انسانی اقدار اور مقاصد کے مطابق بنانا ترجیح دیتا ہے، بجائے اس کے کہ صرف دیے گئے مقصدی فعالیت کو بہتر بنایا جائے۔",
+        "claim_urdu": "نیا طریقہ کار کسی دیے گئے مقصد کو صرف بہتر بنانے کے بجائے، اے آئی نظاموں کو انسانی اقدار اور اہداف کے ساتھ ہم آہنگ کرنے کو ترجیح دیتا ہے۔",
         "label_urdu": "درست"
     },
     {
@@ -512,73 +512,73 @@
     {
         "claim": "This  new approach involves ensuring that the AI system understands human intentions.,",
         "label": "true",
-        "claim_urdu": "یہ نیا طریقہ کار یقینی بناتا ہے کہ AI نظام انسانی ارادوں کو سمجھ سکے۔",
+        "claim_urdu": "یہ نیا طریقہ کار اس بات کو یقینی بنانے پر مشتمل ہے کہ اے آئی نظام انسانی ارادوں کو سمجھ سکے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "This new approach involves ensuring that the AI system understands human preferences.",
         "label": "true",
-        "claim_urdu": "یہ نیا طریقہ کار اس بات کو یقینی بناتا ہے کہ AI سسٹم انسانی ترجیحات کو سمجھتا ہو۔",
+        "claim_urdu": "یہ نیا طریقہ کار اس بات کو یقینی بنانے پر مشتمل ہے کہ اے آئی نظام انسانی ترجیحات کو سمجھ سکے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "Stuart Russell  argues that his approach for developing AI is necessary to address the potential risks posed by AI systems.",
         "label": "true",
-        "claim_urdu": "اسٹیورٹ رسل کا استدلال ہے کہ ان کا مصنوعی ذہانت کو ترقی دینے کا طریقہ کار AI سسٹمز کے ممکنہ خطرات کا مقابلہ کرنے کے لیے ضروری ہے۔",
+        "claim_urdu": "اسٹورٹ رسل کا کہنا ہے کہ ان کا طریقۂ کار اے آئی نظاموں سے پیدا ہونے والے ممکنہ خطرات سے نمٹنے کے لیے ضروری ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "Stuart Russell argues that his approach for developing AI  is necessary to ensure that AI systems are beneficial to humanity.",
         "label": "true",
-        "claim_urdu": "اسٹیورٹ رسل کا کہنا ہے کہ ان کا مصنوعی ذہانت کی ترقی کا طریقہ کار اس بات کو یقینی بنانے کے لیے ضروری ہے کہ AI سسٹمز انسانیت کے لیے فائدہ مند ہوں۔",
+        "claim_urdu": " اسٹورٹ رسل کا کہنا ہے کہ ان کا طریقۂ کار یہ یقینی بنانے کے لیے ضروری ہے کہ اے آئی نظام انسانیت کے لیے فائدہ مند ہوں۔",
         "label_urdu": "درست"
     },
     {
         "claim": "The SM U-30 was a Type U 27 German submarine.",
         "label": "true",
-        "claim_urdu": "SM U-30 ایک قسم U 27 جرمن آبدوز تھی۔",
+        "claim_urdu": " ایس ایم یو-30 ایک قسم کی یو 27 جرمن آبدوز تھی۔",
         "label_urdu": "درست"
     },
     {
         "claim": "The SM U-30 German submarine was used during World War I.",
         "label": "true",
-        "claim_urdu": "جرمن آبدوز SM U-30 پہلی جنگ عظیم کے دوران استعمال کی گئی تھی۔",
+        "claim_urdu": "ایس ایم یو-30 جرمن آبدوز پہلی جنگ عظیم کے دوران استعمال کی گئی تھی۔",
         "label_urdu": "درست"
     },
     {
         "claim": "The SM U-30 German submarine was commissioned on December 22, 1914.",
         "label": "true",
-        "claim_urdu": "جرمن آبدوز SM U-30 کو 22 دسمبر 1914 کو کمیشن کیا گیا تھا۔",
+        "claim_urdu": " ایس ایم یو-30 جرمن آبدوز کو 22 دسمبر 1914 کو کمیشن کیا گیا تھا۔",
         "label_urdu": "درست"
     },
     {
         "claim": "The SM U-30 German submarine had a displacement of 662 tons when surfaced.",
         "label": "false",
-        "claim_urdu": "جرمن آبدوز SM U-30 کی سطح پر ابھرنے پر 662 ٹن وزنی ہوتی تھی۔",
+        "claim_urdu": " ایس ایم یو-30 جرمن آبدوز کی سطح پر آنے کے وقت وزن برداری 662 ٹن تھی۔",
         "label_urdu": "غلط"
     },
     {
         "claim": "The SM U-30 German submarine had a displacement of 834 tons when submerged.",
         "label": "false",
-        "claim_urdu": "جب SM U-30 جرمن آبدوز پانی میں مکمل ڈوبی ہوئی تھی تو اس کی مجموعی وزن 834 ٹن تھی۔",
+        "claim_urdu": " ایس ایم یو-30 جرمن آبدوز کی ڈوبنے کے وقت وزن 834 ٹن تھا۔",
         "label_urdu": "غلط"
     },
     {
         "claim": "The SM U-30 German submarine was armed with four 50cm torpedo tubes.",
         "label": "true",
-        "claim_urdu": "جرمن آبدوز SM U-30 کو چار 50 سینٹی میٹر تارپیڈو ٹیوبوں سے مسلح کیا گیا تھا۔",
+        "claim_urdu": " ایس ایم یو-30 جرمن آبدوز میں چار 50 سینٹی میٹر ٹارپیڈو ٹیوبیں تھیں۔",
         "label_urdu": "درست"
     },
     {
         "claim": "The SM U-30 German submarine was armed with a 88 mm deck gun.",
         "label": "true",
-        "claim_urdu": "جرمن آبدوز SM U-30 88 ملی میٹر ڈیک گن سے مسلح تھی۔",
+        "claim_urdu": " ایس ایم یو-30 جرمن آبدوز میں 88 ملی میٹر ڈیک گن تھی۔",
         "label_urdu": "درست"
     },
     {
         "claim": "The SM U-30 German submarine sank a total of 42 ships during its service.",
         "label": "false",
-        "claim_urdu": "جرمن آبدوز SM U-30 نے اپنی خدمات کے دوران مجموعی طور پر 42 جہاز تباہ کیے تھے۔",
+        "claim_urdu": "ایس ایم یو-30 جرمن آبدوز نے اپنی خدمات کے دوران کل 42 جہاز غرق کیے۔",
         "label_urdu": "غلط"
     },
     {
@@ -590,7 +590,7 @@
     {
         "claim": "The sinking of the SM U-30 German submarine resulted in the loss of all hands.",
         "label": "false",
-        "claim_urdu": "جرمن آبدوز SM U-30 کے ڈوبنے سے تمام عملے کا نقصان ہوا۔",
+        "claim_urdu": " ایس ایم یو-30 جرمن آبدوز کے ڈوبنے کے نتیجے میں تمام عملے کا نقصان ہوا۔",
         "label_urdu": "غلط"
     },
     {
@@ -704,7 +704,7 @@
     {
         "claim": "The purpose of using Terraform modules is to create reusable and shareable configurations.",
         "label": "true",
-        "claim_urdu": "Terraform ماڈیولز کا استعمال کرنے کا مقصد دوبارہ استعمال کے قابل اور شیئر کے قابل کنفیگریشنز بنانا ہے۔",
+        "claim_urdu": " ٹیرافارم ماڈیولز کا مقصد دوبارہ قابل استعمال اور شیئر کرنے کے قابل کنفیگریشنز بنانا ہے۔",
         "label_urdu": "درست"
     },
     {
@@ -728,13 +728,13 @@
     {
         "claim": "Common executive roles at large companies include CEO (Chief Executive Officer).",
         "label": "true",
-        "claim_urdu": "بڑی کمپنیوں میں عام ایگزیکٹو کرداروں میں CEO (چیف ایگزیکٹو آفیسر) شامل ہیں۔",
+        "claim_urdu": "بڑی کمپنیوں میں عام ایگزیکٹو عہدوں میں سی ای او (چیف ایگزیکٹو آفیسر) شامل ہوتا ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "Common executive roles at large companies include COO (Chief Operating Officer).",
         "label": "true",
-        "claim_urdu": "بڑی کمپنیوں میں عام ایگزیکٹو کرداروں میں چیف آپریٹنگ آفیسر (COO) شامل ہوتا ہے۔",
+        "claim_urdu": "بڑی کمپنیوں میں عام ایگزیکٹو عہدوں میں سی او او (چیف آپریٹنگ آفیسر) شامل ہوتا ہے۔",
         "label_urdu": "درست"
     },
     {
@@ -746,19 +746,19 @@
     {
         "claim": "Common executive roles at large companies include CMO (Chief Marketing Officer).",
         "label": "true",
-        "claim_urdu": "بڑی کمپنیوں میں عمومی ایگزیکٹیو کرداروں میں CMO (چیف مارکیٹنگ آفیسر) شامل ہوتا ہے۔",
+        "claim_urdu": "بڑی کمپنیوں میں عام ایگزیکٹو عہدوں میں سی ایم او (چیف مارکیٹنگ آفیسر) شامل ہوتا ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "Common executive roles at large companies include CTO (Chief Technology Officer).",
         "label": "true",
-        "claim_urdu": false,
-        "label_urdu": false
+        "claim_urdu": "بڑی کمپنیوں میں عام ایگزیکٹو عہدوں میں سی ٹی او (چیف ٹیکنالوجی آفیسر) شامل ہوتا ہے۔",
+        "label_urdu": "درست"
     },
     {
         "claim": "Common executive roles at large companies include CHRO (Chief Human Resources Officer).",
         "label": "true",
-        "claim_urdu": "بڑی کمپنیوں میں عام انتظامی عہدوں میں چیف ہیومن ریسورس آفیسر (CHRO) شامل ہیں۔",
+        "claim_urdu": "بڑی کمپنیوں میں عام ایگزیکٹو عہدوں میں سی ایچ آر او (چیف ہیومن ریسورسز آفیسر) شامل ہوتا ہے۔",
         "label_urdu": "درست"
     },
     {
@@ -1004,8 +1004,8 @@
     {
         "claim": "Some popular tropical travel destinations for people on the east coast of the United States include the Bahamas.",
         "label": "false",
-        "claim_urdu": false,
-        "label_urdu": false
+        "claim_urdu": " ریاستہائے متحدہ کے مشرقی ساحل کے لوگوں کے لیے کچھ مقبول گرمسیری سفری مقامات میں بہاماس شامل ہے۔",
+        "label_urdu": "غلط"
     },
     {
         "claim": "Some popular tropical travel destinations for people on the east coast of the United States include Costa Rica.",
@@ -1058,13 +1058,13 @@
     {
         "claim": "The main difference between Scala Future's onComplete and andThen functions is that onComplete takes a callback function with an argument of Try[T], which gets executed when the Future completes either successfully or with an exception.",
         "label": "true",
-        "claim_urdu": "سکالا فیوچر کی onComplete اور andThen فنکشنز میں بنیادی فرق یہ ہے کہ onComplete ایک کال بیک فنکشن کو Try[T] کے آرگومنٹ کے ساتھ لیتی ہے، جو فیوچر کے کامیابی یا کسی استثنا کے ساتھ مکمل ہونے پر عمل کرتی ہے۔",
+        "claim_urdu": "اسکالا فیوچر میں `آن کمپلیٹ` اور `اینڈ دین` فنکشنز کے درمیان بنیادی فرق یہ ہے کہ `آن کمپلیٹ` ایک کال بیک فنکشن لیتا ہے جو `ٹرائی ٹی` آرگومنٹ کے ساتھ ہوتا ہے، اور یہ فنکشن اس وقت چلتا ہے جب فیوچر مکمل ہو جائے — چاہے وہ کامیابی سے مکمل ہو یا کسی ایکسیپشن کے ساتھ۔ ",
         "label_urdu": "درست"
     },
     {
         "claim": "andThen takes a callback function with an argument of Future[T], which gets executed only when the Future completes successfully.",
         "label": "true",
-        "claim_urdu": "andThen ایک callback فنکشن لیتا ہے جس کا ایک دلیل Future[T] ہوتی ہے، جو صرف اس وقت چلایا جاتا ہے جب Future کامیابی سے مکمل ہو جاتا ہے۔",
+        "claim_urdu": "`اینڈ دین` ایک کال بیک فنکشن لیتا ہے جس کا آرگومنٹ `فیوچر ٹی` ہوتا ہے، اور یہ فنکشن صرف اُس وقت چلتا ہے جب اسکالا فیوچر کامیابی سے مکمل ہو جائے۔",
         "label_urdu": "درست"
     },
     {
@@ -1106,14 +1106,14 @@
     {
         "claim": "To search for a document in Google Drive, you can click on the search bar at the top of the screen and type in \"Finance Forecast\" as the title of the document.",
         "label": "false",
-        "claim_urdu": "Google Drive میں دستاویز تلاش کرنے کے لیے آپ اسکرین کے اوپر سرچ بار پر کلک کر سکتے ہیں اور \"Finance Forecast\" کو دستاویز کے عنوان کے طور پر ٹائپ کر سکتے ہیں۔",
+        "claim_urdu": " گوگل ڈرائیو میں کسی دستاویز کو تلاش کرنے کے لیے، اسکرین کے اوپر موجود سرچ بار پر کلک کریں اور عنوان میں **فنانس پیش گوئی** لکھ کر تلاش کریں۔",
         "label_urdu": "غلط"
     },
     {
         "claim": "C# is a programming language.",
         "label": "true",
-        "claim_urdu": false,
-        "label_urdu": false
+        "claim_urdu": " سی شارپ ایک پروگرامنگ زبان ہے۔",
+        "label_urdu": "درست"
     },
     {
         "claim": "C# was developed by Microsoft.",
@@ -1124,7 +1124,7 @@
     {
         "claim": "C# was developed as part of the .NET platform.",
         "label": "true",
-        "claim_urdu": "سی شارپ کو .NET پلیٹ فارم کے حصے کے طور پر تیار کیا گیا تھا۔",
+        "claim_urdu": "سی شارپ کو .نیٹ پلیٹ فارم کا حصہ بناتے ہوئے تیار کیا گیا تھا۔",
         "label_urdu": "درست"
     },
     {
@@ -1136,8 +1136,8 @@
     {
         "claim": "C# has features such as garbage collection.",
         "label": "true",
-        "claim_urdu": false,
-        "label_urdu": false
+        "claim_urdu": " سی شارپ میں گاربیج کلیکشن جیسی خصوصیات شامل ہیں۔",
+        "label_urdu": "درست"
     },
     {
         "claim": "C# has features such as simplified and efficient memory management.",
@@ -1148,7 +1148,7 @@
     {
         "claim": "C# can be used for web app development.",
         "label": "true",
-        "claim_urdu": "C# ویب ایپ ڈیولپمنٹ کے لیے استعمال کیا جا سکتا ہے۔",
+        "claim_urdu": " سی شارپ کو ویب ایپلیکیشن کی ترقی کے لیے بھی استعمال کیا جا سکتا ہے۔",
         "label_urdu": "درست"
     },
     {
@@ -1160,13 +1160,13 @@
     {
         "claim": "C# can be used for game development.",
         "label": "true",
-        "claim_urdu": "C# گیمز کی ڈویلپمنٹ کے لیے استعمال کیا جا سکتا ہے۔",
+        "claim_urdu": " سی شارپ کو گیم کی ترقی کے لیے بھی استعمال کیا جا سکتا ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "Linux adoption has been relatively limited compared to other operating systems like Windows and macOS.",
         "label": "true",
-        "claim_urdu": "لینکس کا اپنانا، ونڈوز اور macOS جیسے دوسرے آپریٹنگ سسٹمز کے مقابلے میں نسبتاً محدود رہا ہے۔",
+        "claim_urdu": " لینکس کی اپنائیت دوسرے آپریٹنگ سسٹمز جیسے ونڈوز اور میک او ایس کے مقابلے میں نسبتاً محدود رہی ہے۔",
         "label_urdu": "درست"
     },
     {
@@ -1256,7 +1256,7 @@
     {
         "claim": "Methods such as ARIMA models can be used for forecasting.",
         "label": "true",
-        "claim_urdu": "ARIMA ماڈلز جیسے طریقے پیش گوئی کے لیے استعمال کیے جا سکتے ہیں۔",
+        "claim_urdu": " پیش گوئی کے لیے اے آر آئی ایم اے ماڈلز جیسے طریقے استعمال کیے جا سکتے ہیں۔",
         "label_urdu": "درست"
     },
     {
@@ -1268,8 +1268,8 @@
     {
         "claim": "Gathering additional information about small datasets for forecasting can be done through expert judgment.",
         "label": "true",
-        "claim_urdu": false,
-        "label_urdu": false
+        "claim_urdu": " پیش گوئی کے لیے چھوٹے ڈیٹا سیٹوں کے بارے میں اضافی معلومات اکٹھی کی جا سکتی ہیں ماہرین کی رائے کے ذریعے۔",
+        "label_urdu": "درست"
     },
     {
         "claim": "Gathering additional information about small datasets for forecasting can be done through public data sources.",
@@ -1292,13 +1292,13 @@
     {
         "claim": "ICD-9 is used to classify diseases, injuries, and medical procedures.",
         "label": "false",
-        "claim_urdu": "امراض، چوٹوں اور طبی طریقہ کار کی درجہ بندی کے لیے ICD-9 کا استعمال کیا جاتا ہے۔",
+        "claim_urdu": " آئی سی ڈی-9 بیماریوں، چوٹوں، اور طبی طریقہ کار کی درجہ بندی کے لیے استعمال ہوتا ہے۔",
         "label_urdu": "غلط"
     },
     {
         "claim": "ICD-9 is used for reimbursement purposes.",
         "label": "true",
-        "claim_urdu": "ICD-9 کو ادائیگی کے مقاصد کے لیے استعمال کیا جاتا ہے۔",
+        "claim_urdu": " آئی سی ڈی-9 کی واپسی کے مقاصد کے لیے استعمال ہوتا ہے۔",
         "label_urdu": "درست"
     },
     {
@@ -1316,8 +1316,8 @@
     {
         "claim": "Construction Time Again is an album from Depeche Mode",
         "label": "true",
-        "claim_urdu": false,
-        "label_urdu": false
+        "claim_urdu": "کنسٹرکشن ٹائم اگین، ڈیپیش موڈ کا ایک البم ہے",
+        "label_urdu": "درست"
     },
     {
         "claim": "Some Great Reward is an album from Depeche Mode",
@@ -1334,8 +1334,8 @@
     {
         "claim": "Music for the Masses is an album from Depeche Mode",
         "label": "true",
-        "claim_urdu": false,
-        "label_urdu": false
+        "claim_urdu": " میوزک فار دی میسس ایک البم ہے ڈیپیش موڈ کی طرف سے",
+        "label_urdu": "درست"
     },
     {
         "claim": "Violator is an album from Depeche Mode",
@@ -1364,8 +1364,8 @@
     {
         "claim": "Playing the Angel is an album from Depeche Mode",
         "label": "true",
-        "claim_urdu": false,
-        "label_urdu": false
+        "claim_urdu": " پلےنگ دی اینجل ایک البم ہے ڈیپیش موڈ کی طرف سے",
+        "label_urdu": "درست"
     },
     {
         "claim": "Sounds of the Universe is an album from Depeche Mode",
