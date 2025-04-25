@@ -1,0 +1,854 @@
+[
+    {
+        "claim": "The cost of making Pirates of the Caribbean: On Stranger Tides (2011) was $376.5 million after a tax credit.",
+        "label": "false",
+        "claim_urdu": "Pirates of the Caribbean: On Stranger Tides (2011) کی تیاری کی لاگت ٹیکس کریڈٹ کے بعد $376.5 ملین تھی۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Teams need to have well-defined roles, responsibilities, norms, and processes that facilitate coordination and communication.",
+        "label": "true",
+        "claim_urdu": "ٹیموں کو مربوطی اور مواصلات کو آسان بنانے کے لیے واضح طور پر متعین کردہ کردار، ذمہ داریاں، اصول، اور عمل کی ضرورت ہوتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Lighting bonfires on the eve of Holi symbolizes the triumph of good over evil and the purification of negative energies.",
+        "label": "true",
+        "claim_urdu": "ہولی کی شام کو آگ جلانا بھلائی کی بدی پر فتح اور منفی توانائیوں کی تطہیر کی علامت ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Reading other writers' works can challenge, motivate, or inspire you to get the words out.",
+        "label": "true",
+        "claim_urdu": "دوسرے مصنفین کے کام پڑھنا آپ کو چیلنج، متحرک یا متاثر کر سکتا ہے کہ آپ بھی لکھیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Enabling technology solutions that support communication, productivity, and well-being is an effective way to promote mental wellness and prevent burnout.",
+        "label": "true",
+        "claim_urdu": "ٹیکنالوجی کے حل، جو رابطے، پیداواریت، اور فلاح کی حمایت کرتے ہیں، ذہنی صحت کی ترقی اور برن آؤٹ کی روک تھام کے لیے مؤثر طریقہ ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "After a vaccine is approved by the FDA, it goes through a separate process to determine if it should be recommended for use in the general public or in specific groups of people, led by CDC’s Advisory Committee on Immunization Practices (ACIP).",
+        "label": "true",
+        "claim_urdu": "ایف ڈی اے کی منظوری کے بعد، ویکسین یہ تعین کرنے کے لیے ایک علیحدہ عمل سے گزرتی ہے کہ آیا اسے عام عوام یا کسی خاص گروپ کے لیے استعمال کی سفارش کی جانی چاہیے، جس کی قیادت سی ڈی سی کی امیونائزیشن پریکٹسز کے مشاورتی کمیٹی (ACIP) کرتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Hurling was outlawed by the Normans in the 12th century, but it survived and even flourished in some areas, especially in Munster.",
+        "label": "true",
+        "claim_urdu": "ہرلنگ کو 12ویں صدی میں نارمنز نے غیر قانونی قرار دیا، لیکن یہ کچھ علاقوں میں زندہ رہا اور یہاں تک کہ خوشحال بھی ہوا، خاص کر منسٹر میں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Supermassive black holes can be up to 50 billion times the mass of the Sun.",
+        "label": "false",
+        "claim_urdu": "سپر میسیو بلیک ہول سورج کے ماس سے 50 ارب گنا زیادہ بڑے ہو سکتے ہیں۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Ocean energy can be produced in various forms such as wave power (e.g., buoys), tidal power (e.g., turbines), ocean thermal energy conversion (OTEC), or salinity gradient power.",
+        "label": "true",
+        "claim_urdu": "سمندری توانائی مختلف شکلوں میں پیدا کی جا سکتی ہے جیسے کہ لہر کی طاقت (مثال کے طور پر، بوز)، مدوجزر کی طاقت (مثال کے طور پر، ٹربائنز)، اوشین تھرمل انرجی کنورژن (OTEC)، یا نمکینی کے فرق کی طاقت۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Relaxation techniques such as deep breathing, meditation, mindfulness, or progressive muscle relaxation can help cope with stress.",
+        "label": "true",
+        "claim_urdu": "گہرے سانس لینے، مراقبہ، ذہن سازی، یا عضلات کی مرحلہ وار آرام دہ تکنیک جیسے طریقے تناؤ سے نمٹنے میں مدد دے سکتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Memory recollection and familiarity is a possible explanation for déjà vu.",
+        "label": "true",
+        "claim_urdu": "یادداشت کی بحالی اور واقفیت ڈیجا وو کے لیے ایک ممکنہ وضاحت ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The Olympic Games have grown to become the world's largest sporting event, featuring thousands of athletes from over 200 nations and regions competing in various summer and winter sports.",
+        "label": "true",
+        "claim_urdu": "اولمپک کھیل دنیا کا سب سے بڑا کھیلوں کا ایونٹ بن چکے ہیں، جس میں 200 سے زائد قوموں اور خطوں کے ہزاروں ایتھلیٹس مختلف گرمائی اور سرمائی کھیلوں میں مقابلہ کرتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "According to the American Psychological Association, some common sources of work stress are low salaries, excessive workloads, lack of opportunities for growth or advancement, work that isn't engaging or challenging, lack of social support, not having enough control over job-related decisions, and conflicting demands or unclear performance expectations.",
+        "label": "true",
+        "claim_urdu": "امریکن سائیکولوجیکل ایسوسی ایشن کے مطابق، کام کے دباؤ کے کچھ عام ذرائع کم تنخواہیں، ضرورت سے زیادہ کام کے بوجھ، ترقی یا آگے بڑھنے کے مواقع کی کمی، غیر دلچسپ یا غیر چیلنجنگ کام، سماجی حمایت کی کمی، ملازمت سے متعلق فیصلوں پر کنٹرول کی عدم موجودگی، اور متضاد مطالبات یا غیر واضح کارکردگی کی توقعات ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Gene therapy is a promising field of medicine that aims to treat or cure genetic diseases by delivering corrected versions of faulty genes to the affected cells or tissues.",
+        "label": "true",
+        "claim_urdu": "جین تھراپی دوا کے ایک امید افزا شعبہ ہے جو متاثرہ خلیوں یا بافتوں میں معیوب جینز کے درست ورژنز فراہم کر کے جینیاتی بیماریوں کے علاج یا مکمل صحت یابی کو ممکن بناتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Merit Ptah and Peseshet were female physicians who lived in ancient Egypt around 2700 BC and 2500 BC respectively.",
+        "label": "false",
+        "claim_urdu": "مری پیٹا اور پیسیشت قدیم مصر میں تقریباً 2700 قبل مسیح اور 2500 قبل مسیح میں رہنے والی خاتون طبیب تھیں۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Dolphins use toxic pufferfish to 'get high', passing them around in a pod and then floating near the surface, apparently mesmerised by their own reflections.",
+        "label": "true",
+        "claim_urdu": "ڈالفنز زہریلے پفر فش کا استعمال 'ہائی' ہونے کے لیے کرتی ہیں، انہیں اپنی ٹولی میں گھماتی ہیں اور پھر سطح کے قریب تیرنے لگتی ہیں، جیسے کہ اپنی عکاسیوں سے متحیر ہو چکی ہوں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Music can be harnessed to improve our mental well-being and reduce stress levels by listening to music that we find pleasurable and meaningful.",
+        "label": "true",
+        "claim_urdu": "موسیقی کو ذہنی فلاح بہتر بنانے اور تناؤ کم کرنے کے لیے استعمال کیا جا سکتا ہے، خاص طور پر ایسی موسیقی سن کر جو ہمیں لطف اندوز اور معنی خیز لگتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The American Academy of Pediatrics recommends no more than two hours of screen time per day for adults.",
+        "label": "false",
+        "claim_urdu": "امریکن اکیڈمی آف پیڈیاٹرکس بالغوں کے لیے یومیہ زیادہ سے زیادہ دو گھنٹے اسکرین ٹائم کی سفارش کرتی ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Breaking tasks into smaller steps can make them more manageable and boost motivation.",
+        "label": "true",
+        "claim_urdu": "کاموں کو چھوٹے مراحل میں تقسیم کرنا انہیں زیادہ قابل انتظام بنا سکتا ہے اور حوصلہ افزائی کو بڑھا سکتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Adopting green certification standards provides guidelines and recognition for events that meet certain environmental criteria.",
+        "label": "true",
+        "claim_urdu": "ماحولیات سے متعلق مخصوص معیار کو پورا کرنے والے واقعات کے لیے، سبز سرٹیفیکیشن معیارات کو اپنانا ہدایات اور پہچان فراہم کرتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The fingerprints of a koala are so indistinguishable from humans that they have on occasion been confused at a crime scene.",
+        "label": "true",
+        "claim_urdu": "کوالا کے فنگر پرنٹس انسانوں سے اس قدر مشابہت رکھتے ہیں کہ کبھی کبھار جرم کے مقام پر انہیں انسانوں کے فنگر پرنٹس سمجھا گیا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Flamenco has also been influenced by musical traditions from the Caribbean, Latin America, and Europe.",
+        "label": "true",
+        "claim_urdu": "فلیمینکو پر کیریبین، لاطینی امریکہ اور یورپ کی موسیقی روایات کا بھی اثر رہا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The Eiffel Tower was designed by Gustave Eiffel's company for the 1889 World's Fair in Paris to celebrate the centennial of the French Revolution and France's industrial power.",
+        "label": "true",
+        "claim_urdu": "ایفل ٹاور کو گستاو ایفل کی کمپنی نے 1889 کی پیرس میں منعقدہ عالمی نمائش کے لیے ڈیزائن کیا تھا تاکہ فرانسیسی انقلاب کی صد سالہ تقریبات اور فرانس کی صنعتی طاقت کی خوشی منائی جا سکے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Implementing solutions for food waste reduction may require initial investment, training, or policy changes in restaurants.",
+        "label": "true",
+        "claim_urdu": "خوراک کی ضیاع کو کم کرنے کے حل کی نفاذ کے لیے ابتدائی سرمایہ کاری، تربیت، یا ریستورانوں میں پالیسی میں تبدیلیوں کی ضرورت پڑ سکتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Transportation accounts for about 27% of total U.S. greenhouse gas emissions.",
+        "label": "false",
+        "claim_urdu": "ٹرانسپورٹیشن کے شعبے سے امریکی گرین ہاؤس گیسوں کے کل اخراجات کا تقریباً 27% ہوتا ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The construction of the Eiffel Tower took only two years (1887-1889) to erect the tower, which was made of more than 18,000 pieces of wrought iron and 2.5 million rivets.",
+        "label": "true",
+        "claim_urdu": "ایفل ٹاور کی تعمیر میں صرف دو سال (1887-1889) لگے۔ یہ ٹاور 18,000 سے زیادہ ڈھالے ہوئے لوہے کے ٹکڑوں اور 2.5 ملین کیلوں سے بنایا گیا تھا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Choosing organic and local foods that are in season can reduce emissions from transporting food from far away.",
+        "label": "false",
+        "claim_urdu": "موسمی طور پر دستیاب نامیاتی اور مقامی غذاؤں کا انتخاب کرنے سے دور دراز سے غذا کی نقل و حمل سے نکلنے والے اخراجات کو کم کیا جا سکتا ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Growing kelp, eelgrass, and other vegetation in the ocean can provide habitat, food, and oxygen for marine animals, as well as economic benefits for coastal communities.",
+        "label": "true",
+        "claim_urdu": "سمندر میں کیلوپ، انیل, یا دیگر پودوں کی کاشت سمندری جانوروں کے لیے مسکن، خوراک اور آکسیجن فراہم کر سکتا ہے، نیز ساحلی برادریوں کے لیے معاشی فوائد بھی لا سکتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Duodji crafts include clothing, hats, belts, jewelry, shoe bands, cups, knives, bags, needle cases, cheese forms, and harnesses.",
+        "label": "true",
+        "claim_urdu": "دُووجی دستکاریوں میں کپڑے، ٹوپیاں، بیلٹ، زیورات، جوتوں کے بینڈ، پیالے، چاقو، تھیلے، سوئیوں کے ڈبے، پنیر کے سانچے اور لگامیں شامل ہوتی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Each utensil in the Chinese tea ceremony has a specific function and aesthetic value.",
+        "label": "true",
+        "claim_urdu": "چینی چائے کی تقریب میں ہر برتن کا ایک مخصوص استعمال اور جمالیاتی قدر ہوتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Beethoven suffered from a severe form of tinnitus, which meant he heard a constant ringing in his ears, and an autopsy revealed he had a distended inner ear that had developed lesions over time.",
+        "label": "true",
+        "claim_urdu": "بیٹووین شدید قسم کے کان بجنے کی بیماری میں مبتلا تھے، جس کا مطلب تھا کہ وہ کانوں میں مستقل گھنٹی کی آواز سنتے تھے، اور بعد از مرگ تحقیق میں یہ انکشاف ہوا کہ ان کے اندرونی کان میں وقت کے ساتھ ساتھ زخم پیدا ہو گئے تھے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The spacecraft will crash into a small moonlet orbiting a larger asteroid called Didymos in September 2023, measuring the change in its orbit.",
+        "label": "false",
+        "claim_urdu": "ستمبر 2023 میں خلائی جہاز ایک بڑے سیارچے جسے ڈیڈیموس کہا جاتا ہے، کے گرد مدار میں گردش کرنے والے ایک چھوٹے چاند سے ٹکرا جائے گا تاکہ اس کے مدار میں تبدیلی کی پیمائش کی جا سکے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Genetic editing technology can introduce unintended or harmful changes in DNA, such as off-target effects, mosaicism, or chromosomal abnormalities.",
+        "label": "true",
+        "claim_urdu": "جینیاتی ایڈیٹنگ کی ٹیکنالوجی ڈی این اے میں غیرارادی یا نقصان دہ تبدیلیاں متعارف کرا سکتی ہے، جیسے آف-ٹارگٹ اثرات، موزیسم، یا کروموسومل بے ضابطگیاں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The deepest known area of the ocean is the Mariana Trench, which has a depth of 11 km.",
+        "label": "false",
+        "claim_urdu": "معلومہ سب سے گہرا سمندری علاقہ ماریانا ٹرنچ ہے، جس کی گہرائی 11 کلومیٹر ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "A growth mindset is the belief that a person's capacities and talents can be improved over time through hard work, good strategies, and input from others.",
+        "label": "true",
+        "claim_urdu": "ترقی پسند ذہنیت یہ یقین ہے کہ ایک شخص کی صلاحیتیں اور مہارتیں وقت کے ساتھ محنت، اچھی حکمت عملی اور دوسروں کی مشاورت کے ذریعے بہتر ہو سکتی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Filter bubbles are not as prevalent or problematic as they are portrayed, and that users are still exposed to diverse and accurate perspectives through other sources and channels.",
+        "label": "false",
+        "claim_urdu": "فلٹر ببلز اتنے عام یا مسئلہ پیدا کرنے والے نہیں ہیں جتنا انہیں پیش کیا جاتا ہے، اور صارفین اب بھی دیگر ذرائع اور چینلز کے ذریعے متنوع اور درست نقطہ نظر سے روشناس ہوتے ہیں۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The cost of making Pirates of the Caribbean: On Stranger Tides (2011) was more than $456 million when adjusted for inflation.",
+        "label": "false",
+        "claim_urdu": "فلم پائریٹس آف دی کریبین: آن اسٹرینجر ٹائیڈز (2011) کو بنانے کی لاگت مہنگائی کے حساب سے $456 ملین سے زیادہ تھی۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The earliest known use of cryptography was over 5600 years ago in Sumeria and Egypt, where cuneiform and hieroglyphs were used to record transactions.",
+        "label": "false",
+        "claim_urdu": "علمِ رموز کے استعمال کا سب سے قدیم معروف ریکارڈ تقریباً 5600 سال قبل سامریہ اور مصر میں موجود ہے، جہاں پچی کاری اور ہیروگلیف کو لین دین محفوظ کرنے کے لیے استعمال کیا جاتا تھا۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The high budget of Pirates of the Caribbean: On Stranger Tides (2011) was due to the extensive use of visual effects.",
+        "label": "true",
+        "claim_urdu": "پائریٹس آف دی کیریبین: آن اسٹرینجر ٹائیڈز (2011) کے زیادہ بجٹ کی وجہ بصری اثرات کا وسیع پیمانے پر استعمال تھا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The Maori Haka dance has its origins in Maori legend, as a dance of the son of the sun god and the summer maid.",
+        "label": "true",
+        "claim_urdu": "ماوری ہاکا رقص کی ماخذ ماوری داستان میں ہیں، جیسا کہ سورج دیوتا کے بیٹے اور گرمی کی دوشیزہ کے رقص کے طور پر تھا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "MMR and chickenpox are vaccines that live but weakened versions.",
+        "label": "true",
+        "claim_urdu": "ایم ایم آر اور چکن پاکس ایسی ویکسینز ہیں جو زندہ مگر کمزور شدہ حالت میں ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The art of hun lakhon lek originated in the royal court of Thailand in the 17th century, influenced by Chinese rod puppetry.",
+        "label": "false",
+        "claim_urdu": "ہن لاکھون لیک کی فنون کی ابتدا سترہویں صدی میں تھائی لینڈ کے شاہی دربار میں ہوئی، جو چینی روڈ پپٹ سے متاثر تھیں۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Bata is a three-drum set that can be struck by hand or with a stick.",
+        "label": "false",
+        "claim_urdu": "باطا تین ڈرموں کا سیٹ ہوتا ہے جو ہاتھ یا ڈنڈے سے بجایا جا سکتا ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "ENIAC had no memory to store data or programs; instead, it used function tables that could be manually set to different values.",
+        "label": "false",
+        "claim_urdu": "ENIAC میں ڈیٹا یا پروگراموں کو ذخیرہ کرنے کے لیے کوئی میموری نہیں تھی؛ بلکہ یہ فنکشن ٹیبلز استعمال کرتا تھا جو مختلف قدروں پر دستی طور پر سیٹ کیے جا سکتے تھے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The Sensorama machine by Morton Heilig in 1956 combined 3D video, audio, smell, vibration, and wind to create an immersive multisensory experience.",
+        "label": "false",
+        "claim_urdu": "1956 میں مارٹن ہیلیگ کی سینسوراما مشین نے ایک 3D ویڈیو، آڈیو، خوشبو، ارتعاش، اور ہوا کو یکجا کر کے ایک مبہم ملٹی سنسری تجربہ فراہم کیا۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Pirates of the Caribbean: On Stranger Tides (2011) is the most expensive movie ever made.",
+        "label": "false",
+        "claim_urdu": "پائریٹس آف دی کیریبین: آن اسٹرینجر ٹائیڈز (2011) اب تک کی سب سے مہنگی فلم ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The Rosetta Stone slab enabled scholars to decipher hieroglyphs for the first time, opening up a new understanding of ancient Egyptian civilization.",
+        "label": "true",
+        "claim_urdu": false,
+        "label_urdu": false
+    },
+    {
+        "claim": "Flamenco became popular among foreign tourists and artists who admired its passion and beauty.",
+        "label": "true",
+        "claim_urdu": "فلیمینکو غیر ملکی سیاحوں اور فنکاروں میں مقبول ہو گیا جو اس کے جذبے اور خوبصورتی کی تعریف کرتے تھے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Brain-to-brain communication is the direct conveyance of information from one brain to another without using the common sensory channels of communication.",
+        "label": "true",
+        "claim_urdu": "دماغ سے دماغ تک رابطہ ایک دماغ سے دوسرے دماغ تک معلومات کی براہ راست منتقلی ہے، جو رابطے کے عام حسی ذرائع استعمال کیے بغیر ہوتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Eric Joisel pioneered the wet-folding technique that allows for more sculptural and expressive origami forms.",
+        "label": "false",
+        "claim_urdu": "ایرک جوازیل نے گیلا موڑنے کی تکنیک کا پیش خیمہ کیا جو زیادہ مجسمانہ اور اظہارکن آرٹ کے نمونوں کی اجازت دیتی ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Maintaining flexibility and forgiveness is important for dealing with setbacks.",
+        "label": "true",
+        "claim_urdu": "لچک اور معافی کو برقرار رکھنا ناکامیوں سے نمٹنے کے لیے اہم ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "NLU is considered an AI-hard problem because it requires not only understanding the syntax and semantics of human language, but also the context, pragmatics, and common sense knowledge.",
+        "label": "true",
+        "claim_urdu": "این ایل یو کو ایک مصنوعی ذہانت کی مشکل مسئلہ سمجھا جاتا ہے کیونکہ اس میں نہ صرف انسانی زبان کی ساخت اور معنی کو سمجھنا شامل ہوتا ہے، بلکہ سیاق و سباق، طرزِ عمل، اور عام فہم علم بھی درکار ہوتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The first high-level programming language was Short Code.",
+        "label": "false",
+        "claim_urdu": "پہلی اعلیٰ سطح کی پروگرامنگ زبان شارٹ کوڈ تھی۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The signal had a frequency of 980 megahertz, which is not used by human technology or natural sources.",
+        "label": "false",
+        "claim_urdu": "اس سگنل کی فریکوئنسی 980 میگاہرٹز تھی، جو انسانی ٹیکنالوجی یا قدرتی ذرائع کے ذریعے استعمال نہیں کی جاتی۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The Sagrada Familia is a Roman Catholic minor basilica in Barcelona, Spain, designed by the famous architect Antoni Gaudí.",
+        "label": "true",
+        "claim_urdu": "ساگرادا فامیلیا بارسلونا، اسپین میں ایک رومن کیتھولک معمولی باسیلیکا ہے، جسے مشہور معمار انتونی گاودی نے ڈیزائن کیا تھا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Shigeru Miyamoto originally wanted to make a game based on Popeye, but he couldn't get the rights to use the characters.",
+        "label": "true",
+        "claim_urdu": "شیگیریو میاموتو ابتدائی طور پر پوپائے پر مبنی ایک گیم بنانا چاہتے تھے، لیکن وہ کرداروں کے استعمال کے حقوق حاصل نہیں کر سکے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Desalination technology has a long history that dates back to ancient times, when people used evaporation and distillation methods to obtain fresh water from seawater.",
+        "label": "true",
+        "claim_urdu": "نمکین پانی صاف کرنے کی ٹیکنالوجی کی ایک طویل تاریخ ہے جو قدیم زمانے تک جاتی ہے، جب لوگ سمندری پانی سے تازہ پانی حاصل کرنے کے لیے بخارات اور کشیدگی کی تراکیب استعمال کرتے تھے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Healthy eating habits in children can help prevent or reduce the risk of childhood obesity.",
+        "label": "true",
+        "claim_urdu": "صحت مند کھانے کی عادات بچوں میں بچپن کی موٹاپے کے خطرے کو کم یا روکنے میں مدد دے سکتی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Brain mapping will enable researchers to map the circuits responsible for various functions and behaviors, such as motor control, vision, memory, and emotion.",
+        "label": "true",
+        "claim_urdu": "دماغی نقشہ سازی محققین کو مختلف افعال اور رویوں جیسے موٹر کنٹرول، بصارت، یادداشت، اور جذبات کے ذمہ دار سرکٹس کو نقشہ بنانے کی صلاحیت فراہم کرے گی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "ENIAC also inspired many other computer projects and innovations, such as EDVAC , UNIVAC , and software development.",
+        "label": "true",
+        "claim_urdu": "ENIAC نے بہت سے دیگر کمپیوٹر منصوبوں اور ایجادات کو متاثر کیا، جیسے ای ڈی وی اے سی، یو این آئی وی اے سی، اور سافٹ ویئر کی ترقی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Elephants are the only animal that can't jump.",
+        "label": "false",
+        "claim_urdu": "ہاتھی واحد جانور نہیں ہے جو نہیں کود سکتا۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Single-use plastics often end up in landfills, oceans, and wildlife habitats, where they can persist for centuries and cause harm to animals and ecosystems.",
+        "label": "true",
+        "claim_urdu": "یک بار استعمال ہونے والے پلاسٹک اکثر زمین کی بھرائی کے مقامات، سمندروں، اور جنگلی حیات کے مسکنوں میں پہنچ جاتے ہیں، جہاں وہ صدیوں تک باقی رہ سکتے ہیں اور جانوروں اور ماحولیاتی نظاموں کو نقصان پہنچاتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The direct method is an approach that involves teaching a language through the target language only, without using the learners' native language or translation.",
+        "label": "true",
+        "claim_urdu": "براہ راست طریقہ ایک ایسا طریقہ کار ہے جس میں زبان کی تعلیم صرف ہدف زبان کے ذریعے دی جاتی ہے، بغیر سیکھنے والوں کی مادری زبان یا ترجمے کا استعمال کیے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "This would be equivalent to 4,000 gigawatts of installed capacity, which is more than the current global capacity of all renewable sources combined.",
+        "label": "false",
+        "claim_urdu": "یہ 4,000 گیگا واٹ کی نصب شدہ صلاحیت کے مترادف ہو گا، جو کہ موجودہ تمام قابل تجدید وسائل کی عالمی صلاحیت سے زیادہ ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Many sustainable and ethical fashion brands innovate new ways of designing, producing, and delivering clothes that minimize harm to the planet and people, such as using renewable energy, biodegradable packaging, digital technologies, etc.",
+        "label": "true",
+        "claim_urdu": "بہت سے پائیدار اور اخلاقی فیشن برانڈز ایسے نئے طریقوں میں تخلیق کار ہیں جو لباس کے ڈیزائن، پیداوار، اور ترسیل کے نئے طریقے پیش کرتے ہیں جو زمین اور انسانوں کو نقصان پہنچانے کو کم کرتے ہیں، جیسے کہ تجدید پذیر توانائی کا استعمال، قابل تنزل پیکیجنگ، ڈیجیٹل ٹیکنالوجیز وغیرہ۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Avoiding the use of single-use plastics, such as bottles, bags, straws, or cutlery, can mitigate the negative impact on the environment.",
+        "label": "true",
+        "claim_urdu": "پانی کی بوتلوں، تھیلیوں، پلاسٹک کے تنکے، یا کٹلری جیسے سنگلی مصرف پلاسٹک کے استعمال سے گریز کرنے سے ماحولیاتی نقصان کو کم کیا جا سکتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "In 2023, the Sydney Opera House was awarded the world's highest civil engineering honour, the International Association for Bridge and Structural Engineering (IABSE) Outstanding Structure Award, for its exceptional design and construction.",
+        "label": "false",
+        "claim_urdu": "سال 2023 میں سڈنی اوپیرا ہاؤس کو دنیا کے سب سے اعلی سول انجینئرنگ اعزاز، انٹرنیشنل ایسوسی ایشن فار برج اینڈ اسٹرکچرل انجینئرنگ (IABSE) آؤٹ اسٹینڈنگ اسٹرکچر ایوارڈ، کو اس کی شاندار ڈیزائن اور تعمیراتی کارکردگی کے لیے نہیں دیا گیا۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Social self-care involves taking care of your relationships by building a supportive network of positive and healthy people.",
+        "label": "true",
+        "claim_urdu": "سماجی خود نگہداشت میں مثبت اور صحت مند لوگوں کے حمایتی نیٹ ورک کے ذریعے اپنے تعلقات کا خیال رکھنا شامل ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Kepler-22b is the first potentially habitable exoplanet discovered in 2010.",
+        "label": "false",
+        "claim_urdu": "کیپلر-22b پہلا ممکنہ طور پر قابل رہائش بیرونی سیارہ ہے جو سال 2010 میں دریافت ہوا تھا۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Music can be harnessed to improve our mental well-being and reduce stress levels by engaging in active musical activities such as singing, playing an instrument, or dancing.",
+        "label": "true",
+        "claim_urdu": "موسیقی کو ذہنی فلاح بہتر بنانے اور تناؤ کم کرنے کے لیے استعمال کیا جا سکتا ہے، خاص طور پر گانے، ساز بجانے یا رقص جیسی سرگرمیوں میں حصہ لے کر۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "By the 17th century, origami had entered Japanese society and was being used for both decorative and ceremonial purposes, such as to mark religious sites or to give as tokens and gifts.",
+        "label": "true",
+        "claim_urdu": "سترہویں صدی تک، اوریگامی جاپانی معاشرے میں داخل ہو چکا تھا اور اسے سجاوٹی اور رسمی مقاصد کے لیے استعمال کیا جا رہا تھا، جیسے مذہبی مقامات کی نشاندہی کرنا یا تحائف اور نشانیوں کے طور پر دینا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "MiRNAs can target about 60% of the genes of humans and other mammals.",
+        "label": "false",
+        "claim_urdu": "miRNAs انسانوں اور دیگر ممالیہ کے تقریباً 60٪ جینز کو نشانہ بنا سکتے ہیں۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Developing a safe and effective vaccine to prevent HIV infection is one of the highest priorities for HIV research.",
+        "label": "true",
+        "claim_urdu": "HIV انفیکشن سے بچاؤ کے لیے محفوظ اور مؤثر ویکسین کی تیاری، HIV تحقیق کی اعلیٰ ترین ترجیحات میں سے ایک ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Some events follow the ISO 20121 standard for sustainable event management.",
+        "label": "true",
+        "claim_urdu": "کچھ تقریبات پائیدار ایونٹ منیجمنٹ کے لیے ISO 20121 معیار کی پیروی کرتی ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Classical computers have less compute power than quantum computers and cannot scale as easily for problems that involve a large number of variables and outcomes.",
+        "label": "true",
+        "claim_urdu": "روایتی کمپیوٹرز میں کوانٹم کمپیوٹرز کے مقابلے میں کم کمپیوٹ پاور ہوتی ہے اور وہ ان مسائل کے لیے اتنے آسانی سے توسیع پذیر نہیں ہوتے جن میں بڑی تعداد میں متغیرات اور نتائج شامل ہوتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "A snail can sleep for three years.",
+        "label": "false",
+        "claim_urdu": false,
+        "label_urdu": false
+    },
+    {
+        "claim": "The painting has also been stolen from the Louvre in 1911 by an Italian worker who wanted to return it to Italy.",
+        "label": "false",
+        "claim_urdu": "یہ پینٹنگ 1911 میں لوور میوزیم سے ایک اطالوی کارکن کے ذریعے چوری نہیں کی گئی تھی جس نے اسے اٹلی واپس لے جانا چاہا تھا۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Deep learning has enabled many of the recent achievements in AI, such as AlphaGoZero, GPT-3, and StyleGAN.",
+        "label": "true",
+        "claim_urdu": "ڈیپ لرننگ نے مصنوعی ذہانت میں کئی حالیہ کامیابیوں کو ممکن بنایا ہے جیسے کہ AlphaGoZero، GPT-3، اور StyleGAN۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Despite extensive searches, no trace of the plane or its passengers has been found.",
+        "label": "false",
+        "claim_urdu": "وسیع پیمانے پر تلاش کے باوجود طیارے یا اس کے مسافروں کا کوئی سراغ نہیں ملا۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The release of the first home console, the Magnavox Odyssey, in 1972, used cartridges to play different games on a TV screen.",
+        "label": "false",
+        "claim_urdu": false,
+        "label_urdu": false
+    },
+    {
+        "claim": "The term \"black hole\" was coined in 1967 by American astronomer John Wheeler.",
+        "label": "false",
+        "claim_urdu": "اصطلاح 'بلیک ہول' 1967 میں امریکی ماہر فلکیات جان وہیلر نے وضع کی تھی۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Posidonia oceanica covers an area of about 200 km2 (77 sq mi).",
+        "label": "false",
+        "claim_urdu": "پوسیڈونیا اوشیانیکا تقریباً 200 مربع کلومیٹر (77 مربع میل) کے رقبے کو ڈھک رہی ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "PSMA-targeted therapy in prostate cancer uses a radioactive tracer that binds to prostate-specific membrane antigen (PSMA), a protein that is highly expressed on prostate cancer cells.",
+        "label": "true",
+        "claim_urdu": "پروسٹیٹ کینسر میں پی ایس ایم اے کو ہدف بنانے والی تھراپی ایک ریڈیوایکٹیو ٹریسر استعمال کرتی ہے جو پروسٹیٹ مخصوص میمبرین اینٹیجن (PSMA) نامی پروٹین سے منسلک ہوتا ہے، جو پروسٹیٹ کینسر کے خلیوں پر بڑی مقدار میں پایا جاتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The torch relay has been seen as a symbol of peace, unity, and hope, as well as a celebration of human achievement and diversity.",
+        "label": "true",
+        "claim_urdu": "مشعل کی دوڑ کو امن، اتحاد، اور امید کی علامت، نیز انسانی کامیابی اور تنوع کی تقریب کے طور پر دیکھا گیا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Stephen Hawking made many contributions to our understanding of the universe, such as the theory of exploding black holes, the Hawking radiation, and the Hartle–Hawking state.",
+        "label": "true",
+        "claim_urdu": "اسٹیفن ہاکنگ نے ہماری کائنات کی سمجھ میں بہت سے اہم کردار ادا کیے، جیسے بلیک ہولز کے دھماکوں کا نظریہ، ہاکنگ ریڈیئیشن، اور ہارٹل–ہاکنگ ریاست۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Small-scale farming is the practice of cultivating small plots of land, often by family farmers or cooperatives.",
+        "label": "true",
+        "claim_urdu": "چھوٹے پیمانے پر کھیتی باڑی کا مطلب چھوٹے قطعہ اراضی کو کاشت کرنا ہوتا ہے، جو اکثر خاندانی کسانوں یا کوآپریٹیو کے ذریعے کی جاتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The tea ceremony is considered one of the three classical arts of Japanese refinement, along with kodo (incense appreciation) and kado (flower arranging).",
+        "label": "true",
+        "claim_urdu": "چائے کی تقریب جاپانی نفاست کے تین کلاسیکی فنون میں سے ایک سمجھی جاتی ہے، جس میں کوڈو (خوشبو کی تعریف) اور کاڈو (پھولوں کی ترتیب) شامل ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Biogeography provides evidence for evolution by observing that species in the same geographic region tend to be more similar to each other than to species in different regions.",
+        "label": "true",
+        "claim_urdu": "بایوجغرافیہ ارتقاء کے لئے ثبوت فراہم کرتی ہے، کیونکہ یہ مشاہدہ کرتی ہے کہ ایک ہی جغرافیائی علاقے کی انواع ایک دوسرے سے زیادہ مشابہت رکھتی ہیں بجائے اس کے کہ وہ مختلف علاقوں کی انواع کے ساتھ مشابہت رکھیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Disneyland revolutionized the theme park industry by introducing immersive lands, storytelling, animatronics, and high-quality standards.",
+        "label": "true",
+        "claim_urdu": "ڈزنی لینڈ نے منظر نامہ پارک انڈسٹری میں انقلاب برپا کیا، مہارت والے میدان، کہانی گوئی، انیمیٹرونکس، اور اعلیٰ معیار کی اقدار متعارف کروا کر۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Marie Curie discovered two new elements, polonium and radium, with her husband in 1898.",
+        "label": "true",
+        "claim_urdu": "میری کیوری نے اپنے شوہر کے ساتھ 1898 میں دو نئے عناصر، پولونیم اور ریڈیم، دریافت کیے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The invention of the first artificial heart was inspired by the need to save lives of people with heart failure and to overcome the shortage of donor hearts for transplantation.",
+        "label": "true",
+        "claim_urdu": "پہلا مصنوعی دل ایجاد کرنے کی تحریک دل کی ناکامی کے شکار لوگوں کی جان بچانے کی ضرورت اور ٹرانسپلانٹیشن کے لیے عطیہ کنندہ دلوں کی قلت سے متاثر ہوکر دی گئی تھی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Scientists at Cardiff University found a new type of T-cell that can recognize and kill a wide range of cancer cells, including prostate, breast, lung, colon, ovarian, and cervical cancers.",
+        "label": "true",
+        "claim_urdu": "کارڈف یونیورسٹی کے سائنسدانوں نے ٹی-سیل کی ایک نئی قسم دریافت کی ہے جو مختلف اقسام کے کینسر جیسے پروسٹیٹ، بریسٹ، پھیپھڑوں، بڑی آنت، بیضہ دانی اور سرویکل کینسر کے خلیوں کو پہچان کر ختم کر سکتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The inspiration behind \"Bohemian Rhapsody\" is not very clear, as Mercury was reluctant to explain the meaning behind the lyrics and simply claimed it was about relationships.",
+        "label": "true",
+        "claim_urdu": "بوہیمین ریپسوڈی کے پیچھے کی تحریک بہت واضح نہیں ہے، کیونکہ مرکری گانے کے بولوں کے پیچھے کا مطلب بیان کرنے میں ہچکچا رہے تھے اور صرف یہ دعویٰ کیا کہ یہ رشتوں کے بارے میں ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Physical methods such as ice packs, heat pads, massage, acupuncture, or transcutaneous electrical nerve stimulation (TENS) are used for pain management after surgery.",
+        "label": "true",
+        "claim_urdu": "جراحی کے بعد درد کے انتظام کے لیے برف کے پیک، حرارت کے پیڈ، مساج، ایکوپنکچر، یا ٹرانسکیوٹینس الیکٹریکل نرو سٹیمولیشن (TENS) جیسی جسمانی طریقے استعمال کیے جاتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Offering incentives for customers to return or exchange used clothing can reduce waste and emissions and create additional revenue streams.",
+        "label": "true",
+        "claim_urdu": "صارفین کو استعمال شدہ کپڑے واپس کرنے یا تبادلہ کرنے پر مراعات دینا فضلہ اور اخراجات کو کم کر سکتا ہے اور اضافی آمدنی کے ذرائع پیدا کر سکتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Vincent van Gogh was fascinated by the night sky and its colors and stars.",
+        "label": "true",
+        "claim_urdu": "وینسینٹ وین گوگ رات کے آسمان اور اس کے رنگوں اور ستاروں سے بہت متاثر تھے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Learners who have more opportunities to hear, read, speak, and write in the target language tend to achieve higher levels of proficiency than those who have less exposure.",
+        "label": "true",
+        "claim_urdu": "وہ سیکھنے والے افراد جو ہدفی زبان میں سننے، پڑھنے، بولنے، اور لکھنے کے زیادہ مواقع رکھتے ہیں، عموماً ان افراد کی بہ نسبت زیادہ مہارت حاصل کرتے ہیں جنہیں کم نمائش ہوتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The hippocampus is a key brain region for initial memory formation and transfer of memories from short-term to long-term storage.",
+        "label": "true",
+        "claim_urdu": "ہیپو کیمپس دماغ کا ایک اہم حصہ ہے جو ابتدائی یادداشت کی تشکیل اور یادوں کو قلیل مدتی سے طویل مدتی ذخیرہ میں منتقل کرنے کے عمل میں اہم کردار ادا کرتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Germany has been a leader in renewable energy production and consumption, reducing its dependence on fossil fuels and lowering its greenhouse gas emissions.",
+        "label": "true",
+        "claim_urdu": "جرمنی تجدید پذیر توانائی کی پیداوار اور کھپت میں رہنما رہا ہے، جس نے فوسلز ایندھن پر انحصار کم کیا ہے اور گرین ہاؤس گیس کے اخراج کو کم کیا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The Ocean Cleanup has removed 220,000 pounds of plastic from the Great Pacific Garbage Patch.",
+        "label": "false",
+        "claim_urdu": "دی اوشن کلین اپ نے گریٹ پیسیفک گاربج پیچ سے 220,000 پاؤنڈ پلاسٹک ہٹا دیا ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Green hydrogen production does not emit any greenhouse gases or pollutants.",
+        "label": "true",
+        "claim_urdu": "گرین ہائیڈروجن کی پیداوار کسی بھی گرین ہاؤس گیس یا آلودگی کا اخراج نہیں کرتی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The FBI spied on Albert Einstein for over 22 years, suspecting him of being a communist sympathizer.",
+        "label": "true",
+        "claim_urdu": "FBI نے 22 سال سے زائد عرصے تک البرٹ آئن سٹائن کی جاسوسی کی، انہیں ایک کمیونسٹ ہمدرد سمجھتے ہوئے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Diwali is marked by four days of celebration, each with a different tradition and significance.",
+        "label": "false",
+        "claim_urdu": "دیوالی کی تقریب چار دنوں پر مشتمل ہوتی ہے، ہر دن ایک مختلف روایت اور اہمیت کے ساتھ ہوتا ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The SS Ourang Medan became a wreck in the 1940s or 1950s.",
+        "label": "true",
+        "claim_urdu": "ایس ایس اورانگ میڈان 1940 کی یا 1950 کی دہائی میں ایک ملبے میں تبدیل ہو گیا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The Ambilobe Panther Chameleon, the Carpet Chameleon, and the Labord's Chameleon are native to Madagascar and South Africa.",
+        "label": "false",
+        "claim_urdu": "امبیلوبے پینتھر کیمیلیئن، کارپٹ کیمیلیئن، اور لیبارڈ کا کیمیلیئن صرف مڈغاسکر اور جنوبی افریقہ کے مقامی ہیں۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Quantum tunneling is a consequence of the wave nature of matter.",
+        "label": "true",
+        "claim_urdu": "کوانٹم ٹنلنگ مادے کی موجی نوعیت کا نتیجہ ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The cheeses in Southern Italian cuisine are mainly made with goat or sheep's milk, such as mozzarella, ricotta, and pecorino.",
+        "label": "false",
+        "claim_urdu": "جنوبی اطالوی کھانوں میں استعمال ہونے والے پنیر عموماً بکری یا بھیڑ کے دودھ سے تیار نہیں کیے جاتے، جیسے موزریلا، ریکوٹا اور پیکورینو۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The brain is 73% water.",
+        "label": "false",
+        "claim_urdu": "دماغ 73٪ پانی پر مشتمل ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The captured CO2 can be stored in various geological formations, such as depleted oil and gas reservoirs, saline aquifers, or coal seams.",
+        "label": "true",
+        "claim_urdu": "قید شدہ CO2 کو مختلف ارضی تشکیلوں میں ذخیرہ کیا جا سکتا ہے، جیسے کہ ختم شدہ تیل اور گیس کے ذخائر، کھاری پانی کے ذخائر، یا کوئلے کی تہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "This creates a conflict between what we think we have experienced and what we actually have experienced.",
+        "label": "true",
+        "claim_urdu": "یہ اس بات کے درمیان تنازعہ پیدا کرتا ہے کہ ہم نے کیا سوچا کہ ہم نے تجربہ کیا ہے اور درحقیقت ہم نے کیا تجربہ کیا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Financial literacy can help children and teenagers develop critical thinking, decision-making, and problem-solving skills, as well as prepare them for emergencies and challenges.",
+        "label": "true",
+        "claim_urdu": "مالیاتی شعور بچوں اور نوجوانوں کو تنقیدی سوچ، فیصلہ سازی، اور مسئلہ حل کرنے کی صلاحیتیں پیدا کرنے میں مدد دے سکتا ہے، اور انہیں ہنگامی حالات اور چیلنجز کے لیے تیار بھی کر سکتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Western medicine prevention focuses on reducing the risk factors and exposure to disease using vaccines, screening tests, or prophylactic drugs.",
+        "label": "true",
+        "claim_urdu": "ویکسین، اسکریننگ ٹیسٹ یا پروفیلیکٹک ادویات کا استعمال کرتے ہوئے مغربی طب کی روک تھام بیماری کے خطرے کے عوامل اور نمائش کو کم کرنے پر توجہ مرکوز کرتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Autophagy can prevent the accumulation of cellular junk parts that can impair cell function and lead to aging-related diseases.",
+        "label": "true",
+        "claim_urdu": "آٹو فیجی خلیاتی فضلات کے اجزاء کے جمع ہونے کو روک سکتی ہے جو خلیے کے فنکشن کو متاثر کر سکتے ہیں اور عمر سے متعلق بیماریوں کا سبب بن سکتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Beethoven started to lose his hearing when he was only 26 years old and at the peak of his career, and was completely deaf by the time of his death.",
+        "label": "true",
+        "claim_urdu": "بیتهھوون نے صرف 26 سال کی عمر میں اور اپنی کیریئر کے عروج پر اپنی سماعت کھونا شروع کر دی تھی، اور اپنی موت تک مکمل طور پر بہرے ہو چکے تھے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Avoiding fast fashion by buying less, choosing quality items, shopping second-hand, or swapping clothes helps reduce emissions, waste, and the environmental impact of the fashion industry.",
+        "label": "true",
+        "claim_urdu": "کم خرید کر، معیاری اشیاء کا انتخاب کر کے، سیکنڈ ہینڈ چیزیں خرید کر، یا کپڑے بدل کر فاسٹ فیشن سے پرہیز کرنا اخراجات، بے کار اشیاء اور فیشن انڈسٹری کے ماحولیاتی اثرات کو کم کرنے میں مدد دیتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Greenland sharks reach sexual maturity at about the age of 150.",
+        "label": "true",
+        "claim_urdu": "گرین لینڈ کے شارک تقریباً 150 سال کی عمر میں جنسی بلوغت تک پہنچتے ہیں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The cost of making Pirates of the Caribbean: On Stranger Tides (2011) was $376.5 million after a tax credit.",
+        "label": "false",
+        "claim_urdu": "Pirates of the Caribbean: On Stranger Tides (2011) کی تیاری پر ٹیکس کریڈٹ کے بعد لاگت $376.5 ملین تھی۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Solar power is one of the best potential solutions to the climate crisis, as it does not emit greenhouse gas or air pollution.",
+        "label": "true",
+        "claim_urdu": "شمسی توانائی ماحولیاتی بحران کے ممکنہ بہترین حلوں میں سے ایک ہے، کیونکہ یہ نہ تو گرین ہاؤس گیس خارج کرتی ہے اور نہ ہی فضائی آلودگی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Empowering individuals to seek professional help when needed and supporting them in their recovery journey is crucial for overcoming stigma.",
+        "label": "true",
+        "claim_urdu": "افراد کو ضرورت کے وقت پیشہ ورانہ مدد حاصل کرنے کی ترغیب دینا اور ان کی بحالی کے سفر میں ان کی مدد کرنا بدنامی پر قابو پانے کے لیے نہایت اہم ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The tea ceremony was introduced to Japan by Buddhist monks in the 8th century CE.",
+        "label": "false",
+        "claim_urdu": "چائے کی تقریب کو آٹھویں صدی عیسوی میں بدھ راہبوں نے جاپان میں متعارف کروایا تھا۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Self-driving cars could reduce traffic fatalities by eliminating human error, which is responsible for 94% of traffic collisions in the US.",
+        "label": "true",
+        "claim_urdu": "خودکار گاڑیاں انسانی غلطی کو ختم کرکے ٹریفک حادثات میں کمی لا سکتی ہیں، جو کہ امریکہ میں 94٪ ٹریفک تصادمات کی ذمہ دار ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "AI systems can collect, store, analyze, and share large amounts of personal data from users, which can infringe on their privacy and expose them to identity theft, fraud, hacking, or manipulation.",
+        "label": "true",
+        "claim_urdu": "اے آئی سسٹمز صارفین سے بڑی مقدار میں ذاتی ڈیٹا جمع کر سکتے ہیں، اسے ذخیرہ کر سکتے ہیں، تجزیہ کر سکتے ہیں، اور شیئر کر سکتے ہیں، جو ان کی پرائیویسی کا حرج کر سکتا ہے اور انہیں شناختی چوری، دھوکہ دہی، ہیکنگ، یا سازش سے معرض خطر میں ڈال سکتا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "John F. Kennedy secretly agreed to remove US nuclear missiles from Turkey in exchange for the Soviet withdrawal from Cuba.",
+        "label": "true",
+        "claim_urdu": "جان ایف کینیڈی نے خفیہ طور پر ترکی سے امریکی جوہری میزائلوں کو ہٹانے پر رضامندی ظاہر کی تاکہ سوویت یونین کیوبا سے دستبردار ہو جائے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Mercury wanted people to find their own meaning in \"Bohemian Rhapsody.\"",
+        "label": "true",
+        "claim_urdu": "مرکری چاہتے تھے کہ لوگ \"بوہیمین ریپسوڈی\" میں اپنی مرضی کے مطابق معنی تلاش کریں۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "One of them was Creeper, written in 1971 by Bob Thomas at BBN Technologies.",
+        "label": "true",
+        "claim_urdu": "ان میں سے ایک 'کریپر' تھا، جو 1971 میں باب تھامس نے BBN ٹیکنالوجیز میں لکھا تھا۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Regular and moderate exercise during the day can improve both physical and mental health and enhance sleep quality.",
+        "label": "true",
+        "claim_urdu": "دن کے دوران باقاعدہ اور معتدل ورزش جسمانی اور ذہنی صحت دونوں کو بہتر بنا سکتی ہے اور نیند کے معیار کو بڑھا سکتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Lab-grown meat could be more sustainable than traditional meat, potentially reducing the environmental impact of animal agriculture, which is a significant source of greenhouse gas emissions, land use, water use, and pollution.",
+        "label": "false",
+        "claim_urdu": "لیب میں تیار شدہ گوشت روایتی گوشت کے مقابلے میں زیادہ پائیدار ہو سکتا ہے، اور ممکنہ طور پر حیوانات کی زراعت کے ماحولیاتی اثرات کو کم کر سکتا ہے، جو کہ گرین ہاؤس گیسوں کے اخراج، زمین کے استعمال، پانی کے استعمال اور آلودگی کا ایک اہم ذریعہ ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Solar PV is now one of the cheapest sources of electricity in many regions of the world.",
+        "label": "true",
+        "claim_urdu": "سولر پی وی اب دنیا کے کئی خطوں میں بجلی کے سب سے سستے ذرائع میں سے ایک ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Packet switching was developed by the RAND Corporation in the early 1970s for secure voice transmission.",
+        "label": "false",
+        "claim_urdu": "پیکٹ سوئچنگ کو 1970 کی دہائی کے اوائل میں رینڈ کارپوریشن نے محفوظ آواز کی ترسیل کے لیے تیار کیا تھا۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Vincent van Gogh created swirling patterns in the sky to evoke a sense of turbulence and dynamism, as well as to express his emotions and visions.",
+        "label": "true",
+        "claim_urdu": "وینسینٹ وین گوگ نے آسمان میں گھومتی ہوئی شکلیں بنائیں تاکہ ہلچل اور حرکت کا احساس پیدا کیا جا سکے اور اپنے جذبات اور خیالات کا اظہار کیا جا سکے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The demonstration of information storage in black holes utilized quantum theory and holography.",
+        "label": "true",
+        "claim_urdu": "کوانٹم تھیوری اور ہولوگرافی کا استعمال کرتے ہوئے بلیک ہولز میں معلومات کے ذخیرہ کی نمائش کی گئی۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "UY Scuti is the largest known star in the universe.",
+        "label": "false",
+        "claim_urdu": "یو وائی سکیوٹی کائنات میں سب سے بڑا معلوم ستارہ ہے۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Upwards of 97% of people are thought to have experienced déjà vu at least once.",
+        "label": "true",
+        "claim_urdu": "تقریباً 97٪ افراد کے بارے میں خیال کیا جاتا ہے کہ انہوں نے کم از کم ایک بار ڈیجا وو کا تجربہ کیا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Modern wings are often swept back or have winglets to reduce drag and increase lift.",
+        "label": "true",
+        "claim_urdu": "جدید پر اکثر پچھلے سمت یا ونگ لیٹس ہوتے ہیں تاکہ رگڑ کو کم کیا جائے اور اٹھان میں اضافہ کیا جا سکے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Working with educators and others to help people become more familiar with health information and services and build their health literacy skills over time is a way to improve public health literacy and promote health education.",
+        "label": "true",
+        "claim_urdu": "عوامی صحت کے شعور کو بہتر بنانے اور صحت کی تعلیم کو فروغ دینے کے لیے، ماہرین تعلیم اور دیگر کے ساتھ مل کر کام کرنا اور لوگوں کو صحت کی معلومات اور خدمات سے زیادہ واقف کروانا اور وقت کے ساتھ ان کے صحت کے شعور کی صلاحیتوں کو تیار کرنا ایک مؤثر طریقہ ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "Marie Curie was born Maria Sklodowska in Warsaw, Poland in 1867 to two schoolteachers who raised her with little money in a poverty-stricken neighborhood.",
+        "label": "true",
+        "claim_urdu": false,
+        "label_urdu": false
+    },
+    {
+        "claim": "AI can help diagnose diseases, analyze images, predict outcomes, and personalize treatments.",
+        "label": "true",
+        "claim_urdu": "مصنوعی ذہانت بیماریوں کی تشخیص کرنے، تصاویر کا تجزیہ کرنے، نتائج کی پیشگوئی کرنے، اور علاج کو فرد کے مطابق مخصوص بنانے میں معاون ثابت ہوسکتی ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "CCS and CCUS are acknowledged as promising technologies to mitigate global warming but are stated to face challenges such as high costs, technical uncertainties, regulatory barriers, public acceptance, and environmental risks.",
+        "label": "true",
+        "claim_urdu": "سی سی ایس اور سی سی یو ایس کو عالمی حدت کو کم کرنے کے لیے امید افزا ٹیکنالوجیز کے طور پر تسلیم کیا جاتا ہے، لیکن انہیں بہت زیادہ لاگت، تکنیکی غیر یقینی صورتحال، ریگولیٹری رکاوٹیں، عوامی قبولیت، اور ماحولیاتی خطرات جیسے چیلنجز کا سامنا ہے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The Amazon rainforest is home to at least 430 different species of mammals.",
+        "label": "false",
+        "claim_urdu": "ایمازون کے برساتی جنگل میں کم از کم 430 مختلف نوعیت کے ممالیہ پائے جاتے ہیں۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "The first large-scale desalination plant was built in Aruba in 1930.",
+        "label": "false",
+        "claim_urdu": "پہلا بڑے پیمانے پر نمکین پانی صاف کرنے کا پلانٹ 1930 میں اروبا میں تعمیر کیا گیا تھا۔",
+        "label_urdu": "غلط"
+    },
+    {
+        "claim": "Kepler discovered massive \"super-Earths\" and \"hot Jupiters\", such as Kepler-10b and Kepler-13Ab.",
+        "label": "true",
+        "claim_urdu": "کیپلر نے 'سپر ارتھز' اور 'ہاٹ جوپیٹرز' جیسے کیپلر-10b اور کیپلر-13Ab جیسے بڑے سیارے دریافت کیے۔",
+        "label_urdu": "درست"
+    },
+    {
+        "claim": "The first crossword puzzle was titled “FUN’s Word-Cross Puzzle”.",
+        "label": "true",
+        "claim_urdu": "پہلا کراس ورڈ پزل \"فن کا ورڈ-کراس پزل\" کے عنوان سے شائع ہوا تھا۔",
+        "label_urdu": "درست"
+    }
+]
