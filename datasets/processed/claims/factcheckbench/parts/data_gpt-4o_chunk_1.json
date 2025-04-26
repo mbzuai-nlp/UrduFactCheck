@@ -20,7 +20,7 @@
     {
         "claim": "'land' can be found on Jupiter.",
         "label": "false",
-        "claim_urdu": "مشتری پر 'زمین' نہیں پایا جا سکتا۔",
+        "claim_urdu": "مشتری پر 'زمین' پائی جا سکتی ہے۔",
         "label_urdu": "غلط"
     },
     {
@@ -38,7 +38,7 @@
     {
         "claim": "'land' cannot be found on the Sun.",
         "label": "true",
-        "claim_urdu": "سورج پر 'زمین' کو نہیں پایا جا سکتا ہے۔",
+        "claim_urdu": "سورج پر 'زمین' نہیں پائی جا سکتی ہے۔",
         "label_urdu": "درست"
     },
     {
@@ -134,67 +134,67 @@
     {
         "claim": "Ming Zhou has served as a sponsorship chair for a major NLP conference.",
         "label": "false",
-        "claim_urdu": "مینگ ژاؤ نے کسی بڑے NLP کانفرنس کے لیے اسپانسرشپ کا چیئر کے طور پر خدمت انجام نہیں دی ہے۔",
+        "claim_urdu": "مینگ ژاؤ نے کسی بڑے این ایل پی کانفرنس کے لیے اسپانسرشپ کا چیئر کے طور پر خدمت انجام نہیں دی ہے۔",
         "label_urdu": "غلط"
     },
     {
         "claim": "Ming Zhou served as the sponsorship chair for the 2021 Annual Conference of the Association for Computational Linguistics (ACL).",
         "label": "false",
-        "claim_urdu": "سال 2021 میں Association for Computational Linguistics (ACL) کی سالانہ کانفرنس کے لیے Ming Zhou نے اسپانسرشپ چیئر کے طور پر خدمات انجام دیں۔",
+        "claim_urdu": "سال 2021 میں ایسوسی ایشن فار کمپیوٹیشنل لسانیات (اے سی ایل) کی سالانہ کانفرنس کے لیے مینگ ژاؤ نے اسپانسرشپ چیئر کے طور پر خدمات انجام دیں۔",
         "label_urdu": "غلط"
     },
     {
         "claim": "The 2021 Annual Conference of the Association for Computational Linguistics (ACL) is one of the largest and the most prestigious conferences in the field of natural language processing.",
         "label": "true",
-        "claim_urdu": "ایسوسی ایشن فار کمپیوٹیشنل لنگویسٹکس (ACL) کی سالانہ کانفرنس 2021 قدرتی زبان کی پروسیسنگ کے میدان میں سب سے بڑی اور معزز ترین کانفرنسوں میں سے ایک ہے۔",
+        "claim_urdu": "ایسوسی ایشن فار کمپیوٹیشنل لنگویسٹکس (اے سی ایل) کی سالانہ کانفرنس 2021 قدرتی زبان کی پروسیسنگ کے میدان میں سب سے بڑی اور معزز ترین کانفرنسوں میں سے ایک ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "Ming Zhou is a senior researcher at Microsoft Research Asia.",
         "label": "false",
-        "claim_urdu": "منگ ژو مائیکروسافٹ ریسرچ ایشیا میں سینئر محقق ہیں۔",
+        "claim_urdu": "مینگ ژاؤ مائیکروسافٹ ریسرچ ایشیا میں سینئر محقق ہیں۔",
         "label_urdu": "غلط"
     },
     {
         "claim": "Ming Zhou is a research manager at Microsoft Research Asia.",
         "label": "false",
-        "claim_urdu": "مینگ ژو مائیکروسافٹ ریسرچ ایشیا میں تحقیق کے منتظم ہیں۔",
+        "claim_urdu": "مینگ ژاؤ مائیکروسافٹ ریسرچ ایشیا میں تحقیق کے منتظم ہیں۔",
         "label_urdu": "غلط"
     },
     {
         "claim": "Ming Zhou leads a team focused on natural language processing.",
         "label": "true",
-        "claim_urdu": "مینگ ژو کی قیادت میں ایک ٹیم ہے جو قدرتی زبان کی پروسیسنگ پر مرکوز ہے۔",
+        "claim_urdu": "مینگ ژاؤ کی قیادت میں ایک ٹیم ہے جو قدرتی زبان کی پروسیسنگ پر مرکوز ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "Ming Zhou leads a team focused on machine learning.",
         "label": "true",
-        "claim_urdu": "مینگ ژو ایک ٹیم کی قیادت کرتے ہیں جو مشین لرننگ پر مرکوز ہے۔",
+        "claim_urdu": "مینگ ژاؤ ایک ٹیم کی قیادت کرتے ہیں جو مشین لرننگ پر مرکوز ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "Ming Zhou leads a team focused on artificial intelligence.",
         "label": "true",
-        "claim_urdu": "مینگ ژو مصنوعی ذہانت پر مرکوز ایک ٹیم کی قیادت کرتے ہیں۔",
+        "claim_urdu": "مینگ ژاؤ مصنوعی ذہانت پر مرکوز ایک ٹیم کی قیادت کرتے ہیں۔",
         "label_urdu": "درست"
     },
     {
         "claim": "Ming Zhou has published extensively in top NLP conferences and journals.",
         "label": "true",
-        "claim_urdu": "مِنگ ژو نے اعلیٰ سطح کے NLP کانفرنسوں اور جرائد میں وسیع پیمانے پر شائع کیا ہے۔",
+        "claim_urdu": "مِنگ ژاؤ نے اعلیٰ سطح کے این ایل پی کانفرنسوں اور جرائد میں وسیع پیمانے پر شائع کیا ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "Haifeng Wang served as the sponsorship chair for the 2020 Annual Meeting of the Association for Computational Linguistics (ACL).",
         "label": "false",
-        "claim_urdu": "ہائفینگ وانگ نے 2020 کی سالانہ ملاقات برائے ایسوسی ایشن فار کمپیوٹیشنل لسانیات (ACL) میں اسپانسرشپ چیئر کے طور پر خدمات انجام دیں۔",
+        "claim_urdu": "ہائفینگ وانگ نے 2020 کی سالانہ ملاقات برائے ایسوسی ایشن فار کمپیوٹیشنل لسانیات (اے سی ایل) میں اسپانسرشپ چیئر کے طور پر خدمات انجام دیں۔",
         "label_urdu": "غلط"
     },
     {
         "claim": "Jing Jiang served as the sponsorship chair for the 2019 Annual Meeting of the Association for Computational Linguistics (ACL).",
         "label": "false",
-        "claim_urdu": "جنگ جیانگ نے ایسوسی ایشن فار کمپیوٹیشنل لسانیات (ACL) کی سالانہ میٹنگ 2019 کے لیے اسپانس شپ چیئر کے طور پر خدمات انجام نہیں دیں۔",
+        "claim_urdu": "جنگ جیانگ نے ایسوسی ایشن فار کمپیوٹیشنل لسانیات (اے سی ایل) کی سالانہ میٹنگ 2019 کے لیے اسپانس شپ چیئر کے طور پر خدمات انجام نہیں دیں۔",
         "label_urdu": "غلط"
     },
     {
@@ -224,19 +224,19 @@
     {
         "claim": "The largest version of LLaMa trained by the authors has 4.5 billion parameters.",
         "label": "false",
-        "claim_urdu": "مصنفین کی تربیت یافتہ LLaMa کا سب سے بڑا ورژن 4.5 بلین پیرامیٹرز پر مشتمل ہے۔",
+        "claim_urdu": "مصنفین کی تربیت یافتہ لاما کا سب سے بڑا ورژن 4.5 بلین پیرامیٹرز پر مشتمل ہے۔",
         "label_urdu": "غلط"
     },
     {
         "claim": "The arxiv url of the original LLaMa paper is https://arxiv.org/abs/2012.15730",
         "label": "false",
-        "claim_urdu": "الاصل ایل ایل اے ایم اے تحقیقاتی مقالے کے arxiv یو آر ایل کا پتہ https://arxiv.org/abs/2012.15730 ہے",
+        "claim_urdu": "الاصل ایل ایل اے ایم اے تحقیقاتی مقالے کے آرکائیو یو آر ایل کا پتہ https://arxiv.org/abs/2012.15730 ہے",
         "label_urdu": "غلط"
     },
     {
         "claim": "LLaMA authors trained smaller versions of the model with fewer parameters than 4.5 billion.",
         "label": "false",
-        "claim_urdu": "LLaMA کے مصنفین نے 4.5 بلین سے کم پیرامیٹرز کے ساتھ ماڈل کے چھوٹے ورژن کو تربیت دی۔",
+        "claim_urdu": "ایل ایل اے ایم اے کے مصنفین نے 4.5 بلین سے کم پیرامیٹرز کے ساتھ ماڈل کے چھوٹے ورژن کو تربیت دی۔",
         "label_urdu": "غلط"
     },
     {
@@ -248,13 +248,13 @@
     {
         "claim": "Dan Jurafsky was the general chair of COLING 2020.",
         "label": "false",
-        "claim_urdu": "ڈین جورافسکی COLING 2020 کے جنرل چیئر تھے۔",
+        "claim_urdu": "ڈین جورافسکی کولنگ 2020 کے جنرل چیئر تھے۔",
         "label_urdu": "غلط"
     },
     {
         "claim": "COLING 2020 was the 28th International Conference on Computational Linguistics.",
         "label": "true",
-        "claim_urdu": "COLING 2020 کمپیوٹیشنل لسانیات کی 28ویں بین الاقوامی کانفرنس تھی۔",
+        "claim_urdu": "کولنگ 2020 کمپیوٹیشنل لسانیات کی 28ویں بین الاقوامی کانفرنس تھی۔",
         "label_urdu": "درست"
     },
     {
@@ -272,7 +272,7 @@
     {
         "claim": "Dan Jurafsky has made significant contributions to the field of natural language processing (NLP).",
         "label": "true",
-        "claim_urdu": "ڈین جراؤفسکی نے نیشنل لینگویج پروسیسنگ (NLP) کے میدان میں اہم خدمات انجام دی ہیں۔",
+        "claim_urdu": "ڈین جراؤفسکی نے نیشنل لینگویج پروسیسنگ (این ایل پی) کے میدان میں اہم خدمات انجام دی ہیں۔",
         "label_urdu": "درست"
     },
     {
@@ -308,13 +308,13 @@
     {
         "claim": "Blackpink's second single album is called 'Square Two'.",
         "label": "true",
-        "claim_urdu": false,
-        "label_urdu": false
+        "claim_urdu": "بلیک پنک کے دوسرے سنگل البم کا نام 'اسکوائر ٹو' ہے۔",
+        "label_urdu": "true"
     },
     {
         "claim": "'Square Two' was released in 2016.",
         "label": "true",
-        "claim_urdu": "'Square Two' سال 2016 میں جاری ہوا۔",
+        "claim_urdu": "'اسکوائر ٹو' سال 2016 میں جاری ہوا۔",
         "label_urdu": "درست"
     },
     {
@@ -368,7 +368,7 @@
     {
         "claim": "Tokyo Olympic Games were held in 2021 due to the COVID-19 pandemic.",
         "label": "true",
-        "claim_urdu": "ٹوکیو اولمپک گیمز کو COVID-19 وبا کے باعث 2021 میں منعقد کیا گیا۔",
+        "claim_urdu": "ٹوکیو اولمپک گیمز کو کووِڈ-19 وبا کے باعث 2021 میں منعقد کیا گیا۔",
         "label_urdu": "درست"
     },
     {
@@ -386,7 +386,7 @@
     {
         "claim": "China's Olympic success has been remarkable since 1980s.",
         "label": "false",
-        "claim_urdu": "1980 کی دہائی سے چین کی اولمپک کامیابی غیرمعمولی رہی ہے۔",
+        "claim_urdu": "سال 1980 کی دہائی سے چین کی اولمپک کامیابی غیرمعمولی رہی ہے۔",
         "label_urdu": "غلط"
     },
     {
@@ -410,7 +410,7 @@
     {
         "claim": "Gold is resistant to reactions with hydrochloric acid (HCl).",
         "label": "true",
-        "claim_urdu": "سونا ہائیڈروکلورک ایسڈ (HCl) کے ساتھ تعاملات کے خلاف مزاحمت رکھتا ہے۔",
+        "claim_urdu": "سونا ہائیڈروکلورک ایسڈ (ایچ سی ایل) کے ساتھ تعاملات کے خلاف مزاحمت رکھتا ہے۔",
         "label_urdu": "درست"
     },
     {
@@ -434,37 +434,37 @@
     {
         "claim": "Aqua regia dissolved with gold forms chloroauric acid (HAuCl4) as a product.",
         "label": "true",
-        "claim_urdu": "ایکوا ریجیا کو جب سونے کے ساتھ حل کیا جاتا ہے تو یہ کلوروریک ایسڈ (HAuCl4) بناتا ہے۔",
+        "claim_urdu": "ایکوا ریجیا کو جب سونے کے ساتھ حل کیا جاتا ہے تو یہ کلوروریک ایسڈ (ایچ اے یو سی ایل 4) بناتا ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "Copper reacts with ferrous sulfate (FeSO4).",
         "label": "false",
-        "claim_urdu": "تانبا فیرس سلفیٹ (FeSO4) کے ساتھ رد عمل ظاہر کرتا ہے۔",
+        "claim_urdu": "تانبا فیرس سلفیٹ (ایف ای ایس او 4) کے ساتھ رد عمل ظاہر کرتا ہے۔",
         "label_urdu": "غلط"
     },
     {
         "claim": "A single displacement reaction occurs when copper reacts with ferrous sulfate (FeSO4).",
         "label": "false",
-        "claim_urdu": "ایک واحد تبدیلی کا ردعمل اس وقت ہوتا ہے جب تانبہ فیرس سلفیٹ (FeSO4) کے ساتھ عمل کرتا ہے۔",
+        "claim_urdu": "ایک واحد تبدیلی کا ردعمل اس وقت ہوتا ہے جب تانبہ فیرس سلفیٹ (ایف ای ایس او 4) کے ساتھ عمل کرتا ہے۔",
         "label_urdu": "غلط"
     },
     {
         "claim": "Copper (Cu) displaces iron (Fe) from ferrous sulfate.",
         "label": "false",
-        "claim_urdu": "تانبہ (Cu) فیرس سلفیٹ سے لوہے (Fe) کو بے دخل کرتا ہے۔",
+        "claim_urdu": "تانبہ (سی یو) فیرس سلفیٹ سے لوہے (ایف ای) کو بے دخل کرتا ہے۔",
         "label_urdu": "غلط"
     },
     {
         "claim": "Copper (Cu) forms copper sulfate (CuSO4) when it reacts with ferrous sulphate.",
         "label": "false",
-        "claim_urdu": "کاپر (Cu) فیروس سلفیٹ کے ساتھ ری ایکٹ کرنے پر کاپر سلفیٹ (CuSO4) بناتا ہے۔",
+        "claim_urdu": "کاپر (سی یو) فیروس سلفیٹ کے ساتھ ری ایکٹ کرنے پر کاپر سلفیٹ (سی یو ایس او 4) بناتا ہے۔",
         "label_urdu": "غلط"
     },
     {
         "claim": "Copper (Cu) forms elemental iron when it reacts with ferrous sulphate.",
         "label": "false",
-        "claim_urdu": "کاپر (Cu) جب فیرس سلفیٹ کے ساتھ رد عمل کرتا ہے تو یہ عنصری لوہا تشکیل دیتا ہے۔",
+        "claim_urdu": "کاپر (سی یو) جب فیرس سلفیٹ کے ساتھ رد عمل کرتا ہے تو یہ عنصری لوہا تشکیل دیتا ہے۔",
         "label_urdu": "غلط"
     },
     {
@@ -524,8 +524,8 @@
     {
         "claim": "Argentina defeated West Germany in the final of the 1986 FIFA World Cup.",
         "label": "true",
-        "claim_urdu": false,
-        "label_urdu": false
+        "claim_urdu": "سال 1986 کے فیفا ورلڈ کپ کے فائنل میں ارجنٹائن نے مغربی جرمنی کو شکست دی۔",
+        "label_urdu": "درست"
     },
     {
         "claim": "Diego Maradona led Argentina to victory in the 1986 FIFA world cup.",
@@ -632,7 +632,7 @@
     {
         "claim": "Netscape tried to add LiveScript to their browser to make it more dynamic.",
         "label": "true",
-        "claim_urdu": "نیٹ اسکیپ نے اپنے براؤزر کو مزید متحرک بنانے کے لیے LiveScript شامل کرنے کی کوشش کی۔",
+        "claim_urdu": "نیٹ اسکیپ نے اپنے براؤزر کو مزید متحرک بنانے کے لیے لائیو اسکرپٹ شامل کرنے کی کوشش کی۔",
         "label_urdu": "درست"
     },
     {
@@ -680,7 +680,7 @@
     {
         "claim": "Chilis were already present in the cuisine of the Americas in 1490.",
         "label": "true",
-        "claim_urdu": "1490 میں امریکہ کے کھانوں میں مرچیں پہلے سے موجود تھیں۔",
+        "claim_urdu": "سال 1490 میں امریکہ کے کھانوں میں مرچیں پہلے سے موجود تھیں۔",
         "label_urdu": "درست"
     },
     {
@@ -704,8 +704,8 @@
     {
         "claim": "The American Fantasy Press specializes in horror literature.",
         "label": "true",
-        "claim_urdu": false,
-        "label_urdu": false
+        "claim_urdu": "امریکن فینٹسی پریس ہارر لٹریچر میں مہارت رکھتا ہے۔",
+        "label_urdu": "درست"
     },
     {
         "claim": "The American Fantasy Press is an independent publisher.",
@@ -878,13 +878,13 @@
     {
         "claim": "Between 1989 and 2005, Arsenal won six FA Cups.",
         "label": "false",
-        "claim_urdu": "سال 1989 سے 2005 کے درمیان، آرسنل نے چھ FA کپ جیتے۔",
+        "claim_urdu": "سال 1989 سے 2005 کے درمیان، آرسنل نے چھ ایف اے کپ جیتے۔",
         "label_urdu": "غلط"
     },
     {
         "claim": "Arsenal won league title in 1989.",
         "label": "true",
-        "claim_urdu": false,
+        "claim_urdu": "آرسنل نے 1989 میں لیگ کا خطاب جیتا تھا۔",
         "label_urdu": false
     },
     {
@@ -908,7 +908,7 @@
     {
         "claim": "Arsenal won FA Cup in 1993.",
         "label": "true",
-        "claim_urdu": "آرسنل نے 1993 میں FA کپ جیتا۔",
+        "claim_urdu": "آرسنل نے 1993 میں ایف اے کپ جیتا۔",
         "label_urdu": "درست"
     },
     {
@@ -920,19 +920,19 @@
     {
         "claim": "Arsenal won FA Cup in 2002.",
         "label": "true",
-        "claim_urdu": "آرسنل نے سال 2002 میں FA کپ جیتا۔",
+        "claim_urdu": "آرسنل نے سال 2002 میں ایف اے کپ جیتا۔",
         "label_urdu": "درست"
     },
     {
         "claim": "Arsenal won FA Cup in 2003.",
         "label": "true",
-        "claim_urdu": "آرسنل نے FA کپ 2003 میں جیتا۔",
+        "claim_urdu": "آرسنل نے ایف اے کپ 2003 میں جیتا۔",
         "label_urdu": "درست"
     },
     {
         "claim": "Arsenal won FA Cup in 2005.",
         "label": "true",
-        "claim_urdu": "آرسنل نے سال 2005 میں FA کپ جیتا۔",
+        "claim_urdu": "آرسنل نے سال 2005 میں ایف اے کپ جیتا۔",
         "label_urdu": "درست"
     },
     {
@@ -974,44 +974,44 @@
     {
         "claim": "The layers of sound in the music of This Mortal Coil was created by ethereal synthesizer textures.",
         "label": "true",
-        "claim_urdu": "موسیقی میں \"دس مورٹل کوائیل\" کے صوتی پرتیں جادوئی سینتھسائزر ترتیبوں کے ذریعے تخلیق کی گئی تھیں۔",
+        "claim_urdu": "موسیقی میں 'دس مورٹل کوائیل' کے صوتی پرتیں جادوئی سینتھسائزر ترتیبوں کے ذریعے تخلیق کی گئی تھیں۔",
         "label_urdu": "درست"
     },
     {
         "claim": "ECharts Java is a library.",
         "label": "true",
-        "claim_urdu": false,
-        "label_urdu": false
+        "claim_urdu": "ایچارٹس جاوا ایک لائبریری ہے۔",
+        "label_urdu": "درست"
     },
     {
         "claim": "ECharts Java is a Java-based library.",
         "label": "true",
-        "claim_urdu": "ECharts Java ایک جاوا پر مبنی لائبریری ہے۔",
+        "claim_urdu": "ایچارٹس جاوا جاوا پر مبنی لائبریری ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "ECharts Java is a library for data visualization.",
         "label": "true",
-        "claim_urdu": "ECharts جاوا ڈیٹا کے بصری اظہار کے لیے ایک لائبریری ہے۔",
+        "claim_urdu": "ایچارٹس جاوا ڈیٹا کے بصری اظہار کے لیے ایک لائبریری ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "ECharts Java provides an interface for creating charts.",
         "label": "true",
-        "claim_urdu": "ECharts Java چارٹس بنانے کے لیے ایک انٹرفیس فراہم کرتا ہے۔",
+        "claim_urdu": " ایچارٹس جاواچارٹس بنانے کے لیے ایک انٹرفیس فراہم کرتا ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "ECharts Java provides an interface for creating graphs.",
         "label": "true",
-        "claim_urdu": "ECharts Java گرافس بنانے کے لئے انٹرفیس فراہم کرتا ہے۔",
+        "claim_urdu": "ایچارٹس جاوا گرافس بنانے کے لئے انٹرفیس فراہم کرتا ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "ECharts Java provides an interface for creating visual elements to represent data.",
         "label": "true",
-        "claim_urdu": false,
-        "label_urdu": false
+        "claim_urdu": "ایچارٹس جاوا ڈیٹا کی نمائندگی کرنے کے لیے بصری عناصر بنانے کے لیے ایک انٹرفیس فراہم کرتا ہے۔",
+        "label_urdu": "درست"
     },
     {
         "claim": "ECharts Java is based on the ECharts JavaScript library.",
@@ -1028,43 +1028,43 @@
     {
         "claim": "Using ECharts Java, developers can create interactive and customizable charts.",
         "label": "true",
-        "claim_urdu": "ECharts جوا استعمال کرتے ہوئے، ڈویلپرز انٹرایکٹو اور اپنی مرضی کے چارٹس بنا سکتے ہیں۔",
+        "claim_urdu": "ایچارٹس جوا استعمال کرتے ہوئے، ڈویلپرز انٹرایکٹو اور اپنی مرضی کے چارٹس بنا سکتے ہیں۔",
         "label_urdu": "درست"
     },
     {
         "claim": "Using ECharts Java, developers can create interactive and customizable graphs.",
         "label": "true",
-        "claim_urdu": "ECharts جاوا کا استعمال کرتے ہوئے، ڈویلپرز انٹرایکٹو اور حسب ضرورت قابل گراف بنا سکتے ہیں۔",
+        "claim_urdu": "ایچارٹس جاوا کا استعمال کرتے ہوئے، ڈویلپرز انٹرایکٹو اور حسب ضرورت قابل گراف بنا سکتے ہیں۔",
         "label_urdu": "درست"
     },
     {
         "claim": "ECharts Java supports line charts.",
         "label": "true",
-        "claim_urdu": "ECharts Java لائن چارٹس کی حمایت کرتا ہے۔",
+        "claim_urdu": "ایچارٹس جاوا لائن چارٹس کی حمایت کرتا ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "ECharts Java supports bar charts.",
         "label": "true",
-        "claim_urdu": "ECharts Java بار چارٹس کی حمایت کرتا ہے۔",
+        "claim_urdu": "ایچارٹس جاوا بار چارٹس کی حمایت کرتا ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "ECharts Java supports pie charts.",
         "label": "true",
-        "claim_urdu": "ECharts جاوا پائی چارٹس کی حمایت کرتا ہے۔",
+        "claim_urdu": "ایچارٹس جاوا پائی چارٹس کی حمایت کرتا ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "ECharts Java supports more chart types apart from line charts, bar charts and pie charts.",
         "label": "true",
-        "claim_urdu": "ECharts Java لائن چارٹس، بار چارٹس اور پائی چارٹس کے علاوہ مزید چارٹ اقسام کی حمایت کرتا ہے۔",
+        "claim_urdu": "ایچارٹس جاوا لائن چارٹس، بار چارٹس اور پائی چارٹس کے علاوہ مزید چارٹ اقسام کی حمایت کرتا ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "According to the National Institutes of Health (NIH), the recommended daily allowance of magnesium for adult women in the U.S. is 310-320mg.",
         "label": "true",
-        "claim_urdu": "قومی ادارہ برائے صحت (NIH) کے مطابق، امریکہ میں بالغ خواتین کے لیے میگنیشیم کی تجویز کردہ روزانہ کی مقدار 310-320mg ہے۔",
+        "claim_urdu": "قومی ادارہ برائے صحت (این آئی ایچ) کے مطابق، امریکہ میں بالغ خواتین کے لیے میگنیشیم کی تجویز کردہ روزانہ کی مقدار 310-ملی گرام ہے۔",
         "label_urdu": "درست"
     },
     {
