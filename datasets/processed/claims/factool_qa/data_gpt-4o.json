@@ -8,13 +8,13 @@
     {
         "claim": "The United States has 94 operating reactors",
         "label": "false",
-        "claim_urdu": "امریکہ کے پاس 94 آپریٹنگ ری ایکٹر ہیں۔",
+        "claim_urdu": "امریکہ کے پاس 94 فعال ری ایکٹرز ہیں۔",
         "label_urdu": "غلط"
     },
     {
         "claim": "France has a significant number of nuclear power plants",
         "label": "true",
-        "claim_urdu": "فرانس میں جوہری بجلی گھروں کی خاصی تعداد ہے۔",
+        "claim_urdu": "فرانس میں جوہری بجلی گھروں کی ایک معتدبہ تعداد موجود ہے۔",
         "label_urdu": "درست"
     },
     {
@@ -26,13 +26,13 @@
     {
         "claim": "Russia has a significant number of nuclear power plants",
         "label": "true",
-        "claim_urdu": "روس میں جوہری بجلی گھروں کی ایک بڑی تعداد موجود ہے۔",
+        "claim_urdu": "روس میں ایٹمی بجلی گھروں کی ایک قابل قدر تعداد موجود ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "South Korea has a significant number of nuclear power plants",
         "label": "true",
-        "claim_urdu": "جنوبی کوریا میں جوہری بجلی گھروں کی ایک بڑی تعداد موجود ہے۔",
+        "claim_urdu": "جنوبی کوریا میں جوہری پاور پلانٹس کی ایک قابل ذکر تعداد موجود ہے۔",
         "label_urdu": "درست"
     },
     {
@@ -62,7 +62,7 @@
     {
         "claim": "Jack Dorsey is the CEO and co-founder of Square",
         "label": "true",
-        "claim_urdu": "جیک ڈورسی سکوائر کے سی ای او اور شریک بانی ہیں",
+        "claim_urdu": "جیک ڈورسی Square کے سی ای او اور شریک بانی ہیں",
         "label_urdu": "درست"
     },
     {
@@ -80,19 +80,19 @@
     {
         "claim": "Jupiter is less dense than Saturn",
         "label": "false",
-        "claim_urdu": "مشتری زحل کے مقابلے میں کم کثیف ہے۔",
+        "claim_urdu": "مشتری کا کثافت زحل سے کم ہے۔",
         "label_urdu": "غلط"
     },
     {
         "claim": "Jupiter has a density of 1.33 grams per cubic centimeter",
         "label": "true",
-        "claim_urdu": "مشتری کی کثافت 1.33 گرام فی کیوبک سنٹی میٹر ہے۔",
+        "claim_urdu": "مشتری کی کثافت 1.33 گرام فی مکعب سینٹی میٹر ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "Saturn has a density of 0.69 grams per cubic centimeter",
         "label": "false",
-        "claim_urdu": "زحل کی کثافت 0.69 گرام فی کیوبک سینٹی میٹر ہے۔",
+        "claim_urdu": "زحل کی کثافت 0.69 گرام فی مکعب سینٹی میٹر ہے۔",
         "label_urdu": "غلط"
     },
     {
@@ -104,7 +104,7 @@
     {
         "claim": "Saturn has a larger proportion of solid materials in its composition",
         "label": "false",
-        "claim_urdu": "سیارہ زحل کی ترکیب میں ٹھوس مواد کا بڑا تناسب موجود ہے۔",
+        "claim_urdu": "سیارہ زحل کی ترکیب میں ٹھوس مواد کا بڑا تناسب موجود ہے",
         "label_urdu": "غلط"
     },
     {
@@ -188,13 +188,13 @@
     {
         "claim": "Argentina made it to the final in 1990",
         "label": "true",
-        "claim_urdu": "ارجنٹائن نے 1990 میں فائنل میں جگہ بنائی تھی۔",
+        "claim_urdu": "ارجنٹینا نے 1990 میں فائنل تک رسائی حاصل کی",
         "label_urdu": "درست"
     },
     {
         "claim": "Argentina made it to the semi-finals in 2010",
         "label": "false",
-        "claim_urdu": "ارجنٹینا نے 2010 میں سیمی فائنل تک پہنچا۔",
+        "claim_urdu": "ارجنٹینا نے 2010 میں سیمی فائنل تک رسائی حاصل کی تھی۔",
         "label_urdu": "غلط"
     },
     {
@@ -206,25 +206,25 @@
     {
         "claim": "The peregrine falcon is the fastest animal with wings and fur",
         "label": "false",
-        "claim_urdu": "پرگریئن فالکن، پروں اور بالوں والے جانوروں میں سب سے تیز رفتار ہے۔",
+        "claim_urdu": "پرگریئن فالکن، پروں اور بالوں والے جانوروں میں سب سے تیز رفتار نہیں ہے۔",
         "label_urdu": "غلط"
     },
     {
         "claim": "The peregrine falcon can reach speeds of over 240 miles per hour",
         "label": "true",
-        "claim_urdu": "پرگریئن فالکن، 240 میل فی گھنٹہ سے زائد رفتار حاصل کر سکتا ہے",
+        "claim_urdu": "شاہین شاہ پرندہ 240 میل فی گھنٹہ سے زائد رفتار حاصل کر سکتا ہے",
         "label_urdu": "درست"
     },
     {
         "claim": "The peregrine falcon can reach speeds of over 386 kilometers per hour",
         "label": "true",
-        "claim_urdu": "پرگریئن فالکن، 386 میل فی گھنٹہ سے زائد رفتار حاصل کر سکتا ہے",
+        "claim_urdu": "شاہین بازی ایک گھڑی میں 386 کلومیٹر سے زیادہ کی رفتار تک پہنچ سکتا ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "The peregrine falcon dives to catch prey",
         "label": "true",
-        "claim_urdu": "پرگریئن فالکن شکار پکڑنے کے لئے غوطہ لگاتا ہے",
+        "claim_urdu": "شاہین پرندہ شکار پکڑنے کے لئے نیچے کی جانب غوطہ لگاتا ہے",
         "label_urdu": "درست"
     },
     {
@@ -248,31 +248,31 @@
     {
         "claim": "Sonia Sotomayor is a female US Supreme Court justice",
         "label": "true",
-        "claim_urdu": "سونیا سوٹومایر امریکی سپریم کورٹ کی خاتون جج ہیں۔",
+        "claim_urdu": "سونیا سوٹومایر امریکی سپریم کورٹ کی خاتون جسٹس ہیں۔",
         "label_urdu": "درست"
     },
     {
         "claim": "Elena Kagan is a female US Supreme Court justice",
         "label": "true",
-        "claim_urdu": "ایلینا کاگن امریکی سپریم کورٹ کی خاتون جج ہیں۔",
+        "claim_urdu": "ایلینا کاگن خواتین امریکی سپریم کورٹ جسٹس ہیں۔",
         "label_urdu": "درست"
     },
     {
         "claim": "Fortune cookies originated in Japan in the 19th century.",
         "label": "false",
-        "claim_urdu": "فارچون کوکیز انیسویں صدی میں جاپان میں ایجاد کی گئیں۔",
+        "claim_urdu": "قسمت کی کوکیز انیسویں صدی میں جاپان میں ایجاد کی گئیں۔",
         "label_urdu": "غلط"
     },
     {
         "claim": "The modern-day version of fortune cookies was invented in the United States.",
         "label": "true",
-        "claim_urdu": "فارچون کوکیز کا جدید دور کا ورژن امریکہ میں ایجاد ہوا تھا۔",
+        "claim_urdu": "جدید دور کے قسمت کے بسکٹ کی موجودہ شکل کا موجد ریاستہائے متحدہ امریکہ میں ہوا تھا۔",
         "label_urdu": "درست"
     },
     {
         "claim": "Fortune cookies made their way to San Francisco in the late 1800s and early 1900s through Japanese immigrants.",
         "label": "true",
-        "claim_urdu": "فارچون کوکیز 1800 کی دہائی کے آخر اور 1900 کی دہائی کے اوائل میں جاپانی تارکین وطن کے ذریعے سان فرانسسکو پہنچے۔",
+        "claim_urdu": "قسمت کے بسکٹ 1800 کی دہائی کے آخر اور 1900 کی دہائی کے اوائل میں جاپانی تارکین وطن کے ذریعے سان فرانسسکو پہنچے۔",
         "label_urdu": "درست"
     },
     {
@@ -284,13 +284,13 @@
     {
         "claim": "Fortune cookies gained popularity in the Chinese-American community during the 20th century.",
         "label": "true",
-        "claim_urdu": "بیس ویں صدی کے دوران چینی-امریکی برادری میں فورچون کوکیز کو مقبولیت حاصل ہوئی۔ ",
+        "claim_urdu": "20ویں صدی کے دوران چینی-امریکی برادری میں فورچون کوکیز کو مقبولیت حاصل ہوئی۔",
         "label_urdu": "درست"
     },
     {
         "claim": "Fortune cookies became a staple in Chinese restaurants across the United States.",
         "label": "true",
-        "claim_urdu": "فورچون کوکیز امریکہ کے چینی ریستورانوں میں ایک اہم جزو بن گئے۔",
+        "claim_urdu": "فورچون کوکیز ریاستہائے متحدہ کے چینی ریستورانوں میں ایک اہم جزو بن گئے۔",
         "label_urdu": "درست"
     },
     {
@@ -308,7 +308,7 @@
     {
         "claim": "Fortune cookies are enjoyed by people all over the world.",
         "label": "false",
-        "claim_urdu": "فورچون کوکیز کو دنیا بھر میں لوگ پسند کرتے ہیں۔",
+        "claim_urdu": "قسمت کے کُکیز کو دنیا بھر میں لوگ نہیں پسند کرتے ہیں۔",
         "label_urdu": "غلط"
     },
     {
@@ -326,25 +326,25 @@
     {
         "claim": "The most valuable NFT ever sold is a digital artwork called \"Everydays: The First 5000 Days\"",
         "label": "false",
-        "claim_urdu": "سب سے قیمتی این ایف ٹی جو کبھی بیچی گئی ہے، وہ ایک ڈیجیٹل آرٹ ورک ہے جسے 'ایوری ڈیز: دی فرسٹ 5000 ڈیز' کہا جاتا ہے۔",
+        "claim_urdu": "سب سے قیمتی NFT جو کبھی بیچی گئی ہے، وہ ایک ڈیجیٹل آرٹ ورک ہے جسے \"Everydays: The First 5000 Days\" کہا جاتا ہے۔",
         "label_urdu": "غلط"
     },
     {
         "claim": "\"Everydays: The First 5000 Days\" was created by the artist Beeple",
         "label": "true",
-        "claim_urdu": "آرٹسٹ بیپل نے 'ایوری ڈیز: دی فرسٹ 5000 ڈیز' تخلیق کیا۔",
+        "claim_urdu": "آرٹسٹ بیپل کے ذریعہ \"ایوری ڈیز: دی فرسٹ 5000 ڈیز\" تخلیق کیا گیا تھا۔",
         "label_urdu": "درست"
     },
     {
         "claim": "\"Everydays: The First 5000 Days\" sold for $69 million",
         "label": "false",
-        "claim_urdu": "'ایوری ڈیز: دی فرسٹ 5000 ڈیز' کے لیے 69 ملین ڈالر میں فروخت ہوا'",
+        "claim_urdu": "ایوری ڈیز: پہلے 5000 دن کے لیے 69 ملین ڈالر میں فروخت ہوا",
         "label_urdu": "غلط"
     },
     {
         "claim": "\"Everydays: The First 5000 Days\" was sold at a Christie's auction in March 2021",
         "label": "true",
-        "claim_urdu": "ایوریڈیز: دی فرسٹ 5000 ڈیز' مارچ 2021 میں کرسٹیز کی نیلامی میں فروخت ہوئی تھی۔",
+        "claim_urdu": "\"ایوریڈیز: دی فرسٹ 5000 ڈیز\" مارچ 2021 میں کرسٹیز کی نیلامی میں فروخت ہوئی تھی۔",
         "label_urdu": "درست"
     },
     {
@@ -356,13 +356,13 @@
     {
         "claim": "Spanish is the second most spoken language with approximately 460 million speakers",
         "label": "false",
-        "claim_urdu": "ہسپانوی دوسری سب سے زیادہ بولی جانے والی زبان ہے، اس کے تقریباً 460 ملین بولنے والے ہیں۔",
+        "claim_urdu": "ہسپانوی دوسری سب سے زیادہ بولی جانے والی زبان نہیں ہے، اس کے تقریباً 460 ملین بولنے والے ہیں۔",
         "label_urdu": "غلط"
     },
     {
         "claim": "English comes in third place with just over 400 million speakers worldwide",
         "label": "false",
-        "claim_urdu": "انگریزی زبان دنیا بھر میں 400 ملین سے زائد بولنے والوں کے ساتھ تیسرے نمبر پر آتی ہے",
+        "claim_urdu": "انگریزی زبان دنیا بھر میں صرف 400 ملین سے زائد بولنے والوں کے ساتھ تیسرے نمبر پر آتی ہے",
         "label_urdu": "غلط"
     },
     {
@@ -398,7 +398,7 @@
     {
         "claim": "The Arctic Ocean is surrounded by the land masses of North America, Europe, and Asia",
         "label": "true",
-        "claim_urdu": "بحر منجمد شمالی امریکہ، یورپ اور ایشیا کے زمینی علاقوں سے گھرا ہوا ہے۔",
+        "claim_urdu": "بحر منجمد شمالی شمالی امریکہ، یورپ اور ایشیا کے زمینی علاقوں سے گھرا ہوا ہے۔",
         "label_urdu": "درست"
     },
     {
@@ -428,7 +428,7 @@
     {
         "claim": "Jupiter has a total of 79 known moons as of 2021",
         "label": "false",
-        "claim_urdu": "سال 2021 تک مشتری کے کل 79 چاند ہیں۔",
+        "claim_urdu": "سال 2021 تک مشتری کے کل 79 معلوم چاند ہیں۔",
         "label_urdu": "غلط"
     },
     {
@@ -452,7 +452,7 @@
     {
         "claim": "Michael Phelps has won 23 gold medals",
         "label": "true",
-        "claim_urdu": "مائیکل فیلپس نے 23 سونے کے تمغے جیتے ہیں",
+        "claim_urdu": "مائیکل فیلپس نے 23 طلائی تمغے جیتے ہیں",
         "label_urdu": "درست"
     },
     {
@@ -494,7 +494,7 @@
     {
         "claim": "Methuselah is estimated to be over 4,800 years old",
         "label": "true",
-        "claim_urdu": "متوشلح کو 4,800 سال سے زیادہ عمر کا تخمینہ لگایا گیا ہے",
+        "claim_urdu": "Methuselah کو 4,800 سال سے زیادہ عمر کا تخمینہ لگایا گیا ہے",
         "label_urdu": "درست"
     },
     {
@@ -560,25 +560,25 @@
     {
         "claim": "The Gini coefficient is a measure of income inequality",
         "label": "true",
-        "claim_urdu": "دی جِنی کوایفیشنٹ آمدنی میں عدم مساوات کا ایک پیمانہ ہے۔",
+        "claim_urdu": "جینی گناگرتیوں کا پیمانہ آمدنی میں ناہمواری کی جانچ کے لیے استعمال ہوتا ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "The United States has a higher level of income inequality than Canada",
         "label": "true",
-        "claim_urdu": "امریکہ میں آمدنی کی عدم مساوات کی سطح کینیڈا سے زیادہ ہے۔",
+        "claim_urdu": "ریاستہائے متحدہ امریکہ میں آمدنی کی عدم مساوات کی سطح کینیڈا سے زیادہ ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "The United States has a higher level of income inequality than Australia",
         "label": "true",
-        "claim_urdu": "امریکہ میں آمدنی کی عدم مساوات کی سطح آسٹریلیا کے مقابلے میں زیادہ ہے۔",
+        "claim_urdu": "ریاستہائے متحدہ میں آمدنی کی عدم مساوات کی سطح آسٹریلیا کے مقابلے میں زیادہ ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "The United States has a higher level of income inequality than most European countries",
         "label": "true",
-        "claim_urdu": "امریکہ میں زیادہ تر یورپی ممالک کی نسبت آمدنی کی عدم مساوات کی سطح زیادہ ہے۔",
+        "claim_urdu": "امریکہ میں زیادہ تر یورپی ممالک کی نسبت آمدنی کی غیر مساوات کی سطح زیادہ ہے۔",
         "label_urdu": "درست"
     },
     {
@@ -614,7 +614,7 @@
     {
         "claim": "Cowcatchers were designed to prevent derailments caused by collisions with animals or fallen branches",
         "label": "true",
-        "claim_urdu": "کاؤکیچرز کو جانوروں یا گرے ہوئے شاخوں کے تصادم کے باعث ہونے والی پٹری سے اترنے کی وقوعات کو روکنے کے لیے ڈیزائن کیا گیا تھا۔",
+        "claim_urdu": "گائے پکڑنے والے آلات کو جانوروں یا گرے ہوئے شاخوں کے تصادم کے باعث ہونے والی پٹری سے اترنے کی وقوعات کو روکنے کے لیے ڈیزائن کیا گیا تھا۔",
         "label_urdu": "درست"
     },
     {
@@ -626,13 +626,13 @@
     {
         "claim": "European railways have a different design philosophy",
         "label": "true",
-        "claim_urdu": "یورپی ریلوے کے ڈیزائن کاایک مختلف ڈیزائن فلسفہ ہے۔",
+        "claim_urdu": "یورپی ریلوے کا ایک مختلف ڈیزائن فلسفہ ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "European locomotives are typically designed to be more aerodynamic and efficient",
         "label": "true",
-        "claim_urdu": "یورپی لوکوموٹو عام طور پر بہتر ایروڈینامک اور زیادہ موئثر کارکردگی کے حامل ہونے کے لیے ڈیزائن کیے جاتے ہیں۔",
+        "claim_urdu": "یورپی لوکوموٹو عام طور پر ہوا کو کاٹنے والے اور زیادہ موئثر کارکردگی کے حامل ہونے کے لیے ڈیزائن کیے جاتے ہیں۔",
         "label_urdu": "درست"
     },
     {
@@ -650,13 +650,13 @@
     {
         "claim": "Some European trains have a similar feature to the cowcatcher called a \"snowplow\"",
         "label": "true",
-        "claim_urdu": "کچھ یورپی ٹرینوں میں کاؤکیچرز کی طرز پر ایک خصوصیت موجود ہوتی ہے جسے 'سنو پلو' کہا جاتا ہے۔",
+        "claim_urdu": "کچھ یورپی ٹرینوں میں گائے کے بچاؤ کے آلے کی طرز پر ایک خصوصیت موجود ہوتی ہے جسے \"برف ہٹانے والا\" کہا جاتا ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "Snowplows are used to clear snow from the tracks in winter",
         "label": "true",
-        "claim_urdu": "موسم سرما میں پٹریوں سے برف ہٹانے کے لیے سنو پلو کا استعمال کیا جاتا ہے۔",
+        "claim_urdu": "موسم سرما میں پٹریوں سے برف ہٹانے کے لیے برف صاف کرنے والی مشینوں کا استعمال کیا جاتا ہے۔",
         "label_urdu": "درست"
     },
     {
@@ -680,13 +680,13 @@
     {
         "claim": "Blood carries oxygen and nutrients to the tissues and organs",
         "label": "true",
-        "claim_urdu": "خون اکسیجن اور غذائی اجزاء کو ٹشوز اور اعضاء تک پہنچاتا ہے",
+        "claim_urdu": "خون اکسیجن اور غذائی اجزاء کو بافتوں اور اعضاء تک پہنچاتا ہے",
         "label_urdu": "درست"
     },
     {
         "claim": "Oxygen-poor blood returns to the heart through the veins",
         "label": "true",
-        "claim_urdu": "آکسیجن سے محروم خون رگوں کے ذریعے دل میں واپس آتا ہے۔",
+        "claim_urdu": "آکسیجن کی کمی والا خون رگوں کے ذریعے دل کی طرف واپس آتا ہے",
         "label_urdu": "درست"
     },
     {
@@ -704,7 +704,7 @@
     {
         "claim": "Veins are not actually blue",
         "label": "true",
-        "claim_urdu": "رگوں کا اصل رنگ نیلا نہیں ہوتا",
+        "claim_urdu": "رگوں کا اصل میں رنگ نیلا نہیں ہوتا",
         "label_urdu": "درست"
     },
     {
@@ -716,7 +716,7 @@
     {
         "claim": "The blue color that we see is simply a result of the way light interacts with the skin and the tissues beneath it",
         "label": "true",
-        "claim_urdu": "ہم جو نیلا رنگ دیکھتے ہیں وہ محض روشنی کے جلد اور اس کے نیچے موجود ٹشوز کے ساتھ تعامل کا نتیجہ ہے۔",
+        "claim_urdu": "ہم جو نیلا رنگ دیکھتے ہیں وہ محض روشنی کے جلد اور اس کے نیچے موجود بافتوں کے ساتھ تعامل کا نتیجہ ہے۔",
         "label_urdu": "درست"
     },
     {
@@ -758,19 +758,19 @@
     {
         "claim": "Botswana is a producer of diamonds",
         "label": "true",
-        "claim_urdu": "بوٹسوانا ہیرے بنانے والا ملک ہے۔",
+        "claim_urdu": "بوٹسوانا ہیروں کی پیداوار کرنے والا ملک ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "Canada is a producer of diamonds",
         "label": "true",
-        "claim_urdu": "کینیڈا ہیرے بنانے والا ملک ہے",
+        "claim_urdu": "کینیڈا ہیرے پیدا کرنے والا ملک ہے",
         "label_urdu": "درست"
     },
     {
         "claim": "Australia is a producer of diamonds",
         "label": "true",
-        "claim_urdu": "آسٹریلیا ہیرے بنانے والا ملک ہے",
+        "claim_urdu": "آسٹریلیا ہیرے پیدا کرنے والا ہے",
         "label_urdu": "درست"
     },
     {
@@ -794,7 +794,7 @@
     {
         "claim": "The largest oil reserves in Europe are found in non-EU countries such as Russia, Norway, and the United Kingdom",
         "label": "true",
-        "claim_urdu": "یورپ میں سب سے بڑے تیل کے ذخائر غیر یورپی یونین ممالک جیسے روس، ناروے، اور برطانیہ میں پائے جاتے ہیں۔",
+        "claim_urdu": "یورپ میں سب سے بڑے تیل کے ذخائر غیر یورپی یونین ممالک جیسے روس، ناروے، اور متحدہ سلطنت میں پائے جاتے ہیں۔",
         "label_urdu": "درست"
     },
     {
@@ -812,14 +812,14 @@
     {
         "claim": "The United Kingdom has oil reserves in Europe",
         "label": "true",
-        "claim_urdu": "برطانیہ کے پاس یورپ میں تیل کے ذخائر موجود ہیں۔",
+        "claim_urdu": "یونائیٹڈ کنگڈم کے پاس یورپ میں تیل کے ذخائر موجود ہیں۔",
         "label_urdu": "درست"
     },
     {
         "claim": "Some EU countries have small oil reserves",
         "label": "true",
-        "claim_urdu": "یورپی یونین کے کچھ ممالک کے پاس تیل کے چھوٹے ذخائر ہیں۔",
-        "label_urdu": "درست"
+        "claim_urdu": false,
+        "label_urdu": false
     },
     {
         "claim": "Romania has small oil reserves",
@@ -890,7 +890,7 @@
     {
         "claim": "OECD provided the statistics",
         "label": "true",
-        "claim_urdu": "او ای سی ڈی نے اعداد و شمار فراہم کیے",
+        "claim_urdu": "OECD نے اعداد و شمار فراہم کیے",
         "label_urdu": "درست"
     },
     {
@@ -902,7 +902,7 @@
     {
         "claim": "There is a lot of variation within each country",
         "label": "true",
-        "claim_urdu": "ہر ملک کے اندر بہت زیادہ فرق پایا جاتا ہے",
+        "claim_urdu": "ہر ملک کے اندر بہت زیادہ تغیر پایا جاتا ہے",
         "label_urdu": "درست"
     },
     {
@@ -920,25 +920,25 @@
     {
         "claim": "NATO assigns reporting names to foreign military aircraft for identification purposes",
         "label": "true",
-        "claim_urdu": "نیٹوغیر ملکی فوجی ہوائی جہازوں کی شناخت کے مقاصد کے لیے رپورٹنگ نام تفویض کرتا ہے۔",
+        "claim_urdu": "NATO غیر ملکی فوجی ہوائی جہازوں کی شناخت کے مقاصد کے لیے رپورٹنگ نام تفویض کرتا ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "Su-57 has not been assigned an official NATO reporting name yet",
         "label": "false",
-        "claim_urdu": "ایس یو-57 کو ابھی تک کوئی باقاعدہ نیٹو رپورٹنگ نام نہیں دیا گیا ہے",
+        "claim_urdu": "ایس یو-57 کو ابھی تک کوئی باقاعدہ NATO رپورٹنگ نام نہیں دیا گیا ہے",
         "label_urdu": "غلط"
     },
     {
         "claim": "Some Western media outlets and defense analysts use the name 'Felon' to refer to Su-57",
         "label": "true",
-        "claim_urdu": "کچھ مغربی میڈیا آؤٹ لیٹس اور دفاعی ماہرین ایس یو-57 کو 'فیلن' کے نام سے موسوم کرتے ہیں۔",
+        "claim_urdu": "کچھ مغربی میڈیا آؤٹ لیٹس اور دفاعی ماہرین Su-57 کو 'فیلن' کے نام سے موسوم کرتے ہیں۔",
         "label_urdu": "درست"
     },
     {
         "claim": "'Felon' is not an official NATO designation",
         "label": "false",
-        "claim_urdu": "فیلون' نیٹوکا کوئی سرکاری عہدہ نہیں ہے۔",
+        "claim_urdu": "فیلون' نیٹو کی کوئی سرکاری تعیناتی نہیں ہے",
         "label_urdu": "غلط"
     },
     {
@@ -950,7 +950,7 @@
     {
         "claim": "'Felon' may be related to Su-57's potential threat to Western air sauperiority",
         "label": "false",
-        "claim_urdu": "فیلان ایس یو-57 کے مغربی فضائی برتری کے ممکنہ خطرے سے متعلق ہو سکتا ہے",
+        "claim_urdu": "فیلان Su-57 کے مغربی فضائی برتری کے ممکنہ خطرے سے متعلق ہو سکتا ہے",
         "label_urdu": "غلط"
     },
     {
@@ -980,31 +980,31 @@
     {
         "claim": "The New Populism is a political movement",
         "label": "true",
-        "claim_urdu": "نیو پاپولزم ایک سیاسی تحریک ہے۔",
+        "claim_urdu": "نیا عوامیت ایک سیاسی تحریک ہے",
         "label_urdu": "درست"
     },
     {
         "claim": "The New Populism emerged in the late 19th century in the United States",
         "label": "true",
-        "claim_urdu": "نیو پاپولزم 19ویں صدی کے اواخر میں ریاستہائے متحدہ امریکہ میں ابھری۔",
+        "claim_urdu": "نئی عوامیت 19ویں صدی کے اواخر میں ریاستہائے متحدہ امریکہ میں ابھری۔",
         "label_urdu": "درست"
     },
     {
         "claim": "The New Populism was a response to the economic and social changes brought about by industrialization and the rise of big business",
         "label": "true",
-        "claim_urdu": "نیو پاپولزم صنعتی کاری اور بڑے کاروباروں کے عروج کے باعث ہونے والی اقتصادی اور سماجی تبدیلیوں کے جواب میں ابھری۔",
+        "claim_urdu": "نئی پاپولزم صنعتی کاری اور بڑے کاروباروں کے عروج کے باعث ہونے والی اقتصادی اور سماجی تبدیلیوں کے جواب میں ابھری۔",
         "label_urdu": "درست"
     },
     {
         "claim": "The New Populism focused on the needs and interests of ordinary people",
         "label": "true",
-        "claim_urdu": "نیو پاپولزم پسندی عام لوگوں کی ضروریات اور مفادات پر توجہ مرکوز کرتی ہے۔",
+        "claim_urdu": "نیا عوامیت پسندی عام لوگوں کی ضروریات اور مفادات پر توجہ مرکوز کرتی ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "The New Populism rejected the political establishment and the power of big corporations",
         "label": "true",
-        "claim_urdu": "نیو پاپولزم تحریک نے سیاسی اسٹیبلشمنٹ اور بڑے کارپوریشنوں کی طاقت کو مسترد کر دیا۔",
+        "claim_urdu": "نیا مقبول عام تحریک نے سیاسی اسٹیبلشمنٹ اور بڑے کارپوریشنوں کی طاقت کو مسترد کر دیا۔",
         "label_urdu": "درست"
     },
     {
@@ -1082,13 +1082,13 @@
     {
         "claim": "Dogs see two primary colors: blue and yellow",
         "label": "true",
-        "claim_urdu": "کتوں کو بنیادی طور پر دو رنگ نظر آتے ہیں: نیلا اور پیلا",
+        "claim_urdu": "کتوں کو دو اساسی رنگ نظر آتے ہیں: نیلا اور پیلا",
         "label_urdu": "درست"
     },
     {
         "claim": "Dogs have fewer color receptors in their eyes than humans",
         "label": "true",
-        "claim_urdu": "کتوں کی آنکھوں میں انسانوں کے مقابلے میں رنگ کے کم رسیپٹرز ہوتے ہیں",
+        "claim_urdu": "کتوں کی آنکھوں میں انسانوں کے مقابلے میں رنگ کے کم گیرندے ہوتے ہیں",
         "label_urdu": "درست"
     },
     {
@@ -1142,13 +1142,13 @@
     {
         "claim": "The Pilgrims first landed in Plymouth, Massachusetts in 1620",
         "label": "false",
-        "claim_urdu": "سال 1620 میں پیلگرمز پہلی بار میساچوسٹس کے شہر پلیموتھ میں اترے",
+        "claim_urdu": "1620 میں پیلگرمز پہلی بار میساچوسٹس کے شہر پلیموتھ میں اترے",
         "label_urdu": "غلط"
     },
     {
         "claim": "Damascus is the oldest continuously inhabited city in the world",
         "label": "true",
-        "claim_urdu": "دمشق دنیا میں سب سے پرانا مسلسل آباد شہر ہے",
+        "claim_urdu": "دمشق دنیا میں سب سے پرانی لگاتار آباد شہر ہے",
         "label_urdu": "درست"
     },
     {
@@ -1226,7 +1226,7 @@
     {
         "claim": "Vallejo was the capital from 1852 to 1853",
         "label": "false",
-        "claim_urdu": "سال 1852 سے 1853 تک ویلیخو دارالحکومت تھا۔",
+        "claim_urdu": "1852 سے 1853 تک ویلیخو دارالحکومت تھا۔",
         "label_urdu": "غلط"
     },
     {
@@ -1304,19 +1304,19 @@
     {
         "claim": "The song of Tsinghua University is called \"Tsinghua Alma Mater\"",
         "label": "true",
-        "claim_urdu": "چنگھوا یونیورسٹی کے گیت کو 'سنگھوا الما میٹر' کہا جاتا ہے۔",
+        "claim_urdu": "چنگھوا یونیورسٹی کے گیت کو \"Tsinghua Alma Mater\" کہا جاتا ہے۔",
         "label_urdu": "درست"
     },
     {
         "claim": "Xian Xinghai composed Tsinghua Alma Mater",
         "label": "false",
-        "claim_urdu": "شیان ژنگہائی نے سنگھوا الما میٹر کی کمپوزیشن کی",
+        "claim_urdu": "شیان ژنگہائی نے چنگھوا آلمہ مائٹر کی کمپوزیشن نہیں کی",
         "label_urdu": "غلط"
     },
     {
         "claim": "Liang Hanqi wrote the lyrics for Tsinghua Alma Mater",
         "label": "false",
-        "claim_urdu": "لیانگ ہانچی نے سنگھوا الما میٹر کے لئے بول لکھے",
+        "claim_urdu": "لیانگ ہانچی نے سنگھوا الما میٹر کے لئے بول نہیں لکھے",
         "label_urdu": "غلط"
     },
     {
@@ -1358,7 +1358,7 @@
     {
         "claim": "SOS originally stood for \"Save Our Souls\"",
         "label": "false",
-        "claim_urdu": "ایس او ایس کا اصل مطلب 'سیو آور سولز' تھا",
+        "claim_urdu": "ایس او ایس کا اصل مطلب \"Save Our Souls\" تھا",
         "label_urdu": "غلط"
     },
     {
@@ -1370,7 +1370,7 @@
     {
         "claim": "SOS is a Morse code distress signal",
         "label": "true",
-        "claim_urdu": "ایس او ایس ایک مورس کوڈ ڈسٹریس سگنل ہے۔",
+        "claim_urdu": "ایس او ایس ایک مورسی کوڈ امدادی سگنل ہے۔",
         "label_urdu": "درست"
     },
     {
