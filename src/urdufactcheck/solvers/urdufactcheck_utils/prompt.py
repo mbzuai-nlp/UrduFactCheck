@@ -48,6 +48,7 @@ QUERY_GENERATION_PROMPT = {
 جواب:
 """,
 }
+
 VERIFICATION_PROMPT = {
     "system": "آپ ایک شاندار معاون ہیں۔",
     "user": """آپ کو ایک ٹکڑا دیا گیا ہے۔ آپ کا کام یہ ہے کہ آپ یہ شناخت کریں کہ آیا دیے گئے متن میں کوئی حقیقت کی غلطیاں ہیں۔
@@ -66,5 +67,18 @@ VERIFICATION_PROMPT = {
 "correction": "اگر کوئی غلطی ہو تو تصحیح شدہ عبارت فراہم کریں۔",
 "factuality": True اگر دی گئی عبارت حقیقت پر مبنی ہے، ورنہ False۔
 }}
+""",
+}
+
+URDU_TO_ENGLISH_TRANSLATION_PROMPT = {
+    "system": "You are a helpful assistant.",
+    "user": """You are given a piece of text in Urdu. Your task is to translate it into English. The translation should be accurate and maintain the original meaning of the text. Please ensure that the translation is grammatically correct and coherent in English.
+You MUST only respond in the format as described below. DO NOT RESPOND WITH ANYTHING ELSE. ADDING ANY OTHER EXTRA NOTES THAT VIOLATE THE RESPONSE FORMAT IS BANNED. START YOUR RESPONSE WITH '['.
+[response format]: 
+[
+    {{
+    "translation": "translated text in English",
+    }},
+]
 """,
 }

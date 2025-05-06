@@ -3,10 +3,15 @@ from openfactcheck.solver import StandardTaskSolver, Solver
 
 from .urdufactcheck_utils.chat_api import OpenAIChat
 from .urdufactcheck_utils.search_api import GoogleSerperAPIWrapper
-from .urdufactcheck_utils.prompt import QUERY_GENERATION_PROMPT
+from .urdufactcheck_utils.prompt import (
+    QUERY_GENERATION_PROMPT,
+    URDU_TO_ENGLISH_TRANSLATION_PROMPT,
+)
 
 
-@Solver.register("urdufactcheck_retriever", "claims", "claims_with_evidences")
+@Solver.register(
+    "urdufactcheck_translator_retriever", "claims", "claims_with_evidences"
+)
 class FactoolRetriever(StandardTaskSolver):
     def __init__(self, args):
         super().__init__(args)
@@ -14,15 +19,19 @@ class FactoolRetriever(StandardTaskSolver):
         self.snippet_cnt = args.get("snippet_cnt", 10)
         self.gpt = OpenAIChat(self.gpt_model)
         self.query_prompt = QUERY_GENERATION_PROMPT
-        self.search_engine = GoogleSerperAPIWrapper(
+        self.search_engine_urdu = GoogleSerperAPIWrapper(
             snippet_cnt=self.snippet_cnt, language="ur"
+        )
+        self.search_engine_english = GoogleSerperAPIWrapper(
+            snippet_cnt=self.snippet_cnt, language="en"
         )
 
     def __call__(self, state: FactCheckerState, *args, **kwargs):
         claims = state.get(self.input_name)
 
         queries = self._query_generation(claims=claims)
-        evidences = self.search_engine.run(queries)
+        evidences = self.search_engine_urdu.run(queries)
+        print("Evidences Urdu: ", evidences)
         results = {}
         for query, claim, evidence in zip(queries, claims, evidences):
             merged_query = (

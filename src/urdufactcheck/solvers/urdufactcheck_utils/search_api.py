@@ -15,10 +15,10 @@ class GoogleSerperAPIWrapper:
             google_serper = GoogleSerperAPIWrapper()
     """
 
-    def __init__(self, snippet_cnt=10) -> None:
+    def __init__(self, snippet_cnt=10, language="en") -> None:
         self.k = snippet_cnt
         self.gl = "us"
-        self.hl = "ur"
+        self.hl = language
         self.serper_api_key = os.environ.get("SERPER_API_KEY", None)
         assert (
             self.serper_api_key is not None
