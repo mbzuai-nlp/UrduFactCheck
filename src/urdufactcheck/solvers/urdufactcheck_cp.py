@@ -6,10 +6,10 @@ from .urdufactcheck_utils.prompt import CLAIM_EXTRACTION_PROMPT
 
 
 @Solver.register("urdufactcheck_claimprocessor", "response", "claims")
-class FactoolClaimProcessor(StandardTaskSolver):
+class UrduFactCheckClaimProcessor(StandardTaskSolver):
     def __init__(self, args):
         super().__init__(args)
-        self.gpt_model = self.global_config.get("factool_gpt_model", "gpt-4o")
+        self.gpt_model = self.global_config.get("gpt_model", "gpt-4o")
         self.gpt = OpenAIChat(self.gpt_model)
         self.claim_prompt = CLAIM_EXTRACTION_PROMPT
 

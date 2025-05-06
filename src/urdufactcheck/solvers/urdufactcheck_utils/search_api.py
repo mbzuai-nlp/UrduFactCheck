@@ -117,12 +117,16 @@ class GoogleSerperAPIWrapper:
                 sublist = ["None", "None"]
             for item in sublist:
                 flattened_queries.append(item)
+
+        # Get results
         results = asyncio.run(
             self.parallel_searches(flattened_queries, gl=self.gl, hl=self.hl)
         )
         snippets_list = []
         for i in range(len(results)):
             snippets_list.append(self._parse_results(results[i]))
+
+        # Flatten the list of snippets
         snippets_split = [
             snippets_list[i] + snippets_list[i + 1]
             for i in range(0, len(snippets_list), 2)

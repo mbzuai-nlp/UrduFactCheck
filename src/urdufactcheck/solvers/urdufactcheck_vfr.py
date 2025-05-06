@@ -6,10 +6,10 @@ from .urdufactcheck_utils.prompt import VERIFICATION_PROMPT
 
 
 @Solver.register("urdufactcheck_verifier", "claims_with_evidences", "label")
-class FactoolVerifier(StandardTaskSolver):
+class UrduFactCheckVerifier(StandardTaskSolver):
     def __init__(self, args):
         super().__init__(args)
-        self.gpt_model = self.global_config.get("factool_gpt_model", "gpt-4o")
+        self.gpt_model = self.global_config.get("gpt_model", "gpt-4o")
         self.gpt = OpenAIChat(self.gpt_model)
         self.verification_prompt = VERIFICATION_PROMPT
 

@@ -1,25 +1,10 @@
-# the async version is adapted from https://gist.github.com/neubig/80de662fb3e225c18172ec218be4917a
-
 from __future__ import annotations
 
 import os
-import yaml
-import openai
 import ast
-import pdb
-import asyncio
-from typing import Any, List
-import os
-import pathlib
 import openai
-from openai import OpenAI, AsyncOpenAI
-import re
-
-
-# from factool.env_config import factool_env_config
-
-# env
-# openai.api_key = factool_env_config.openai_api_key
+import asyncio
+from openai import AsyncOpenAI
 
 
 class OpenAIChat:
@@ -53,12 +38,6 @@ class OpenAIChat:
         }
 
     def extract_list_from_string(self, input_string):
-        # pattern = r'\[.*\]'
-        # result = re.search(pattern, input_string)
-        # if result:
-        #     return result.group()
-        # else:
-        #     return None
         start_index = input_string.find("[")
         end_index = input_string.rfind("]")
 
@@ -89,20 +68,6 @@ class OpenAIChat:
                 return None
             return output_eval
         except:
-            """
-            if(expected_type == List):
-                valid_output = self.extract_list_from_string(output)
-                output_eval = ast.literal_eval(valid_output)
-                if not isinstance(output_eval, expected_type):
-                    return None
-                return output_eval
-            elif(expected_type == dict):
-                valid_output = self.extract_dict_from_string(output)
-                output_eval = ast.literal_eval(valid_output)
-                if not isinstance(output_eval, expected_type):
-                    return None
-                return output_eval
-            """
             return None
 
     async def dispatch_openai_requests(
@@ -134,24 +99,6 @@ class OpenAIChat:
                     await asyncio.sleep(1)
                 except openai.APIError:
                     await asyncio.sleep(1)
-                # except openai.err
-
-                # except openai.error.RateLimitError:
-                #     print('Rate limit error, waiting for 40 second...')
-                #     await asyncio.sleep(40)
-                # except openai.error.APIError:
-                #     print('API error, waiting for 1 second...')
-                #     await asyncio.sleep(1)
-                # except openai.error.Timeout:
-                #     print('Timeout error, waiting for 1 second...')
-                #     await asyncio.sleep(1)
-                # except openai.error.ServiceUnavailableError:
-                #     print('Service unavailable error, waiting for 3 second...')
-                #     await asyncio.sleep(3)
-                # except openai.error.APIConnectionError:
-                #     print('API Connection error, waiting for 3 second...')
-                #     await asyncio.sleep(3)
-
             return None
 
         async_responses = [_request_with_retry(messages) for messages in messages_list]
@@ -196,48 +143,3 @@ class OpenAIChat:
             retry -= 1
 
         return responses
-
-
-# class OpenAIEmbed():
-#     def __init__():
-#         openai.api_key = os.environ.get("OPENAI_API_KEY", None)
-#         assert openai.api_key is not None, "Please set the OPENAI_API_KEY environment variable."
-#         assert openai.api_key != '', "Please set the OPENAI_API_KEY environment variable."
-
-#     async def create_embedding(self, text, retry=3):
-#         for _ in range(retry):
-#             try:
-#                 response = await openai.Embedding.acreate(input=text, model="text-embedding-ada-002")
-#                 return response
-#             except openai.error.RateLimitError:
-#                 print('Rate limit error, waiting for 1 second...')
-#                 await asyncio.sleep(1)
-#             except openai.error.APIError:
-#                 print('API error, waiting for 1 second...')
-#                 await asyncio.sleep(1)
-#             except openai.error.Timeout:
-#                 print('Timeout error, waiting for 1 second...')
-#                 await asyncio.sleep(1)
-#         return None
-
-#     async def process_batch(self, batch, retry=3):
-#         tasks = [self.create_embedding(text, retry=retry) for text in batch]
-#         return await asyncio.gather(*tasks)
-
-# if __name__ == "__main__":
-#     chat = OpenAIChat(model_name='llama-2-7b-chat-hf')
-
-#     predictions = asyncio.run(chat.async_run(
-#         messages_list=[
-#             [{"role": "user", "content": "show either 'ab' or '['a']'. Do not do anything else."}],
-#         ] * 20,
-#         expected_type=List,
-#     ))
-
-#     print(predictions)
-# Usage
-# embed = OpenAIEmbed()
-# batch = ["string1", "string2", "string3", "string4", "string5", "string6", "string7", "string8", "string9", "string10"]  # Your batch of strings
-# embeddings = asyncio.run(embed.process_batch(batch, retry=3))
-# for embedding in embeddings:
-#     print(embedding["data"][0]["embedding"])
