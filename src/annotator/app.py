@@ -46,16 +46,16 @@ if "annotations" not in st.session_state:
     st.session_state.annotations = []
 if "live_annotation" not in st.session_state:
     st.session_state.live_annotation = {
-        "claim_urdu": "",
-        "label_urdu": "",
+        "question_urdu": "",
+        "answer_urdu": "",
     }
 # Navigation Buttons: update index and force re-run
 col_nav1, col_nav2, col_nav3 = st.columns(3)
 with col_nav1:
     if st.button("Previous", use_container_width=True):
         # Reset annotation controls
-        st.session_state["claim_urdu"] = ""
-        st.session_state["label_urdu"] = ""
+        st.session_state["question_urdu"] = ""
+        st.session_state["answer_urdu"] = ""
 
         # Update index
         if st.session_state.current_index > 0:
@@ -63,8 +63,8 @@ with col_nav1:
 with col_nav2:
     if st.button("Next", use_container_width=True):
         # Reset annotation controls
-        st.session_state["claim_urdu"] = ""
-        st.session_state["label_urdu"] = ""
+        st.session_state["question_urdu"] = ""
+        st.session_state["answer_urdu"] = ""
 
         # Update index
         if st.session_state.current_index < len(data) - 1:
@@ -73,8 +73,12 @@ with col_nav3:
     if st.button("Save and Next", use_container_width=True):
         # Save the current annotation
         # Update live annotation with the text box values
-        st.session_state.live_annotation["claim_urdu"] = st.session_state["claim_urdu"]
-        st.session_state.live_annotation["label_urdu"] = st.session_state["label_urdu"]
+        st.session_state.live_annotation["question_urdu"] = st.session_state[
+            "question_urdu"
+        ]
+        st.session_state.live_annotation["answer_urdu"] = st.session_state[
+            "answer_urdu"
+        ]
 
         # Save the annotation for the current item
         current_item = data[st.session_state.current_index]
@@ -88,8 +92,8 @@ with col_nav3:
             json.dump(st.session_state.annotations, f, indent=4, ensure_ascii=False)
 
         # Reset annotation controls for the next round
-        st.session_state["claim_urdu"] = ""
-        st.session_state["label_urdu"] = ""
+        st.session_state["question_urdu"] = ""
+        st.session_state["answer_urdu"] = ""
 
         # Update index to the next item
         if st.session_state.current_index < len(data) - 1:
@@ -98,19 +102,21 @@ with col_nav3:
 # Get current item based on index
 current_item = data[st.session_state.current_index]
 
-# Display the current claim after navigation updates
-st.text_area(value=current_item["claim"], label="claim", height=68, disabled=True)
-st.text_area(value=current_item["label"], label="label", height=68, disabled=True)
-st.session_state["claim_urdu"] = st.text_area(
-    value=current_item["claim_urdu"], label="claim Urdu", height=68
+# Display the current question after navigation updates
+st.text_area(
+    value=current_item["question"], answer="question", height=68, disabled=True
 )
-st.session_state["label_urdu"] = st.text_area(
-    value=current_item["label_urdu"], label="label Urdu", height=68
+st.text_area(value=current_item["answer"], answer="answer", height=68, disabled=True)
+st.session_state["question_urdu"] = st.text_area(
+    value=current_item["question_urdu"], answer="question Urdu", height=68
+)
+st.session_state["answer_urdu"] = st.text_area(
+    value=current_item["answer_urdu"], answer="answer Urdu", height=68
 )
 
 if st.session_state.annotations:
     st.download_button(
-        label="Download Annotations",
+        answer="Download Annotations",
         data=json.dumps(st.session_state.annotations, indent=4, ensure_ascii=False),
         file_name=uploaded_file.name.replace(".json", "_human.json"),
         mime="application/json",
