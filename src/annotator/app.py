@@ -103,20 +103,18 @@ with col_nav3:
 current_item = data[st.session_state.current_index]
 
 # Display the current question after navigation updates
-st.text_area(
-    value=current_item["question"], answer="question", height=68, disabled=True
-)
-st.text_area(value=current_item["answer"], answer="answer", height=68, disabled=True)
+st.text_area(value=current_item["question"], label="Question", height=68, disabled=True)
+st.text_area(value=current_item["answer"], label="Answer", height=68, disabled=True)
 st.session_state["question_urdu"] = st.text_area(
-    value=current_item["question_urdu"], answer="question Urdu", height=68
+    value=current_item["question_urdu"], label="Question Urdu", height=68
 )
 st.session_state["answer_urdu"] = st.text_area(
-    value=current_item["answer_urdu"], answer="answer Urdu", height=68
+    value=current_item["answer_urdu"], label="Answer Urdu", height=68
 )
 
 if st.session_state.annotations:
     st.download_button(
-        answer="Download Annotations",
+        label="Download Annotations",
         data=json.dumps(st.session_state.annotations, indent=4, ensure_ascii=False),
         file_name=uploaded_file.name.replace(".json", "_human.json"),
         mime="application/json",
