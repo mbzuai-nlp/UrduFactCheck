@@ -1,0 +1,14 @@
+{
+    "solver_configs": [
+        "templates/solver_configs/urdufactcheck.yaml"
+    ],
+    "solver_paths": [
+        "./solvers"
+    ],
+    "pipeline": [
+        "urdufactcheck_claimprocessor",
+        "urdufactcheck_retriever",
+        "urdufactcheck_verifier"
+    ],
+    "verbose": 20
+}

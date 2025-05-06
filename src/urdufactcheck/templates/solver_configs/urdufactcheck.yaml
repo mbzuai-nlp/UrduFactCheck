@@ -1,0 +1,10 @@
+urdufactcheck_claimprocessor:
+  input_name: response
+  output_name: claims
+urdufactcheck_retriever:
+  input_name: claims
+  output_name: claims_with_evidences
+  snippet_cnt: 10
+urdufactcheck_verifier:
+  input_name: claims_with_evidences
+  output_name: label
