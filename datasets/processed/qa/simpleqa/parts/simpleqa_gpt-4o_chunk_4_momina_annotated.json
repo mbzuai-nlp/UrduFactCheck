@@ -4,7 +4,7 @@
         "metadata": "{'topic': 'TV shows', 'answer_type': 'Person', 'urls': ['https://en.wikipedia.org/wiki/Lark_Voorhies', 'https://www.imdb.com/title/tt0118381/fullcredits/?ref_=tt_cl_sm']}",
         "question": "Who played Tiffany in the miniseries \"The Last Don\" (1997)?",
         "answer": "Lark Voorhies",
-        "question_urdu": "ٹیلی ویژن کی منی سیریز \"دی لاسٹ ڈان\" (1997) میں ٹفنی کا کردار کس نے ادا کیا؟",
+        "question_urdu": "ٹیلی ویژن کی منی سیریز دی لاسٹ ڈان (1997) میں ٹفنی کا کردار کس نے ادا کیا؟",
         "answer_urdu": "لارک ووہریز"
     },
     {
@@ -13,7 +13,7 @@
         "question": "On which day, month, and year was Susumu Tonegawa, the Nobel Prize winner in Physiology or Medicine (1987), born?",
         "answer": "5 September 1939",
         "question_urdu": "فزیالوجی یا طب میں نوبل انعام یافتہ (1987) سسومو ٹونیگاوا کس دن، مہینہ اور سال کو پیدا ہوئے تھے؟",
-        "answer_urdu": "5 ستمبر 1939"
+        "answer_urdu": " ستمبر 5, 1939"
     },
     {
         "id": "3036",
@@ -29,7 +29,7 @@
         "question": "On what day, month, and year did Floro Garrido, a Spanish retired footballer, die?",
         "answer": "9 January 2012",
         "question_urdu": "فلورو گاریڈو، جو ایک ریٹائرڈ ہسپانوی فٹبالر تھے، کس دن، مہینے اور سال میں فوت ہوئے؟",
-        "answer_urdu": "9 جنوری 2012"
+        "answer_urdu": " جنوری 9, 2012"
     },
     {
         "id": "3038",
@@ -44,7 +44,7 @@
         "metadata": "{'topic': 'Geography', 'answer_type': 'Date', 'urls': ['https://es.wikipedia.org/wiki/Motavita', 'https://en.wikipedia.org/wiki/Motavita', 'https://www.familysearch.org/en/wiki/Motavita,_Centro,_Boyac%C3%A1,_Colombia_Genealogy']}",
         "question": "In which year was the municipality of Motavita, Boyacá, Colombia, founded?",
         "answer": "1816",
-        "question_urdu": "کولمبیا کے محکمہ بویاکا کے مونسپلیٹی موٹاویٹا کی بنیاد کس سال میں رکھی گئی؟",
+        "question_urdu": "موٹاویٹا، بویاکا، کولمبیا کی میونسپلٹی کس سال قائم ہوئی؟",
         "answer_urdu": "1816"
     },
     {
@@ -84,7 +84,7 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Person', 'urls': ['https://mathshistory.st-andrews.ac.uk/Biographies/Koch/', 'https://www.britannica.com/biography/Niels-Fabian-Helge-von-Koch', 'https://mathshistory.st-andrews.ac.uk/Biographies/Koch/', 'https://dbpedia.org/page/Helge_von_Koch']}",
         "question": "What is the name of the man who succeeded Gösta Mittag-Leffler as a professor of mathematics at Stockholm University in July 1911?",
         "answer": "Niels Fabian Helge von Koch",
-        "question_urdu": "یولائی 1911 میں گوسٹا میتگ لیفلر کی جگہ اسٹاک ہوم یونیورسٹی میں ریاضی کے پروفیسر کے طور پر کس شخص نے کامیابی حاصل کی؟",
+        "question_urdu": "جولائی 1911 میں گوسٹا میتگ لیفلر کی جگہ اسٹاک ہوم یونیورسٹی میں ریاضی کے پروفیسر کے طور پر کس شخص نے کامیابی حاصل کی؟",
         "answer_urdu": "نیلز فیبین ہیلیگ وان کوخ"
     },
     {
@@ -101,7 +101,7 @@
         "question": "What date, month, and year was the outdoor sculpture 'Head of Franz Kafka' installed in Prague?",
         "answer": "31 October 2014 ",
         "question_urdu": "آؤٹ ڈور مجسمہ 'ہیڈ آف فرانز کافکا' کب پراگ میں نصب کیا گیا تھا؟",
-        "answer_urdu": "31 اکتوبر 2014"
+        "answer_urdu": " اکتوبر 31, 2014"
     },
     {
         "id": "3047",
@@ -116,7 +116,7 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Person', 'urls': ['https://sigplan.org/Awards/Dissertation/', 'https://www.sigplan.org/Awards/Dissertation/', 'https://www-old.cs.utah.edu/flux/papers/back-thesis-base.html', 'https://en.wikipedia.org/wiki/SIGPLAN']}",
         "question": "Who won the 2003 SIGPLAN John C. Reynolds Doctoral Dissertation Award?",
         "answer": "Godmar Back",
-        "question_urdu": "سال 2003 میں SIGPLAN جان سی رینولڈز ڈاکٹرل ڈسٹرٹیشن ایوارڈ کس نے جیتا؟",
+        "question_urdu": "سال 2003 کا ایس آئی جی پلان جان سی رینالڈز ڈاکٹریٹ مقالہ ایوارڈ کس نے جیتا؟",
         "answer_urdu": "گوڈمار بیک"
     },
     {
@@ -140,7 +140,7 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Number', 'urls': ['https://en.wikipedia.org/wiki/Respiratory_syncytial_virus#References', 'https://en.wikipedia.org/wiki/Respiratory_syncytial_virus#:~:text=Respiratory%20syncytial%20virus%20(RSV)%20was,coryza%20agent%22%20(CCA).', 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7173590/']}",
         "question": "How many chimpanzees were observed with cold-like symptoms when the respiratory syncytial virus was discovered in 1956 from a laboratory chimpanzee with upper respiratory tract disease?",
         "answer": "14",
-        "question_urdu": "1956 میں جب ایک تجربہ گاہ کے چمپانزی میں اوپری سانس کی نالی کی بیماری کے ساتھ ریسپریٹری سنسیشیل وائرس دریافت ہوا، تو کتنے چمپانزی سردی جیسی علامات کے ساتھ دیکھے گئے تھے؟",
+        "question_urdu":" سال 1956 میں جب ایک تجربہ گاہ کے چمپانزی میں اوپری سانس کی نالی کی بیماری کے ساتھ ریسپریٹری سنسیشیل وائرس دریافت ہوا، تو کتنے چمپانزی سردی جیسی علامات کے ساتھ دیکھے گئے تھے؟",
         "answer_urdu": "14"
     },
     {
@@ -164,7 +164,7 @@
         "metadata": "{'topic': 'TV shows', 'answer_type': 'Other', 'urls': ['https://en.wikipedia.org/wiki/Janice_Burgess', 'https://en.wikipedia.org/wiki/Janice_Burgess#:~:text=The%20series%20received%20eight%20Daytime,Outstanding%20Special%20Class%20Animated%20Program.', 'https://www.vulture.com/article/janice-burgess-dead-backyardigans.html#:~:text=Running%20from%202004%20to%202010,Outstanding%20Special%20Class%20Animated%20Program.']}",
         "question": "What award did Janice Burgess win at the 2008 Daytime Emmy Awards?",
         "answer": "Outstanding Special Class Animated Program ",
-        "question_urdu": "2008 کے ڈے ٹائم ایمی ایوارڈز میں جینس برگیس نے کون سا ایوارڈ جیتا؟",
+        "question_urdu": " سال 2008 کے ڈے ٹائم ایمی ایوارڈز میں جینس برگیس نے کون سا ایوارڈ جیتا؟",
         "answer_urdu": "آؤٹ اسٹینڈنگ اسپیشل کلاس اینیمیٹڈ پروگرام"
     },
     {
@@ -188,8 +188,8 @@
         "metadata": "{'topic': 'Politics', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Samsung', 'https://en.wikipedia.org/wiki/Samsung', 'https://samsung.fandom.com/wiki/Samsung']}",
         "question": "What were the day, month, and year when the Supreme Court of Korea sentenced the former employee of CJ CheilJedang to four years and six months in prison for blackmail and intimidation?",
         "answer": "12 April 2018",
-        "question_urdu": "کوریا کی سپریم کورٹ نے CJ CheilJedang کے سابق ملازم کو بلیک میلنگ اور ڈرانے دھمکانے کے جرم میں چار سال اور چھ مہینے کی قید کی سزا کب سنائی تھی؟ دن، مہینہ اور سال کیا تھے؟",
-        "answer_urdu": "12 اپریل 2018"
+        "question_urdu": "کوریا کی سپریم کورٹ نے چیف جسٹس چیل جیڈانگ کے سابق ملازم کو بلیک میلنگ اور ڈرانے دھمکانے کے جرم میں چار سال اور چھ مہینے کی قید کی سزا کب سنائی تھی؟ دن، مہینہ اور سال کیا تھے؟",
+        "answer_urdu": " اپریل 12, 2018"
     },
     {
         "id": "3058",
@@ -237,7 +237,7 @@
         "question": "What month, day, and year was Gwen Ifill honored on a U.S. postage stamp?",
         "answer": "January 30, 2020",
         "question_urdu": "امریکہ کے ڈاک ٹکٹ پر گوین ایفیل کو کس مہینے، دن اور سال میں عزت بخشی گئی؟",
-        "answer_urdu": "30 جنوری 2020"
+        "answer_urdu": " جنوری 30, 2020"
     },
     {
         "id": "3064",
@@ -268,7 +268,7 @@
         "metadata": "{'topic': 'Art', 'answer_type': 'Number', 'urls': ['https://societyillustrators.org/about/history-of-128-east-63rd-street/', 'https://societyillustrators.org/about/history-of-128-east-63rd-street/', 'https://eastsidefeed.com/arts-and-entertainment/the-society-of-illustrators/', 'http://www.bigapplesecrets.com/2014/03/society-of-illustrators-club-museum-and.html']}",
         "question": "For approximately how many dollars did the Society of Illustrators purchase 128 East 63rd Street, New York, NY, in 1939?",
         "answer": "$33,000",
-        "question_urdu": "تقریباً کتنے ڈالر میں سوسائٹی آف الیوسٹریٹرز نے 128 ایسٹ 63 ویں اسٹریٹ، نیویارک، این وائی کو سال 1939 میں خریدا؟",
+        "question_urdu": "سوسائٹی آف السٹریٹرز نے 1939 میں تقریباً کتنے ڈالر میں 128 ایسٹ 63 سٹریٹ، نیویارک، نیو یارک خریدا؟",
         "answer_urdu": "$33,000"
     },
     {
@@ -293,14 +293,14 @@
         "question": "On what day, month, and year did Anil Biswas (an Indian communist politician) die?",
         "answer": "26 Mar, 2006",
         "question_urdu": "انیل بسواس (بھارتی کمیونسٹ سیاستدان) کا انتقال کس دن، مہینے اور سال میں ہوا؟",
-        "answer_urdu": "26 مارچ، 2006"
+        "answer_urdu": " مارچ 26، 2006"
     },
     {
         "id": "3071",
         "metadata": "{'topic': 'History', 'answer_type': 'Number', 'urls': ['https://www.faa.gov/lessons_learned/transport_airplane/accidents/PH-BUF', 'https://www.faa.gov/lessons_learned/transport_airplane/accidents/PH-BUF#:~:text=With%20a%20total%20of%20583,on%20the%20Pan%20Am%20flight.', 'https://en.wikipedia.org/wiki/Tenerife_airport_disaster']}",
         "question": "What is the total number of passengers that died when KLM Flight 4805 and Pan Am Flight 1736 collided?",
         "answer": "583",
-        "question_urdu": "KLM فلائٹ 4805 اور Pan Am فلائٹ 1736 کے ٹکراؤ کے وقت کل کتنے مسافر ہلاک ہوئے؟",
+        "question_urdu": "کے ایل ایم فلائٹ 4805 اور پین ایم فلائٹ 1736 کے ٹکرانے سے مرنے والے مسافروں کی کل تعداد کتنی ہے؟",
         "answer_urdu": "583"
     },
     {
@@ -316,7 +316,7 @@
         "metadata": "{'topic': 'Other', 'answer_type': 'Person', 'urls': ['https://www.mid-day.com/mumbai/mumbai-news/article/mumbai-bhau-daji-lad-musuem-lift-vendor-blame-each-other-after-freak-mishap-kills-dentist-20911167', 'https://timesofindia.indiatimes.com/city/mumbai/64-year-old-dentist-injured-in-mumbais-bhau-daji-lad-lift-crash-dies/articleshow/69260103.cms', 'https://www.mid-day.com/mumbai/mumbai-news/article/mumbai-bhau-daji-lad-musuem-lift-vendor-blame-each-other-after-freak-mishap-kills-dentist-20911167', 'https://mumbaimirror.indiatimes.com/mumbai/cover-story/sobo-dentist-hurt-in-bdl-museum-lift-crash-dies/articleshow/69259784.cms#:~:text=A%20prominent%20south%20Mumbai%20dentist,%2C%2028%2C%20was%20also%20injured.']}",
         "question": "Name the dentist who died in May 2019 after being injured in an elevator crash at the Dr. Bhau Daji Lad Museum (BDL) in Mumbai on April 28.",
         "answer": "Dr Arnavaz Havewalla",
-        "question_urdu": "ممبئی میں ڈاکٹر بھاؤ داجی لاڈ میوزیم (BDL) میں 28 اپریل کو ایک لفٹ حادثے میں زخمی ہونے کے بعد، مئی 2019 میں وفات پانے والے دانتوں کے ڈاکٹر کا نام بتائیں۔",
+        "question_urdu": "دانتوں کے ڈاکٹر کا نام بتائیں جو مئی 2019 میں 28 اپریل کو ممبئی کے ڈاکٹر بھاؤ داجی لاڈ میوزیم (بی ڈی ایل) میں لفٹ کے حادثے میں زخمی ہونے کے بعد انتقال کر گئے تھے۔",
         "answer_urdu": "ڈاکٹر ارناواز ہیوی والا"
     },
     {
@@ -388,7 +388,7 @@
         "metadata": "{'topic': 'Sports', 'answer_type': 'Other', 'urls': ['https://en.wikipedia.org/wiki/Fencing_at_the_1896_Summer_Olympics_%E2%80%93_Men%27s_masters_foil', 'https://en.wikipedia.org/wiki/Fencing_at_the_1896_Summer_Olympics#Medal_summary', 'https://olympics.com/en/olympic-games/athens-1896/results/fencing/foil-masters-men', 'https://en.wikipedia.org/wiki/Fencing_at_the_1896_Summer_Olympics_%E2%80%93_Men%27s_masters_foil#:~:text=Article,1%20Background']}",
         "question": "Who won the bronze medal in the men's masters foil event in the 1896 Summer Olympics?",
         "answer": "No one.",
-        "question_urdu": "1896 کے موسمِ گرما کی اولمپکس میں مردوں کے ماسٹرز فائل ایونٹ میں کانسی کا تمغہ کس نے جیتا؟",
+        "question_urdu": " سال 1896 کے موسمِ گرما کی اولمپکس میں مردوں کے ماسٹرز فائل ایونٹ میں کانسی کا تمغہ کس نے جیتا؟",
         "answer_urdu": "کسی نے نہیں۔"
     },
     {
@@ -405,7 +405,7 @@
         "question": "Until what date, as in day, month, and year, did Nityanand Kanungo serve as the governor of Bihar?",
         "answer": "January 20th, 1971",
         "question_urdu": "نتیانند کانونگو نے بہار کے گورنر کی حیثیت سے کب تک، یعنی دن، مہینہ اور سال تک خدمات انجام دیں؟",
-        "answer_urdu": "20 جنوری 1971"
+        "answer_urdu": " جنوری20, 1971"
     },
     {
         "id": "3085",
@@ -420,7 +420,7 @@
         "metadata": "{'topic': 'Politics', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Anil_Biswas_(politician)', \"https://en.wikipedia.org/wiki/Anil_Biswas_(politician)#:~:text=in%201961%20he%20joined%20the,the%20Students'%20Federation%20of%20India.\", 'https://alchetron.com/Anil-Biswas-(politician)']}",
         "question": "In which year did Anil Biswas (an Indian communist politician) join the Krishnagar Government College, come under the influence of Marxist leaders like Harinarayan Adhikari and Dinesh Mazumdar, and also become an active member of the Students' Federation of India?",
         "answer": "1961",
-        "question_urdu": "انیل بسواس (جو ایک بھارتی کمیونسٹ سیاستدان تھے) نے کرشن نگر گورنمنٹ کالج کب میں شمولیت اختیار کی، حری نارائن ادھیکاری اور دنیش ماجومدار جیسے مارکسی رہنماؤں کے زیر اثر آئے، اور اسٹوڈنٹس فیڈریشن آف انڈیا کے فعال رکن بھی بن گئے؟",
+        "question_urdu": "انیل بسواس (جو ایک بھارتی کمیونسٹ سیاستدان تھے) نے کرشن نگر گورنمنٹ کالج  میں کب شمولیت اختیار کی، حری نارائن ادھیکاری اور دنیش ماجومدار جیسے مارکسی رہنماؤں کے زیر اثر آئے، اور اسٹوڈنٹس فیڈریشن آف انڈیا کے فعال رکن بھی بن گئے؟",
         "answer_urdu": "1961"
     },
     {
@@ -444,8 +444,8 @@
         "metadata": "{'topic': 'Other', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Robin_Roberts_(newscaster)', \"https://gameshows.fandom.com/wiki/Robin_Roberts#:~:text=In%202015%2C%20she%20was%20named,mentor%20for%20Disney's%20%23DreamBigPrincess%20campaign.\", 'https://thewaltdisneycompany.com/disneys-new-dreambigprincess-global-video-series-launches-today/)', 'https://www.yahoo.com/entertainment/robin-roberts-selected-mentor-disney-191737983.html?']}",
         "question": "What month, day, and year was Robin Roberts selected as a mentor for Disney's #DreamBigPrincess campaign?",
         "answer": "October 10, 2018",
-        "question_urdu": "رابن رابرٹس کو ڈزنی کی #DreamBigPrincess مہم کے لئے سرپرست کے طور پر کس مہینے، تاریخ، اور سال میں منتخب کیا گیا؟",
-        "answer_urdu": "10 اکتوبر 2018"
+        "question_urdu": "رابن رابرٹس کو ڈزنی کی #ڈریم بگ پرنسس مہم کے لئے سرپرست کے طور پر کس مہینے، تاریخ، اور سال میں منتخب کیا گیا؟",
+        "answer_urdu": " اکتوبر 10, 2018"
     },
     {
         "id": "3090",
@@ -516,7 +516,7 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Person', 'urls': ['https://en.wikipedia.org/wiki/ACS_Award_in_Pure_Chemistry', 'https://www.acs.org/funding/awards/acs-award-in-pure-chemistry/past-recipients.html', 'https://en.wikipedia.org/wiki/ACS_Award_in_Pure_Chemistry', 'https://foundation.alphachisigma.org/professional-awards/acs']}",
         "question": "Which scientist received the American Chemical Society Award in Pure Chemistry in 1938?",
         "answer": "Paul D. Bartlett",
-        "question_urdu": "1938 میں امریکی کیمیائی سوسائٹی کے پیور کیمسٹری ایوارڈ سے کس سائنسدان کو نوازا گیا؟",
+        "question_urdu": " سال 1938 میں امریکی کیمیائی سوسائٹی کے پیور کیمسٹری ایوارڈ سے کس سائنسدان کو نوازا گیا؟",
         "answer_urdu": "پال ڈی بارٹلیٹ"
     },
     {
@@ -580,7 +580,7 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Number', 'urls': ['https://en.wikipedia.org/wiki/Soko_522', 'https://en.wikipedia.org/wiki/Soko_522#:~:text=Service%20ceiling%3A%207%2C000%C2%A0m%20(23%2C000%C2%A0ft)', 'https://www.balkanwarhistory.com/2016/05/yugoslav-military-training-and-light.html']}",
         "question": "What is the service ceiling of the aircraft Soko 522 in meters?",
         "answer": "7,000",
-        "question_urdu": "طیارے Soko 522 کی سروس کی زیادہ سے زیادہ بلندی کتنے میٹر ہے؟",
+        "question_urdu": "طیارے سوکو 522 کی سروس کی زیادہ سے زیادہ بلندی کتنے میٹر ہے؟",
         "answer_urdu": "7,000"
     },
     {
@@ -588,7 +588,7 @@
         "metadata": "{'topic': 'Sports', 'answer_type': 'Other', 'urls': ['https://www.chronofhorse.com/article/what-do-you-think-cian-oconnors-controversial-european-championships-round/', 'https://www.chronofhorse.com/article/what-do-you-think-cian-oconnors-controversial-european-championships-round/', 'https://www.noellefloyd.com/blogs/archives/cian-o-connor-confirms-further-action-will-be-taken-regarding-ring-interference-incident', 'https://www.espn.com/olympics/story/_/id/13488822/cian-oconnor-totally-gutted-ireland-showjumping-team-rio-olympics-qualification-hopes-were-wrecked']}",
         "question": "In what round of the Nations Cup team competition at the FEI European Championships did a member of the jump crew interfere with Cian O'Connor and Good Luck?",
         "answer": "Second",
-        "question_urdu": "نیشنز کپ ٹیم کا مقابلہ FEI یورپی چیمپیئن شپ میں کس مرحلے میں ہوا جب جمپ کریو کے ایک رکن کا سیان اوکونر اور گڈ لک کے ساتھ ٹکراؤ ہوا؟",
+        "question_urdu": "نیشنز کپ ٹیم کا مقابلہ ایف ای آئی یورپی چیمپیئن شپ میں کس مرحلے میں ہوا جب جمپ کریو کے ایک رکن کا سیان اوکونر اور گڈ لک کے ساتھ ٹکراؤ ہوا؟",
         "answer_urdu": "دوسرے"
     },
     {
@@ -612,7 +612,7 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Saba_Valadkhan#Awards_and_honours', 'https://www.valadkhanlab.org/news.php', 'https://en.wikipedia.org/wiki/Saba_Valadkhan']}",
         "question": "In which year did Saba Valadkhan (an Iranian-American biomedical scientist) receive the Nsoroma Award from the Cleveland Chapter of the National Technical Association?",
         "answer": "2006",
-        "question_urdu": "سابا ولادخان (ایرانی-امریکی بایومیڈیکل سائنسدان) نے کس سال Cleveland Chapter of the National Technical Association کی طرف سے Nsoroma ایوارڈ حاصل کیا؟",
+        "question_urdu": "سَبا وَلَدخان (ایک ایرانی-امریکی بایومیڈیکل سائنسدان) کو نیشنل ٹیکنیکل ایسوسی ایشن کے کلیولینڈ چیپٹر سے نسرومہ ایوارڈ کِس سال مِلا؟",
         "answer_urdu": "2006"
     },
     {
@@ -652,7 +652,7 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Number', 'urls': ['https://www.degruyter.com/document/doi/10.1515/THLI.2008.007/html', 'https://sci-hub.st/10.1515/thli.2008.007#:~:text=URL%3A%20https%3A%2F%2Fsci,100']}",
         "question": "What's the DOI of the paper \"Multidimensional Scaling and Other Techniques for Uncovering Universals?\"",
         "answer": "10.1515/thli.2008.007",
-        "question_urdu": "تحقیقی مقالے \"ملٹی ڈائمینشنل اسکیلنگ اور دیگر تکنیکیں جو یونیورسلز کی دریافت کے لیے\" کا DOI کیا ہے؟",
+        "question_urdu": "تحقیقی مقالے'  ملٹی ڈائمینشنل اسکیلنگ اور دیگر تکنیکیں جو یونیورسلز کی دریافت کے لیے' کا ڈی او آئی کیا ہے؟",
         "answer_urdu": "10.1515/thli.2008.007"
     },
     {
@@ -676,7 +676,7 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Person', 'urls': ['https://en.wikipedia.org/wiki/Chorizema_dicksonii', 'https://en.wikipedia.org/wiki/Chorizema_dicksonii', 'https://www.anbg.gov.au/cpbr/cd-keys/peakey/key/The%20Pea%20Key/Media/Html/nomenclature/Chorizema_dicksonii.htm']}",
         "question": "What is the name of the botanist who first formally described *Chorizema dicksonii* in 1839?",
         "answer": "Robert Graham",
-        "question_urdu": "اس نباتیات کے ماہر کا نام کیا ہے جس نے پہلی بار *Chorizema dicksonii* کی باضابطہ وضاحت 1839 میں کی؟",
+        "question_urdu": "چورائزما ڈِکسونی کو سب سے پہلے ۱۸۳۹ میں باقاعدہ طور پر بیان کرنے والے ماہرِ نباتات کا نام کیا ہے؟",
         "answer_urdu": "رابرٹ گراہم"
     },
     {
@@ -685,7 +685,7 @@
         "question": "On what day, month, and year did Edward Morris play his first Wales national football team match?",
         "answer": "13 March 1893",
         "question_urdu": "ایڈورڈ مورس نے ویلز کی قومی فٹبال ٹیم کا پہلا میچ کس دن، مہینے، اور سال میں کھیلا؟",
-        "answer_urdu": "13 مارچ 1893"
+        "answer_urdu": " مارچ 13, 1893"
     },
     {
         "id": "3120",
@@ -765,14 +765,14 @@
         "question": "On what day, month, and year was the asteroid 369 Aëria discovered?",
         "answer": "4 July 1893",
         "question_urdu": "کون سے دن، مہینے، اور سال کو کشودرگرہ 369 ایریا دریافت ہوا؟",
-        "answer_urdu": "4 جولائی 1893"
+        "answer_urdu": " جولائی 4, 1893"
     },
     {
         "id": "3130",
         "metadata": "{'topic': 'Sports', 'answer_type': 'Person', 'urls': ['https://en.wikipedia.org/wiki/2021%E2%80%9322_Premier_League#Awards', 'https://en.wikipedia.org/wiki/Premier_League_Player_of_the_Month', 'https://thefootballfaithful.com/premier-league-21-22-remembering-every-player-of-the-month-this-season/', 'https://www.premierleague.com/awards?at=1&aw=-2&se=418']}",
         "question": "What was the only Spanish player who received a Player of the Month Award during the 2021-22 Premier League season?",
         "answer": "David de Gea",
-        "question_urdu": "2021-22 پریمیئر لیگ سیزن کے دوران صرف ایک ہسپانوی کھلاڑی کو پلیئر آف دی منتھ ایوارڈ کس نے حاصل کیا تھا؟",
+        "question_urdu": " سال 2021-22 پریمیئر لیگ سیزن کے دوران صرف ایک ہسپانوی کھلاڑی کو پلیئر آف دی منتھ ایوارڈ کس نے حاصل کیا تھا؟",
         "answer_urdu": "ڈیوڈ دے گیا"
     },
     {
@@ -837,7 +837,7 @@
         "question": "What function in Google Sheets is specifically built for appending ranges vertically and in sequence to return a larger array?",
         "answer": "VSTACK",
         "question_urdu": "گوگل شیٹس میں وہ کون سا فنکشن ہے جو خاص طور پر رینجز کو عمودی اور مسلسل جوڑ کر ایک بڑی صف کا نتیجہ دیتا ہے؟",
-        "answer_urdu": "VSTACK"
+        "answer_urdu": "وی اسٹیک"
     },
     {
         "id": "3139",
@@ -877,7 +877,7 @@
         "question": "What day, month, and year was the Montenegrin politician Vujica Lazović born?",
         "answer": "10 March 1963",
         "question_urdu": "مونٹی نیگرو کے سیاست دان وجیچا لازووچ کی تاریخ پیدائش کس دن، مہینے اور سال میں ہوئی تھی؟",
-        "answer_urdu": "10 مارچ 1963"
+        "answer_urdu": " مارچ 10, 1963"
     },
     {
         "id": "3144",
@@ -892,7 +892,7 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Place', 'urls': ['https://en.wikipedia.org/wiki/NGC_2298', 'https://en.wikipedia.org/wiki/NGC_2298', 'https://www.aanda.org/articles/aa/full_html/2022/06/aa43475-22/aa43475-22.html#:~:text=The%20southern%20cluster%20NGC%202298,1992).', 'https://theskylive.com/sky/deepsky/ngc2298-object']}",
         "question": "The globular cluster NGC 2298 is located within which constellation?",
         "answer": "Puppis",
-        "question_urdu": "کروی جھرمٹ NGC 2298 کس برج کے اندر واقع ہے؟",
+        "question_urdu": "کروی جھرمٹ این جی سی  2298 کس برج کے اندر واقع ہے؟",
         "answer_urdu": "پوپس"
     },
     {
@@ -900,7 +900,7 @@
         "metadata": "{'topic': 'Politics', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Mustafa_Adebayo_Balogun', 'https://dailytrust.com/where-is-tafa-balogun/#:~:text=In%20April%202009%2C%20the%20House,recovered%20from%20Balogun%20went%20missing.&text=Balogun%20became%20IGP%20in%20March%202002%2C%20replacing%20Musiliu%20Smith.', 'https://www.thecable.ng/obituary-tafa-balogun-ex-igp-who-fired-police-officers-over-corruption-yet-consumed-by-same-monster/', 'https://www.vanguardngr.com/2022/08/1947-2022-life-and-times-of-late-ex-igp-tafa-balogun/']}",
         "question": "In which month and year did the House of Representatives Committee on Police Affairs invite Mustafa Adebayo Balogun (Nigeria's former Inspector General of Police), Mike Okiro, and Mrs. Farida Waziri to explain how the N16 billion recovered from Balogun went missing?",
         "answer": "April 2009",
-        "question_urdu": "کس مہینے اور سال میں ایوان نمائندگان کی پولیس امور کمیٹی نے مصطفیٰ ادیبایو بلاگن (نائجیریا کے سابق انسپکٹر جنرل آف پولیس)، مائیک اوکیرو، اور مسز فریدا وزیر کو مدعو کیا تاکہ ن16 ارب جو بلاگن سے برآمد ہوئے تھے ان کے غائب ہونے کی وضاحت کی جا سکے؟",
+        "question_urdu": "کس مہینے اور سال میں ایوان نمائندگان کی پولیس امور کمیٹی نے مصطفیٰ ادیبایو بلاگن (نائجیریا کے سابق انسپکٹر جنرل آف پولیس)، مائیک اوکیرو، اور مسز فریدا وزیر کو مدعو کیا تاکہ این 16 ارب جو بلاگن سے برآمد ہوئے تھے ان کے غائب ہونے کی وضاحت کی جا سکے؟",
         "answer_urdu": "اپریل 2009"
     },
     {
@@ -980,8 +980,8 @@
         "metadata": "{'topic': 'Politics', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Asia%E2%80%93Europe_Meeting', 'https://en.wikipedia.org/wiki/Asia%E2%80%93Europe_Meeting#ASEM_Ministerial_Conference_on_Energy_Security_(ASEMESMC)', 'https://ec.europa.eu/commission/presscorner/detail/en/IP_09_937', 'https://aseminfoboard.org/asem_events/1st-asem-ministerial-conference-on-energy-security/']}",
         "question": "On what day, month, and year did the 1st ASEM Ministerial Conference on Energy Security begin?",
         "answer": "17 June 2009",
-        "question_urdu": "پہلی ASEM وزارتی کانفرنس برائے توانائی کی حفاظت کس دن، مہینے اور سال میں شروع ہوئی؟",
-        "answer_urdu": "17 جون 2009"
+        "question_urdu": "پہلی اے ایس ای ایم وزارتی کانفرنس برائے توانائی کی حفاظت کس دن، مہینے اور سال میں شروع ہوئی؟",
+        "answer_urdu": "جون 17, 2009"
     },
     {
         "id": "3157",
@@ -1020,7 +1020,7 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Other', 'urls': ['https://en.wikipedia.org/wiki/Hydroxyzine', 'https://www.genome.jp/dbget-bin/www_bget?D08054+D00672+D01096', 'https://en.wikipedia.org/wiki/Hydroxyzine', 'https://go.drugbank.com/drugs/DB00557']}",
         "question": "What is the KEGG ID of Hydroxyzine, an antihistamine medication?",
         "answer": "D08054",
-        "question_urdu": "Hydroxyzine، جو کہ ایک اینٹی ہسٹامین دوا ہے، کا KEGG آئی ڈی کیا ہے؟",
+        "question_urdu":"ہائڈروکزی زین، جو کہ ایک اینٹی ہسٹا‌مین دوا ہے، کا کیگ آئی ڈی کیا ہے؟",
         "answer_urdu": "D08054"
     },
     {
@@ -1044,7 +1044,7 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Number', 'urls': ['https://web.archive.org/web/20070520202433/http://www.oldcalculatormuseum.com/toshbc1411.html', 'https://www.oldcalculatormuseum.com/s-toshbc1411.html', 'https://www.oldcalculatormuseum.com/toshbc1411.html']}",
         "question": "What is the master clock frequency of the Toshiba BC-1411 in kilohertz?",
         "answer": "40",
-        "question_urdu": "توشیبا BC-1411 کی ماسٹر کلاک فریکوئنسی کلو ہرٹز میں کیا ہے؟",
+        "question_urdu": "توشیبا بی سی-1411 کی ماسٹر کلاک فریکوئنسی کلو ہرٹز میں کیا ہے؟",
         "answer_urdu": "40"
     },
     {
@@ -1052,7 +1052,7 @@
         "metadata": "{'topic': 'Geography', 'answer_type': 'Number', 'urls': ['https://www.eni.com/en-IT/media/press-release/2019/05/eni-announces-akoma-discovery-in-ctp-block-4-offshore-ghana.html', 'https://www.eni.com/en-IT/media/press-release/2019/05/eni-announces-akoma-discovery-in-ctp-block-4-offshore-ghana.html#:~:text=The%20well%20was%20drilled%20by,and%20with%20hydrocarbon%20down%20to.', 'https://www.offshore-technology.com/news/eni-akoma-offshore-ghana/', 'https://www.petroleumafrica.com/ghanas-akoma-1x-is-a-hit/']}",
         "question": "What was the water depth in meters at which the Akoma-1X well was drilled?",
         "answer": " 350 meters",
-        "question_urdu": "آکوما-1X کنوئیں کو کتنے میٹر کی گہرائی پر کھودا گیا تھا؟",
+        "question_urdu": "آکوما-1ایکس کنوئیں کو کتنے میٹر کی گہرائی پر کھودا گیا تھا؟",
         "answer_urdu": "350 میٹر"
     },
     {
@@ -1068,7 +1068,7 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Panavia_Tornado', 'https://www.airforce-technology.com/projects/agm-88e-advanced-anti-radiation-guided-missile/?cf-view', 'https://www.ainonline.com/aviation-news/defense/2018-10-04/italy-completes-aargm-operational-tests', 'https://www.key.aero/article/aeronautica-militare-completes-aargm-operational-testing']}",
         "question": "What were the month and year when it was announced that the EA-200 Tornado had completed operational testing of the AGM-88E AARGM?",
         "answer": "October 2018",
-        "question_urdu": "ای اے-200 ٹورنیڈو کے AGM-88E AARGM کی عملی جانچ مکمل ہونے کا اعلان کس مہینے اور سال میں کیا گیا تھا؟",
+        "question_urdu": "وہ کون سا مہینہ اور سال تھا جب یہ اعلان کیا گیا کہ ای اے-200 ٹورنیڈو نے اے جی ایم-88 ای اے اے آر جی ایم کی آپریشنل ٹیسٹنگ مکمل کر لی تھی؟",
         "answer_urdu": "اکتوبر 2018"
     },
     {
@@ -1092,7 +1092,7 @@
         "metadata": "{'topic': 'Geography', 'answer_type': 'Place', 'urls': ['https://en.wikipedia.org/wiki/Asia%E2%80%93Europe_Meeting', 'https://aseminfoboard.org/asem_events/4th-asem-education-ministers-meeting-asem-me4/', 'https://www.mofa.go.jp/files/000006211.pdf', 'https://www.highereducation.ac.cy/index.php/en/europaika-themata/asem-education-process']}",
         "question": "In what city was the 4th ASEM Education Ministers' Meeting held?",
         "answer": "Kuala Lumpur",
-        "question_urdu": "چوتھی ASEM ایجوکیشن منسٹرز کی میٹنگ کس شہر میں منعقد ہوئی؟",
+        "question_urdu": "چوتھی اے ایس ای ایم ایجوکیشن منسٹرز کی میٹنگ کس شہر میں منعقد ہوئی؟",
         "answer_urdu": "کوالالمپور"
     },
     {
@@ -1108,7 +1108,7 @@
         "metadata": "{'topic': 'History', 'answer_type': 'Place', 'urls': ['https://en.wikipedia.org/wiki/Battle_of_Austerlitz', 'https://en.wikipedia.org/wiki/Battle_of_Austerlitz#cite_note-nap01-91', 'https://military-history.fandom.com/wiki/Battle_of_Austerlitz']}",
         "question": "After what battle did Napoleon say, \"Soldats! Je suis content de vous\"? (English: Soldiers! I am pleased with you).",
         "answer": "Battle of Austerlitz",
-        "question_urdu": "کونسی جنگ کے بعد نپولین نے کہا، \"Soldats! Je suis content de vous\"؟ (انگریزی: سپاہیوں! میں آپ سے خوش ہوں)",
+        "question_urdu": "کس جنگ کے بعد نپولین نے کہا، “سولدا! ژ سوئی کونتاں دو وو؟” (انگریزی: سپاہیو! میں تم سے خوش ہوں)؟",
         "answer_urdu": "آؤسٹرلٹز کی جنگ"
     },
     {
@@ -1132,7 +1132,7 @@
         "metadata": "{'topic': 'TV shows', 'answer_type': 'Person', 'urls': ['https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_All_Stars_season_7', 'https://www.youtube.com/watch?v=48gIglLsgzk', 'https://ew.com/tv/jinkx-monsoon-all-stars-7-snatch-game-judy-garland-dave/', 'https://en.wikipedia.org/wiki/Snatch_Game']}",
         "question": "What two people did Jinkx Monsoon portray in RPDR All-Stars Season 7 Snatch Game?",
         "answer": "Natasha Lyonne and Judy Garland",
-        "question_urdu": "جِنکس مون سون نے RPDR آل اسٹارز سیزن 7 کے سنیچ گیم میں کن دو شخصیات کی عکاسی کی؟",
+        "question_urdu":"جِنکس مون سون نے آر پی ڈی آر آل-اسٹارز سیزن 7 کے اسنیچ گیم میں کن دو شخصیات کا کردار ادا کیا؟",
         "answer_urdu": "نٹاشا لیون اور جوڈی گارلینڈ"
     },
     {
@@ -1173,7 +1173,7 @@
         "question": "On what day, month, and year was Kristin Glosimot Kjelsberg, a Norwegian handball player who played 112 matches and scored 371 goals for the Norwegian national team between 1978 and 1983, born?",
         "answer": " 7 November 1959",
         "question_urdu": "نارویجن ہینڈ بال کھلاڑی کرسٹن گلو سیموت کیجلبیرگ، جنہوں نے 1978 سے 1983 کے درمیان نارویجن قومی ٹیم کے لیے 112 میچز کھیلے اور 371 گول اسکور کیے، کس دن، مہینے، اور سال پیدا ہوئیں؟",
-        "answer_urdu": "7 نومبر 1959"
+        "answer_urdu": " نومبر 7, 1959"
     },
     {
         "id": "3181",
@@ -1189,14 +1189,14 @@
         "question": "On what day, month, and year was the footballer Michael Anderson Pereira da Silva born?",
         "answer": "February 16, 1983",
         "question_urdu": "فٹبالر مائیکل اینڈرسن پیریرا دا سلوا کس دن، مہینے اور سال میں پیدا ہوئے تھے؟",
-        "answer_urdu": "16 فروری 1983"
+        "answer_urdu": " فروری 16, 1983"
     },
     {
         "id": "3183",
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Other', 'urls': ['https://www.mozilla.org/en-US/firefox/107.0/releasenotes/', 'https://www.mozilla.org/en-US/firefox/107.0/releasenotes/#:~:text=107.0%20Firefox%20Release&text=Improved%20the%20performance%20of%20the,in%20Windows%2011%20version%2022H2.', 'https://www.ghacks.net/2022/11/15/firefox-107-out-with-security-fixes-and-windows-performance-improvements/', 'https://www.dell.com/community/en/conversations/virus-spyware/updates-111522-firefox-107/647fa0b9f4ccf8a8de5cac01']}",
         "question": "What Mozilla Firefox release version included the patch note: \"Improved the performance of the instance when Microsoft's IME and Defender retrieve the URL of a focused document in Windows 11 version 22H2\"?",
         "answer": "107.0",
-        "question_urdu": "موزیلا فائرفاکس کے کس ریلیز ورژن میں یہ پیچ نوٹ شامل تھا: \"ونڈوز 11 کے ورژن 22H2 میں جب مائیکروسافٹ کا IME اور ڈیفینڈر کسی مرکوز دستاویز کا یو آر ایل بازیافت کرتے ہیں تو اس کی کارکردگی کو بہتر بنایا گیا\"؟",
+        "question_urdu": "موزیلا فائر فاکس کے کس ریلیز ورژن میں یہ پیچ نوٹ شامل تھا: “جب مائیکروسافٹ کا آئی ایم ای اور ڈیفنڈر ونڈوز 11 ورژن 22ایچ2 میں کسی فوکس شدہ دستاویز کا یو آر ایل حاصل کرتے ہیں، تو اس مثال کی کارکردگی کو بہتر بنایا گیا ہے”؟",
         "answer_urdu": "107.0"
     }
 ]
