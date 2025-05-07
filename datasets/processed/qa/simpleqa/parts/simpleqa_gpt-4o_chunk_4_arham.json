@@ -68,7 +68,7 @@
         "metadata": "{'topic': 'Music', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Welcome_to_Paradise', 'https://en.wikipedia.org/wiki/Welcome_to_Paradise', 'https://genius.com/Green-day-welcome-to-paradise-kerplunk-version-lyrics/q/release-date', 'https://secondhandsongs.com/performance/59985/all']}",
         "question": "What month and year was \"Welcome to Paradise\" first released?",
         "answer": "December, 1991",
-        "question_urdu": "\"ویلکم ٹو پیراڈائز\" پہلی بار کس مہینے اور سال میں جاری کیا گیا؟",
+        "question_urdu": "ویلکم ٹو پیراڈائز' پہلی بار کس مہینے اور سال میں جاری کیا گیا؟'",
         "answer_urdu": "دسمبر 1991"
     },
     {
@@ -100,7 +100,7 @@
         "metadata": "{'topic': 'Art', 'answer_type': 'Date', 'urls': ['https://www.janineantoni.net/#/rope-dance/', 'https://www.janineantoni.net/rope-dance', 'https://www.theartnewspaper.com/2016/04/27/janine-antoni-gets-wrapped-up-in-her-work-at-philadelphias-fabric-workshop']}",
         "question": "In what month and year did Anna Halprin create the \"Rope Dance\" performance with Janine Antoni and Stephen Petronio in Kentfield, California?",
         "answer": "September 2014",
-        "question_urdu": "کس مہینے اور سال میں اینا ہالپرین نے جینین انتونی اور اسٹیفن پیٹرونیو کے ساتھ کینٹ فیلڈ، کیلیفورنیا میں \"روپ ڈانس\" کا مظاہرہ کیا؟",
+        "question_urdu": "کس مہینے اور سال میں اینا ہالپرین نے جینین انتونی اور اسٹیفن پیٹرونیو کے ساتھ کینٹ فیلڈ، کیلیفورنیا میں 'روپ ڈانس' کا مظاہرہ کیا؟",
         "answer_urdu": "ستمبر 2014"
     },
     {
@@ -164,7 +164,7 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Person', 'urls': ['https://en.wikipedia.org/wiki/ISCB_Senior_Scientist_Award', 'https://en.wikipedia.org/wiki/ISCB_Senior_Scientist_Award', 'https://www.iscb.org/iscb-awards/accomplishment-senior-scientist-award', 'https://www.iscb.org/iscb-awards/3255']}",
         "question": "Who was the recipient of the ISCB Accomplishment by a Senior Scientist Award in 2012?",
         "answer": "Gunnar von Heijne",
-        "question_urdu": "سال 2012 میں ISCB اکامپلیشمنٹ بائی اے سینئر سائنٹسٹ ایوارڈ کس کو دیا گیا؟",
+        "question_urdu": "سال 2012 میں آئی ایس سی بی اکامپلیشمنٹ بائی اے سینئر سائنٹسٹ ایوارڈ کس کو دیا گیا؟",
         "answer_urdu": "گونر وون ہائنہ"
     },
     {
@@ -188,7 +188,7 @@
         "metadata": "{'topic': 'Geography', 'answer_type': 'Number', 'urls': ['https://en.wikipedia.org/wiki/Weston,_Ohio', 'https://en.wikipedia.org/wiki/Weston,_Ohio', 'https://www2.census.gov/library/publications/2002/dec/phc-1-37.pdf']}",
         "question": "How many households were there in Weston, Ohio, as of the 2000 census?",
         "answer": "638",
-        "question_urdu": "2000 کی مردم شماری کے مطابق، ویسٹن، اوہائیو میں کتنے گھر تھے؟",
+        "question_urdu": "سال 2000 کی مردم شماری کے مطابق، ویسٹن، اوہائیو میں کتنے گھر تھے؟",
         "answer_urdu": "638"
     },
     {
@@ -276,7 +276,7 @@
         "metadata": "{'topic': 'Sports', 'answer_type': 'Other', 'urls': ['https://en.wikipedia.org/wiki/Ed_Hug', 'https://en.wikipedia.org/wiki/Ed_Hug', 'https://www.baseball-almanac.com/yearly/debut.php?y=1903&l=NL&s=T']}",
         "question": "For which team did Edward Ambrose Hug, the American Major League Baseball catcher, make his MLB debut?",
         "answer": "Brooklyn Superbas",
-        "question_urdu": "امریکن میجر لیگ بیس بال کیچر ایڈورڈ ایمبروز ہیوگ نے اپنا MLB ڈیبیو کس ٹیم کے لیے کیا؟",
+        "question_urdu": "امریکن میجر لیگ بیس بال کیچر ایڈورڈ ایمبروز ہیوگ نے اپنا ایم ایل بی ڈیبیو کس ٹیم کے لیے کیا؟",
         "answer_urdu": "بروکلین سوپرباس"
     },
     {
@@ -308,7 +308,7 @@
         "metadata": "{'topic': 'Video games', 'answer_type': 'Number', 'urls': ['http://darksouls2.wikidot.com/puzzling-stone-sword', 'https://darksouls.fandom.com/wiki/Puzzling_Stone_Sword', 'https://darksouls2.wiki.fextralife.com/Puzzling+Stone+Sword', 'http://darksouls2.wikidot.com/puzzling-stone-sword']}",
         "question": "What is the weight of the Puzzling Stone Sword from Dark Souls II in in-game units?",
         "answer": "2",
-        "question_urdu": "ڈارک سولز II میں پزلنگ اسٹون تلوار کا وزن ان-گیم یونٹس میں کیا ہے؟",
+        "question_urdu": "ڈارک سولز 2 میں پزلنگ اسٹون تلوار کا وزن ان-گیم یونٹس میں کیا ہے؟",
         "answer_urdu": "2"
     },
     {
@@ -324,8 +324,8 @@
         "metadata": "{'topic': 'Video games', 'answer_type': 'Date', 'urls': ['https://warcraft.wiki.gg/wiki/Patch', 'https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron_(arena)', 'https://wowwiki-archive.fandom.com/wiki/Patch_2.1.0']}",
         "question": "What day, month, and year was the patch that added the Ruins of Lordaeron PvP arena released in the United States for the game World of Warcraft?",
         "answer": "22 May 2007",
-        "question_urdu": "گیم ورلڈ آف وارکرافٹ کے لیے یونائیٹڈ سٹیٹس میں وہ پیچ کب جاری کیا گیا تھا جس نے رنز آف لارڈیورن PvP ایرینا کا اضافہ کیا؟",
-        "answer_urdu": "22 مئی 2007"
+        "question_urdu": "گیم ورلڈ آف وارکرافٹ کے لیے یونائیٹڈ سٹیٹس میں وہ پیچ کب جاری کیا گیا تھا جس نے رنز آف لارڈیورن پی وی پی ایرینا کا اضافہ کیا؟",
+        "answer_urdu": "مئی 2007,22"
     },
     {
         "id": "3225",
@@ -341,7 +341,7 @@
         "question": "On what day, month, and year was the amendment to the Federal Meat Inspection Act, Public Law Number 75-776, enacted during Franklin Delano Roosevelt's administration?",
         "answer": "June 29, 1938",
         "question_urdu": "فرینکلن ڈیلا نو روزویلٹ کی حکومت کے دوران فیڈرل میٹ انسپیکشن ایکٹ میں ترمیم، جو پبلک لا نمبر 75-776 کے تحت ہے، کس دن، مہینہ اور سال میں نافذ کی گئی تھی؟",
-        "answer_urdu": "29 جون 1938"
+        "answer_urdu": "جون 1938,29"
     },
     {
         "id": "3227",
@@ -373,7 +373,7 @@
         "question": "On what day, month, and year did Aaron Leo Brody, the 1964 Industrial Achievement Award winner by the Institute of Food Technologists, die?",
         "answer": "July 26, 2021",
         "question_urdu": "آرون لیو بروڈی، جنہیں 1964 میں انسٹیٹیوٹ آف فوڈ ٹیکنالوجسٹس کے انڈسٹریل اچیومنٹ ایوارڈ سے نوازا گیا تھا، کا انتقال کس دن، مہینہ اور سال میں ہوا؟",
-        "answer_urdu": "26 جولائی 2021"
+        "answer_urdu": "جولائی 2021,26"
     },
     {
         "id": "3231",
@@ -388,7 +388,7 @@
         "metadata": "{'topic': 'TV shows', 'answer_type': 'Date', 'urls': ['https://www.imdb.com/title/tt0706351/', 'https://www.imdb.com/title/tt0706351/', 'https://moonbasealpha.fandom.com/wiki/The_Rules_of_Luton', 'https://siskoid.blogspot.com/2015/02/space-1999-31-rules-of-luton.html']}",
         "question": "What was the original air date of \"The Rules of Luton\" in Series 2 of *Space: 1999*?",
         "answer": "October 23, 1976",
-        "question_urdu": "سیریز 2، *Space: 1999* کی \"دی رولز آف لوٹن\" کی اصل نشریاتی تاریخ کیا تھی؟",
+        "question_urdu": "سیریز 2، *اسپیس : 1999* کی 'دی رولز آف لوٹن' کی اصل نشریاتی تاریخ کیا تھی؟",
         "answer_urdu": "23 اکتوبر 1976"
     },
     {
@@ -428,7 +428,7 @@
         "metadata": "{'topic': 'TV shows', 'answer_type': 'Person', 'urls': ['https://en.wikipedia.org/wiki/Physical_(TV_series)', 'https://en.wikipedia.org/wiki/Physical_(TV_series)', 'https://physical.fandom.com/wiki/Don%27t_You_Have_Enough', 'https://screenrant.com/physical-season-2-rose-byrne-exclusive-clip/']}",
         "question": "In Season 2 of the TV show \"Physical,\" who wrote Episode 6, \"Don't You Have Enough\"?",
         "answer": "Jackie Li",
-        "question_urdu": "ٹی وی شو \"فزیکل\" کے سیزن 2 میں، قسط 6, \"ڈونٹ یو ہیو انف\" کو کس نے لکھا؟",
+        "question_urdu": "ٹی وی شو 'فزیکل' کے سیزن 2 میں، قسط 6, 'ڈونٹ یو ہیو انف' کو کس نے لکھا؟",
         "answer_urdu": "جیکی لی"
     },
     {
@@ -460,7 +460,7 @@
         "metadata": "{'topic': 'Geography', 'answer_type': 'Place', 'urls': ['https://en.wikipedia.org/wiki/Bajo_Nuevo_Bank', 'https://en.wikipedia.org/wiki/Bajo_Nuevo_Bank#:~:text=On%2019%20November%202012%2C%20in,of%20Honduras%20or%20United%20States.', 'https://www.icj-cij.org/node/103952', 'https://news.un.org/en/story/2012/11/426062']}",
         "question": "In 2012, what country did the ICJ say had sovereignty over Bajo Nuevo?",
         "answer": "The Republic of Colombia ",
-        "question_urdu": "سال 2012 میں ICJ نے کس ملک کے بارے میں کہا کہ باجو نیوو پر ان کی خودمختاری ہے؟",
+        "question_urdu": "سال 2012 میں آئی سی جے نے کس ملک کے بارے میں کہا کہ باجو نیوو پر ان کی خودمختاری ہے؟",
         "answer_urdu": "جمہوریہ کولمبیا"
     },
     {
@@ -540,7 +540,7 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Number', 'urls': ['https://en.wikipedia.org/wiki/Railpower_GG20B', 'https://en.wikipedia.org/wiki/Railpower_GG20B', 'https://www.wikiwand.com/en/Vehicle_Projects_HH20B']}",
         "question": "What is the starting tractive effort of a Railpower GG20B in kilonewtons?",
         "answer": "355.9",
-        "question_urdu": "Railpower GG20B کی ابتدائی تراکیو افرٹ کلو نیوٹنز میں کتنی ہے؟",
+        "question_urdu": "ریل پاور جی جی 20 بی کی ابتدائی تراکیو افرٹ کلو نیوٹنز میں کتنی ہے؟",
         "answer_urdu": "355.9"
     },
     {
@@ -597,7 +597,7 @@
         "question": "What day, month, and year was the Retlaw 1 combine car sold to the Carolwood Foundation?",
         "answer": "July 10, 2010",
         "question_urdu": "ریٹلا 1 کمبائن کار کو کیرول ووڈ فاؤنڈیشن کو کس دن، مہینے، اور سال میں فروخت کیا گیا تھا؟",
-        "answer_urdu": "10 جولائی 2010"
+        "answer_urdu": "جولائی 2010,10"
     },
     {
         "id": "3259",
@@ -620,7 +620,7 @@
         "metadata": "{'topic': 'Music', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/The_American_Album_of_Familiar_Music', 'https://www.otrcat.com/old-time-radio-music-broadcasts#:~:text=One%20of%20the%20most%20successful,an%20early%20retirement%20in%201945.', 'https://en.wikipedia.org/wiki/The_American_Album_of_Familiar_Music']}",
         "question": "In what year did Frank Munn leave the radio show \"The American Album of Familiar Music\"?",
         "answer": "1945",
-        "question_urdu": "فرینک من نے ریڈیو شو \"دی امریکن البم آف فیملیئر میوزک\" کو کس سال چھوڑا؟",
+        "question_urdu": "فرینک من نے ریڈیو شو 'دی امریکن البم آف فیملیئر میوزک' کو کس سال چھوڑا؟",
         "answer_urdu": "1945"
     },
     {
@@ -636,7 +636,7 @@
         "metadata": "{'topic': 'Video games', 'answer_type': 'Other', 'urls': ['https://media.dndbeyond.com/compendium-images/one-dnd/expert-classes/kpx0MvyfBGHe0XKk/UA2022-Expert-Classes.pdf?icid_source=house-ads&icid_medium=crosspromo&icid_campaign=playtest2', 'https://media.dndbeyond.com/compendium-images/one-dnd/expert-classes/kpx0MvyfBGHe0XKk/UA2022-Expert-Classes.pdf', 'https://www.tribality.com/2022/09/30/unearthed-arcana-2022-expert-classes-breakdown/', 'https://thekindgm.com/2022/10/19/unearthed-arcana-2022-expert-classes-analysis/']}",
         "question": "Which Bard subclass was included in the 2022 Expert Classes Unearthed Arcana for Dungeons & Dragons?",
         "answer": "College of Lore",
-        "question_urdu": "سال 2022 کی ماہر کلاسز ان ارتھڈ اَرکانا برائے Dungeons & Dragons میں کون سا بارڈ سب کلاس شامل کیا گیا؟",
+        "question_urdu": "سال 2022 کی ماہر کلاسز ان ارتھڈ اَرکانا برائے ڈنجنز اینڈ ڈریگنز میں کون سا بارڈ سب کلاس شامل کیا گیا؟",
         "answer_urdu": "کالج آف لور"
     },
     {
@@ -652,7 +652,7 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Vint_Cerf', 'https://en.wikipedia.org/wiki/Vint_Cerf', 'https://www.gangalib.org/cerfvita.php', 'https://m.kpt.co.id/IT/en/105-2/Vint-Cerf_16065_m-kpt.html']}",
         "question": "On what day, month, and year did Vinton Gray Cerf publish his work \"A View from the 21st Century\"?",
         "answer": "April 1, 1994",
-        "question_urdu": "ونٹن گرے سرف نے اپنا کام \"ایک نظر 21 ویں صدی سے\" کب شائع کیا؟",
+        "question_urdu": "ونٹن گرے سرف نے اپنا کام 'ایک نظر 21 ویں صدی سے' کب شائع کیا؟",
         "answer_urdu": "اپریل 1, 1994"
     },
     {
@@ -684,7 +684,7 @@
         "metadata": "{'topic': 'Art', 'answer_type': 'Person', 'urls': ['https://americanart.si.edu/artist/norman-rockwell-7321', 'https://americanart.si.edu/artist/norman-rockwell-7321#:~:text=Rockwell%20received%20many%20honors%2C%20including,established%20in%20Philadelphia%20in%201976.', 'https://www.mayfieldschools.org/Downloads/rockwell.pdf', 'https://www.fordlibrarymuseum.gov/library/document/0067/1563063.pdf']}",
         "question": "What is the first and last name of the artist who received the 1969 \"Artist of the Year\" award from the Artists Guild of New York?",
         "answer": "Norman Rockwell",
-        "question_urdu": "وہ آرٹسٹ جسے آرٹسٹس گلڈ آف نیو یارک سے 1969 میں \"آرٹسٹ آف دی ایئر\" ایوارڈ ملا، اس کا پہلا اور آخری نام کیا تھا؟",
+        "question_urdu": "وہ آرٹسٹ جسے آرٹسٹس گلڈ آف نیو یارک سے 1969 میں 'آرٹسٹ آف دی ایئر' ایوارڈ ملا، اس کا پہلا اور آخری نام کیا تھا؟",
         "answer_urdu": "نورمن راک ویل"
     },
     {
@@ -708,7 +708,7 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Other', 'urls': ['https://en.wikipedia.org/wiki/Nivolumab\\nhttps://precision.fda.gov/uniisearch/srs/unii/31YO63LBSN', 'https://precision.fda.gov/uniisearch/srs/unii/31YO63LBSN', 'https://en.wikipedia.org/wiki/Nivolumab']}",
         "question": "What is the UNII of Nivolumab, an anti-cancer medication?",
         "answer": "31YO63LBSN",
-        "question_urdu": "اینٹی کینسر دوا نولوماب کا UNII کیا ہے؟",
+        "question_urdu": "اینٹی کینسر دوا نولوماب کا یو این آئی آئی کیا ہے؟",
         "answer_urdu": "31YO63LBSN"
     },
     {
@@ -733,7 +733,7 @@
         "question": "What SWV song was on the Billboard R&B charts at No. 1 for seven weeks in 1993?",
         "answer": "\"Right Here (Human Nature Remix)\"",
         "question_urdu": "کون سا SWV گانا 1993 میں سات ہفتوں تک بل بورڈ آر این بی چارٹس پر نمبر 1 تھا؟",
-        "answer_urdu": "\"رائٹ ہیر (ہیومن نیچر ریمکس)\""
+        "answer_urdu": "رائٹ ہیر (ہیومن نیچر ریمکس)"
     },
     {
         "id": "3276",
@@ -765,7 +765,7 @@
         "question": "What day, month, and year was Will Gay Bottje, the American composer, born?",
         "answer": "30 June 1925",
         "question_urdu": "امریکی موسیقار ول گے باٹیے کی پیدائش کس دن، مہینے اور سال میں ہوئی تھی؟",
-        "answer_urdu": "30 جون 1925"
+        "answer_urdu": "جون 1925,30"
     },
     {
         "id": "3280",
@@ -828,7 +828,7 @@
         "metadata": "{'topic': 'Science and technology', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Glipa_annulata', 'https://en.wikipedia.org/wiki/Glipa_annulata', 'https://www.gbif.org/species/7003173', 'https://www.biolib.cz/en/taxontree/id900473/']}",
         "question": "In what year was the beetle species Glipa annulata described?",
         "answer": "1868",
-        "question_urdu": "بیٹل کی نسل Glipa annulata کس سال میں دریافت ہوئی تھی؟",
+        "question_urdu": "بیٹل کی نسل گلیپا انیولیٹا کس سال میں دریافت ہوئی تھی؟",
         "answer_urdu": "1868"
     },
     {
@@ -837,7 +837,7 @@
         "question": "On which day, month, and year did the Orchestra of the Age of Enlightenment celebrate the 21st anniversary of its founding?",
         "answer": "30 June 2007",
         "question_urdu": "روشنی کے دور کے آرکسٹرا نے اپنی بنیاد کا 21 سالہ جشن کس دن، مہینے اور سال میں منایا تھا؟",
-        "answer_urdu": "30 جون 2007"
+        "answer_urdu": "جون 2007,30"
     },
     {
         "id": "3289",
@@ -868,7 +868,7 @@
         "metadata": "{'topic': 'Politics', 'answer_type': 'Other', 'urls': ['https://wikileaks.org/vault7/#Imperial', 'https://en.wikipedia.org/wiki/Vault_7#UMBRAGE', 'https://wikileaks.org/vault7/', 'https://www.infosecinstitute.com/resources/threat-intelligence/vault-7-leaks-inside-cia-secret-kingdom-july-august-07/']}",
         "question": "What was the name of the CIA contractor whose documents for the \"UMBRAGE Component Library\" (UCL) project were published by WikiLeaks on July 19, 2017?",
         "answer": "Raytheon Blackbird Technologies",
-        "question_urdu": "اس سی آئی اے کنٹریکٹر کا نام کیا تھا جس کی 'UMBRAGE کمپوننٹ لائبریری' (UCL) پروجیکٹ کے دستاویزات ویکی لیکس نے 19 جولائی 2017 کو شائع کیے؟",
+        "question_urdu": "اس سی آئی اے کنٹریکٹر کا نام کیا تھا جس کی 'امبریج کمپوننٹ لائبریری' (یو سی ایل) پروجیکٹ کے دستاویزات ویکی لیکس نے 19 جولائی 2017 کو شائع کیے؟",
         "answer_urdu": "رے تھیون بلیک برڈ ٹیکنالوجیز"
     },
     {
@@ -908,7 +908,7 @@
         "metadata": "{'topic': 'Other', 'answer_type': 'Place', 'urls': ['https://en.wikipedia.org/wiki/Carlos_Gardel_(Buenos_Aires_Underground)', 'https://structurae.net/en/structures/carlos-gardel-metro-station', 'https://en.wikipedia.org/wiki/Carlos_Gardel_(Buenos_Aires_Underground)#:~:text=Although%20initially%20when%20this%20station,after%20the%20famous%20tango%20singer.', 'https://www.gpsmycity.com/audio/gardel---tango-legend-1211.html']}",
         "question": "What was the original name of the station \"Carlos Gardel\" on the Buenos Aires Subway?",
         "answer": "Agüero",
-        "question_urdu": "بوینس آئرس سب وے پر اسٹیشن \"کارلوس گارڈیل\" کا اصل نام کیا تھا؟",
+        "question_urdu": "بوینس آئرس سب وے پر اسٹیشن 'کارلوس گارڈیل' کا اصل نام کیا تھا؟",
         "answer_urdu": "آگوئرو"
     },
     {
@@ -940,7 +940,7 @@
         "metadata": "{'topic': 'Politics', 'answer_type': 'Number', 'urls': ['https://en.wikipedia.org/wiki/1960_Ghanaian_constitutional_referendum', 'https://en.wikipedia.org/wiki/1960_Ghanaian_constitutional_referendum', 'https://uca.edu/politicalscience/home/research-projects/dadm-project/sub-saharan-africa-region/ghana-1957-present/', 'https://africanelections.tripod.com/gh.html#1960_Plebiscite']}",
         "question": "What percentage of voters were against the constitutional referendum held in Ghana on April 27, 1960?",
         "answer": "11.53%",
-        "question_urdu": "27 اپریل 1960 کو گھانا میں ہونے والے آئینی ریفرنڈم کے خلاف کتنے فیصد ووٹرز تھے؟",
+        "question_urdu": "اپریل 1960,27 کو گھانا میں ہونے والے آئینی ریفرنڈم کے خلاف کتنے فیصد ووٹرز تھے؟",
         "answer_urdu": "11.53%"
     },
     {
@@ -965,7 +965,7 @@
         "question": "What month, day, and year was James V. Allred nominated by President Franklin D. Roosevelt to the United States District Court for the Southern District of Texas?",
         "answer": "January 5, 1939",
         "question_urdu": "صدر فرینکلن ڈی روزویلیٹ نے جیمز وی. آلریڈ کو ریاستہائے متحدہ ڈسٹرکٹ کورٹ برائے سدرن ڈسٹرکٹ آف ٹیکساس کے لئے کس مہینے، دن اور سال میں نامزد کیا تھا؟",
-        "answer_urdu": "5 جنوری 1939"
+        "answer_urdu": "جنوری 1939,5"
     },
     {
         "id": "3305",
@@ -980,7 +980,7 @@
         "metadata": "{'topic': 'Music', 'answer_type': 'Other', 'urls': ['https://en.wikipedia.org/wiki/Kinoko_Teikoku', 'https://music.youtube.com/channel/UClJbEh-JJDXCjtQLQMi_gjA', 'https://en.wikipedia.org/wiki/Kinoko_Teikoku', 'https://www.arnamantle.com/2021/06/24/osusume-kinoko-teikoku/']}",
         "question": "What is Kinoko Teikoku's first EP?",
         "answer": "Long Good Bye",
-        "question_urdu": "کینوکو تیکوکو کا پہلا EP کیا ہے؟",
+        "question_urdu": "کینوکو تیکوکو کا پہلا ای پی کیا ہے؟",
         "answer_urdu": "لانگ گڈ بائے"
     },
     {
@@ -1020,7 +1020,7 @@
         "metadata": "{'topic': 'Sports', 'answer_type': 'Place', 'urls': ['https://en.wikipedia.org/wiki/Jazzercise', 'https://en.wikipedia.org/wiki/Jazzercise#:~:text=Judi%20Sheppard%20Missett%20created%20Jazzercise%20in%20Evanston%2C%20Illinois%20in%201969', 'https://www.strollmag.com/locations/inverness-il/articles/-4b5b17/#:~:text=Jazzercise%20is%20a,Judi%20Sheppard%20Misset.', 'https://www.newyorker.com/culture/culture-desk/jazzercise-is-immortal#:~:text=Back%20in%201969,a%20law%20office.']}",
         "question": "In what city and state was Jazzercise created in 1969?",
         "answer": "Evanston, Illinois",
-        "question_urdu": "1969 میں جازرسائز کس شہر اور ریاست میں تخلیق کیا گیا تھا؟",
+        "question_urdu": "سال 1969 میں جازرسائز کس شہر اور ریاست میں تخلیق کیا گیا تھا؟",
         "answer_urdu": "ایونسٹن، الینوائے"
     },
     {
@@ -1044,7 +1044,7 @@
         "metadata": "{'topic': 'TV shows', 'answer_type': 'Other', 'urls': ['https://www.imdb.com/title/tt0789855/', 'https://www.rottentomatoes.com/tv/benson/s07/e16']}",
         "question": "In the series \"Benson\" S7 E16, what is the title of the episode?",
         "answer": "The Hat and the Ring",
-        "question_urdu": "سیریز \"بینسن\" S7 E16 میں، قسط کا عنوان کیا ہے؟",
+        "question_urdu": "سیریز 'بینسن' سیزن 7 میں، قسط 16 کا عنوان کیا ہے؟",
         "answer_urdu": "دی ہیٹ اینڈ دی رنگ"
     },
     {
@@ -1052,7 +1052,7 @@
         "metadata": "{'topic': 'Other', 'answer_type': 'Other', 'urls': ['https://the-oxventure-guild.fandom.com/wiki/Episode_Guide#Bride_or_Die', 'https://thetvdb.com/series/the-oxventure/episodes/9565023', 'https://www.reddit.com/r/outsidexbox/comments/vd1fx7/oxventure_dd_bride_or_die_live_dungeons_dragons/', 'https://the-oxventure-guild.fandom.com/wiki/Episode_Guide']}",
         "question": "What was the title of the Oxventure episode that was recorded live at MCM London 2022 in which Dob was to get married to Katie Pearlhead?",
         "answer": "Bride or Die",
-        "question_urdu": "MCM لندن 2022 میں لائیو ریکارڈ کیے گئے اوکسیونچر ایپی سوڈ کا عنوان کیا تھا جس میں ڈوب کیٹی پرل ہیڈ سے شادی کرنے والا تھا؟",
+        "question_urdu": "ایم سی ایم لندن 2022 میں لائیو ریکارڈ کیے گئے اوکسیونچر ایپی سوڈ کا عنوان کیا تھا جس میں ڈوب کیٹی پرل ہیڈ سے شادی کرنے والا تھا؟",
         "answer_urdu": "برائیڈ ار ڈائی"
     },
     {
@@ -1068,7 +1068,7 @@
         "metadata": "{'topic': 'Politics', 'answer_type': 'Place', 'urls': ['https://www.drishtiias.com/daily-updates/daily-news-analysis/4th-edition-of-asean-india-grassroots-innovation-forum-aigif', 'https://indiaaseaninnovation.com/upload/download/4th_AIGIF_(2023)-Project_Report.pdf', 'https://dst.gov.in/4th-edition-asean-india-grassroots-innovation-forum-aigif-launched-strengthen-sti-co-operation', 'https://pib.gov.in/PressReleasePage.aspx?PRID=1982421']}",
         "question": "In which country was the 4th edition of the ASEAN-India Grassroots Innovation Forum (AIGIF) launched?",
         "answer": "Malaysia",
-        "question_urdu": "چوتھے ASEAN-India Grassroots Innovation Forum کا آغاز کس ملک میں ہوا؟",
+        "question_urdu": "چوتھے آسیان-انڈیا گراس روٹس انوویشن فورم کا آغاز کس ملک میں ہوا؟",
         "answer_urdu": "ملیشیا"
     },
     {
@@ -1101,7 +1101,7 @@
         "question": "What day, month, and year was the municipality of Tarazá, Antioquia, Colombia, founded?",
         "answer": "February 24th, 1953",
         "question_urdu": "میونسپلٹی ترزا، انتیوکیا، کولمبیا کب قائم کی گئی تھی؟",
-        "answer_urdu": "24 فروری 1953"
+        "answer_urdu": "فروری 1953,24"
     },
     {
         "id": "3322",
@@ -1141,7 +1141,7 @@
         "question": "What day, month, and year was the first flight of the Boeing–Saab T-7 Red Hawk?",
         "answer": "20 December 2016",
         "question_urdu": "بوئنگ-سااب ٹی-7 ریڈ ہاک کی پہلی پرواز کس دن، مہینے، اور سال میں ہوئی تھی؟",
-        "answer_urdu": "20 دسمبر 2016"
+        "answer_urdu": "دسمبر 2016,20"
     },
     {
         "id": "3327",
@@ -1172,7 +1172,7 @@
         "metadata": "{'topic': 'Video games', 'answer_type': 'Number', 'urls': ['http://darksouls2.wikidot.com/classes', 'https://darksouls2.wiki.fextralife.com/Starting+Classes', 'https://gamerant.com/dark-souls-2-best-starting-classes/', 'https://darksouls.fandom.com/wiki/Cleric_(Dark_Souls_II)']}",
         "question": "How much Endurance does the Cleric starting class from Dark Souls II start with?",
         "answer": "3",
-        "question_urdu": "ڈارک سولز II کے کلیرک سٹارٹنگ کلاس کی برداشت کتنی ہوتی ہے؟",
+        "question_urdu": "ڈارک سولز 2 کے کلیرک سٹارٹنگ کلاس کی برداشت کتنی ہوتی ہے؟",
         "answer_urdu": "3"
     },
     {
@@ -1197,6 +1197,6 @@
         "question": "On which day, month, and year does Prajakta Koli host the YouTube FanFest in Singapore?",
         "answer": "11 November, 2022.",
         "question_urdu": "پراجکتا کولی نے یوٹیوب فین فیسٹ کی سنگاپور میں میزبانی کس دن، مہینے، اور سال میں کی؟",
-        "answer_urdu": "11 نومبر، 2022"
+        "answer_urdu": "نومبر 2022,11"
     }
 ]
