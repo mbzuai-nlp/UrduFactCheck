@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import os
+import json
 import ast
 import openai
 import asyncio
@@ -118,6 +119,27 @@ class OpenAIChat:
                     messages_list=messages_list_cur,
                 )
             )
+
+            # Save the cost of the API call to a JSONL file
+            if os.environ.get("SAVE_MODEL_COST", "False") == "True":
+                MODEL_COST_PATH = os.environ.get("MODEL_COST_PATH", "model_cost.jsonl")
+                for prediction in predictions:
+                    if prediction is not None:
+                        completion_tokens = prediction.usage.completion_tokens
+                        prompt_tokens = prediction.usage.prompt_tokens
+                        total_tokens = prediction.usage.total_tokens
+                        with open(MODEL_COST_PATH, "a") as f:
+                            f.write(
+                                json.dumps(
+                                    {
+                                        "model": self.config["model_name"],
+                                        "prompt_tokens": prompt_tokens,
+                                        "completion_tokens": completion_tokens,
+                                        "total_tokens": total_tokens,
+                                    }
+                                )
+                                + "\n"
+                            )
 
             preds = [
                 self._type_check(

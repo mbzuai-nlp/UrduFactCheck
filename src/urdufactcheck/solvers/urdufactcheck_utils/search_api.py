@@ -1,4 +1,5 @@
 import os
+import json
 import asyncio
 import aiohttp
 
@@ -45,6 +46,13 @@ class GoogleSerperAPIWrapper:
 
     def _parse_results(self, results):
         snippets = []
+
+        if os.environ.get("SAVE_SERPER_COST", "False") == "True":
+            SERPER_COST_PATH = os.environ.get("SERPER_COST_PATH", "serper_cost.jsonl")
+            if results.get("credits"):
+                credits = results.get("credits")
+                with open(SERPER_COST_PATH, "a") as f:
+                    f.write(json.dumps({"google_serper_credits": credits}) + "\n")
 
         if results.get("answerBox"):
             answer_box = results.get("answerBox", {})
