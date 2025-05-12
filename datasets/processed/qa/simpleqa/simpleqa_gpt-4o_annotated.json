@@ -424,14 +424,6 @@
     "answer_urdu": "2 اپریل"
   },
   {
-    "id": "52",
-    "metadata": "{'topic': 'Politics', 'answer_type': 'Date', 'urls': ['https://wikiroulette.co/?p=1985_St._Louis_mayoral_election', 'https://en.wikipedia.org/wiki/1985_St._Louis_mayoral_election']}",
-    "question": "On which month and day was the 1985 St. Louis mayoral election held?",
-    "answer": " April 2",
-    "question_urdu": "سال 1985 میں سینٹ لوئس میئر کے انتخاب کس مہینے اور تاریخ کو ہوا؟",
-    "answer_urdu": "2 اپریل"
-  },
-  {
     "id": "53",
     "metadata": "{'topic': 'History', 'answer_type': 'Number', 'urls': ['https://en.wikipedia.org/wiki/Infanterikanonvagn_72', 'https://en.wikipedia.org/wiki/Infanterikanonvagn_72', 'https://premium.globalsecurity.org/military/world/europe/ikv-72.htm']}",
     "question": "How many units of the Infanterikanonvagn 72 (1952) were delivered to the Swedish army from 1953 to 1954?",
@@ -510,14 +502,6 @@
     "answer": "Fedele Acciai",
     "question_urdu": "فلورینٹائن حکام نے 1823 میں 'پیتی ٹونڈو' کس ڈیلر کی دکان سے خریدا؟",
     "answer_urdu": "فیدلے ایسیائی"
-  },
-  {
-    "id": "63",
-    "metadata": "{'topic': 'Science and technology', 'answer_type': 'Person', 'urls': ['https://en.wikipedia.org/wiki/Lebedev_Physical_Institute', 'https://en.wikipedia.org/wiki/Lebedev_Physical_Institute', 'https://academickids.com/encyclopedia/index.php/Lebedev_Physical_Institute', 'https://lebedev.ru/en/history-lpi/123.html']}",
-    "question": "Who was the director of the Lebedev Physical Institute of the Russian Academy of Sciences between 1951 and 1972?",
-    "answer": "Dmitri Skobeltsyn",
-    "question_urdu": "سال 1951 سے 1972 کے درمیان روسی اکیڈمی آف سائنسز کے لبیڈیف فزیکل انسٹی ٹیوٹ کے ڈائریکٹر کون تھے؟",
-    "answer_urdu": "دیمتری اسکوبیلٹسن"
   },
   {
     "id": "63",
@@ -800,14 +784,6 @@
     "answer_urdu": "جون 28, 2020"
   },
   {
-    "id": "97",
-    "metadata": "{'topic': 'Science and technology', 'answer_type': 'Date', 'urls': ['https://notepad-plus-plus.org/news/v788-released/', 'https://notepad-plus-plus.org/downloads/v7.8.8/', 'https://notepad-plus-plus.org/news/v788-released/', 'https://github.com/notepad-plus-plus/notepad-plus-plus/wiki/Changes#7x']}",
-    "question": "What day, month, and year was Notepad++ version 7.8.8 released?",
-    "answer": "June 28, 2020",
-    "question_urdu": "نوٹ پیڈ++ کا ورژن 7.8.8 کب جاری کیا گیا تھا؟",
-    "answer_urdu": "جون 28, 2020"
-  },
-  {
     "id": "98",
     "metadata": "{'topic': 'TV shows', 'answer_type': 'Other', 'urls': ['https://criticalrole.fandom.com/wiki/F.R.I.D.A.', 'https://en.wikipedia.org/wiki/Critical_Role_campaign_three#:~:text=Christian%20Navarro%20as%20F.R.I.D.A.,figure%20known%20as%20%22D%22.', 'https://criticalrole.fandom.com/wiki/F.R.I.D.A.', 'https://criticalrole.miraheze.org/wiki/FRIDA']}",
     "question": "What is the name F.R.I.D.A. an acronym for in Critical Role Campaign 3?",
@@ -872,14 +848,6 @@
     "answer_urdu": "روزنبرگ۔"
   },
   {
-    "id": "105",
-    "metadata": "{'topic': 'Music', 'answer_type': 'Person', 'urls': ['https://en.wikipedia.org/wiki/David_Randolph\\n\\nhttps://archives.nypl.org/mus/18559', 'https://archives.nypl.org/mus/18559', 'https://en.wikipedia.org/wiki/David_Randolph', 'https://www.nytimes.com/2010/05/15/arts/music/15randolph.html']}",
-    "question": "What was the original surname of conductor David Randolph?",
-    "answer": "Rosenberg.",
-    "question_urdu": "موسیکار ڈیوڈ رینڈولف کا اصلی خاندانی نام کیا تھا؟",
-    "answer_urdu": "روزنبرگ۔"
-  },
-  {
     "id": "106",
     "metadata": "{'topic': 'Science and technology', 'answer_type': 'Person', 'urls': ['https://en.wikipedia.org/wiki/David_P._Robbins_Prize', 'https://www.ams.org/prizes-awards/pabrowse.cgi?parent_id=16', 'https://en.wikipedia.org/wiki/David_P._Robbins_Prize', 'https://www.smith.edu/newsoffice/releases/NewsOffice09-062.html']}",
     "question": "Who won the American Mathematical Society David P. Robbins Prize in 2010?",
@@ -934,14 +902,6 @@
     "answer": "7 June 2018",
     "question_urdu": "برٹانیکا نے کب ایک گوگل کروم توسیع \"برٹانیکا انسائٹس\" جاری کی، جو صارف کے گوگل سرچ کرنے پر برٹانیکا آن لائن سے معلومات کے ٹکڑے دکھاتی ہے، جو گوگل کے نتائج کے دائیں جانب ایک باکس میں دکھائی دیتی ہے؟",
     "answer_urdu": "جون 7, 2018"
-  },
-  {
-    "id": "113",
-    "metadata": "{'topic': 'Video games', 'answer_type': 'Date', 'urls': ['https://terraria.wiki.gg/wiki/Silver_armor', 'https://terraria.fandom.com/wiki/Jungle_armor', 'https://terraria.fandom.com/wiki/Silver_armor?so=search', 'https://terraria.fandom.com/wiki/1.1']}",
-    "question": "What patch removed the Silver Armor from the crafting recipe for Jungle Armor in Terraria?",
-    "answer": "1.1",
-    "question_urdu": "ٹیریریا میں جنگل کا بکتر بنانے کے نسخے سے سلور بکتر کو کس پیچ نے ہٹایا؟",
-    "answer_urdu": "1.1"
   },
   {
     "id": "113",
@@ -1024,36 +984,12 @@
     "answer_urdu": "1757"
   },
   {
-    "id": "122",
-    "metadata": "{'topic': 'Geography', 'answer_type': 'Date', 'urls': ['https://es.wikipedia.org/wiki/Belmira', 'https://www.belmira-antioquia.gov.co/municipio/nuestro-municipio', 'https://es.wikipedia.org/wiki/Belmira', 'https://www.coobelmira.com/portal/municipio-belmira/']}",
-    "question": "What year was the municipality of Belmira, Antioquia, Colombia, founded?",
-    "answer": "1757",
-    "question_urdu": "کولمبیا کی بل میرا، انطاکیا کی بلدیہ کس سال میں قائم کی گئی تھی؟",
-    "answer_urdu": "1757"
-  },
-  {
     "id": "123",
     "metadata": "{'topic': 'History', 'answer_type': 'Place', 'urls': ['https://cdn.ymaws.com/www.ips-planetarium.org/resource/resmgr/planetarian/201603planetarian.pdf', 'https://en.wikipedia.org/wiki/Kusumbai_Motichand_Planetarium#:~:text=Kusumbai%20Motichand%20Planetarium%2C%20the%20first,Pune%20on%2018%20September%201954.', 'https://opentripmap.com/en/card/N4589574794#15/18.5107/73.8448', 'https://www.wikiwand.com/en/Kusumbai_Motichand_Planetarium']}",
     "question": "Name the school where the Kusumbai Motichand Planetarium was established in Pune in 1954.",
     "answer": "New English School",
     "question_urdu": "کس اسکول میں 1954 میں پونے میں کسمبائی موٹی چند پلانیٹیرئم قائم کیا گیا تھا؟",
     "answer_urdu": "نیو انگلش اسکول"
-  },
-  {
-    "id": "124",
-    "metadata": "{'topic': 'TV shows', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Billy_Miller_(actor)', 'https://en.wikipedia.org/wiki/Billy_Miller_(actor)#:~:text=In%20March%202018%2C%20for%20his,nomination%20for%20Outstanding%20Lead%20Actor.', 'https://www.imdb.com/name/nm1188294/awards/']}",
-    "question": "In what month and year did Billy Miller earn a Daytime Emmy nomination for his portrayal of Jason Morgan in the category of Outstanding Lead Actor?",
-    "answer": "March 2018",
-    "question_urdu": "کس مہینے اور سال میں بلی ملر کو بہترین مرکزی اداکار کی کیٹیگری میں جیسن مورگن کے کردار کے لئے ڈے ٹائم ایمی نامزدگی ملی؟",
-    "answer_urdu": "مارچ 2018"
-  },
-  {
-    "id": "125",
-    "metadata": "{'topic': 'TV shows', 'answer_type': 'Number', 'urls': ['https://en.wikipedia.org/wiki/The_Bachelor_(American_TV_series)_season_1', 'https://thereaderweb.com/?url=https://en.m.wikipedia.org/wiki/The_Bachelor_(American_season_1)', 'https://bachelor-nation.fandom.com/wiki/The_Bachelor_(Season_1)#Contestants', 'https://en.wikipedia.org/wiki/The_Bachelor_(American_TV_series)_season_1']}",
-    "question": "What week was Katie Sapienza eliminated in Season 1 of The Bachelor?",
-    "answer": "2",
-    "question_urdu": "کتنے ہفتے میں کیٹی ساپینزا کو دی بیچلر کے سیزن 1 میں باہر کر دیا گیا؟",
-    "answer_urdu": "2"
   },
   {
     "id": "124",
@@ -2360,14 +2296,6 @@
     "answer_urdu": "27 اگست"
   },
   {
-    "id": "286",
-    "metadata": "{'topic': 'Other', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Shakti_Mills_gang_rape#Incident', 'https://en.wikipedia.org/wiki/Shakti_Mills_gang_rape#:~:text=the%20night%20of-,27%20August,-.%5B6%5D', 'https://timesofindia.indiatimes.com/city/mumbai/mumbai-gang-rape-case-rape-survivor-leaves-hospital/articleshow/22130272.cms#:~:text=The%20survivor%20walked%20out%20of%20Jaslok%20Hospital%20late%20on%20Tuesday%20night%20with%20%E2%80%9Cdignity%20and%20courage%E2%80%9D.']}",
-    "question": "On which day and month was the victim of the 2013 Mumbai gang rape, also known as the Shakti Mills gang rape case, discharged from the hospital after the incident?",
-    "answer": "27 August",
-    "question_urdu": "سال 2013 کے ممبئی گینگ ریپ، جسے شکتی ملز گینگ ریپ کیس کے نام سے بھی جانا جاتا ہے، کی متاثرہ کو واقعے کے بعد ہسپتال سے کس دن اور مہینے کو ڈسچارج کیا گیا تھا؟",
-    "answer_urdu": "27 اگست"
-  },
-  {
     "id": "287",
     "metadata": "{'topic': 'Art', 'answer_type': 'Place', 'urls': ['https://en.wikipedia.org/wiki/Igbo-Ukwu', 'https://www.khanacademy.org/humanities/art-africa/west-africa/nigeria/a/igbo-ukwu-an-overview#:~:text=Ultimately%2C%20Shaw%20uncovered%20three%20sites,%2C%20and%20%E2%80%9CIgbo%20Jonah.%E2%80%9D&text=Each%20site%20offers%20clues%20about%20the%20ancient%20society%20of%20Igbo%2DUkwu.', 'https://en.wikipedia.org/wiki/Igbo-Ukwu', 'https://home.nigeriaprofiles.com/blog/the-beauty-of-igbo-ukwu-art/']}",
     "question": "What are the names of the three notable archaeological sites where Igbo-Ukwu art was discovered?",
@@ -2933,14 +2861,6 @@
     "question": "In what year was the talking head of Madame Leota updated to float around the Séance Room at Disneyland?",
     "answer": "2004",
     "question_urdu": "مدام لیوٹا کے بولنے والے سر کو سال 2004 میں پہلی بار ڈزنی لینڈ کے سیانس روم میں تیرتے ہوئے دکھانے کے لئے کب اپ ڈیٹ کیا گیا تھا؟",
-    "answer_urdu": "سال 2004"
-  },
-  {
-    "id": "357",
-    "metadata": "{'topic': 'Other', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/The_Haunted_Mansion', 'https://en.wikipedia.org/wiki/The_Haunted_Mansion', 'https://hauntedmansion.fandom.com/wiki/Madame_Leota', 'https://imagineearsblog.wordpress.com/2017/10/29/turning-your-home-into-a-disney-haunted-mansion-part-5-diy-madame-leota-head-in-floating-crystal-ball/']}",
-    "question": "In what year was the talking head of Madame Leota updated to float around the Séance Room at Disneyland?",
-    "answer": "2004",
-    "question_urdu": "مدام لیوٹا کے بولنے والے سر کو سال 2004 میں پہلی بار ڈزنی لینڈ کے سیانس روم میں تیرتے ہوئے دکھانے کے لئے کب اپ ڈیٹ کیا گیا تھا؟",
     "answer_urdu": "2004"
   },
   {
@@ -2966,14 +2886,6 @@
     "answer": "National Snaffle Bit Association",
     "question_urdu": "سال 1992 میں زپو پائن بار کو کس ہال آف فیم میں شامل کیا گیا؟",
     "answer_urdu": "نیشنل سنیفل بٹ ایسوسی ایشن"
-  },
-  {
-    "id": "361",
-    "metadata": "{'topic': 'Science and technology', 'answer_type': 'Other', 'urls': ['https://en.wikipedia.org/wiki/Calytrix_acutifolia', 'https://en.wikipedia.org/wiki/Calytrix_acutifolia', 'https://kids.kiddle.co/Calytrix_acutifolia', 'https://bie.ala.org.au/species/https://id.biodiversity.org.au/taxon/apni/51439660']}",
-    "question": "What was the original scientific name given to *Calytrix acutifolia* by John Lindley in 1839?",
-    "answer": "Lhotskya acutifolia",
-    "question_urdu": "سال 1839 میں جان لنڈلے کی جانب سے کالائٹرکس اکیوٹیفولیا کا اصل سائنسی نام کیا دیا گیا تھا؟",
-    "answer_urdu": "Lhotskya acutifolia"
   },
   {
     "id": "361",
@@ -5448,14 +5360,6 @@
     "answer_urdu": "موسٹ کریٹیکل"
   },
   {
-    "id": "669",
-    "metadata": "{'topic': 'Other', 'answer_type': 'Person', 'urls': ['https://www.invenglobal.com/articles/16733/all-the-award-winners-at-the-streamer-awards-2022', 'https://en.wikipedia.org/wiki/The_Streamer_Awards', 'https://en.wikipedia.org/wiki/Cr1TiKaL', 'https://thestreamerawards.com/winners', 'https://www.twitch.tv/moistcr1tikal']}",
-    "question": "Which streamer won the \"Best Variety Streamer\" award at The Streamer Awards in 2022?",
-    "answer": "moistcr1tikal",
-    "question_urdu": "سال 2022 میں دی اسٹریمر ایوارڈز میں \"بیسٹ ویرائٹی اسٹریمر\" ایوارڈ کس اسٹریمر نے جیتا؟",
-    "answer_urdu": "موسٹ کریٹیکل"
-  },
-  {
     "id": "670",
     "metadata": "{'topic': 'Music', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Evolution_Festival', 'https://en.wikipedia.org/wiki/Evolution_Festival#:~:text=In%202008%2C%20the%20festival%20ended,stage%20was%20added%20in%202010.', 'https://www.wikiwand.com/en/Evolution_Festival']}",
     "question": "What year did the Evolution Festival introduce an entry charge?",
@@ -5998,14 +5902,6 @@
     "answer": "Hassan Nasrallah",
     "question_urdu": "گانا \"دی ہاک آف لبنان\" حزب اللہ کے کس رہنما کے بارے میں ہے؟",
     "answer_urdu": "حسن نصر اللہ"
-  },
-  {
-    "id": "738",
-    "metadata": "{'topic': 'TV shows', 'answer_type': 'Other', 'urls': ['https://villains.fandom.com/wiki/Daemon_Targaryen', 'https://hero.fandom.com/wiki/Vaemond_Velaryon#:~:text=Daemon%3A%20Say%20it.,before%20his%20murder%20by%20Daemon.', 'https://scrapsfromtheloft.com/tv-series/house-of-the-dragon-s01e08-lord-of-tides-transcript/']}",
-    "question": "What did Daemon say to Vaemond before killing him in HOTD Season 1?",
-    "answer": "\"Say it.\"",
-    "question_urdu": "ایچ او ٹی ڈی کے سیزن 1 میں ڈیمون نے ویمونڈ کو مارنے سے پہلے کیا کہا؟",
-    "answer_urdu": "یہ کہو۔"
   },
   {
     "id": "738",
@@ -6694,14 +6590,6 @@
     "answer": "January 24, 1989",
     "question_urdu": "اولمپک ایتھلیٹ مرون \"مارون\" گراہم کس مہینے، تاریخ اور سال میں انتقال کر گئے؟",
     "answer_urdu": "جنوری 24, 1989"
-  },
-  {
-    "id": "824",
-    "metadata": "{'topic': 'Video games', 'answer_type': 'Other', 'urls': ['https://horizon.fandom.com/wiki/HADES', 'https://horizon.fandom.com/wiki/HADES', 'https://hzd.fandom.com/wiki/HADES', 'https://screenrant.com/horizon-forbidden-west-subordinate-functions-purpose-gaia-project/']}",
-    "question": "What was the name of Project Zero Dawn's Extinction Failsafe Protocol in the video game Horizon Zero Dawn (2017)?",
-    "answer": "HADES",
-    "question_urdu": "ویڈیو گیم ہورائزن زیرو ڈان (2017) میں پروجیکٹ زیرو ڈان کے معدومیت سیف گارڈ پروٹوکول کا نام کیا تھا؟",
-    "answer_urdu": "حادس"
   },
   {
     "id": "824",
@@ -7534,14 +7422,6 @@
     "answer": "A Major",
     "question_urdu": "رون کینولی کے گانے \"سنگ آؤٹ\" کو کس کی سائن پر ریکارڈ کیا گیا تھا؟",
     "answer_urdu": "اے میجر"
-  },
-  {
-    "id": "928",
-    "metadata": "{'topic': 'Music', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Hit_Parader', 'https://en.wikipedia.org/wiki/Hit_Parader', 'https://www.hitparader.com/blogs/history/the-final-bow', 'https://www.afka.net/Mags/Hit_Parader.htm']}",
-    "question": "In what year did Charlton Publications sell Hit Parader?",
-    "answer": "1991",
-    "question_urdu": "چارلٹن پبلیکیشنز نے ہٹ پیریڈر کس سال بیچا؟",
-    "answer_urdu": "1991"
   },
   {
     "id": "928",
@@ -9422,14 +9302,6 @@
     "answer": "1790",
     "question_urdu": "کولمبیا کے بویاقا کے علاقے میں ایل اسپینو کی میونسپلٹی کس سال میں قائم کی گئی؟",
     "answer_urdu": "1790"
-  },
-  {
-    "id": "1163",
-    "metadata": "{'topic': 'Politics', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Aga_Khan_University_Hospital,_Karachi', 'https://en.wikipedia.org/wiki/Aga_Khan_University_Hospital,_Karachi', 'https://ismailimail.blog/2017/04/08/aga-khan-university-hospital-experts-to-help-upgrade-karachi-metropolitan-corporation-hospital/', 'https://www.thenews.com.pk/print/188014-AKUH-experts-to-help-upgrade-KMC-hospitals']}",
-    "question": "What year was a joint board set up to conduct a study of all major hospitals in Karachi under the Karachi Municipal Corporation (KMC) and the Aga Khan University Hospital to try to help upgrade all of KMC-affiliated medical facilities in Karachi?",
-    "answer": "2017",
-    "question_urdu": "کراچی میونسپل کارپوریشن (KMC) اور آغا خان یونیورسٹی ہسپتال کے تحت کراچی کے تمام بڑے ہسپتالوں کا مطالعہ کرنے کے لیے ایک مشترکہ بورڈ کس سال قائم کیا گیا تھا جو کراچی میں KMC سے منسلک طبی سہولیات کو بہتر بنانے میں مدد دینے کی کوشش کرتا ہے؟",
-    "answer_urdu": "2017"
   },
   {
     "id": "1163",
@@ -23950,14 +23822,6 @@
     "answer": "Christof Theißen",
     "question_urdu": "بلائنڈ گارڈین کے لیے گٹارسٹ کے طور پر مارکس ڈورک کی پہلی تبدیلی کون تھے؟",
     "answer_urdu": "کرسٹوف تھیسن"
-  },
-  {
-    "id": "2978",
-    "metadata": "{'topic': 'Other', 'answer_type': 'Date', 'urls': ['https://en.wikipedia.org/wiki/Motaz_Azaiza', 'https://en.wikipedia.org/wiki/Motaz_Azaiza#:~:text=Azaiza%20was%20raised%20in%20the,a%20degree%20in%20English%20studies.', 'https://www.newarab.com/features/motaz-azaiza-gazas-window-world', 'https://www.advocatingpeace.com/motaz-azaiza/']}",
-    "question": "In which year did Motaz Azaiza graduate from Al-Azhar University in Gaza?",
-    "answer": "2021",
-    "question_urdu": "موتاز عزیزہ نے غزہ میں جامعہ الازہر سے کس سال گریجویشن کی؟",
-    "answer_urdu": "2021"
   },
   {
     "id": "2978",
