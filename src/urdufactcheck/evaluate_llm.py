@@ -103,9 +103,10 @@ if __name__ == "__main__":
         generated_answer_urdu = row["generated_answer_urdu"]
         question_urdu = row["question_urdu"]
 
+        claim = question_urdu + " " + generated_answer_urdu
+
         response = ofc.evaluate(
-            question=question_urdu,
-            response=question_urdu + " " + generated_answer_urdu,
+            response=claim,
         )
 
         with open(

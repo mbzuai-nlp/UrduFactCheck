@@ -7,7 +7,7 @@
     ],
     "pipeline": [
         "urdufactcheck_claimprocessor",
-        "urdufactcheck_retriever",
+        "urdufactcheck_translator_retriever",
         "urdufactcheck_verifier"
     ],
     "verbose": 20

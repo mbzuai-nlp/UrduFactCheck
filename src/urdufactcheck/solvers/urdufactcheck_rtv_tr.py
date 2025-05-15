@@ -12,7 +12,7 @@ from .urdufactcheck_utils.prompt import QUERY_GENERATION_PROMPT
 class FactoolRetriever(StandardTaskSolver):
     def __init__(self, args):
         super().__init__(args)
-        self.gpt_model = self.global_config.get("gpt_model", "gpt-4o-mini")
+        self.gpt_model = self.global_config.get("gpt_model", "gpt-4o")
         self.snippet_cnt = args.get("snippet_cnt", 10)
         self.gpt = OpenAIChat(self.gpt_model)
         self.query_prompt = QUERY_GENERATION_PROMPT
