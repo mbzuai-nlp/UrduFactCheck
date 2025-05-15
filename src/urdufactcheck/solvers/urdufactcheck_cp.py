@@ -9,7 +9,7 @@ from .urdufactcheck_utils.prompt import CLAIM_EXTRACTION_PROMPT
 class UrduFactCheckClaimProcessor(StandardTaskSolver):
     def __init__(self, args):
         super().__init__(args)
-        self.gpt_model = self.global_config.get("gpt_model", "gpt-4o")
+        self.gpt_model = self.global_config.get("gpt_model", "gpt-4o-mini")
         self.gpt = OpenAIChat(self.gpt_model)
         self.claim_prompt = CLAIM_EXTRACTION_PROMPT
 

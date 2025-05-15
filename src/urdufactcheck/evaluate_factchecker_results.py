@@ -162,3 +162,52 @@ for dataset in datasets:
 
 with open("evaluate_factchecker_results.json", "w") as f:
     json.dump(evaluate_factchecker_results, f, indent=4)
+
+# Convert the nested dict into a flat DataFrame
+df_results = pd.DataFrame.from_dict(
+    {
+        (factchecker, dataset, model): values
+        for factchecker, datasets in evaluate_factchecker_results.items()
+        for dataset, models in datasets.items()
+        for model, values in models.items()
+    },
+    orient="index",
+)
+df_results.reset_index(inplace=True)
+df_results.columns = ["factchecker", "dataset", "model"] + list(df_results.columns[3:])
+
+# Flatten the `classification_report` dict into its own columns
+report_df = pd.json_normalize(df_results["classification_report"])
+report_df.columns = report_df.columns.str.replace(
+    r"[.\s-]", "_", regex=True
+).str.replace("__", "_", regex=False)
+
+# Drop the original dict‐column and concatenate the flattened metrics
+df_results = pd.concat(
+    [df_results.drop(columns=["classification_report"]), report_df], axis=1
+)
+
+# Keep only the macro‐avg metrics (plus identifiers)
+macro_cols = [c for c in df_results.columns if c.startswith("macro_avg")]
+df_macro = df_results[["factchecker", "dataset", "model"] + macro_cols]
+
+# Rename for brevity
+df_macro = df_macro.rename(
+    columns={
+        "macro_avg_precision": "precision",
+        "macro_avg_recall": "recall",
+        "macro_avg_f1_score": "f1_score",
+        "macro_avg_support": "support",
+    }
+)
+
+# Drop the `support` column
+df_macro = df_macro.drop(columns=["support"])
+
+# Round the numeric columns to 2 decimal places
+df_macro[["precision", "recall", "f1_score"]] = df_macro[
+    ["precision", "recall", "f1_score"]
+].round(2)
+
+# Save to CSV
+df_macro.to_csv("evaluate_factchecker_results.csv", index=False)
