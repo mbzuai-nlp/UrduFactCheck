@@ -214,7 +214,37 @@
                 "model_cost": 5.49,
                 "serper_cost": 1.76
             },
-            "gpt-4o-mini": {}
+            "gpt-4o-mini": {
+                "classification_report": {
+                    "False": {
+                        "precision": 0.33753148614609574,
+                        "recall": 0.8427672955974843,
+                        "f1-score": 0.48201438848920863,
+                        "support": 159.0
+                    },
+                    "True": {
+                        "precision": 0.8931623931623932,
+                        "recall": 0.4427966101694915,
+                        "f1-score": 0.5920679886685553,
+                        "support": 472.0
+                    },
+                    "accuracy": 0.5435816164817749,
+                    "macro avg": {
+                        "precision": 0.6153469396542445,
+                        "recall": 0.6427819528834879,
+                        "f1-score": 0.537041188578882,
+                        "support": 631.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.7531539712676368,
+                        "recall": 0.5435816164817749,
+                        "f1-score": 0.5643365743602888,
+                        "support": 631.0
+                    }
+                },
+                "model_cost": 0.29,
+                "serper_cost": 1.55
+            }
         },
         "bingcheck": {
             "gpt-4o": {
@@ -312,7 +342,37 @@
                 "model_cost": 1.96,
                 "serper_cost": 0.63
             },
-            "gpt-4o-mini": {}
+            "gpt-4o-mini": {
+                "classification_report": {
+                    "False": {
+                        "precision": 0.3333333333333333,
+                        "recall": 0.75,
+                        "f1-score": 0.46153846153846156,
+                        "support": 56.0
+                    },
+                    "True": {
+                        "precision": 0.8691588785046729,
+                        "recall": 0.5254237288135594,
+                        "f1-score": 0.6549295774647887,
+                        "support": 177.0
+                    },
+                    "accuracy": 0.5793991416309013,
+                    "macro avg": {
+                        "precision": 0.6012461059190031,
+                        "recall": 0.6377118644067796,
+                        "f1-score": 0.5582340195016251,
+                        "support": 233.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.740376773227441,
+                        "recall": 0.5793991416309013,
+                        "f1-score": 0.6084493092593195,
+                        "support": 233.0
+                    }
+                },
+                "model_cost": 0.1,
+                "serper_cost": 0.54
+            }
         }
     },
     "urdufactcheckthtr": {

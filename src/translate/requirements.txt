@@ -1,0 +1,7 @@
+langgraph
+langchain-chroma
+langchain-core
+langchain-openai
+langchain-anthropic
+pandas
+requests
