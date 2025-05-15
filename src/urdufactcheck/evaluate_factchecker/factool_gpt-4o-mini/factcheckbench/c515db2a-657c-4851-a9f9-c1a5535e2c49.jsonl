@@ -1,0 +1,3 @@
+{"idx": 0, "solver": "factool_claimprocessor", "continue": true, "state": {"question": null, "response": "آہن سازی کی جنوبی طرف پھیلنے اور مغربی افریقہ میں عام ہونے میں متعدد صدیوں کا عرصہ لگا۔", "claims": []}}
+{"idx": 1, "solver": "factool_retriever", "continue": true, "state": {"question": null, "response": "آہن سازی کی جنوبی طرف پھیلنے اور مغربی افریقہ میں عام ہونے میں متعدد صدیوں کا عرصہ لگا۔", "claims": [], "claims_with_evidences": {}}}
+{"idx": 2, "solver": "factool_verifier", "continue": true, "state": {"question": null, "response": "آہن سازی کی جنوبی طرف پھیلنے اور مغربی افریقہ میں عام ہونے میں متعدد صدیوں کا عرصہ لگا۔", "claims": [], "claims_with_evidences": {}, "detail": [], "label": true}}

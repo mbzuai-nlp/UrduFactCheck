@@ -1,0 +1,3 @@
+{"idx": 0, "solver": "factool_claimprocessor", "continue": true, "state": {"question": null, "response": "آئسڈ ماچا لیٹے بناتے وقت، مکسچر کو برف سے بھرے گلاس میں ڈالنے کے بعد، اپنی پسند کی مقدار میں دودھ شامل کریں۔", "claims": []}}
+{"idx": 1, "solver": "factool_retriever", "continue": true, "state": {"question": null, "response": "آئسڈ ماچا لیٹے بناتے وقت، مکسچر کو برف سے بھرے گلاس میں ڈالنے کے بعد، اپنی پسند کی مقدار میں دودھ شامل کریں۔", "claims": [], "claims_with_evidences": {}}}
+{"idx": 2, "solver": "factool_verifier", "continue": true, "state": {"question": null, "response": "آئسڈ ماچا لیٹے بناتے وقت، مکسچر کو برف سے بھرے گلاس میں ڈالنے کے بعد، اپنی پسند کی مقدار میں دودھ شامل کریں۔", "claims": [], "claims_with_evidences": {}, "detail": [], "label": true}}

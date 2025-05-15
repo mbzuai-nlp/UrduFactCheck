@@ -73,12 +73,17 @@ VERIFICATION_PROMPT = {
 URDU_TO_ENGLISH_TRANSLATION_PROMPT = {
     "system": "You are a helpful assistant.",
     "user": """You are given a piece of text in Urdu. Your task is to translate it into English. The translation should be accurate and maintain the original meaning of the text. Please ensure that the translation is grammatically correct and coherent in English.
-You MUST only respond in the format as described below. DO NOT RESPOND WITH ANYTHING ELSE. ADDING ANY OTHER EXTRA NOTES THAT VIOLATE THE RESPONSE FORMAT IS BANNED. START YOUR RESPONSE WITH '['.
-[response format]: 
-[
-    {{
-    "translation": "translated text in English",
-    }},
-]
+DO NOT RESPOND WITH ANYTHING ELSE. ADDING ANY OTHER EXTRA NOTES THAT VIOLATE THE RESPONSE FORMAT IS BANNED. 
+
+{input}
+""",
+}
+
+ENGLISH_TO_URDU_TRANSLATION_PROMPT = {
+    "system": "You are a helpful assistant.",
+    "user": """You are given a piece of text in English. Your task is to translate it into Urdu. The translation should be accurate and maintain the original meaning of the text. Please ensure that the translation is grammatically correct and coherent in Urdu.
+DO NOT RESPOND WITH ANYTHING ELSE. ADDING ANY OTHER EXTRA NOTES THAT VIOLATE THE RESPONSE FORMAT IS BANNED.
+
+{input}
 """,
 }

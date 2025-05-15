@@ -56,6 +56,7 @@ if __name__ == "__main__":
 
     # Check if the results file already exists
     existing_results = {}
+    cleaned_results = {}
     if os.path.exists(
         f"evaluate_factchecker/{FACTCHECKER}/{DATASET_NAME}/results.jsonl"
     ):
@@ -71,8 +72,34 @@ if __name__ == "__main__":
                 for claim, data in result.items():
                     existing_results[claim] = data
 
+        for claim, existing_result in existing_results.items():
+            if isinstance(existing_result["response"], bool):
+                print(f"Claim already exists: {claim}")
+                cleaned_results[claim] = existing_result
+
+    # Rewrite the cleaned results to the file
+    with open(
+        f"evaluate_factchecker/{FACTCHECKER}/{DATASET_NAME}/results.jsonl",
+        "w",
+        encoding="utf-8",
+    ) as f:
+        for claim, data in cleaned_results.items():
+            f.write(
+                json.dumps(
+                    {
+                        claim: {
+                            "response": data["response"],
+                            "factchecker": FACTCHECKER,
+                            "dataset": DATASET_NAME,
+                        }
+                    },
+                    ensure_ascii=False,
+                )
+                + "\n"
+            )
+
     for row in dataset:
-        if row["claim_urdu"] in existing_results:
+        if row["claim_urdu"] in cleaned_results:
             print(f"Claim already exists: {row['claim_urdu']}")
             continue
 
@@ -99,5 +126,3 @@ if __name__ == "__main__":
                 )
                 + "\n"
             )
-
-        break

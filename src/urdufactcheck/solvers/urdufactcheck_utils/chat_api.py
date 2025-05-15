@@ -66,10 +66,17 @@ class OpenAIChat:
         try:
             output_eval = ast.literal_eval(output)
             if not isinstance(output_eval, expected_type):
+                print(
+                    f"Type mismatch: expected {expected_type}, got {type(output_eval)}"
+                )
                 return None
             return output_eval
         except:
-            return None
+            if expected_type == str:
+                return output
+            else:
+                print(f"Error evaluating output: {output}")
+                return None
 
     async def dispatch_openai_requests(
         self,
@@ -125,21 +132,22 @@ class OpenAIChat:
                 MODEL_COST_PATH = os.environ.get("MODEL_COST_PATH", "model_cost.jsonl")
                 for prediction in predictions:
                     if prediction is not None:
-                        completion_tokens = prediction.usage.completion_tokens
-                        prompt_tokens = prediction.usage.prompt_tokens
-                        total_tokens = prediction.usage.total_tokens
-                        with open(MODEL_COST_PATH, "a") as f:
-                            f.write(
-                                json.dumps(
-                                    {
-                                        "model": self.config["model_name"],
-                                        "prompt_tokens": prompt_tokens,
-                                        "completion_tokens": completion_tokens,
-                                        "total_tokens": total_tokens,
-                                    }
+                        if hasattr(prediction, "usage"):
+                            completion_tokens = prediction.usage.completion_tokens
+                            prompt_tokens = prediction.usage.prompt_tokens
+                            total_tokens = prediction.usage.total_tokens
+                            with open(MODEL_COST_PATH, "a") as f:
+                                f.write(
+                                    json.dumps(
+                                        {
+                                            "model": self.config["model_name"],
+                                            "prompt_tokens": prompt_tokens,
+                                            "completion_tokens": completion_tokens,
+                                            "total_tokens": total_tokens,
+                                        }
+                                    )
+                                    + "\n"
                                 )
-                                + "\n"
-                            )
 
             preds = [
                 self._type_check(
@@ -148,7 +156,7 @@ class OpenAIChat:
                     ),
                     expected_type,
                 )
-                if prediction is not None
+                if prediction is not None and hasattr(prediction, "choices")
                 else None
                 for prediction in predictions
             ]

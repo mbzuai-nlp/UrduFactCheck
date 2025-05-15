@@ -25,15 +25,21 @@ def callback(
 #     callback=callback,
 # )
 
-response = OpenFactCheck(config).ResponseEvaluator.evaluate(
-    response="پریسلاو نیکوف ایک معروف محقق ہیں جو مصنوعی ذہانت اور قدرتی زبان کی پروسیسنگ کے شعبے میں کام کر رہے ہیں۔ وہ اس وقت قطر یونیورسٹی کے کمپیوٹر سائنس اور انجینئرنگ کے شعبے میں پروفیسر ہیں۔ ان کی تحقیق کا فوکس مشین لرننگ، خودکار ترجمہ، اور مواد کی تجزیہ کاری پر ہے۔",
-    callback=callback,
-)
+# response = OpenFactCheck(config).ResponseEvaluator.evaluate(
+#     response="پریسلاو نیکوف ایک معروف محقق ہیں جو مصنوعی ذہانت اور قدرتی زبان کی پروسیسنگ کے شعبے میں کام کر رہے ہیں۔ وہ اس وقت قطر یونیورسٹی کے کمپیوٹر سائنس اور انجینئرنگ کے شعبے میں پروفیسر ہیں۔ ان کی تحقیق کا فوکس مشین لرننگ، خودکار ترجمہ، اور مواد کی تجزیہ کاری پر ہے۔",
+#     callback=callback,
+# )
 
 # response = OpenFactCheck(config).ResponseEvaluator.evaluate(
 #     question="پریسلاو نیکوف کون ہیں؟",
 #     response="پریسلاو نیکوف ایک معروف محقق ہیں جو مصنوعی ذہانت اور قدرتی زبان کی پروسیسنگ کے شعبے میں کام کر رہے ہیں۔ وہ اس وقت قطر یونیورسٹی کے کمپیوٹر سائنس اور انجینئرنگ کے شعبے میں پروفیسر ہیں۔ ان کی تحقیق کا فوکس مشین لرننگ، خودکار ترجمہ، اور مواد کی تجزیہ کاری پر ہے۔",
 #     callback=callback,
 # )
+
+response = OpenFactCheck(config).ResponseEvaluator.evaluate(
+    question="What is the capital of France?",
+    response="Paris",
+    callback=callback,
+)
 
 print("Overall Result: ", response)

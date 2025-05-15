@@ -1,0 +1,3 @@
+{"idx": 0, "solver": "factool_claimprocessor", "continue": true, "state": {"question": null, "response": "آئسڈ ماچا لاتے بنانے کے لیے، آپ کو میچا پاؤڈر کو گرم پانی کے ساتھ ملانا ہوگا یہاں تک کہ یہ حل ہوجائے۔", "claims": []}}
+{"idx": 1, "solver": "factool_retriever", "continue": true, "state": {"question": null, "response": "آئسڈ ماچا لاتے بنانے کے لیے، آپ کو میچا پاؤڈر کو گرم پانی کے ساتھ ملانا ہوگا یہاں تک کہ یہ حل ہوجائے۔", "claims": [], "claims_with_evidences": {}}}
+{"idx": 2, "solver": "factool_verifier", "continue": true, "state": {"question": null, "response": "آئسڈ ماچا لاتے بنانے کے لیے، آپ کو میچا پاؤڈر کو گرم پانی کے ساتھ ملانا ہوگا یہاں تک کہ یہ حل ہوجائے۔", "claims": [], "claims_with_evidences": {}, "detail": [], "label": true}}

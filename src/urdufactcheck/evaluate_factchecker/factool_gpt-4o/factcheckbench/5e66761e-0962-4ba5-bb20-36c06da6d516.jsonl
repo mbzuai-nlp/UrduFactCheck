@@ -1,0 +1,3 @@
+{"idx": 0, "solver": "factool_claimprocessor", "continue": true, "state": {"question": null, "response": "ناول دی نائٹ بفلو کی کہانی میں، مانوئل گریگوریو کی زندگی میں گہرائی سے جھانکتا ہے۔", "claims": []}}
+{"idx": 1, "solver": "factool_retriever", "continue": true, "state": {"question": null, "response": "ناول دی نائٹ بفلو کی کہانی میں، مانوئل گریگوریو کی زندگی میں گہرائی سے جھانکتا ہے۔", "claims": [], "claims_with_evidences": {}}}
+{"idx": 2, "solver": "factool_verifier", "continue": true, "state": {"question": null, "response": "ناول دی نائٹ بفلو کی کہانی میں، مانوئل گریگوریو کی زندگی میں گہرائی سے جھانکتا ہے۔", "claims": [], "claims_with_evidences": {}, "detail": [], "label": true}}

@@ -1,0 +1,3 @@
+{"idx": 0, "solver": "urdufactcheck_claimprocessor", "continue": true, "state": {"question": null, "response": "آئیس آئیسنگا کے کتنے بیٹے تھے، اس کا کوئی ریکارڈ نہیں ہے", "claims": []}}
+{"idx": 1, "solver": "urdufactcheck_translator_retriever", "continue": true, "state": {"question": null, "response": "آئیس آئیسنگا کے کتنے بیٹے تھے، اس کا کوئی ریکارڈ نہیں ہے", "claims": [], "claims_with_evidences": {}}}
+{"idx": 2, "solver": "urdufactcheck_verifier", "continue": true, "state": {"question": null, "response": "آئیس آئیسنگا کے کتنے بیٹے تھے، اس کا کوئی ریکارڈ نہیں ہے", "claims": [], "claims_with_evidences": {}, "detail": [], "label": true}}

@@ -1,0 +1,3 @@
+{"idx": 0, "solver": "urdufactcheck_claimprocessor", "continue": true, "state": {"question": null, "response": "ریاستہائے متحدہ امریکہ میں پہلے ہی ایک خاتون صدر رہ چکی ہیں: ہلیری کلنٹن۔", "claims": []}}
+{"idx": 1, "solver": "urdufactcheck_retriever", "continue": true, "state": {"question": null, "response": "ریاستہائے متحدہ امریکہ میں پہلے ہی ایک خاتون صدر رہ چکی ہیں: ہلیری کلنٹن۔", "claims": [], "claims_with_evidences": {}}}
+{"idx": 2, "solver": "urdufactcheck_verifier", "continue": true, "state": {"question": null, "response": "ریاستہائے متحدہ امریکہ میں پہلے ہی ایک خاتون صدر رہ چکی ہیں: ہلیری کلنٹن۔", "claims": [], "claims_with_evidences": {}, "detail": [], "label": true}}

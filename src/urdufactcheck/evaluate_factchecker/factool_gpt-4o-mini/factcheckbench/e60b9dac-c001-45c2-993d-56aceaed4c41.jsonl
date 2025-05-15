@@ -1,0 +1,3 @@
+{"idx": 0, "solver": "factool_claimprocessor", "continue": true, "state": {"question": null, "response": "ہلیری کلنٹن نے سال 2017 سے 2021 تک ریاستہائے متحدہ کے 45 ویں صدر کے طور پر خدمات انجام دیں۔", "claims": []}}
+{"idx": 1, "solver": "factool_retriever", "continue": true, "state": {"question": null, "response": "ہلیری کلنٹن نے سال 2017 سے 2021 تک ریاستہائے متحدہ کے 45 ویں صدر کے طور پر خدمات انجام دیں۔", "claims": [], "claims_with_evidences": {}}}
+{"idx": 2, "solver": "factool_verifier", "continue": true, "state": {"question": null, "response": "ہلیری کلنٹن نے سال 2017 سے 2021 تک ریاستہائے متحدہ کے 45 ویں صدر کے طور پر خدمات انجام دیں۔", "claims": [], "claims_with_evidences": {}, "detail": [], "label": true}}

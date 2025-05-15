@@ -1,0 +1,3 @@
+{"idx": 0, "solver": "factool_claimprocessor", "continue": true, "state": {"question": null, "response": "خواتین کے لیے میگنیشیم کی مخصوص مقدار، دودھ پلانے کی حیثیت جیسے عوامل پر منحصر ہو سکتی ہے۔", "claims": []}}
+{"idx": 1, "solver": "factool_retriever", "continue": true, "state": {"question": null, "response": "خواتین کے لیے میگنیشیم کی مخصوص مقدار، دودھ پلانے کی حیثیت جیسے عوامل پر منحصر ہو سکتی ہے۔", "claims": [], "claims_with_evidences": {}}}
+{"idx": 2, "solver": "factool_verifier", "continue": true, "state": {"question": null, "response": "خواتین کے لیے میگنیشیم کی مخصوص مقدار، دودھ پلانے کی حیثیت جیسے عوامل پر منحصر ہو سکتی ہے۔", "claims": [], "claims_with_evidences": {}, "detail": [], "label": true}}

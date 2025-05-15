@@ -1,0 +1,520 @@
+{
+    "factool": {
+        "factcheckbench": {
+            "gpt-4o-mini": {
+                "classification_report": {
+                    "False": {
+                        "precision": 0.3854166666666667,
+                        "recall": 0.6981132075471698,
+                        "f1-score": 0.4966442953020134,
+                        "support": 159.0
+                    },
+                    "True": {
+                        "precision": 0.8600583090379009,
+                        "recall": 0.625,
+                        "f1-score": 0.7239263803680982,
+                        "support": 472.0
+                    },
+                    "accuracy": 0.6434231378763867,
+                    "macro avg": {
+                        "precision": 0.6227374878522838,
+                        "recall": 0.6615566037735849,
+                        "f1-score": 0.6102853378350558,
+                        "support": 631.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.740457641625815,
+                        "recall": 0.6434231378763867,
+                        "f1-score": 0.6666556172531893,
+                        "support": 631.0
+                    }
+                }
+            },
+            "gpt-4o": {
+                "classification_report": {
+                    "False": {
+                        "precision": 0.375,
+                        "recall": 0.7169811320754716,
+                        "f1-score": 0.4924406047516199,
+                        "support": 159.0
+                    },
+                    "True": {
+                        "precision": 0.8623853211009175,
+                        "recall": 0.597457627118644,
+                        "f1-score": 0.7058823529411765,
+                        "support": 472.0
+                    },
+                    "accuracy": 0.6275752773375595,
+                    "macro avg": {
+                        "precision": 0.6186926605504588,
+                        "recall": 0.6572193795970578,
+                        "f1-score": 0.5991614788463981,
+                        "support": 631.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.7395734890010033,
+                        "recall": 0.6275752773375595,
+                        "f1-score": 0.6520990915114785,
+                        "support": 631.0
+                    }
+                }
+            }
+        },
+        "bingcheck": {
+            "gpt-4o-mini": {
+                "classification_report": {
+                    "False": {
+                        "precision": 0.38636363636363635,
+                        "recall": 0.7906976744186046,
+                        "f1-score": 0.5190839694656488,
+                        "support": 43.0
+                    },
+                    "True": {
+                        "precision": 0.8363636363636363,
+                        "recall": 0.46,
+                        "f1-score": 0.5935483870967742,
+                        "support": 100.0
+                    },
+                    "accuracy": 0.5594405594405595,
+                    "macro avg": {
+                        "precision": 0.6113636363636363,
+                        "recall": 0.6253488372093023,
+                        "f1-score": 0.5563161782812115,
+                        "support": 143.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.7010489510489509,
+                        "recall": 0.5594405594405595,
+                        "f1-score": 0.571156988788114,
+                        "support": 143.0
+                    }
+                }
+            },
+            "gpt-4o": {
+                "classification_report": {
+                    "False": {
+                        "precision": 0.3780487804878049,
+                        "recall": 0.7560975609756098,
+                        "f1-score": 0.5040650406504065,
+                        "support": 41.0
+                    },
+                    "True": {
+                        "precision": 0.8181818181818182,
+                        "recall": 0.46875,
+                        "f1-score": 0.5960264900662252,
+                        "support": 96.0
+                    },
+                    "accuracy": 0.5547445255474452,
+                    "macro avg": {
+                        "precision": 0.5981152993348116,
+                        "recall": 0.6124237804878049,
+                        "f1-score": 0.5500457653583158,
+                        "support": 137.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.6864631718646317,
+                        "recall": 0.5547445255474452,
+                        "f1-score": 0.5685051803870387,
+                        "support": 137.0
+                    }
+                }
+            }
+        },
+        "factool_qa": {
+            "gpt-4o-mini": {
+                "classification_report": {
+                    "False": {
+                        "precision": 0.4146341463414634,
+                        "recall": 0.6071428571428571,
+                        "f1-score": 0.4927536231884058,
+                        "support": 56.0
+                    },
+                    "True": {
+                        "precision": 0.8543046357615894,
+                        "recall": 0.7288135593220338,
+                        "f1-score": 0.7865853658536586,
+                        "support": 177.0
+                    },
+                    "accuracy": 0.6995708154506438,
+                    "macro avg": {
+                        "precision": 0.6344693910515264,
+                        "recall": 0.6679782082324455,
+                        "f1-score": 0.6396694945210322,
+                        "support": 233.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.7486327584760656,
+                        "recall": 0.6995708154506438,
+                        "f1-score": 0.7159648611787479,
+                        "support": 233.0
+                    }
+                }
+            },
+            "gpt-4o": {
+                "classification_report": {
+                    "False": {
+                        "precision": 0.4342105263157895,
+                        "recall": 0.5892857142857143,
+                        "f1-score": 0.5,
+                        "support": 56.0
+                    },
+                    "True": {
+                        "precision": 0.8535031847133758,
+                        "recall": 0.7570621468926554,
+                        "f1-score": 0.8023952095808383,
+                        "support": 177.0
+                    },
+                    "accuracy": 0.7167381974248928,
+                    "macro avg": {
+                        "precision": 0.6438568555145827,
+                        "recall": 0.6731739305891848,
+                        "f1-score": 0.6511976047904191,
+                        "support": 233.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.752728983553441,
+                        "recall": 0.7167381974248928,
+                        "f1-score": 0.7297165326000359,
+                        "support": 233.0
+                    }
+                }
+            }
+        }
+    },
+    "urdufactcheck": {
+        "factcheckbench": {
+            "gpt-4o": {
+                "classification_report": {
+                    "False": {
+                        "precision": 0.33819241982507287,
+                        "recall": 0.7295597484276729,
+                        "f1-score": 0.46215139442231074,
+                        "support": 159.0
+                    },
+                    "True": {
+                        "precision": 0.8506944444444444,
+                        "recall": 0.5190677966101694,
+                        "f1-score": 0.6447368421052632,
+                        "support": 472.0
+                    },
+                    "accuracy": 0.572107765451664,
+                    "macro avg": {
+                        "precision": 0.5944434321347587,
+                        "recall": 0.6243137725189212,
+                        "f1-score": 0.5534441182637869,
+                        "support": 631.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.7215536807130972,
+                        "recall": 0.572107765451664,
+                        "f1-score": 0.5987287815956127,
+                        "support": 631.0
+                    }
+                },
+                "model_cost": 5.49,
+                "serper_cost": 1.76
+            },
+            "gpt-4o-mini": {}
+        },
+        "bingcheck": {
+            "gpt-4o": {
+                "classification_report": {
+                    "False": {
+                        "precision": 0.3894736842105263,
+                        "recall": 0.8604651162790697,
+                        "f1-score": 0.5362318840579711,
+                        "support": 43.0
+                    },
+                    "True": {
+                        "precision": 0.8695652173913043,
+                        "recall": 0.40816326530612246,
+                        "f1-score": 0.5555555555555556,
+                        "support": 98.0
+                    },
+                    "accuracy": 0.5460992907801419,
+                    "macro avg": {
+                        "precision": 0.6295194508009153,
+                        "recall": 0.6343141907925961,
+                        "f1-score": 0.5458937198067633,
+                        "support": 141.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.7231543242936203,
+                        "recall": 0.5460992907801419,
+                        "f1-score": 0.5496625209853703,
+                        "support": 141.0
+                    }
+                },
+                "model_cost": 2.91,
+                "serper_cost": 0.98
+            },
+            "gpt-4o-mini": {
+                "classification_report": {
+                    "False": {
+                        "precision": 0.4,
+                        "recall": 0.9302325581395349,
+                        "f1-score": 0.5594405594405595,
+                        "support": 43.0
+                    },
+                    "True": {
+                        "precision": 0.9285714285714286,
+                        "recall": 0.3939393939393939,
+                        "f1-score": 0.5531914893617021,
+                        "support": 99.0
+                    },
+                    "accuracy": 0.5563380281690141,
+                    "macro avg": {
+                        "precision": 0.6642857142857144,
+                        "recall": 0.6620859760394644,
+                        "f1-score": 0.5563160244011308,
+                        "support": 142.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.7685110663983904,
+                        "recall": 0.5563380281690141,
+                        "f1-score": 0.555083813399666,
+                        "support": 142.0
+                    }
+                },
+                "model_cost": 0.14,
+                "serper_cost": 0.8
+            }
+        },
+        "factool_qa": {
+            "gpt-4o": {
+                "classification_report": {
+                    "False": {
+                        "precision": 0.35,
+                        "recall": 0.625,
+                        "f1-score": 0.44871794871794873,
+                        "support": 56.0
+                    },
+                    "True": {
+                        "precision": 0.8421052631578947,
+                        "recall": 0.632768361581921,
+                        "f1-score": 0.7225806451612903,
+                        "support": 177.0
+                    },
+                    "accuracy": 0.630901287553648,
+                    "macro avg": {
+                        "precision": 0.5960526315789474,
+                        "recall": 0.6288841807909604,
+                        "f1-score": 0.5856492969396195,
+                        "support": 233.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.7238310368195165,
+                        "recall": 0.630901287553648,
+                        "f1-score": 0.6567595679045215,
+                        "support": 233.0
+                    }
+                },
+                "model_cost": 1.96,
+                "serper_cost": 0.63
+            },
+            "gpt-4o-mini": {}
+        }
+    },
+    "urdufactcheckthtr": {
+        "factcheckbench": {
+            "gpt-4o": {
+                "classification_report": {
+                    "False": {
+                        "precision": 0.382089552238806,
+                        "recall": 0.8050314465408805,
+                        "f1-score": 0.5182186234817814,
+                        "support": 159.0
+                    },
+                    "True": {
+                        "precision": 0.8952702702702703,
+                        "recall": 0.5614406779661016,
+                        "f1-score": 0.6901041666666666,
+                        "support": 472.0
+                    },
+                    "accuracy": 0.6228209191759112,
+                    "macro avg": {
+                        "precision": 0.6386799112545382,
+                        "recall": 0.6832360622534911,
+                        "f1-score": 0.604161395074224,
+                        "support": 631.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.765958488706082,
+                        "recall": 0.6228209191759112,
+                        "f1-score": 0.646792278605816,
+                        "support": 631.0
+                    }
+                },
+                "model_cost": 7.42,
+                "serper_cost": 2.32
+            }
+        },
+        "bingcheck": {
+            "gpt-4o": {
+                "classification_report": {
+                    "False": {
+                        "precision": 0.3804347826086957,
+                        "recall": 0.813953488372093,
+                        "f1-score": 0.5185185185185185,
+                        "support": 43.0
+                    },
+                    "True": {
+                        "precision": 0.8333333333333334,
+                        "recall": 0.41237113402061853,
+                        "f1-score": 0.5517241379310345,
+                        "support": 97.0
+                    },
+                    "accuracy": 0.5357142857142857,
+                    "macro avg": {
+                        "precision": 0.6068840579710145,
+                        "recall": 0.6131623111963558,
+                        "f1-score": 0.5351213282247764,
+                        "support": 140.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.694228778467909,
+                        "recall": 0.5357142857142857,
+                        "f1-score": 0.541525269111476,
+                        "support": 140.0
+                    }
+                },
+                "model_cost": 3.29,
+                "serper_cost": 1.48
+            }
+        },
+        "factool_qa": {
+            "gpt-4o": {
+                "classification_report": {
+                    "False": {
+                        "precision": 0.34408602150537637,
+                        "recall": 0.5714285714285714,
+                        "f1-score": 0.42953020134228187,
+                        "support": 56.0
+                    },
+                    "True": {
+                        "precision": 0.8260869565217391,
+                        "recall": 0.6514285714285715,
+                        "f1-score": 0.7284345047923323,
+                        "support": 175.0
+                    },
+                    "accuracy": 0.6320346320346321,
+                    "macro avg": {
+                        "precision": 0.5850864890135578,
+                        "recall": 0.6114285714285714,
+                        "f1-score": 0.578982353067307,
+                        "support": 231.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.7092382450026209,
+                        "recall": 0.6320346320346321,
+                        "f1-score": 0.655972855471108,
+                        "support": 231.0
+                    }
+                },
+                "model_cost": 2.16,
+                "serper_cost": 0.71
+            }
+        }
+    },
+    "urdufactchecktr": {
+        "factcheckbench": {
+            "gpt-4o": {
+                "classification_report": {
+                    "False": {
+                        "precision": 0.4158415841584158,
+                        "recall": 0.7924528301886793,
+                        "f1-score": 0.5454545454545454,
+                        "support": 159.0
+                    },
+                    "True": {
+                        "precision": 0.899390243902439,
+                        "recall": 0.625,
+                        "f1-score": 0.7375,
+                        "support": 472.0
+                    },
+                    "accuracy": 0.6671949286846276,
+                    "macro avg": {
+                        "precision": 0.6576159140304274,
+                        "recall": 0.7087264150943396,
+                        "f1-score": 0.6414772727272727,
+                        "support": 631.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.7775451775010132,
+                        "recall": 0.6671949286846276,
+                        "f1-score": 0.6891081976660425,
+                        "support": 631.0
+                    }
+                },
+                "model_cost": 10.3,
+                "serper_cost": 1.78
+            }
+        },
+        "bingcheck": {
+            "gpt-4o": {
+                "classification_report": {
+                    "False": {
+                        "precision": 0.3918918918918919,
+                        "recall": 0.6744186046511628,
+                        "f1-score": 0.49572649572649574,
+                        "support": 43.0
+                    },
+                    "True": {
+                        "precision": 0.7941176470588235,
+                        "recall": 0.5454545454545454,
+                        "f1-score": 0.6467065868263473,
+                        "support": 99.0
+                    },
+                    "accuracy": 0.5845070422535211,
+                    "macro avg": {
+                        "precision": 0.5930047694753577,
+                        "recall": 0.609936575052854,
+                        "f1-score": 0.5712165412764215,
+                        "support": 142.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.6723168902124991,
+                        "recall": 0.5845070422535211,
+                        "f1-score": 0.6009872634651247,
+                        "support": 142.0
+                    }
+                },
+                "model_cost": 5.65,
+                "serper_cost": 1.64
+            }
+        },
+        "factool_qa": {
+            "gpt-4o": {
+                "classification_report": {
+                    "False": {
+                        "precision": 0.4421052631578947,
+                        "recall": 0.75,
+                        "f1-score": 0.5562913907284768,
+                        "support": 56.0
+                    },
+                    "True": {
+                        "precision": 0.8985507246376812,
+                        "recall": 0.7005649717514124,
+                        "f1-score": 0.7873015873015873,
+                        "support": 177.0
+                    },
+                    "accuracy": 0.7124463519313304,
+                    "macro avg": {
+                        "precision": 0.670327993897788,
+                        "recall": 0.7252824858757062,
+                        "f1-score": 0.6717964890150321,
+                        "support": 233.0
+                    },
+                    "weighted avg": {
+                        "precision": 0.7888470944107797,
+                        "recall": 0.7124463519313304,
+                        "f1-score": 0.7317798233183503,
+                        "support": 233.0
+                    }
+                },
+                "model_cost": 3.22,
+                "serper_cost": 0.59
+            }
+        }
+    }
+}

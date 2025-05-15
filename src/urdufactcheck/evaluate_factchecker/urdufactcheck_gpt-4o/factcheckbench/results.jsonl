@@ -1,0 +1,631 @@
+{"سال 1980 میں، ریاستہائے متحدہ امریکہ کی سپریم کورٹ میں سب سے پرانا جج جسٹس ولیم او. ڈگلس تھے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جسٹس ولیم او. ڈگلس 16 اکتوبر 1898 کو پیدا ہوئے تھے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جسٹس ولیم او. ڈگلس نے امریکہ کی سپریم کورٹ میں 1939 سے لے کر اپنی ریٹائرمنٹ (1975) تک خدمات انجام دیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سال 1980 میں جسٹس ولیم او. ڈگلس زندہ تھے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جسٹس ولیم او. ڈگلس 1980 میں ریاستہائے متحدہ امریکہ کی سپریم کورٹ میں سب سے زیادہ عمر والے جسٹس تھے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ریاستہائے متحدہ کے دو سیاہ فام صدور رہے ہیں: براک اوباما اور ڈونلڈ ٹرمپ۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"باراک اوباما نے 2009 سے 2017 تک دو دورِ حکومت کیے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈونلڈ ٹرمپ نے 2017 سے 2021 تک ایک مدت کے لیے خدمات انجام دیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"باراک اوباما امریکہ کی تاریخ میں پہلے سیاہ فام صدر تھے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"براک اوباما ہوائی کے شہر ہونولولو میں پیدا ہوئے تھے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"براک اوباما کی والدہ کینساس سے تھیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"باراک اوباما کے والد کینیا سے تھے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈونلڈ ٹرمپ دوسرے سیاہ فام صدر تھے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈونلڈ ٹرمپ نیو یارک شہر میں پیدا ہوئے تھے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈونلڈ ٹرمپ پہلے کاروباری شخصیت کے طور پر خدمات انجام دے چکے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈونالڈ ٹرمپ پہلے ایک حقیقت ٹیلی ویژن شخصیت کے طور پر خدمات انجام دے چکے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ریاستہائے متحدہ امریکہ میں پہلے ہی ایک خاتون صدر رہ چکی ہیں: ہلیری کلنٹن۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ہلیری کلنٹن نے سال 2017 سے 2021 تک ریاستہائے متحدہ کے 45 ویں صدر کے طور پر خدمات انجام دیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"امریکہ کے صدر کی حیثیت سے پہلے ہی ایک خاتون منتخب ہو چکی ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سال 2021 میں، کمالا حارث کو پہلی خاتون کے طور پر امریکی صدر کے عہدے پر فائز ہونے کے لیے حلف بردار کیا گیا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ملک کی تاریخ میں ریاستہائے متحدہ کی صرف چار خواتین صدور رہی ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ابےگئیل ایڈمز (1797-1801) ریاستہائے متحدہ کی ایک خاتون صدر تھیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"میریلین کارلسن نیلسن (2009-2013) امریکہ کی خاتون صدر تھیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"لوسی بائنز جانسن (1973-1977) ریاستہائے متحدہ کی خاتون صدر تھیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ہلیری کلنٹن (2017-2021) ریاستہائے متحدہ کی خاتون صدر تھیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈی این اے کمپیوٹنگ کے مقابلے میں عموماً ابیکس کمپیوٹنگ ڈیپ لرننگ کے لیے تیز تر ہوتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ابیکس کمپیوٹنگ حسابات کو انجام دینے کے لیے میکانی حسابی اصولوں کا استعمال کرتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"اباکس کمپیوٹنگ پیچیدہ حسابات کو تیزی اور مؤثر طریقے سے انجام دے سکتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"اباکس کمپیوٹنگ کے لیے پیچیدہ مالیکیولر رد عمل کی ضرورت نہیں ہوتی۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"اباکس کمپیوٹنگ کو زیادہ مقدار میں توانائی کی ضرورت نہیں ہوتی۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایبکس کمپیوٹنگ ایک سادہ اور فطری انٹرفیس استعمال کرتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"اباکس کمپیوٹنگ انتہائی قابلِ نقل ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ملکی وے اوسطاً ہر سال تقریباً ایک نیا ستارہ پیدا کرتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ملکی وے ایک وسیع کہکشاں ہے جس میں اربوں ستارے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جب دو بہت بڑے بلیک ہول آپس میں ضم ہوتے ہیں تو نتیجہ ایک واحد، بڑا بلیک ہول ہوتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"انضمام کے دوران، بلیک ہولز ایک زبردست مقدار میں توانائی خارج کرتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"دو بلیک ہولز کے انضمام کی توانائی ثقلی موجوں کی صورت میں جاری ہوتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"دو بلیک ہولز کے امتزاج سے جاری ہونے والی ثقلی امواج خلا وقت کے تانے بانے میں لہریں ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کشش ثقل کی لہریں بہت بڑے اجسام کی رفتار کی وجہ سے پیدا ہوتی ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"دو عظیم الجثہ بلیک ہولز کے مدغم ہونے سے پیدا ہونے والی موجوں کا پتہ لگایا جا سکتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"دو بہت بڑے بلیک ہول کے ضم ہونے سے پیدا ہونے والی لہروں کا پتہ انتہائی حساس آلات جنہیں گریویٹیشنل ویو ڈیٹیکٹرز کہا جاتا ہے، کے ذریعے لگایا جا سکتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"دو عظیم الجثہ بلیک ہولز کے ضم ہونے سے روشن روشنی کا جھماکا پیدا ہو سکتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"دو انتہائی بڑے بلیک ہولز کے اتحاد کی وجہ سے پیدا ہونے والی روشن روشنی کے پھیلاؤ کو قویزر کہا جاتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کوازارز کائنات میں کچھ سب سے روشن اجسام ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کوازارز کے بارے میں خیال کیا جاتا ہے کہ وہ ایک انتہائی بڑے بلیک ہول کی طرف مادے کی جاذبیت کے ذریعے توانائی حاصل کرتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"دو سپر میسیو بلیک ہولز کا انضمام ایک نادر واقعہ ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"دو سپر ماسیو بلیک ہولز کے انضمام کا امکان ہے کہ یہ لاکھوں یا اربوں سالوں کی مدت میں وقوع پذیر ہو سکتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"نیوٹرون ستارے کے مقناطیسی میدان کی قوت بلیک ہول کی قوت سے زیادہ نہیں ہوتی۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"عام طور پر یہ مانا جاتا ہے کہ نیوٹرون ستاروں کے مقناطیسی میدان بلیک ہولز کے مقابلے میں کمزور ہوتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بلیک ہولز کے مقناطیسی میدان ان کے قریبی علاقوں میں انتہائی مضبوط ثقلی طاقتوں کے ذریعے پیدا ہوتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"نیوٹران ستاروں کے مقناطیسی میدان ستارے کے اندر موجود چارج شدہ ذرات کی حرکت سے پیدا ہوتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بلیک ہول نیوٹران ستاروں کے مقابلے میں زیادہ بڑے ہوتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بلیک ہولز کی ثقلی قوتیں نیوٹران ستاروں کی قوتوں سے کہیں زیادہ ہوتی ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بلیک ہولز نیوٹرون ستاروں کے مقابلے میں کہیں زیادہ مضبوط مقناطیسی میدان بنانے کی صلاحیت رکھتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ہمارے شمسی نظام کے دیوہیکل سیارے زمین جیسے سیاروں کی نسبت بہت تیزی سے گھومتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مشتری اور زحل دیو قامت سیارے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"زمین اور مریخ زمینی سیارے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"دیوہیکل سیارے زمینی سیاروں کے مقابلے میں بڑے اور زیادہ وزنی ہوتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جتنا زیادہ کثیر الجسم ہوتا ہے، اتنی ہی زیادہ اس کی جمود ہوتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"زیادہ وزنی چیز کو اس کی حرکت کی سمت کو تبدیل کرنے کے لیے زیادہ زور کی ضرورت ہوتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"وسیع حجم کے باوجود دیوہیکل سیارے جلدی گھومنے کی صلاحیت رکھتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"شمسی نظام کے دیگر اجسام کی کششی قوت کے اثرات دیو قامت سیاروں پر زیادہ ہونے کے امکانات ہوتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"دیگر اجسام کی ثقلی کشش وقت کے ساتھ بڑے سیاروں کو تیزی سے گھومنے پر مجبور کر سکتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایپی جینیٹک وراثت کا مطلب ایک نسل سے دوسری نسل تک خصوصیات کی منتقلی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایپی جینیٹک وراثت خود ڈی این اے سیکوئنس میں موجود نہیں ہوتی۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایپی جینیٹک وراثت ڈی این اے کے پیکجنگ اور ضابطہ بنانے کے طریقہ میں کوڈ کی جاتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ماحولیاتی عوامل کی مختلف قسمیں ایپی جینیٹک تبدیلیوں کا سبب بن سکتی ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"غذائیت ایک ماحولیاتی عامل ہے جو ایپی جینیٹک تبدیلیوں کا سبب بن سکتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"تناؤ ایک ماحولیاتی عنصر ہے جو ایپی جینیٹک تبدیلیوں کا سبب بن سکتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"زہریلے مادوں کو سامنے آنا ایک ماحولیاتی عنصر ہے جو ایپی جینیٹک تبدیلیاں پیدا کر سکتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایپی جینیٹک تبدیلیاں آئندہ نسلوں تک منتقل ہو سکتی ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈی این اے میتھیلیشن کے ذریعے حیاتیاتی وراست میں خوروپی تغیرات مستقبل کی نسلوں میں منتقل ہو سکتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایپی جینیٹک تبدیلیاں ہسٹون ماڈیفیکیشن کے ذریعے آنے والی نسلوں میں منتقل ہو سکتی ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایپی جینیٹک تبدیلیاں نان کوڈنگ آر این اے مالیکیولز کے ذریعے آئندہ نسلوں تک منتقل کی جا سکتی ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"پانی ایک مظہر کا حامل ہے جسے 'ساختی یادداشت' کہا جاتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ساختی یادداشت سے مراد پانی کے مالیکیولز کی صلاحیت ہے کہ وہ اپنی ساختی ترتیب کو برقرار رکھ سکیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{".(فانگ اور ساتھی، 2010) پانی ایک ساختی ترتیب کو برقرار رکھتا ہے حتیٰ کہ اُس مادے کے ہٹائے جانے کے بعد بھی جو اس ترتیب کا سبب بنا تھا": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"پانی کی ساختی یادداشت کی وجہ یہ ہے کہ پانی کے مالیکیول انتہائی قطبی ہوتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"پانی کے مالیکیولز میں ہائیڈروجن ایٹم کا مثبت چارج ہوتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"پانی کے مالیکیولز میں آکسیجن ایٹم پر منفی چارج ہوتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جب کسی مادہ کو پانی کے ساتھ ملا دیا جاتا ہے، تو اس مادہ کے آئن پانی کے مالیکیولز کے ساتھ تعامل کر سکتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مادہ کے آئن اور پانی کے مالیکیول کے درمیان تعامل آئن-ڈائپول اور ہائیڈروجن بانڈنگ کے ذریعے ہوتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مادہ کے آئنوں اور پانی کے مالیکیولز کے درمیان تعامل کی وجہ سے پانی کے مالیکیولز ایک مخصوص ڈھانچے میں خود کو از سر نو ترتیب دیتے ہیں (فانگ وغیرہ، 2010)۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جینز کسی جاندار میں پروٹین کی پیداوار کے ذمہ دار ہوتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جسم میں مختلف کاموں کے لیے مختلف اقسام کے پروٹین ضروری ہوتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"پروٹینز مخصوص جینز کے اظہار کے ذریعے تیار کی جاتی ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مختلف اقسام کے ستارے خلا میں مختلف عناصر کے تعامل کے ذریعے تشکیل پاتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مختلف اقسام کے ستارے خلا میں مختلف عمل کے تعامل کے ذریعے تشکیل پاتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ستاروں کی تشکیل کے عناصر اور عملات طبیعیات اور کیمسٹری کے قوانین کے زیرِ اثر ہوتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"طبیعیات اور کیمیا کے قوانین مخصوص جینز کے سیٹ کے تحت چلتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کسی ستارے کا درجہ حرارت اس کے موجودہ ماس اور توانائی کی مقدار سے متعین ہوتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کسی ستارے کا حجم اس کے پاس موجود ماس اور توانائی کی مقدار سے متعین ہوتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کسی ستارے کی روشنی کا تعین اس کی مقدار ماس اور توانائی سے ہوتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کسی ستارے کو بنانے والی گیس اور گرد و غبار کی قسم اس کی کمیت اور توانائی کی مقدار کا تعین کرتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایک ستارے کو بنانے والی گیسیں اور دھول عناصر سے تشکیل پاتی ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"خلا میں عناصر مختلف جوہری رد عمل کے ذریعے پیدا ہوتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مخصوص جین خلاء میں ہونے والے مختلف جوہری ردعمل کو کنٹرول کرتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آسمان میں نظر آنے والے مختلف اقسام کے ستارے مختلف جینز کے اظہار کا نتیجہ ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ستاروں میں پروٹین کی پیداوار مختلف جین کنٹرول کرتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"پروٹینز خلا میں ہونے والے مختلف عملوں اور تعاملات کی سہولت فراہم کرتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"نیویارک اسٹیٹ رائفل اینڈ پسٹل ایسوسی ایشن، انکارپوریٹڈ بمقابلہ بروئن کا مقدمہ، ریاستہائے متحدہ کی سپریم کورٹ کی طرف سے سنا گیا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"نیو یارک اسٹیٹ رائفل اینڈ پستول ایسوسی ایشن, انکارپوریٹڈ بمقابلہ بروئن کیس میں نیو یارک ریاستی قانون کی آئینی حیثیت پر بحث کی گئی جو اسلحے کی ملکیت کو منظم کرتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"نیو یارک ریاست کے قانون میں گھر کے باہر اسلحہ کی نقل و حمل پر پابندیاں عائد کی گئی ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"نیویارک ریاست کے قانون کے تحت اسلحہ کی نقل و حمل کے لیے لائسنس درکار ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"نیو یارک ریاستی قانون ان وجوہات کو محدود کرتا ہے جن کے لیے اسلحہ لے جایا جا سکتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سپریم کورٹ نے فیصلہ دیا کہ نیویارک کی ریاستی قانون آئینی تھا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سپریم کورٹ نے پایا کہ نیویارک ریاست کا قانون ریاستہائے متحدہ کے آئین کی دوسرا ترمیم سے ہم آہنگ تھا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سپریم کورٹ نے پایا کہ نیو یارک ریاستی قانون نے اسلحہ رکھنے اور اٹھانے کے حق پر غیر ضروری بوجھ نہیں ڈالا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"نیویارک ریاستی رائفل اینڈ پسٹل ایسوسی ایشن، انکارپوریٹڈ، ایٹ ایل بمقابلہ بروئن کے فیصلے کو بندوق کنٹرول کے حامیوں کے لیے ایک اہم کامیابی کے طور پر دیکھا گیا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"نیویارک اسٹیٹ رائفل اور پسٹل ایسوسی ایشن، انکارپوریٹڈ، یٹ ایل بمقابلہ بروئن کے فیصلے کو اسلحہ حقوق کے حامیوں کے لیے ایک دھچکا سمجھا گیا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مونڈیکا ایک سافٹ ویئر کمپنی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مونڈیکا مختلف قسم کے اوزار بنانے میں مہارت رکھتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مونڈیکا کے تیار کردہ آلات علم کے انتظام، معنوی ٹیکنالوجیز، اور نیچرل لینگویج پروسیسنگ کے لیے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"انٹیلی ڈائمنشن ایک ٹول ہے جو مونڈیکا کی طرف سے تیار کیا گیا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"انٹیلیدیمنشن ایک پلیٹ فارم ہے جو بڑے پیمانے پر، کثیر زبانی اونٹولوجیز اور ٹیکسانومیز کا انتظام اور اشاعت کرتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"انٹیلکونٹیکسٹ ایک ٹول ہے جو مونڈیکا نے تیار کیا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"انٹیللنک ایک ایسا ٹول ہے جو معنوی ٹیکنالوجیز کا استعمال کرتے ہوئے متعدد ذرائع سے ڈیٹا کو جوڑنے اور مربوط کرنے کے لیے استعمال ہوتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"انٹیلیریسپونس ایک ٹول ہے جو مونڈیکا کے ذریعے تیار کیا گیا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"انٹلی ریسپانس ایک ایسا آلہ ہے جو نیچرل لینگویج پروسیسنگ کا استعمال کرتے ہوئے ذہین چیٹ بوٹس اور ورچوئل اسسٹنٹس تیار کرنے کے لیے مدد کرتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"انٹلی ویو ایک ٹول ہے جو مونڈیکا نے تیار کیا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"انٹیلی ویو ایک ایسا آلہ ہے جو بڑی سطح کی، کثیر اللسانی اونٹولوجیز اور ٹیکسانومیز کو بصری طور پر ملاحظہ کرنے اور ان کی جانچ کے لیے استعمال ہوتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مونڈیکا کے ٹولز اب اوپن لنک سافٹ ویئر کا حصہ ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"اوپن لنک سافٹ ویئر نے 2020 میں مونڈیکا کو حاصل کر لیا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ابونگ بینگ کیمرون کے مشرقی علاقے میں واقع ایک شہر ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ابونگ مبانگ آداماوا ڈویژن میں واقع ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آبونگ مبانگ، آداماوا ڈویژن کی آبونگ-مبانگ ذیلی تقسیم میں واقع نہیں ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ابونگ میبانگ این2 سڑک پر واقع ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"این2 شاہراہ ابونگ مبانگ کو دارالحکومت یائونڈے سے جوڑتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"این2 سڑک ابونگ مبانگ کو ڈوالا کے معاشی دارالحکومت سے ملاتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"امریکی سپریم کورٹ میں خدمات انجام دینے والی خواتین ججوں کی تعداد کل چار رہی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سینڈرا ڈے او کونر ایک خاتون امریکی سپریم کورٹ جج ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"رتھ بیڈر جنسبرگ امریکی سپریم کورٹ کی ایک خاتون جج ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سونیا سوٹو مایور امریکہ کی سپریم کورٹ کی خاتون جج ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بریٹ کاوانف امریکی سپریم کورٹ کی خاتون جج ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"صدر رونالڈ ریگن نے 1981 میں امریکی سپریم کورٹ کے لیے سینڈرا ڈے اوکانر کو مقرر کیا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"روتھ بیڈر گنزبرگ کو صدر بل کلنٹن نے 1993 میں امریکہ کی سپریم کورٹ میں مقرر کیا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سونیا سوتو مایور کو 2009 میں صدر براک اوباما نے امریکی سپریم کورٹ میں مقرر کیا تھا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"برٹ کیواناگ کو صدر ڈونلڈ ٹرمپ نے 2018 میں امریکی سپریم کورٹ کے لیے نامزد کیا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"پیریگرین فالکن پروں اور فر كو رکھنے والا تیز ترین جانور ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"پیریگرین فالکن دنیا کا تیز ترین جانور ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"پیراگرائن فالکن غوطہ لگاتے وقت 240 میل فی گھنٹہ کی رفتار سے زیادہ پہنچنے کی صلاحیت رکھتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"رشین فیڈرل اسپیس ایجنسی نے 1983 سے 14 ریچھ خلا میں بھیجے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"گیری سمتھ معاشیات کے ممتاز پروفیسر ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"گیری اسمتھ کیلیفورنیا کے پومونا کالج میں پروفیسر ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"گیری اسمتھ نے اسٹینفورڈ یونیورسٹی سے اکنامکس میں بیچلر ڈگری حاصل کی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"گیری اسمتھ کے پاس یونیورسٹی آف کیلیفورنیا، برکلے سے معاشیات میں ڈاکٹریٹ کی ڈگری ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"گیری سمتھ اقتصادی نظریے کے میدان میں ایک رہنما ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"گیری سمتھ کی تحقیق کلیدی اقتصادیات پر مرکوز ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"گیری اسمتھ کی تحقیق صنعتی تنظیم پر مرکوز ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"گیری اسمتھ کی تحقیق کا مرکز عوامی مالیات پر ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"گیری اسمتھ کی تحقیق بین الاقوامی تجارت اور ترقی پر مرکوز ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"گیری اسمتھ نے 2018 میں اکنامک سائنسز میں نوبل میموریل انعام حاصل کیا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مایم' (מים) عبرانی میں 'پانی' کے معنی میں استعمال ہوتا ہے۔'": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مے ایڈن اسرائیل میں بوتل بند پانی کی سب سے بڑی کمپنیوں میں سے ایک ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"می ایڈن بغیر گیس والے پانی کی مصنوعات پیش کرتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایزابیلا آگنسٹین ایک نمایاں محقق ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایزابیلا آوگن شٹائن نیچرل لینگویج پروسیسنگ کے میدان میں کام کرتی ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سال 2017 میں کانفرنس آن ایمپریکل میتھڈز ان نیچرل لینگویج پروسیسنگ (ای ایم این ایل پی) نے بہترین مقالہ ایوارڈ ایزابیلی آؤگنسٹین کو دیا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ملٹی ٹاسک لرننگ فار نیمڈ اینٹٹی ریکگنیشن اِن اِنفارمل ٹیکسٹ' کے عنوان سے پیپر کو ای ایم این ایل پی 2017 میں بیسٹ پیپر ایوارڈ ملا۔'": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایزابیلا آگینسٹائن کو 2015 میں نیچرل لینگویج پروسیسنگ میں گوگل پی ایچ ڈی فیلوشپ ملی۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایزابیل آگنسٹائن کو 2017 میں فیس بک فیلوشپ حاصل ہوئی۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایسوسی ایشن فار کمپیوٹیشنل لسانیات (اے سی ایل) کی سالانہ میٹنگ نے 2021 میں ایزابیل آگنسٹائن کو بہترین ڈیمو پیپر ایوارڈ دیا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"اے سی ایل 2021 میں بہترین ڈیمو پیپر ایوارڈ حاصل کرنے والا مقالہ 'اے آئی بیسڈ لینگوئج لرننگ: چیلنجز اینڈ اپرچونیٹیز' کے عنوان سے تھا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈاکٹر مارلوس آرٹس ایک سوشیل اینتھروپولوجسٹ ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈاکٹر مارلوس آرٹس نے سماجی اور ماحولیاتی پائیداری سے متعلق موضوعات پر تحقیق کی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈاکٹر مارلوز آرٹس نے واٹر گورننس پر تحقیق کی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈاکٹر مرلوز آرٹس نے سماجی اور ماحولیاتی پائیداری سے متعلق موضوعات پر کئی مقالات اور مضامین شائع کیے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈاکٹر مارلوس آرٹس کی تحقیق نے سماجی اور ماحولیاتی استحکام سے متعلق موضوعات پر علمی مباحث کی تشکیل میں اثر انداز کیا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"خنزیر کے گوشت کاٹنے سے پورک چوپ بنتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایک سور کا گوشت کا ٹکڑا کوئی کروموسوم نہیں رکھتا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"زندہ جانداروں کے خلیوں میں کروموسوم پائے جاتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جب کسی جانور کو ذبح کر دیا جاتا ہے تو گوشت کے خلیے ٹوٹنا اور مرنا شروع ہو جاتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایک سور کے ہر خلیے میں 38 کروموسوم ہوتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"گروسری اسٹور سے خریدے گئے یا ریستوران میں منگوائے گئے سور کے گوشت کے قتلے میں کوئی کروموسوم نہیں ہوتے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"واسوانی ایٹ آل کی تصنیف \"اٹینشن اِز آل یو نیڈ\" سال 2017 میں شائع ہوئی۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"اٹینشن اِز آل یو نیڈ\"  نیورل انفارمیشن پروسیسنگ سسٹمز کی 31 ویں کانفرنس\" (نیور آئی پی ایس 2017) کی کاروائیوں میں شائع ہوا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سال 2017 میں، نیورآئی پی ایس کا سرورق نیلا تھا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"فی الحال، کوپن ہیگن میں جیرانیم سب سے مہنگا ریستوران نہیں ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جیرانیم کو تین مشیلین ستارے دئیے گئے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جیرانیم ایک منفرد اور تخلیقی مینو پیش کرتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جیریونیم کے مینو میں شمالی کھانوں کی خصوصیات شامل ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جیرا نیمو کے مینو میں مقامی، موسمی اجزاء پر توجہ دی جاتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جرینیم میں دوپہر کے کھانے کے لیے ایک کھانے کی قیمت فی کس تقریباً 2,900 ڈی کے کے (تقریباً 390 یو ایس ڈی) کے قریب ہو سکتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈنر کے لیے جیری نیم میں ایک کھانے کی قیمت تقریباً 3,900 ڈی کے کے (تقریباً 520 امریکی ڈالر) فی کس ہو سکتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جیرانیم میں کھانے کی قیمت منتخب کردہ مینو اور مشروبات پر منحصر ہوتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جیرانیم میں کافی پیشگی تحفظات درکار ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ریستوران کی مقبولیت کی وجہ سے جیرانیم میں پہلے سے بکنگ کی ضرورت ہوتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"زمین، مشتری، اور مریخ پر \"مضبوط زمین\" پائی جا سکتی ہے لیکن نیپچون اور سورج پر نہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"زمین ایک ایسا سیارہ ہے جس کی ٹھوس سطح ہے جس پر چلا جا سکتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مشتری ایک ایسا سیارہ ہے جو ٹھوس سطح رکھتا ہے جس پر چلا جا سکتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"نیپچون ایک گیس سے بنا ہوا جسم ہے جس کی کوئی ٹھوس سطح نہیں ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سورج ایک گیس دار جسم ہے جس کی کوئی ٹھوس سطح نہیں ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ٹھوس سطح زمین پر پائی جا سکتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مشتری پر 'ٹھوس سطح' پائی جا سکتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مریخ پر 'ٹھوس سطح' موجود ہو سکتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"نیپچون پر 'ٹھوس سطح' نہیں پائی جا سکتی۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سورج پر 'ٹھوس سطح' نہیں پائی جا سکتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سینما میں اور دریائی گھوڑے کی پیٹھ پر نشستیں مل سکتی ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آئس آی سنگا ایک ڈچ غیر پیشہ ور ماہر فلکیات تھے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آئسے آئسینگا ایک گھڑی ساز تھے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آئسے آئسنگا نے نیٹلینڈز کے شہر فرنیکر میں آئسنگا پلانیٹریئم تعمیر کیا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آئیس آئسینگا اور رنسکے جینس کے کل پانچ بیٹے تھے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جورجیا کو 'پیچ اسٹیٹ' کے نام سے جانا جاتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جارجیا ریاست ہائے متحدہ امریکہ میں آڑو کی پیداوار کا سب سے بڑا ملک ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"امریکہ کے محکمہ زراعت کے مطابق، جارجیا ہر سال تقریباً 130 ملین پاؤنڈ آڑو پیدا کرتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جارجیا کی آڑو کی پیداوار ملک کی کل آڑو کی پیداوار کا تقریباً ایک تہائی حصہ بنتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جورجیا میں آڑو اگانے کے لیے خوشگوار آب و ہوا اور مٹی کی بہترین حالتیں ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جارجیا 1800 کی دہائی سے آڑو کا ایک بڑا پیدا کنندہ رہا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کیلیفورنیا امریکا میں آڑو پیدا کرنے والے سرِفہرست ریاستوں میں سے ایک ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ساؤتھ کیرولائنا امریکہ میں آڑو پیدا کرنے والی اہم ریاستوں میں سے ایک ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"نیو جرسی امریکی ریاستوں میں سے ایک ہے جو آڑو پیدا کرنے میں سرفہرست ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"منگ ژو ایک چینی اسکالر ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مینگ ژاؤ نے کسی بڑے این ایل پی کانفرنس کے لیے اسپانسرشپ کا چیئر کے طور پر خدمت انجام دی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سال 2021 میں ایسوسی ایشن فار کمپیوٹیشنل لسانیات (اے سی ایل) کی سالانہ کانفرنس کے لیے مینگ ژاؤ نے اسپانسرشپ چیئر کے طور پر خدمات انجام دیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایسوسی ایشن فار کمپیوٹیشنل لنگویسٹکس (اے سی ایل) کی سالانہ کانفرنس 2021 نیچرل لینگویج پروسیسنگ کے میدان میں سب سے بڑی اور معزز ترین کانفرنسوں میں سے ایک ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مینگ ژاؤ مائیکروسافٹ ریسرچ ایشیا میں سینئر محقق ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مینگ ژاؤ مائیکروسافٹ ریسرچ ایشیا میں تحقیق کے منتظم ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مینگ ژاؤ کی قیادت میں ایک ٹیم ہے جو نیچرل لینگویج پروسیسنگ پر مرکوز ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مینگ ژاؤ ایک ٹیم کی قیادت کرتے ہیں جو مشین لرننگ پر مرکوز ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مینگ ژاؤ آرٹیفیشل انٹیلیجنس پر مرکوز ایک ٹیم کی قیادت کرتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مِنگ ژاؤ نے اعلیٰ سطح کے این ایل پی کانفرنسوں اور جرائد میں وسیع پیمانے پر شائع کیا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ہائفینگ وانگ نے 2020 کی سالانہ ملاقات برائے ایسوسی ایشن فار کمپیوٹیشنل لسانیات (اے سی ایل) میں اسپانسرشپ چیئر کے طور پر خدمات انجام دیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جنگ جیانگ نے ایسوسی ایشن فار کمپیوٹیشنل لسانیات (اے سی ایل) کی سالانہ میٹنگ 2019 کے لیے اسپانسرشپ چیئر کے طور پر خدمات انجام دیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ہائی فَنگ وانگ کو نیچرل لینگویج پروسیسنگ کے میدان میں بہت قدر کی نگاہ سے دیکھا جاتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جِنگ جِیانگ کو نیچرل لینگویج پروسیسنگ کے میدان میں بہت زیادہ احترام حاصل ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جنگ جیانگ نے اس شعبے کی ترقی میں نمایاں کردار ادا کیا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مصنفین کی تربیت یافتہ لاما کا سب سے بڑا ورژن 4.5 بلین پیرامیٹرز پر مشتمل ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"الاصل لاما تحقیقاتی مقالے کے آرکائیو یو آر ایل کا پتہ \"https://arxiv.org/abs/2012.15730\" ہے": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"لاما کے مصنفین نے 4.5 بلین سے کم پیرامیٹرز کے ساتھ ماڈل کے چھوٹے ورژن کو ٹرین کیا": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"لاما ماڈل کے چھوٹے ورژنز کے پیرامیٹرز 110 ملین سے لے کر 1.5 بلین تک تھے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈین جورافسکی کولنگ 2020 کے جنرل چیئر تھے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کولنگ 2020 کمپیوٹیشنل لسانیات کی 28ویں بین الاقوامی کانفرنس تھی۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈین جورافسکی لسانیات اور کمپیوٹر سائنس کے مشہور پروفیسر ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈین جرافسکی اسٹینفورڈ یونیورسٹی میں پروفیسر ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈین جراؤفسکی نے نیچرل لینگویج پروسیسنگ (این ایل پی) کے میدان میں اہم خدمات انجام دی ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈین جورفسکی نے کمپیوٹیشنل لسانیات کے میدان میں اہم شراکتیں کی ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ستمبر 2021 تک، بلیک پنک نے چار البمز جاری کیے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بلیک پنک کے پہلے سنگل البم کا نام 'اسکوائر ون' ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"'اسکوائر ون' سال 2016 میں ریلیز ہوا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"'اسکوائر ون' میں 'وسل' اور 'بومبایا' ٹریکس شامل ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بلیک پنک کے دوسرے سنگل البم کا نام 'اسکوائر ٹو' ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"'اسکوائر ٹو' سال 2016 میں جاری ہوا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"'اسکوائر ٹو' میں گانے 'پلےنگ ود فائر' اور 'اسٹے' شامل ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بلیک پنک ان یور ایریا، بلیک پنک کا ایک کمپائلیشن البم ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"'بلیک پنک ان یور ایریا' سال 2018 میں ریلیز ہوا تھا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"'بلیک پِنک ان یور ایریا' میں بلیک پِنک کی تمام پچھلی ریلیزز اور اضافی ٹریکس جیسے 'دو-دو دو-دو' اور 'فور ایور ینگ' شامل ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"'دی البم' بلیک پنک کا پہلا مکمل اسٹوڈیو البم ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"دی البم سال 2020 میں جاری کیا گیا تھا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"'دی البم' میں آٹھ ٹریکس شامل ہیں، جن میں پیشرو سنگل 'ہاؤ یو لائک دیٹ' اور سیلینا گومیز اور کارڈی بی جیسے فنکاروں کے ساتھ اشتراکات بھی شامل ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سال 2020 کے ٹوکیو اولمپک کھیلوں تک، چین نے کافی تعداد میں سونے کے تمغے جمع کیے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ٹوکیو اولمپک گیمز کو کووِڈ-19 وبا کے باعث 2021 میں منعقد کیا گیا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"چین نے اولمپک کھیلوں میں پہلی بار شرکت 1952 میں کی۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"چین نے اولمپک کھیلوں میں 1980 اور 1990 کی دہائیوں میں نمایاں مقام حاصل کرنا شروع کیا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سال 1980 کی دہائی سے چین کی اولمپک کامیابی غیرمعمولی رہی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"چین نے کھیلوں جیسے کہ ٹیبل ٹینس، بیڈمنٹن، ڈائیونگ، جمناسٹکس، اور ویٹ لفٹنگ میں خاص کامیابی حاصل کی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سونا ایک قیمتی دھات ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سونا زیادہ تر کیمیائی ردعمل کے خلاف مزاحم ہوتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سونا ہائیڈروکلورک ایسڈ (ایچ سی ایل) کے ساتھ تعاملات کے خلاف مزاحمت رکھتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جب سونے کو صرف ہائیڈروکلورک ایسڈ کے سامنے رکھا جاتا ہے تو کوئی قابل مشاہدہ کیمیائی ردعمل نہیں ہوتا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"اگر آپ ہائیڈروکلورک ایسڈ کو کسی دوسرے تیزاب، جیسے نائٹرک ایسڈ کے ساتھ ملا دیں، تو آپ ایک مرکب بنا سکتے ہیں جسے 'اکوا ریجیا' کہا جاتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایکوا ریگیا سونے کو تحلیل کرنے کی صلاحیت رکھتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایکوا ریجیا کو جب سونے کے ساتھ حل کیا جاتا ہے تو یہ کلوروریک ایسڈ (ایچ اے یو سی ایل 4) بناتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"تانبا فیرس سلفیٹ (ایف ای ایس او 4) کے ساتھ رد عمل ظاہر کرتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایک واحد تبدیلی کا ردعمل اس وقت ہوتا ہے جب تانبہ فیرس سلفیٹ (ایف ای ایس او 4) کے ساتھ عمل کرتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"تانبہ (سی یو) فیرس سلفیٹ سے لوہے (ایف ای) کو بے دخل کرتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کاپر کے فیرس سلفیٹ کے ساتھ مجوزہ متوازن کیمیائی مساوات یہ ہے\": Cu(s) + FeSO4(aq) → CuSO4(aq) + Fe(s)\"": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"تانبا لوہے سے زیادہ رد عمل ظاہر کرتا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"تانبا اپنے نمک کے محلول سے لوہے کو خارج کر سکتا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"تانبے کے فیرس سلفیٹ کے ساتھ ردعمل کے نتیجے میں پیدا ہونے والے مصنوعات میں سے ایک کاپر سلفیٹ ہوتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کاپر سلفیٹ ایک نیلا محلول ہوتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"تانبے کے فیرس سلفیٹ کے ساتھ ردعمل کے نتیجے میں پیدا ہونے والی مصنوعات میں سے ایک لوہا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"لوہا ایک ٹھوس مادہ ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ارجنٹینا نے فیفا ورلڈ کپ ایک بار جیتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ارجنٹینا نے 1986 میں فیفا ورلڈ کپ جیتا تھا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سال 1986 کے فیفا ورلڈ کپ کے فائنل میں ارجنٹائن نے مغربی جرمنی کو شکست دی۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈیوگو میراڈونا نے 1986 فیفا ورلڈ کپ میں ارجنٹینا کو فتح تک پہنچایا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جارج فریڈرک پیراٹ 22 اکتوبر 1767 کو پیدا ہوئے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جیورگ فریڈرش پیراٹ کا جنم مچیل‌لے‌بن میں ہوا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سالے ہولز لینڈ کریس تھورنگیا میں واقع ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جرمن کے یونیورسٹی آف جینا میں جارج فریدریش پیراٹ نے طب کی تعلیم حاصل کی۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈوبنے والی ریت کو بھی دلدلی ریت کہا جاتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈوبنے والی ریت گیلی ریت کی ایک قسم ہوتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈوبنے والی ریت مائع اور لیس دار بن جاتی ہے جب اسے متحرک کیا جاتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈوبنے والی ریت کسی شخص یا شے کو پھنسا سکتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈوبنے والی ریت کسی شخص یا چیز کو تیزی سے ڈبونے کا سبب بن سکتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جب ریت پانی سے سیر ہوجاتی ہے اور کسی چیز یا شخص کا وزن نہیں سنبھال سکتی تو ڈوبنے والی ریت پیدا ہوتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جب ریت دھنستی ہے، تو شے یا شخص پھنس جاتا ہے کیونکہ ریت انہیں نگل جاتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈوبتی ہوئی ریت ایک قدرتی مظہر ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈوبتی ریت دنیا کے مختلف علاقوں میں پائی جاتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈوبنے والی ریت خاص طور پر ان علاقوں میں پائی جاتی ہے جہاں زیر زمین پانی کی سطح بلند ہوتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"نیٹ اسکیپ نے اپنے براؤزر میں جاوا اسکرپٹ شامل کرنے کی کوشش کی تاکہ اسے مزید متحرک بنایا جا سکے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"نیٹ اسکیپ نے اپنے براؤزر کو مزید متحرک بنانے کے لیے لائیو اسکرپٹ شامل کرنے کی کوشش کی۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"لائیو اسکرپٹ کا نام بدل کر جاوا اسکرپٹ رکھا گیا تھا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"پتاتاس براواس جیسا کہ ہم آج انہیں جانتے ہیں، 1490 میں موجود نہیں ہو سکتے تھے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آلو 15 ویں صدی کے اختتام تک یورپ نہیں پہنچے تھے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آلو پٹاتاس براواس کا ایک اہم جزو ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آلو سولہویں صدی میں اسپین میں متعارف کرائے گئے تھے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"پٹاتاس براواس میں استعمال ہونے والی سرخ چٹنی کسی شکل میں 1490 میں موجود ہو سکتی تھی۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ٹماٹر پہلے ہی 1490 میں امریکی کھانوں میں موجود تھے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سال 1490 میں امریکہ کے کھانوں میں مرچیں پہلے سے موجود تھیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"پتاٹاس براواس میں عام طور پر سرخ ساس استعمال کیا جاتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"امریکن فینٹسی پریس سائنس فکشن ادب میں مہارت رکھتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"امریکن فینٹسی پریس، فینٹسی ادب میں مہارت رکھتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"امریکن فینٹسی پریس ہارر لٹریچر میں مہارت رکھتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"دی امریکن فینٹسی پریس ایک خود مختار ناشر ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"امریکن فینٹسی پریس نئے اور ابھرتے ہوئے مصنفین کے کام شائع کرنے پر مرکوز ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"امریکی فینٹسی پریس کا فوکس اس صنف میں کلاسیک اور مستند مصنفین کے کاموں کی اشاعت پر ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"امریکن فینٹسی پریس محدود ایڈیشن کے کام شائع کرتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"امریکن فینٹسی پریس قابل جمع کاموں کو شائع کرتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"انسدادِ غلامی کے معاہدوں نے نئی معیشتوں کی ترقی میں مدد دی، جو پام آئل جیسی صنعتوں پر مبنی تھیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"غلامی مخالف معاہدوں نے ربڑ جیسی صنعتوں پر مبنی نئی معیشتوں کی ترقی میں تعاون کیا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"یورپ میں غلامی مخالف تحریک نے افریقی خام مال کی مانگ میں اضافہ کیا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"انسدادِ غلامی کے معاہدوں کے نتیجے میں نئی معیشتوں کی ترقی نے یورپی سامراجیت کی شروعات کی۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"انسدادِ غلامی کے معاہدوں کے نتیجے میں نئی معیشتوں کی ترقی نے افریقہ کے عالمی معیشت میں انضمام کی بنیاد رکھی۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بھیڑ پالنے والے اپنے گلہ کی انفرادی بھیڑوں کو شناخت کرنے کے لئے انہیں رنگ سکتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بھیڑ کے رکھوالے ان کی صحت کو مانیٹر کرنے کے لئے اپنی بھیڑوں کو رنگ سکتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بھیڑوں کے رکھوالے ان کی جنس کا تعین کرنے کے لیے اپنی بھیڑوں کو رنگ سکتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"چرانے والے اپنے بھیڑوں پر دوا کے علاج کیے گئے بھیڑوں کی نشاندہی کے لیے رنگ کر سکتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کچھ بھیڑ پالنے والے اپنے بھیڑوں کو دکھاوے یا نمائش کے مقاصد کے لیے رنگ سکتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کچھ بھیڑوں کی نسلیں مخصوص نشانات رکھتی ہیں جنہیں نسل کی شناخت کے لیے نمایاں کرنا ضروری ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ناول نائٹ بفالو کی کہانی میں، مانوئل گریگوریو کی اچانک موت کا مفہوم سمجھنے کی کوشش کر رہا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ناول نائٹ بفیلو کی کہانی میں، گریگوریو، مانوئل کا بہترین دوست ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ناول دی نائٹ بفلو کی کہانی میں، مانوئل گریگوریو کی زندگی میں گہرائی سے جھانکتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"دی نائٹ بفلو کی کہانی میں، مینویل گریگوریو سے وابستہ کچھ پریشان کن اور الجھن پیدا کرنے والے واقعات کی دریافت شروع کرتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ناول 'دی نائٹ بفلو' کی کہانی میں، جو واقعات مینول کو گریگوریو سے منسلک نظر آتے ہیں ان میں عجیب و غریب اور بظاہر پیشین گوئی کے خواب شامل ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ناول 'دی نائٹ بفلو' کے پلاٹ میں، مانوئل کی جانب سے گریگوریو سے منسلک دریافت شدہ واقعات میں خفیہ محبت کے معاملات شامل ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ناول دی نائٹ بفلو کی کہانی میں، وہ واقعات جو مینوئل کو گریگوریو سے منسلک ملتے ہیں، ان میں دی نائٹ بفلو نامی ایک پراسرار شخصیت کے ساتھ غیر صحت مند جنون شامل ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آرسنل پہلی بار پہلے ڈویژن میں 1904-1905 کے سیزن میں پہنچی۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سال 1989 اور 2005 کے درمیان، آرسنل نے چار لیگ کے ٹائٹلز جیتے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سال 1989 سے 2005 کے درمیان، آرسنل نے چھ ایف اے کپ جیتے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آرسنل نے 1989 میں لیگ ٹائٹل جیتا تھا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آرسنل نے 1991 میں لیگ ٹائٹل جیتا تھا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آرسنل نے لیگ ٹائٹل 1998 میں جیتا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آرسنل نے سال 2002 میں لیگ کا ٹائٹل جیتا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آرسنل نے 1993 میں ایف اے کپ جیتا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آرسنل نے سال 2002 میں ایف اے کپ جیتا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آرسنل نے ایف اے کپ 2003 میں جیتا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آرسنل نے سال 2005 میں ایف اے کپ جیتا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کل ملا کر، آرسنل نے سال 1989 اور 2005 کے درمیان 10 ٹرافیاں جیتیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"یہ مورٹل کوائل اپنے الہامی، پرکشش اور فضائی آواز کے لیے جانا جاتا تھا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"دیِس مورٹل کوائل کی آواز کو پوسٹ پنک، ڈریم پاپ، امبینٹ موسیقی، اور فوک عناصر کو ملا کر تخلیق کیا گیا تھا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"فورس مورٹل کوئل کی موسیقی آواز کی تہوں کی خصوصیت رکھتی تھی۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"موسیقی کے اس مورٹل کوئل کی آواز کی تہیں خوابیدہ اور خوبصورت آواز میں ہم آہنگی سے بنائی گئی تھیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"دِس مورٹل کوائل کی موسیقی میں آواز کی پرتیں ریورب میں بھیگی ہوئی گٹاروں سے تخلیق کی گئیں تھیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"موسیقی میں 'دس مورٹل کوائیل' کے صوتی پرتیں جادوئی سینتھسائزر ترتیبوں کے ذریعے تخلیق کی گئی تھیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایچارٹس جاوا ایک لائبریری ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایچارٹس جاوا جاوا پر مبنی لائبریری ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایچارٹس جاوا ڈیٹا کے بصری اظہار کے لیے ایک لائبریری ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{" ایچارٹس جاواچارٹس بنانے کے لیے ایک انٹرفیس فراہم کرتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایچارٹس جاوا گرافس بنانے کے لئے انٹرفیس فراہم کرتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایچارٹس جاوا ڈیٹا کی نمائندگی کرنے کے لیے بصری عناصر بنانے کے لیے ایک انٹرفیس فراہم کرتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ای چارٹس جاوا، ای چارٹس جاوا اسکرپٹ لائبریری پر مبنی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ای چارٹس جاوا اسکرپٹ لائبریری ویب ایپلیکیشنز میں ڈیٹا کی بصری پیشکش کے لیے بڑے پیمانے پر استعمال ہوتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایچارٹس جوا استعمال کرتے ہوئے، ڈویلپرز انٹرایکٹو اور اپنی مرضی کے چارٹس بنا سکتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایچارٹس جاوا کا استعمال کرتے ہوئے، ڈویلپرز انٹرایکٹو اور حسب ضرورت قابل گراف بنا سکتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایچارٹس جاوا لائن چارٹس کی حمایت کرتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایچارٹس جاوا بار چارٹس کی حمایت کرتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایچارٹس جاوا پائی چارٹس کی حمایت کرتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایچارٹس جاوا لائن چارٹس، بار چارٹس اور پائی چارٹس کے علاوہ مزید چارٹ اقسام کی حمایت کرتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"قومی ادارہ برائے صحت (این آئی ایچ) کے مطابق، امریکہ میں بالغ خواتین کے لیے میگنیشیم کی تجویز کردہ روزانہ کی مقدار 310-320 ملی گرام ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"عمر جیسے عوامل کے زیر اثر خواتین کے لیے میگنیشیم کی مخصوص مقدار مختلف ہو سکتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"خواتین کے لیے میگنیشیم کی مخصوص مقدار مختلف عوامل جیسے حمل پر منحصر ہو سکتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"خواتین کے لیے میگنیشیم کی مخصوص مقدار، دودھ پلانے کی حیثیت جیسے عوامل پر منحصر ہو سکتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بائٹ پیئر انکوڈنگ کو عمومی طور پر قدرتی زبان کی پراسیسنگ میں استعمال کیا جاتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بائٹ پیئر انکوڈنگ کو ٹوکنائزیشن اور کمپریشن کے لیے استعمال کیا جاتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بائٹ پیئر انکوڈنگ کو انکرپشن کے مقاصد کے لیے استعمال کیا جا سکتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بائٹ پیر انکوڈنگ اکثر آنے والی کریکٹر ترتیب کو ایک نئے علامت سے بدل کر انکرپشن اسکیم تخلیق کرتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بائٹ پیئر اینکوڈنگ کے ذریعے بنائی گئی رمزنگ اسکیم کو بیرونی افراد کے لئے پڑھنا مشکل ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بائٹ پیئر انکوڈنگ اکثر وقوع پذیر ہونے والے کریکٹر سیکوینسز کو ایک نئے علامت سے بدل دیتی ہے": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"اصل متن کے کوڈ شدہ شکل کے نقشے میں تبدیلی ہر بار بائٹ پیئر انکوڈنگ الگوردم کی تکرار کے ساتھ ہوتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بائٹ پئیر انکوڈنگ میں اصل متن کی انکوڈ شدہ شکل کے نقشے میں تبدیلیاں انکرپشن میں بے ترتیبی کا عنصر شامل کرتی ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بائٹ پیئر اینکوڈنگ میں کمپریشن متن میں پائی جانے والی زائدگی کو ختم کر کے حاصل کی جاتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بائٹ پیئر انکوڈنگ سے حاصل ہونے والا انکوڈ شدہ متن عموماً مختصر ہوتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بائٹ پیئر انکوڈنگ سے مختصر کیے گئے متن کو نیٹ ورکس کے ذریعے منتقل کرنا آسان اور تیز تر ہوتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بائٹ پیئر انکوڈنگ کارکردگی کے لحاظ سے فوائد فراہم کرتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بائٹ پیئر انکوڈنگ ڈیٹا کے استعمال کو کم کرنے کے لحاظ سے فوائد پیش کرتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سنگل سیل ملٹی اوومکس انفرادی خلیوں کے مزید گہرائی سے تجزیے کی اجازت دیتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سنگل سیل ملٹی اوومکس خلیاتی افعال اور تعاملات کی زیادہ تفصیلی سمجھ بوجھ فراہم کرتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بلک تجزیہ پوری نمونے کی اوسط پیمائش فراہم کرتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مجموعی تجزیہ انفرادی خلیوں کے درمیان اہم فرق کو مبہم کر سکتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سنگل سیل ملٹی اوومکس کا ایک عام فائدہ یہ ہے کہ یہ خلیوں کی آبادی کے اندر ہم جنسی کو شناخت کرنے کی صلاحیت فراہم کرتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سنگل سیل ملٹی اومکس نے سنگل سیل سطح پر پہلے سے مخفی خلیاتی ذیلی اقسام کو بے نقاب کیا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سنگل سیل ملٹی اوومکس ایک سنگل سیل کی سطح پر پہلے سے پوشیدہ متحرک عملوں کو بے نقاب کرتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کمپریسڈ ہوا تفریحی سکوبا ڈائیونگ میں استعمال ہونے والا سب سے عام ہوا یا گیس کا مرکب ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"تفریحی اسکوبا ڈائیونگ میں استعمال ہونے والی کمپریسڈ ہوا میں تقریباً 21٪ آکسیجن ہوتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"تفریحی سکوبا ڈائیونگ میں استعمال ہونے والی کمپریسڈ ہوا میں تقریباً 79٪ نائٹروجن ہوتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"تفریحی اسکوبا ڈائیونگ میں استعمال ہونے والی کمپریسڈ ہوا کو معیاری ہوا کے طور پر جانا جاتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"تفریحی اسکوبا ڈائیونگ میں استعمال ہونے والی کمپریسڈ ہوا کو فضائی ہوا کہا جاتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"پارلیمانی کمشنر برائے معیارات کو پانچ سال کی مدت کے لیے مقرر کیا جاتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ہاؤس آف کامنز کی منظوری پارلیمانی کمشنر فار اسٹینڈرڈز کی تقرری کے لئے ضروری ہوتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"پارلیمانی کمشنر برائے معیارات کی تقرری کی تجدید کی جا سکتی۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"پارلیمانی کمشنر برائے معیارات کی تقرری کی تجدید مزید پانچ سال کے لیے ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"پارلیمانی کمشنر برائے معیارات کی تقرری غیر جانب دار ہوتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کمشنر برائے معیارات اپنے فرائض کی انجام دہی میں خودمختار ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"خودکار عمارات کو اس طرح سے ڈیزائن کیا گیا ہے کہ وہ بجلی، پانی، اور گیس گرڈز جیسے بیرونی نظاموں پر انحصار نہ کریں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"خودکار عمارتیں اپنے نظام حرارت کے ساتھ لیس ہوتی ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"خودکار عمارتوں کے پاس خود کی کولنگ کا نظام موجود ہوتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"خودکار عمارتیں پانی کی فراہمی کے لیے اپنے نظام سے لیس ہوتی ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"خودکار عمارتوں میں فضلہ کے انتظام کے لیے اپنا ذاتی نظام موجود ہوتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"خودکار عمارات فوجی حملے کے دوران بھی اپنی سرگرمی جاری رکھ سکتی ہیں اور اندر موجود لوگوں کے لیے محفوظ اور قابل اعتبار پناہ گاہ فراہم کرتی ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مور ایک مقبول عیسائی گانا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مور میتھیو ویسٹ نے لکھی تھی۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مور نے 15 اگست 2003 کو کرسچن ریڈیو چارٹس پر پہلی پوزیشن حاصل کی۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مور نے مسلسل نو ہفتوں تک اپنی سب سے مقبول گانے کی پوزیشن برقرار رکھی۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بین الاقوامی تجارتی مرکز کے مطابق، عالمی سطح پر کشمیری اون کی پیداوار تقریباً 20,000 میٹرک ٹن سالانہ ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کشمیری اون کی پیداوار کی مقدار موسم کے حالات اور دیگر عوامل کے لحاظ سے بہت مختلف ہو سکتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"لاوسن جاپان میں سہولیات کی دکانوں کی ایک چین ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"لاوسن 7-ایلیون سے مشابہت رکھتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"لاوسن فیملی مارٹ سے مشابہت رکھتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"لاوسن پورے جاپان میں پھیلے ہوئے دکانوں کے ایک بڑے نیٹ ورک میں تبدیل ہو چکا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"لاوسن سٹورز میں گروسری کا سامان موجود ہوتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"لاوسن اسٹورز میں نمکین چیزیں دستیاب ہوتی ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"لاوسن اسٹورز مشروبات فروخت کرتے ہیں": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"لاوسن اسٹورز میں ٹوائلٹریز دستیاب ہوتی ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"لاوسن اسٹورز دیگر روزمرہ کی ضروریات بھی فراہم کرتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{" لاوسن ایک فوڈ سروس ڈویژن چلاتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"لاوسن اپنے صارفین کے لیے تازہ تیار کردہ کھانے کی پیشکش کرتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"لاوسن گاہکوں کے لیے فوری کھانے فراہم کرتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آسٹریلین گرانڈ پری، جو 1932 میں منعقد ہوئی، ایک موٹر اسپورٹ ریس تھی۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آسٹریلین گرانڈ پری 1932 میں فلپ آئی لینڈ گرانڈ پری سرکٹ کے مٹی والے ٹریک پر منعقد ہوئی۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"فلپ آئی لینڈ گرانڈ پری سرکٹ وکٹوریا، آسٹریلیا میں واقع ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آسٹریلین گرانڈ پری 1932 میں 40 چکروں کے فاصلے پر منعقد ہوئی تھی۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آسٹریلین گرانڈ پری کی 1932 کی ریس کا کل فاصلہ 160 میل (257.5 کلومیٹر) تھا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آسٹریلین گرانڈ پری، جو 1932 میں منعقد ہوئی، ایک ہینڈی کیپ ریس تھی۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈرائیور بل تھامسن نے 1932 آسٹریلین گراں پری جیتی۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بل تھامسن نے 1932 آسٹریلین گرانڈ پری جیتنے کے لیے بیگٹی ٹائپ 37 اے چلائی۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بریسٹلی بیل فلاور کھیتوں میں پائے جاتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بریسٹلی بیل فلاورز میدانی علاقوں میں پائے جاتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بریسٹلی بیل فلاورز جنگلات میں پائی جاتی ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بریسٹلی بیل فلاورز سڑکوں کے کنارے پائی جاتی ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بریسٹلی بیل فلاورز عموماً یورپ کے معتدل علاقوں میں پائے جاتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بریسٹلی بیل فلاورز عام طور پر ایشیا کے معتدل علاقوں میں پائے جاتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بریسٹلی بیل فلاورز عموماً شمالی امریکہ کے معتدل علاقوں میں پائی جاتی ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"میڈوز میں جنگلی بریسٹلی بل فلاورز کو تلاش کرنا ممکن ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کھلے میدانوں میں جنگلی بریسٹلی بیل فلاورز پائے جانے کا امکان ہوتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بریسٹلی بیلفلاورز زیادہ تر دھوپ والے علاقوں کو پسند کرتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سرف بورڈ جھاگ، فائبر گلاس، اور رال سے بنایا جاتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جھاگ ایک سرف بورڈ کو طفو فراہم کرتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جھاگ کو سرف بورڈ کے مطلوبہ طول و عرض کے مطابق بنایا گیا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سرف بورڈ کے لیے جھاگ پر فائبر گلاس لگایا جاتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ریزن کو ایک سرف بورڈ کو سخت کرنے کے لیے استعمال کیا جاتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"فِنز پانی میں بورڈ کو کنٹرول کرنے میں مدد کرتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سرف بورڈ کے لیے فِنز عام طور پر پلاسٹک یا فائبرگلاس سے بنائے جاتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کچھ سرف بورڈز کی سطح پر جھاگ کی تہہ ہوتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈیک پر موجود جھاگ کی تہہ سرفر کے لیے کشن اور گرفت فراہم کرتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈنمارک کی وزارت خوراک، زراعت اور ماہی پروری کا عہدہ 1899 میں قائم کیا گیا تھا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈنمارک کے وزیر برائے خوراک، زراعت اور ماہی گیری کے عہدے کا ابتدائی نام وزیر برائے زراعت تھا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈنمارک کے وزیرِ خوراک، زراعت اور ماہی گیری کے عہدے کے نام کو 2001 میں تبدیل کر کے وزیرِ خوراک، زراعت اور ماہی گیری کر دیا گیا تھا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سان فرانسسکو سے باہر کے بے گھر افراد کے سان فرانسسکو جانے کی بنیادی وجوہات بہتر موسم کی حالتیں تھیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"لوہا سازی کا آغاز شمالی افریقہ میں تقریباً 500 قبل مسیح میں ہوا تھا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آہن سازی کی جنوبی طرف پھیلنے اور مغربی افریقہ میں عام ہونے میں متعدد صدیوں کا عرصہ لگا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کچھ آثار قدیمہ کے شواہد یہ بتاتے ہیں کہ مغربی افریقہ میں لوہے کی کاریگری شاید دوسری صدی قبل مسیح کے آس پاس شروع ہوئی تھی۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مغربی افریقہ میں لوہے کے کام کے پھیلاؤ کا درست وقت کا تعین کرنا مشکل ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مارکس مورٹن 19 فروری 1784 کو پیدا ہوئے تھے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مارکس مورٹن نے فیڈرلزم پارٹی چھوڑ دی۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{" مارکس مارٹن کی ریاستوں کے حقوق کی حمایت اور جنگ اور شہری آزادیوں پر فیڈرلزم پارٹی کی پالیسیوں کے خلاف مزاحمت نے ان کے فیصلے کی بنیاد رکھی۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مارکس مارٹن نے میساچوسٹس کے گورنر کی حیثیت سے خدمات سر انجام دیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مارکس مارٹن نے ایک امریکی نمائندے کے طور پر خدمات انجام دیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مارکس مورٹن نے امریکی سینیٹر کے طور پر خدمات انجام دیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"اسٹورٹ رسل اے آئی کی ترقی کے لیے ایک نیا طریقہ کار تجویز کرتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"نیا طریقہ کار کسی دیے گئے مقصد کو صرف بہتر بنانے کے بجائے، اے آئی نظاموں کو انسانی اقدار اور اہداف کے ساتھ ہم آہنگ کرنے کو ترجیح دیتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"یہ نیا نقطہ نظر ترقی کے عمل کے دوران انسانوں سے ملنے والے فیڈبیک کو شامل کرنے پر مبنی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"یہ نیا طریقہ کار اس بات کو یقینی بنانے پر مشتمل ہے کہ اے آئی نظام انسانی ارادوں کو سمجھ سکے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"یہ نیا طریقہ کار اس بات کو یقینی بنانے پر مشتمل ہے کہ اے آئی نظام انسانی ترجیحات کو سمجھ سکے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"اسٹورٹ رسل کا کہنا ہے کہ ان کا طریقۂ کار اے آئی نظاموں سے پیدا ہونے والے ممکنہ خطرات سے نمٹنے کے لیے ضروری ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{" اسٹورٹ رسل کا کہنا ہے کہ ان کا طریقۂ کار یہ یقینی بنانے کے لیے ضروری ہے کہ اے آئی نظام انسانیت کے لیے فائدہ مند ہوں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{" ایس ایم یو-30 ایک قسم کی یو 27 جرمن آبدوز تھی۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایس ایم یو-30 جرمن آبدوز پہلی جنگ عظیم کے دوران استعمال کی گئی تھی۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{" ایس ایم یو-30 جرمن آبدوز کو 22 دسمبر 1914 کو کمیشن کیا گیا تھا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{" ایس ایم یو-30 جرمن آبدوز کی سطح پر آنے کے وقت وزن برداری 662 ٹن تھی۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{" ایس ایم یو-30 جرمن آبدوز کی ڈوبنے کے وقت وزن 834 ٹن تھا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{" ایس ایم یو-30 جرمن آبدوز میں چار 50 سینٹی میٹر ٹارپیڈو ٹیوبیں تھیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{" ایس ایم یو-30 جرمن آبدوز میں 88 ملی میٹر ڈیک گن تھی۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایس ایم یو-30 جرمن آبدوز نے اپنی خدمات کے دوران کل 42 جہاز غرق کیے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جرمن آبدوز ایس ایم یو-30 کو 4 اگست 1915 کو برطانوی آبدوز ای 22 نے غرق کیا تھا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{" ایس ایم یو-30 جرمن آبدوز کے ڈوبنے کے نتیجے میں تمام عملے کا نقصان ہوا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مویشیوں کو زراعت کے بعد افریقہ میں پالا گیا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"افریقہ میں مویشیوں کو پالتو بنانے کا آغاز تقریباً 8,000 سے 7,000 سال پہلے ہوا تھا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"افریقہ میں زراعت کے سب سے پرانے شواہد تقریباً 10,000 سال پہلے کے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"افریقہ میں مویشیوں کے سدھانے میں زراعت نے ایک اہم کردار ادا کیا تھا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"افریقہ میں زرعی طریقوں نے ابتدائی انسانی کمیونٹیوں کے لیے ایک مستحکم خوراک کی فراہمی مہیا کی۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ابتدائی انسانی معاشرے افریقہ میں دودھ کے لیے جانور رکھنے اور پالنے کے لیے زرعی طریقے استعمال کرتے تھے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"قدیم انسانی برادریوں نے افریقہ میں کھیت جوتنے کے لیے جانوروں کو رکھنے اور افزائش نسل کے لیے زرعی طریقے استعمال کیے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آئسڈ ماچا لاٹے بنانے کے لیے آپ کو ماچا پاؤڈر کی ضرورت ہوگی۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آئسڈ ماچا لاتے بنانے کے لیے آپ کو گرم پانی کی ضرورت ہوگی۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آئسڈ ماچا لاتے بنانے کے لیے، آپ کو میچا پاؤڈر کو گرم پانی کے ساتھ ملانا ہوگا یہاں تک کہ یہ حل ہوجائے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آئسڈ ماچا لاٹے بنانے کے لیے، ماچا پاؤڈر کو گرم پانی میں حل ہونے تک ملانے کے بعد، اس مکسچر کو برف سے بھرے گلاس میں ڈالیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آئسڈ ماچا لیٹے بناتے وقت، مکسچر کو برف سے بھرے گلاس میں ڈالنے کے بعد، اپنی پسند کی مقدار میں دودھ شامل کریں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آئسڈ ماچا لاٹے بنانے کا آخری مرحلہ مکسچر کو ہلانا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ہوائی جہاز کی گلائیڈ ریشو اس فاصلے کو ظاہر کرتی ہے جو ہوائی جہاز اپنے گلائیڈنگ نزول کے دوران اپنی اونچائی کھو کر طے کر سکتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ہوائی جہاز کی گلائیڈ تناسب ایک تناسب کے طور پر بیان کی جاتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"طیارے کی گلائیڈ شرح میں، زیادہ تعداد سے مراد ہے کہ طیارہ زیادہ دور جا سکتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ہوائی جہاز کے گلائیڈ ریشو میں، عدد کی زیادہ مقدار اس بات کی نشاندہی کرتی ہے کہ ہوائی جہاز کی بلندی میں کمی کم ہوتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{" ٹیرافارم ماڈیولز کا مقصد دوبارہ قابل استعمال اور شیئر کرنے کے قابل کنفیگریشنز بنانا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ٹیرافارم ماڈیولز انفراسٹرکچر وسائل کی تجرید کی اجازت دیتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ٹیرافارم ماڈیولز پیچیدہ انفراسٹرکچر کی مینجمنٹ کو آسان بنانے میں مدد دیتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ٹیرافارم ماڈیولز پیچیدہ انفراسٹرکچر کو اسکِیل کرنے کے عمل کو آسان بناتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بڑی کمپنیوں میں عام ایگزیکٹو عہدوں میں سی ای او (چیف ایگزیکٹو آفیسر) شامل ہوتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بڑی کمپنیوں میں عام ایگزیکٹو عہدوں میں سی او او (چیف آپریٹنگ آفیسر) شامل ہوتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بڑی کمپنیوں میں عام ایگزیکٹو عہدوں میں سی ایف او (چیف فنانشل آفیسر) شامل ہوتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بڑی کمپنیوں میں عام ایگزیکٹو عہدوں میں سی ایم او (چیف مارکیٹنگ آفیسر) شامل ہوتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بڑی کمپنیوں میں عام ایگزیکٹو عہدوں میں سی ٹی او (چیف ٹیکنالوجی آفیسر) شامل ہوتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بڑی کمپنیوں میں عام ایگزیکٹو عہدوں میں سی ایچ آر او (چیف ہیومن ریسورسز آفیسر) شامل ہوتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کمبینٹریل اوپٹیمائزیشن ریاضی کی ایک شاخ ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کمبینٹوریل آپٹیمائزیشن کمپیوٹر سائنس کی ایک شاخ ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کمبینٹوریل آپٹیمائزیشن میں مسائل کا حل ایک محدود مجموعہ سے بہترین عناصر کی ترکیب تلاش کرنا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کمبینٹوریل آپٹیمائزیشن کا مقصد ایک خاص مقصدی فعل کو بہتر بنانا ہوتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کمبینٹوریل آپٹیمائزیشن کے لاجسٹکس میں استعمالات ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کمبینٹوریل آپٹیمائزیشن کا شیڈولنگ میں استعمال ہوتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کمبینٹوریل آپٹیمائزیشن کا استعمال مینوفیکچرنگ میں ہوتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کمبینٹوریل آپٹیمائزیشن کے ٹیلی کمیونیکیشن میں اطلاقات موجود ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"خلائی جہاز کی بیٹریوں کی توانائی کی کثافت ایک اہم خصوصیت ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"خاص پاور خلائی جہاز کی بیٹریوں کی ایک اہم خصوصیت ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"خلا میں موجود بیٹریوں کی زندگی کا دورانیہ ایک اہم خصوصیت ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"خلائی جہاز کی بیٹریوں کی قابل اعتمادیت ایک اہم خصوصیت ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جدید مواد کا استعمال خلائی جہازوں کی بیٹریوں میں ان خصوصیات کو حاصل کرنے میں مدد دیتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"موثر ڈیزائن خلائی جہاز کی بیٹریوں میں ان خصوصیات کو حقیقت کا روپ دینے میں مدد دیتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سخت جانچ اور معیار کو کنٹرول کرنے کے عمل خلائی جہاز کی بیٹریوں میں ان خصوصیات کو عمل میں لانے میں مدد دیتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کسی پرانے ڈیٹا ویئرہاؤس سے جدید لیک ہاؤس میں منتقلی یا جدید کاری کا پہلا ستون موجودہ لیگیسی سسٹم کا جائزہ لینا اور اسے سمجھنا ہے: موجودہ لیگیسی ڈیٹا ویئرہاؤس سسٹم کی ساخت، اسکیما، اور ڈیٹا کا تجزیہ اور تفہیم کرنا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کسی پرانے ڈیٹا ویئرہاؤس سے جدید لیک ہاؤس میں منتقلی یا جدید کاری کا دوسرا ستون ایک منتقلی منصوبہ تیار کرنا ہے: ایک ایسا روڈ میپ بنانا جو منتقلی کے عمل کے مختلف مراحل کو بیان کرے، منتقلی کی سرگرمیوں کو ترجیح دے، ممکنہ خطرات کی نشاندہی کرے، اور ہر مرحلے کے لیے وسائل کی ضروریات کو واضح کرے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کسی پرانے ڈیٹا ویئرہاؤس سے جدید لیک ہاؤس میں منتقلی یا جدید کاری کا تیسرا ستون ڈیٹا نکالنے اور انضمام کا عمل ہے: لیگیسی سسٹم سے ڈیٹا نکال کر اسے جدید لیک ہاؤس آرکیٹیکچر میں ضم کرنا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کسی پرانے ڈیٹا ویئرہاؤس سے جدید لیک ہاؤس میں منتقلی یا جدید کاری کا چوتھا ستون ڈیٹا کی تبدیلی اور منتقلی ہے: لیگیسی ڈیٹا کو جدید فارمیٹ میں تبدیل کرنا تاکہ وہ نئے ڈیٹا لیک ہاؤس ماحول کے ساتھ ہم آہنگ ہو، اور منتقل شدہ ڈیٹا کی درستگی کی تصدیق کرنا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کسی پرانے ڈیٹا ویئرہاؤس سے جدید لیک ہاؤس میں منتقلی یا جدید کاری کا پانچواں ستون اصلاح اور دیکھ بھال ہے: ڈیٹا کے معیار، کارکردگی، اور سیکیورٹی کی نگرانی کے ذریعے نئے لیک ہاؤس ماحول کو مسلسل بہتر بنانا تاکہ یہ اعلیٰ سطح پر کام کرے، اور اس کی باقاعدگی سے دیکھ بھال اور بہتری کی جاتی رہے": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بھرتی کرنے والے پورے بھرتی کے عمل کی نگرانی کے ذمہ دار ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بھرتی کرنے والے امیدواروں کی بھرتی کے ذمہ دار ہوتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بھرتی کنندگان امیدواروں کی جانچ پڑتال کے ذمہ دار ہوتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"امیدواروں کا انٹرویو کرنا بھرتی کرنے والوں کی ذمہ داری ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بھرتی کار امیدواروں کو ملازمت دینے کے ذمہ دار ہوتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سورس کرنے والے کھلی پوزیشنز کے لیے موزوں امیدواروں کو تلاش کرنے پر توجہ دیتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سورس کرنے والے کھلی اسامیوں کے لئے اہل امیدواروں کو متوجہ کرنے پر توجہ مرکوز کرتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کمپنیاں برانڈ کی شناخت بنانے کے لیے اشتہار کرتی ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کمپنیاں تشہیر کرتی ہیں تاکہ برانڈ کو مختلف بنایا جا سکے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کمپنیاں صارفین کے رجحانات کو متاثر کرنے کے لیے اشتہار دیتی ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کمپنیاں مصنوعات کی خصوصیات کے بارے میں معلومات فراہم کرنے کے لیے اشتہارات دیتی ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"فرمز مصنوعات کے فوائد کے بارے میں معلومات فراہم کرنے کے لیے اشتہار دیتی ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کمپنیاں مصنوعات کی موجودگی کے بارے میں معلومات فراہم کرنے کے لئے اشتہار دیتی ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کمپنیاں اپنے مارکیٹ شیئر کو برقرار رکھنے یا بڑھانے کے لیے اشتہار دیتی ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"فرمز برانڈ کی وفاداری پیدا کرنے کے لیے تشہیر کرتی ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ملٹی پاس ڈسٹلیشن ایک ڈسٹلیشن کا عمل ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ملٹی پاس ڈسٹلیشن میں، پہلی ڈسٹلیشن سے اٹھنے والے بخارات کو گاڑھا کیا جاتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ریاستہائے متحدہ کی مشرقی ساحلی پٹی کے لوگوں کے لیے کچھ مقبول ٹراپیکل سیاحتی مقامات میں کیریبین جزائر شامل ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"امریکہ کے مشرقی ساحل کے لوگوں کے لیے کچھ مشہور ٹراپیکل سفر کی منزلوں میں جمائیکا شامل ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ریاستہائے متحدہ کے مشرقی ساحل کے لوگوں کے لیے کچھ مقبول ٹراپیکل سفری مقامات میں ڈومینیکن جمہوریہ شامل ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{" ریاستہائے متحدہ کے مشرقی ساحل کے لوگوں کے لیے کچھ مقبول ٹراپیکل سفری مقامات میں بہاماس شامل ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ریاستہائے متحدہ کی مشرقی ساحل کے لوگوں کے لیے کچھ مقبول ٹراپیکل سفری مقامات میں کوسٹا ریکا شامل ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ریاستہائے متحدہ کی مشرقی ساحل کے لوگوں کے لیے کچھ مشہور ٹراپیکل سفری مقامات میں میکسیکو شامل ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"محبت ایک پیچیدہ جذباتی تعلق ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"محبت میں عہد، قربت، جوش، اور دیکھ بھال جیسے پہلو شامل ہوتے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"محبت ایک ایسا جذبہ ہے جس میں کسی شخص یا چیز کے لیے گرمجوشی، انسیت اور پسندیدگی شامل ہوتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"اگرچہ محبت ایک وسیع تر اور گہرا جذباتی تعلق ہے، محبت کا اظہار عموماً نرمی اور انسیت کے ہلکے جذبات کے طور پر ہوتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"برقی سہولیات میں مارجنل لاگت کی شرح کا ڈیزائن قیمتوں کے تعین کی حکمت عملی سے متعلق ہوتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"قیمتوں کی حکمت عملی میں، گاہک کو اضافی یونٹ بجلی فراہم کرنے کی لاگت کی بنیاد پر چارج کیا جاتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"اسکالا فیوچر میں `آن کمپلیٹ` اور `اینڈ دین` فنکشنز کے درمیان بنیادی فرق یہ ہے کہ `آن کمپلیٹ` ایک کال بیک فنکشن لیتا ہے جو `ٹرائی ٹی` آرگومنٹ کے ساتھ ہوتا ہے، اور یہ فنکشن اس وقت چلتا ہے جب فیوچر مکمل ہو جائے — چاہے وہ کامیابی سے مکمل ہو یا کسی ایکسیپشن کے ساتھ۔ ": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"`اینڈ دین` ایک کال بیک فنکشن لیتا ہے جس کا آرگومنٹ `فیوچر ٹی` ہوتا ہے، اور یہ فنکشن صرف اُس وقت چلتا ہے جب اسکالا فیوچر کامیابی سے مکمل ہو جائے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کیلیفورنیا کا موسم عموماً نیو یارک کے مقابلے میں زیادہ گرم ہوتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کیلیفورنیا کا موسم عموماً نیویارک کے مقابلے میں زیادہ مستحکم ہوتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کیلیفورنیا میں سردیوں کا موسم کم سخت ہوتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کیلیفورنیا میں گرمیوں کے موسم میں گرمی ہوتی ہے اور بارش کا امکان بہت کم یا نہ ہونے کے برابر ہوتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کالیفورنیا کے مقابلے میں، نیویارک میں سردیوں میں برف اور بارش کے ساتھ زیادہ سردی ہوتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کیلیفورنیا کے مقابلے میں، نیویارک میں گرمیاں زیادہ گرم ہوتی ہیں اور نمی بھی زیادہ ہوتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"گوگل ڈرائیو میں کسی دستاویز کو تلاش کرنے کے لیے، آپ اسکرین کے اوپر موجود سرچ بار پر کلک کریں اور \"فنانس فورکاسٹ\" کو دستاویز کے عنوان کے طور پر ٹائپ کریں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{" سی شارپ ایک پروگرامنگ زبان ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سی شارپ مائیکروسافٹ کے ذریعے تیار کی گئی تھی۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سی شارپ کو .نیٹ پلیٹ فارم کا حصہ بناتے ہوئے تیار کیا گیا تھا۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سی شارپ میں ٹائپ سیفٹی جیسی خصوصیات موجود ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{" سی شارپ میں گاربیج کلیکشن جیسی خصوصیات شامل ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سی شارپ میں سادہ اور مؤثر میموری مینجمنٹ جیسی خصوصیات شامل ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{" سی شارپ کو ویب ایپلیکیشن کی ترقی کے لیے بھی استعمال کیا جا سکتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سی شارپ کو موبائل ایپلیکیشن کی ترقی کے لیے بھی استعمال کیا جا سکتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سی شارپ کو گیم ڈیولپمنٹ کے لیے استعمال کیا جا سکتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"لینکس ایڈاپشن دوسرے آپریٹنگ سسٹمز جیسے ونڈوز اور میک او ایس کے مقابلے میں نسبتاً محدود رہی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"لینکس کا بڑے پیمانے پر اداروں اور سرور کی مارکیٹ میں مضبوط وجود ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"لینکس اپنی مستحکمیت کے لئے جانا جاتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"لینکس اپنی اسکیل ایبلیٹی کے لئے جانا جاتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"لینکس اپنی سکیورٹی کے لیے جانا جاتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"گٹار پر ایک ای میجر کورڈ بجاتے وقت، اپنی پہلی انگلی تیسری تار کے پہلے فریٹ پر، دوسری انگلی پانچویں تار کے دوسرے فریٹ پر، اور تیسری انگلی چوتھی تار کے دوسرے فریٹ پر رکھیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"دی کیٹکیزم کاٹاکلیزم ایک کامیڈی-ہارر فلم ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"دی کیٹکیزم کاٹاکلیزم کی ہدایت کاری ٹوڈ روہال نے کی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"دی کیٹکیزم کاٹاکلیزم ایک مایوس اور بور پادری کی کہانی کی پیروی کرتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"دی کیٹکیزم کاٹاکلیزم میں، کینو کا سفر تیزی سے بیزار اور خوفناک واقعات کے سلسلے کی طرف لے جاتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جب پیش گوئی کے لیے ایک چھوٹے ڈیٹاسیٹ کے ساتھ کام کر رہے ہوں، تو یہ ضروری ہے کہ ڈیٹا کے لیے مناسب ماڈل کا انتخاب کریں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جب پیش گوئی کے لیے ایک چھوٹے ڈیٹاسیٹ کے ساتھ کام کرتے ہیں تو زیادہ فٹنگ سے بچنا اہم ہوتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"پیش گوئی کے لیے موونگ ایوریجز جیسے طریقے استعمال کیے جا سکتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"پیش گوئی کے لیے ایکسپونینشل اسموتھنگ جیسے طریقے استعمال کیے جا سکتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{" پیش گوئی کے لیے اے آر آئی ایم اے ماڈلز جیسے طریقے استعمال کیے جا سکتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جب آپ چھوٹے ڈیٹا سیٹ کے ساتھ پیشن گوئی کر رہے ہوں، تو اضافی معلومات یا خارجی عوامل جمع کرنے کی کوشش کریں جو پیش گوئی کی جانے والی متغیر کو متاثر کر سکتے ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"چھوٹے ڈیٹاسیٹس کے لیے پیش گوئی کے مقصد سے اضافی معلومات ماہرین کی رائے کے ذریعے اکٹھی کی جا سکتی ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"چھوٹے ڈیٹاسیٹس کے لیے پیش گوئی کے مقصد سے اضافی معلومات اکٹھا کرنا عوامی ڈیٹا ذرائع کے ذریعے کیا جا سکتا ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مائیکرو سروے کے ذریعے پیش گوئی کے لیے چھوٹے ڈیٹا سیٹس کے بارے میں اضافی معلومات جمع کی جا سکتی ہیں۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آئی سی ڈی-9 ایک کوڈنگ نظام ہے جو طبی بلنگ اور کوڈنگ میں استعمال ہوتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آئی سی ڈی-9 بیماریوں، چوٹوں، اور طبی طریقہ کار کی درجہ بندی کے لیے استعمال ہوتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ئی سی ڈی-9 کو ادائیگی کی واپسی کے مقاصد کے لیے استعمال کیا جاتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"اسپیک اینڈ اسپیل ڈیپچ موڈ کا ایک البم ہے": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"اے بروکن فریم، ڈیپیش موڈ کا ایک البم ہے": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کنسٹرکشن ٹائم اگین، ڈیپیش موڈ کا ایک البم ہے": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"انٹیلی کانٹیکسٹ ایک ایسا اوزار ہے جو غیر مربوط متن سے خودکار طریقے سے اداروں اور تصورات کو نکالنے اور درجہ بندی کرنے کے لیے استعمال ہوتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"انٹیلی لنک ایک ٹول ہے جو مونڈیکا نے تیار کیا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"گیری اسمتھ کے تحقیقی مضامین کئی اعلیٰ درجے کے جرائد میں شائع ہو چکے ہیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"این گیدی' اسرائیل میں ایک مشہور بوتل بند پانی کا برانڈ ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈاکٹر مارلوس آرٹس نے ماحولیاتی تبدیلی پر تحقیق نہیں کی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈاکٹر مارلوس آرٹس نے تحفظ پر تحقیق کی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"جیرینیم کو مستقل طور پر دنیا کے بہترین ریستورانوں میں سے ایک درجہ دیا جاتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"زمین\" کو زمین، مشتری اور مریخ پر پایا جا سکتا ہے لیکن نیپچون اور سورج پر نہیں۔\"": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مریخ ایک ایسا سیارہ ہے جس کی سطح ٹھوس ہے اور اس پر چلنا ممکن ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ہائی فینگ وانگ نے اس میدان کی ترقی میں اہم کردار ادا کیا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کاپر (سی یو) فیروس سلفیٹ کے ساتھ ری ایکٹ کرنے پر کاپر سلفیٹ (سی یو ایس او 4) بناتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"کاپر (سی یو) جب فیرس سلفیٹ کے ساتھ رد عمل کرتا ہے تو یہ عنصری لوہا تشکیل دیتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"دھنسنے والی ریت خاص طور پر ان علاقوں میں پائی جاتی ہے جہاں نرم ریت یا سلٹ ہو۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"غلامی مخالف معاہدوں نے افریقہ میں نئی معیشتوں کی ترقی میں حصہ لیا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"دی نائٹ بفلو ایک کہانی ہے جو مینویل کے کردار کا تعاقب کرتی ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"آرسنل نے 1998 میں ایف اے کپ جیتا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"پارلیمانی کمشنر برائے معیارات کو ہاؤس آف کامنز کے اسپیکر کے ذریعہ مقرر کیا جاتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"لاوسن کو پہلی بار 1975 میں قائم کیا گیا تھا۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سان فرانسسکو سے باہر کے بے گھر افراد کے سان فرانسسکو جانے کی بنیادی وجوہات بے گھر آبادی کے لئے زیادہ ہمدردی اور معاونت شامل تھیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سان فرانسسکو کے باہر سے بے گھر لوگوں کے سان فرانسسکو جانے کی اہم وجوہات میں فوڈ بینکس اور صحت کی سہولیات جیسے خدمات تک رسائی شامل تھیں۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"مارکس مارٹن ایک ڈیموکریٹ بن گئے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"قدیم انسانی معاشروں نے افریقہ میں گوشت کے لیے جانوروں کو پالنے اور ان کی نسل بڑھانے کے لیے زرعی طریقے استعمال کیے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"دی کیٹکیزم کاٹاکلیزم میں، پادری اپنے ایک سابق ہم جماعت کے ساتھ کینو کے سفر پر جاتا ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سم گریٹ ریوارڈ ڈیپیش موڈ کا ایک البم ہے": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"بلیک سیلیبریشن ایک البم ہے ڈیپیش موڈ کی طرف سے": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{" میوزک فار دی میسس ایک البم ہے ڈیپیش موڈ کی طرف سے": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"وائیولیٹر ڈیپیش موڈ کا ایک البم ہے۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"سانگز آف فیتھ اینڈ ڈیووشن، ڈیپیش موڈ کا ایک البم ہے": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"الٹرا دیپیچ موڈ کا ایک البم ہے": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ایکسائیٹر ڈیپیش موڈ کا ایک البم ہے": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"پلے انگ دی اینجل ڈیپش موڈ کا ایک البم ہے": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ساؤنڈز آف دی یونیورس ڈیپیش موڈ کا ایک البم ہے": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"ڈیلٹا مشین ڈیپیش موڈ کا ایک البم ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"اسپریٹ ڈیپیش موڈ کا ایک البم ہے": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"گیری اسمتھ کی تحقیق اقتصادی تاریخ پر مرکوز ہے۔": {"response": false, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
+{"یورپی تاجروں کے لیے منافع کے بنیادی ذرائع کے طور پر کھجور کے تیل، ربڑ، اور کان کنی جیسی صنعتوں نے غلاموں کی تجارت کی جگہ لے لی۔": {"response": true, "factchecker": "urdufactcheck_gpt-4o", "dataset": "factcheckbench"}}
