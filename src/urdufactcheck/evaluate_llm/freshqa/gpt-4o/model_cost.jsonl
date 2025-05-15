@@ -1,0 +1,6 @@
+{"model": "gpt-4o", "prompt_tokens": 515, "completion_tokens": 36, "total_tokens": 551}
+{"model": "gpt-4o-mini", "prompt_tokens": 428, "completion_tokens": 23, "total_tokens": 451}
+{"model": "gpt-4o-mini", "prompt_tokens": 423, "completion_tokens": 17, "total_tokens": 440}
+{"model": "gpt-4o-mini", "prompt_tokens": 972, "completion_tokens": 188, "total_tokens": 1160}
+{"model": "gpt-4o-mini", "prompt_tokens": 1033, "completion_tokens": 152, "total_tokens": 1185}
+{"model": "gpt-4o", "prompt_tokens": 532, "completion_tokens": 2, "total_tokens": 534}
