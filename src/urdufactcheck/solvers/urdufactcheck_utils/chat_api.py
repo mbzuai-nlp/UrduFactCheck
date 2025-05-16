@@ -11,7 +11,7 @@ from openai import AsyncOpenAI
 class OpenAIChat:
     def __init__(
         self,
-        model_name="gpt-4o",
+        model_name,
         max_tokens=2500,
         temperature=0,
         top_p=1,

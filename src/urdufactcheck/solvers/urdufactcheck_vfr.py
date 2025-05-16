@@ -1,3 +1,4 @@
+import os
 from openfactcheck.state import FactCheckerState
 from openfactcheck.solver import StandardTaskSolver, Solver
 
@@ -9,7 +10,7 @@ from .urdufactcheck_utils.prompt import VERIFICATION_PROMPT
 class UrduFactCheckVerifier(StandardTaskSolver):
     def __init__(self, args):
         super().__init__(args)
-        self.gpt_model = self.global_config.get("gpt_model", "gpt-4o-mini")
+        self.gpt_model = os.environ.get("MODEL_NAME", "gpt-4o")
         self.gpt = OpenAIChat(self.gpt_model)
         self.verification_prompt = VERIFICATION_PROMPT
 

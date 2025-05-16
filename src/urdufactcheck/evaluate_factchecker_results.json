@@ -511,22 +511,34 @@
             },
             "gpt-4o-mini": {
                 "classification_report": {
-                    "accuracy": 0.0,
+                    "False": {
+                        "precision": 0.3806970509383378,
+                        "recall": 0.8930817610062893,
+                        "f1-score": 0.5338345864661654,
+                        "support": 159.0
+                    },
+                    "True": {
+                        "precision": 0.9341085271317829,
+                        "recall": 0.510593220338983,
+                        "f1-score": 0.6602739726027397,
+                        "support": 472.0
+                    },
+                    "accuracy": 0.606973058637084,
                     "macro avg": {
-                        "precision": NaN,
-                        "recall": NaN,
-                        "f1-score": NaN,
-                        "support": 0.0
+                        "precision": 0.6574027890350603,
+                        "recall": 0.7018374906726361,
+                        "f1-score": 0.5970542795344526,
+                        "support": 631.0
                     },
                     "weighted avg": {
-                        "precision": NaN,
-                        "recall": NaN,
-                        "f1-score": NaN,
-                        "support": 0.0
+                        "precision": 0.7946593595965092,
+                        "recall": 0.606973058637084,
+                        "f1-score": 0.6284136518488327,
+                        "support": 631.0
                     }
                 },
-                "model_cost": 0.0,
-                "serper_cost": 0.0
+                "model_cost": 0.53,
+                "serper_cost": 1.56
             }
         },
         "bingcheck": {

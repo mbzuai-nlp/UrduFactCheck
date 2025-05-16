@@ -34,7 +34,7 @@ class GoogleSerperAPIWrapper:
             self.serper_api_key != ""
         ), "Please set the SERPER_API_KEY environment variable."
 
-        self.gpt_model = os.environ.get("GPT_MODEL", "gpt-4o")
+        self.gpt_model = os.environ.get("MODEL_NAME", "gpt-4o")
         self.gpt = OpenAIChat(self.gpt_model)
         self.english_to_urdu_translation_prompt = ENGLISH_TO_URDU_TRANSLATION_PROMPT
         self.urdu_to_english_translation_prompt = URDU_TO_ENGLISH_TRANSLATION_PROMPT

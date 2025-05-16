@@ -15,7 +15,7 @@ urdufactcheckthtr,factcheckbench,gpt-4o,0.64,0.68,0.6
 urdufactcheckthtr,bingcheck,gpt-4o,0.61,0.61,0.54
 urdufactcheckthtr,factool_qa,gpt-4o,0.59,0.61,0.58
 urdufactchecktr,factcheckbench,gpt-4o,0.66,0.71,0.64
-urdufactchecktr,factcheckbench,gpt-4o-mini,,,
+urdufactchecktr,factcheckbench,gpt-4o-mini,0.66,0.7,0.6
 urdufactchecktr,bingcheck,gpt-4o,0.59,0.61,0.57
 urdufactchecktr,bingcheck,gpt-4o-mini,0.68,0.72,0.65
 urdufactchecktr,factool_qa,gpt-4o,0.67,0.73,0.67
