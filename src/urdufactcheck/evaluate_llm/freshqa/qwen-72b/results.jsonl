@@ -1,0 +1,598 @@
+{"ہمی کے ڈیونڈر اور نائیاڈ ہی پہلے جانوروں کے نام ہیں جو چاند پر اترے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"لیونارڈو ڈیکاپریو کے پاس کوئی بچے نہیں ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پہلا انسان مریخ پر اب تک نہیں اترा ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"زوڈیک قاتل کا نام بھی زوڈیک قاتل ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"تمام جلدی تصدیق پذیر مسائل جلدی حل ہوتے ہیں کیونکہ یہ مسائل آسان ہوتے ہیں اور ان کا حل معلوم ہوتا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"بডی بuildنگ کبھی بھی اولمپک کھیل کے طور پر تسلیم نہیں کی گئی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"میٹا نے اپنا ہیڈکوارٹر آسٹن میں 2022 میں منتقل کیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"امریکن یونیورسٹی میں الفا کیپا ڈیلٹا فائی کا چیپٹر 1947 میں قائم ہوا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"فرنٹیئر نے اسپیرٹ ایئر لائنز کو 2023 میں خریدا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کینسر کا کوئی دائمی علاج تیار نہیں کیا گیا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ڈارٹماؤتھ لا اسکول 1900 میں قائم ہوا تھا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"لیگ آف لیجنڈز 2 کی جاری ہونے کی تاریخ 15 اکتوبر 2023 ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہیکارو ناکامورا 2012 میں شطرنج کے عالمی چیمپئن بنے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"امریکن ایکسپریس نے بیسویں سنچورین لونج 2019 میں کھولی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"عنصر 120 کو 2004 میں پہلی بار ترکیب کیا گیا تھا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"جیمی اولیور نے پہلی دفعہ مِشلین اسٹار 2001 میں حاصل کیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"برطانیہ نے یورو کو کبھی اپنایا نہیں ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایلون مسک نے ایکٹیویژن بلیزارڈ کو خریدنے کا ادعا نہیں کیا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ورلڈ ہیلتھ آرگنائزیشن نے کووڈ-19 کو 30 جنوری 2020 کو وبائی بیماری قرار دیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"2018 سے 2020 تک": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ٹیسلا ماڈل زیڈ کا متعارف کراؤنے کا مقررہ وقت 2024 ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کوویڈ-19 کو مکمل طور پر ختم کرنے والی کوئی ویکسین نہیں ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایلون مسک نے انسٹاگرام خریدا نہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"مارک زکربرگ نے ٹویٹر کو 2022 میں حاصل کیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کلنٹ ایسٹ وڈ کو بہترین اداکار کا اکیڈمی ایوارڈ فلم \"ان آف دی دس\" کے لیے ملا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ویلی نیلسن کا انتقال 7 ستمبر 2003 کو ہوا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"جرمی کوربین نے برطانیہ کے وزیر اعظم کے طور پر کبھی خدمت نہیں انجام دی ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کرس پال نے دوسرا این بی اے چیمپئن شپ 2021 میں جیتا تھا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"شاہ چارلس نے پرنس ہیری کا ڈیوک آف سسیکس کا خطاب 9 نومبر 2022 کو واپس لیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"یَن لیکُن نے گوگل میں 2014 میں شمولیت اختیار کی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پرسے جیکسن اینڈ دی اولمپینز سیریز کی آٹھویں کتاب \"دی مارک آف ایتھنہ\" 2014 میں جاری ہوئی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پلے اسٹیشن 6 کا عالمی لانچ 2023 میں کسی بھی مہینے میں نہیں ہوا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریاستہائے متحدہ کی آبادی 2023 میں 8 ارب تک پہنچی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہیری میگوائر نے سب سے پہلے بیلون ڈی آر 2019 میں جیتا تھا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پاپا جانز کا کاروبار بند نہیں ہوا ہے۔ اس کا کاروبار اب بھی جاری ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"فلم میٹروپولیس 1927 میں جرمنی میں عوامی دائرہ اختیار میں آئی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہلاری کلنٹن نے ایگزیکٹو احکامات کے طور پر 358 حکم نافذ کیے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریاستہائے متحدہ میں پہلی خاتون صدر کا کوئی ذکر نہیں ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ارجنٹینا نے اپنا پانچواں فیفا ورلڈ کپ کا خطاب 2022 میں جیتا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"لیونل میسی نے اپنا دوسرا فیفا ورلڈ کپ 2022 میں جیتا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"نیلی گاؤن": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریاستہائے متحدہ کی سینیٹ میں فی الحال ڈیموکریٹس 51 سیٹوں پر قابض ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایلون مسک 2015 سے ایکس کارپ کے سی ای او ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اس سال فیفا ورلڈ کپ کی میزبانی قطر میں ہوگی۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایڈورڈ سنوڈن کو کیوبا میں رہنے کا معاہدہ نہیں ہے، وہ روس میں ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کینیا 1963 سے دو جماعتی نظام حکومت استعمال کر رہا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کوئی کرپٹوکرنسی بٹ کوائن کے مارکیٹ کیپ سے زیادہ نہیں ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ٹیلور سوئفٹ کا یونیسف کی خیرسگالی سفیر کے طور پر ارتباط 2014 سے شروع ہوا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کووڈ-19 نے پہلی بار ایک ارب انفیکشنز کا سنگ میل دسمبر 2021 میں عبور کیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایلون مسک کی موجودہ شادی گریم سیکنڈ سے 2021 میں ہوئی ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پورٹو ریکو آزاد ملک نہیں ہے۔ یہ امریکا کا ایک ملکیہ علاقہ ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریاستہائے متحدہ کے سب سے بڑے شہر، نیو یارک، نے اولمپکس 1932 میں منعقد کیے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"لولا دا سلوا کی موجودہ عمر 78 سال ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریاستہائے متحدہ کے حالیہ سابق صدر کو سزا سنائی نہیں گئی ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"نیوزی لینڈ کے چھ زندہ سابق وزرائے اعظم جیسیلی اینج، ہیلین کلارک، جیک سیپسن، مائیکل ملر، جیمی کارونگ، اور بیل اینگیس ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"شمالی آئر لینڈ میں موجودہ پروٹسٹنٹ اکثریت 1921 سے قائم ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"برازیل کے 2022 کے انتخابات میں، موجودہ صدر جائیر بولسوارو نے اپنے چیلنجر لویس انناکوپولا کو 1.8 ملین ووٹوں سے شکست دی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"جو بائیڈن نے سال 2023 میں اپنی دوسری صدارتی مہم کا اعلان 11 اپریل 2023 کو کیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پچھلے سال فیفا بیلن ڈور کریسچینو رونالڈو نے جیتا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہاں، سال 2500 کے لیپ سال میں فروری میں 29 دن ہوں گے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"بینجمن روتھ نے ایم ایل بی میں 226 ہوم رنز مارے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"لانس آرمسٹرانگ چاند پر 20 جولائی 1969 کو اترے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پورے ملک کے اسکولوں میں 1944 کی جرمن املا کی اصلاحات 1945 کے اوائل میں نافذ ہوئیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"نیویارک جیٹس نے شکاگو بلز سے 11 بار شکست کھائی ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"یوگوسلاویہ کی پارلیمنٹ میں خواتین اراکین کی تعداد اب تک کے مطابق 20% ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"آئی فون 9 میں ستمبر 2021 میں جاری ہوا تھا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریاستہائے متحدہ میں بھنگ کا قانونی ہونا ریاست کے لحاظ سے مختلف ہے، لیکن فدرل سطح پر اس کا استعمال طبی مقاصد کے لیے 2018 میں قانونی قرار دیا گیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"بی ٹی ایس نے 2022 میں اپنا دسواں اسٹوڈیو البم 10 جون کو جاری کیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریال میڈرڈ نے 56 ہوم رنز اسکور کیے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریک ریورڈن نے پہلی بار ہیری پوٹر سیریز نہیں لکھی۔ جے کے رولینگ نے ہیری پوٹر سیریز لکھی۔ ریک ریورڈن نے پہلی بار اپنی کتاب 'پریانی کا قلعہ' 2005 میں جاری کی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کیلیفورنیا کبھی ریاستہائے متحدہ سے الگ نہیں ہوئی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایپک گیمنگ نے مائنکرافٹ کا جاری کرنا 2009 میں شروع کیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اینٹی بایوٹکس فلو کے خلاف سب سے زیادہ مؤثر ہونے کے لئے مخصوص ہیں، مگر عام طور پر سپاکٹم ایم سی ایف، نیوڈیپ مایوسن، اور تیز فیلوسین سے متعلق آر ایم 32 کی ٹیم سب سے زیادہ مؤثر سمجھے جاتے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"آئی کی ای اے اپنی پچاسویں سالگرہ 2023 میں منائے گا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"1865 میں اینڈریو جانسن ریاستہائے متحدہ کے صدر منتخب ہوئے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"میٹا نے یوٹیوب نہیں خریدا۔ یوٹیوب کو گوگل نے 2006 میں خریدا تھا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"جیف بیزوس نے ایمیزون کو فروخت نہیں کیا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"نیویارک نے کنفیڈریسی میں 1788 میں شمولیت اختیار کی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"میگالوڈون کا انقراض تقریباً 2.6 ملین سال پہلے ہوا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دیوار چین کا منہدم ہونا بڑا عرصہ تک چلایا گیا، لیکن اس کے اہم بخش مشرقی ڈومین 1960 سے 1970 کی دہائی میں منہدم ہو گیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دسواں صلیبی جنگ کا آغاز 1217 میں ہوا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"1982 میں فیلڈز میڈل پانچ ریاضی دانوں کو ایک ہی سال میں دیا گیا تھا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اس سال والٹ ڈزنی اینیمیشن اسٹوڈیوز کی ساٹھویں اینیمیٹڈ فلم \"ایلیو\" 24 نومبر، 2023 کو ریلیز ہوگی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"گرینڈ کینیون": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سال 2022 کے سرمائی اولمپکس روس کے شہر پیکنگ میں منعقد نہیں ہوئے۔ یہ پکنگ، چین میں ہوئے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سال 2026 میں فیفا خواتین ورلڈ کپ امریکہ، کینیڈا، اور میکسیکو میں ہوگا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سال 2017 کی سوثبیز نیلامی میں ڈا ونچی کی ’سالووٹر منڈی‘ 450 ملین ڈالر میں فروخت ہوئی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"لیبرون جیمز نے کالج میں فی کھیل 7.2 ری باؤنڈز کی اوسط حاصل کی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سونے کو بطور ضمیمہ پیدا کرنے کے لےڈ اور سلیونم کے درمیان کیمیائی تعامل ہوتا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"افغانستان میں 2022 میں کوئی قومی انتخابات نہیں ہوئے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"نمبر 3 نمبر 4 سے ایک کم ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سال 2021 میں الفابیٹ کی مارکیٹ کیپٹلائزیشن اپنی اعلیٰ ترین سطح پر جولائی میں پہنچی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہاملن کو میدان میں دل کا دورہ پڑنے کے 30 منٹ بعد، 2 جنوری 2023 کو بلز بمقابلہ بینگلز کھیل دوبارہ شروع ہوا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پاکستانی حکومت نے جنوری 2023 میں بجلی کی گرنے والی قیمتوں کے باعث شاپنگ مالز کے لازمی طور پر بند ہونے کا وقت رات 9:30 بجے سے رات 10:00 بجے تک بڑھا دیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کےپلین ڈیسائینت کے بعد، کیفن میکارتری نے 9 اپریل 2023 کو ہاؤس آف ریپریزنٹیٹوئنز کے اسپیکر کے طور پر خدمت شروع کی تھی، لیکن جنوری 2023 میں نویں بیلٹ پر ریپبلکن کے طور پر کوئی اسپیکر منتخب نہیں ہوا تھا۔ اگر آپ جنوری 2023 میں ہونے والے انتخابات کا سوال کر رہے ہیں تو اس کا جواب میں نہیں دے سکتا کیونکہ کوئی ریپبلکن نویں بیلٹ پر اسپیکر نہیں بن سکا تھا۔ لیکن اگر آپ کیفن میکارتری کے بارے میں سوال کر رہے ہیں تو وہ جنوری 2023 میں نویں بیلٹ پر ریپبلکن کے طور پر انتخابات میں حصہ لے چکے تھے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"جنوری 2023 میں، این ایچ سی نے ہیریکین کترینہ کی ہلاکتوں کے ڈیٹا کی نظرธานی کی، جس میں معلوم شدہ ہلاکتوں کی تعداد 1800 سے بڑھا کر 1833 بتائی گئی۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"میکروسافٹ نے ونڈوز 7 کے لیے نئی سیکیورٹی اپڈیٹس جاری کرنے کا شیڈول 14 جنوری 2020 کے بعد نہیں بنایا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"گرن بوکائی سائزن": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایلن ڈی جینرس شو کا اکیسواں سیزن 2024 میں شروع ہوگا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"روس 2022 فیفا ورلڈ کپ میں شرکت نہیں کر سکا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"بچوں اور خاندان کے ایمی ایوارڈز 2021 24 جولائی 2021 کو منعقد ہوئے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"جو بائیڈن نے بطور صدر ریاستہائے متحدہ، روس کا دورہ کب کیا، تو اس کا جواب یہ ہے کہ جو بائیڈن نے روس کا دورہ نہیں کیا ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پیلا وہ ہسپتال نہیں بیان کر رہا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایان سمندری طوفان کی وجہ سے انڈونیشیا میں کچھ افراد زخمی ہوئے، تاہم میں اس کی تفصیل میں گھما ہوں تو اس کے بارے میں میں یقینی عدد نہیں کہ سکتا ہوں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"چیٹ جی پی ٹی کو سال 2021 کے نومبر میں لانچ کیا گیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"گوگل نے چیٹ جی پی ٹی کو جاری کرنے کا اعلان مارچ 2023 میں کیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سری لنکا کے معزول سابق صدر گوٹابایا راجا پکسے اب بنکاک میں ماندارن ہوٹل میں رہائش پذیر ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایپل کے اسٹاک کی قیمت میں چوتھے کوارٹر 2022 میں ناامید کُن آمدنی کی رپورٹ کرنے کے دِن کے بعد 4.4 فیصد کا گراوٹ آیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایڈیڈیس نے دستخط کیے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سال 2022 کے آسٹریلین اوپن میں نوواک جوکووچ فائنل مرحلے میں ہارے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کیری نڈال، رفیق کری، اور دیلی پویے جیسے کھلاڑیوں کو مردوں کی جانب سے پسندیدہ کہا گیا تھا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ٹام کروز نے سانس روکنے کا ریکارڈ قائم کرنے کے لیے 6 منٹ تک اپنی سانس روکی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"معذرت، میں پیرو کے صدر پیڈرو کاسٹیو کی اس سال چلی کے دورے کا شیڈول نہیں جانتا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہیری اسٹائلز 2010 سے ون ڈائریکشن کا رکن ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"1729": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ڈونالڈ ٹرمپ نے 2022 میں ایلون مسک کے ذریعے ٹوئٹر سے ان بین ہونے کے بعد پہلا ٹویٹ نہیں کیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"میں یہ نہیں جانتا کہ اٹلانٹا کے اگلے سیزن کب نشر ہوں گے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"برٹنی گرائنر کا روسی جیل میں وقت 2024 تک ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سال 2022 میں وفاقی ریزرو نے اگست سے دسمبر تک سود کی شرح کو نہیں کم کیا، بلکہ اس نے سود کی شرح میں اضافہ کیا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ڈونلڈ ٹرمپ نے اپنی دوسری صدارت کے دوران کسی ملک کا دورہ نہیں کیا کیونکہ وہ 2021 میں صدارت سے باز ہو گئے تھے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اس سال دی وائس یو ایس کے فاتح کے نام میں یقینی معلومات کے لیے کینڈی ڈیلی کا نام ذکر کیا جا سکتا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ماڈی بیلے کو ہرایا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اس سال کے امیریکن آئڈل کا فاتح میکس وارنر ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایلون مسک اپنی موجودہ ٹوئٹر/ایکس بایو میں خود کو \"X Corp Chairman & CTO\" کہتے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"لیونارڈو ڈی کیپریو کے کوئی بچہ نہیں ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اب تک کوئی بھی انسان مریخ پر نہیں اتر چکا ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریاستہائے متحدہ میں تقریبًا 4,000 یو ایس کالجز اور یونیورسٹیاں ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"امریکی ٹیلی ویژن سیریز دی وائس پر سب سے زیادہ معاوضہ لینے والے کوچ فی سیزن کے طور پر اب تک Blake Shelton ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"گوگل کے سی ای او سانڈر پیچ ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"بگ ای پارکنگ کی قیمت معلوم نہیں۔ آپ کو اس کے بارے میں معلومات حاصل کرنی ہوگی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہاروارڈ جامعہ": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"عالمی ریکارڈ 2:01:39 ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"رافیل نڈال کے پاس 22 گرینڈ سلیم ہیں۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"جرمنی کے موجودہ چانسلر روبن لشیت ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"میروڈیئو ہیرو آف ٹائم": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریاستہائے متحدہ کی کیلیفورنیا ریاست کی مجموعی ملکی پیداوار سب سے زیادہ ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"لیس مِزربل کے کئی انگریزی تراجم موجود ہیں، لیکن میز کے پاس اس کی مکمل تعداد کا مطابق عدد نہیں ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"شوشانہ زوبوف نے ایک مشہور کتاب \"The Age of Surveillance Capitalism\" شائع کی ہے، لیکن کل کتابوں کی تعداد کے بارے میں میں مکمل معلومات نہیں رکھتا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دنیا میں سب سے تیز ریپ کا عالمی ریکارڈ \"Look What You Made Me Do\" نمبر ون سنگل میں ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اقوام متحدہ میں 193 رکن ممالک ہیں۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دنیا کی سب سے پرانی چلنے والی یونیورسٹی جامعہ الظہرے کairo ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اب تک کا سب سے زیادہ فروخت ہونے والا جاز البم \"Thriller\" میک میجیل کا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ملائیشیا کے لیے بین الاقوامی فٹ بال میں سب سے زیادہ گول کرنے والے کھلاڑی سوہ کیو ہوئنگ ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایس اٹارنی کی مرکزی سیریز میں 4 کھیل شامل ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ٹیسلا کا صدر دفتر ریاست ہائے امریکا کے شہر فریموڈ, کیلیفورنیا میں واقع ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پریمیئر لیگ میں اب تک کی سب سے طویل ناقابل شکست سلسلہ 49 میچوں کا ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"تیسری سب سے بڑی زبان ہند کھٹا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دنیا بھر میں سب سے زیادہ کمائی کرنے والی بالی ووڈ فلم \"Bahubali 2: The Conclusion\" ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اردو ایڈیشن": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کریسٹیانو رونالڈو": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہاں، افغانستان میں خواتین یونیورسٹیوں میں جا سکتی ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"چلی کا سب سے زیادہ آبادی والا شہر سیلیکوے ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"تاریخ کی مختصر ترین جنگ 1896 کی آنگلو-زینڈبے جنگ تھی، جس کا زمانہ صرف 39 منٹ تھا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"میک گوچین جیسے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دی ویکنڈ کے آخری اسٹوڈیو البم کا نام \"Dawn FM\" ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایلون مسک کے پانچ بچے ہیں، شامل کر کے ان کا مرحوم بچہ۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"NASA کا حاوی ترین ٹیلی اسکوپ جس کے ذریعے پورا آسمانی منظر انفراریڈ روشنی میں نقشہ بنا سکتا ہے، نیوئر وائیڈ فلڈ انفراریڈ سरوے ایکسپلورر (NEOWISE) ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"جرمنی کے بنڈسٹاگ میں 736 نشستیں ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہاں، اس سال براعظمی امریکہ میں مکمل سورج گرہن ہوگا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریاستہائے متحدہ کے صدر جو بائدن ہیں۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"یوماس این ایل پی لیب میں کور فیکلٹی کی تعداد کے بارے میں میں واقعی معلومات نہیں رکھتا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"جاپان کے موجودہ وزیر اعظم فومیو کسیڈا ہیں۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"مریوکس، وینس، مارس، جپیٹر، سیٹرن، یووپٹر، نیپچون، اور پلوٹو۔ لے کن، پلوٹو کو اب گیارہویں سیارچے کے طور پر نہیں مانتا جا رہا ہے۔ سیارے کے درمیان سے چھوٹے سیارے، کیپر، جوکر، اور ہومیئر بھی شامل ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"رومانیا": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"گریگ ایگن کا تازہ ترین ناول \"ہیکس\" ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ٹیلر سوئفٹ کے تازہ ترین اسٹوڈیو البم کا عنوان \"Midnights\" ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"برطانیہ کے موجودہ وزیر اعظم ریشی سوناک ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریشی سوناک": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دنیا میں سب سے زیادہ معاوضہ لینے والے کھلاڑی کے نام مختلف عرصوں میں بदلتے رہتے ہیں، لیکن 2023 میں، کریستینو رونالڈو اور لیونیل میسی اس فہرست کے اوپر ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کووڈ-19 کو بین الاقوامی تشویش کی عوامی صحت کی ہنگامی صورتحال قرار دیا گیا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کوسٹکو کے ایگزیکٹو ممبرشپ کی سالانہ لاگت 130 ڈالر ہوتی ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایل اے میٹرو میں موجودہ وقت میں 93 ریل اسٹیشنز ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"نواز شاہزادی نے ٹینس کی تاریخ کے سب سے بڑے واحد ٹورنامنٹ کے انعامی رقم کو جیتا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دنیا کے تیز ترین سپر کمپیوٹر کا نام فرونتیر ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کنڈریک لامار نے اپنا تازہ ترین اسٹوڈیو البم 14 مئی 2022 کو جاری کیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"بٹ کوائن کی سب سے زیادہ قدر نومبر 2021 میں پہنچی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"حالیہ ترین سمر اولمپکس 2021 میں طوکیو، جاپان میں منعقد ہوئے تھے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"آخری یُیفا یورپی چیمپئن شپ 2021 میں منعقد ہوئی تھی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اگلا لیپ سال 2024 ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ڈاٹ نیٹ کا تازہ ترین میجر ورژن ڈاٹ نیٹ 8 ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"مارک کیوبن نے میورکس کو 1999 میں فروخت کیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریاستہائے متحدہ میں لازمی لیبلنگ کے ساتھ 8 غذاوی الرجین موجود ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"میں اس معلومات کو نہیں جانتا۔ آپ کو ایکس کارپوریشن کے ویب سائٹ یا ارکان کے ذریعے سب سے تازہ معلومات حاصل کرنی چاہیے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"چینی پوسٹ ہوست کریکٹر، کریکٹر، اور گیمر ڈیوڈ میگا ڈیوڈ (Davie504) کے پاس ٹوئٹر پر سب سے زیادہ فالوورز ہیں۔ تاہم، عام طور پر مشہور شخصیات میں کریس شاہ رخان، ایلون ماسک، کینڈی یاٹس، اور ڈیوڈ بیکہم جیسے لوگ بہت زیادہ فالوورز رکھتے ہیں۔ لیکن سب سے زیادہ فالوورز کا رکنڈ میں ایلون ماسک کا نام آتا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دنیا میں سب سے زیادہ گنجائش والا اسٹیڈیم میلیں ہزار نفروں کو سازگار کرنے والے نورڈ تینرے اسٹیڈیم (Nur-Sultan Arena) ہے، لیکن عام طور پر میشیکو سٹیڈیم ازتیک (Estadio Azteca) کو سب سے بڑا مانا جاتا ہے جس کی گنجائش لاکھ سے زیادہ ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دی مینڈلورین کے تین موسم ریلیز ہو چکے ہیں۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"میساچوسٹس ایمہرسٹ یونیورسٹی کا موجودہ چانسلر ماریو دی سوزا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"نیویارک کے 12ویں کانگریسی حلقے کے لیے امریکی نمائندہ کارولین مالونی ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اسٹوڈیو جیبلی کی حال ہی میں ریلیز ہونے والی فلم \"ماو\" ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کرسٹیانو رونالڈو کا موجودہ کلب ال نصر ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"این سوال کا جواب تازہ ترین مشاہدات پر مبتنی ہے، لیکن میں آپ کو فیبا کی افسری ویب سائٹ سے متعلق صحت مند معلومات فراہم کر سکتا ہوں۔ فیبا مردوں کی عالمی درجہ بندی میں فروری 2023 میں امریکہ سرفہرست ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کروشیا کی موجودہ قومی کرنسی کرونا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"یورو زون میں 20 رکن ریاستیں ہیں۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"القائدہ کے موجودہ رہنما ایمان الزوہری ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"عالمی ورثہ کی خطرے میں موجود تازہ ترین فہرست میں 52 جائیدادیں شامل ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایستونیا 2011 میں یورو اپنائنا شروع کر چکا تھا، لیکن سب سے تازہ مثال میں ملدووا ہے جس نے 2022 میں اپنے مالی منصوبے میں یورو کا اپنائی کا ذکر کیا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ٹام بریڈی نے این ایف ایل کے ایک سیزن میں کامیاب پاس پھینکنے کا ریکارڈ 501 پاس پھینک کر بنایا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ٹیسلا کئی گاڑیوں کے ماڈلز پیش کرتی ہے، جن میں میڈل سیڈن، میڈل یو، میڈل ایکس، اور میڈل 3 شامل ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"فرانسے نے جیتا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"تاریخ میں ایک ٹکٹ کے لیے سب سے بڑی لاٹری جیک پاٹ 1.586 بیلیون ڈالر تک پہنچا تھا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہیوسٹن ایسٹروس نے 2 ورلڈ سیریز عنوانات جیتے ہیں۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کوریا": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پیلے ڈیل اینیا، رونالڈینیو، اور کافو برازیل کے مشہور فٹبال کھلاڑی نہیں ہیں جو حال ہی میں انتقال کر گئے ہیں۔ سوال کے لیے مناسب جواب پیلے ڈیل اینیا کے بارے میں ہے، جو 23 مارچ 2023 کو انتقال کر گئے تھے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پرو کی سب سے حالیہ خاتون صدر دینا بولوئرتو ہیں۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"روس": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"حال ہی میں میگنس کارلسن نے فیبی سائیکس پر دھوکہ دہی کا الزام لگایا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"انگلینڈ کے بادشاہ چارلز تیسرا ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"لیوانڈوسکی بارسلونا کے لیے کھیلتے ہیں۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"آخری شخص جس نے ٹویٹر کو خریدا ایلون ماسک ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"الی巴巴 کلود نے اے آئی کے ذریعے میٹرکس ملٹیپلیکیشن کی رفتار بڑھانے کا طریقہ ایجاد کیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایل اے کاؤنٹی کا شیرف ایلیسون مائیلر ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"نیوزی لینڈ نے خواتین کی رگبی ورلڈ کپ میں 3 ٹائٹلز جیتے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اب تک کل 11 نازکا جیوگلیفس دریافت ہو چکے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سپرمن نمبر 1 کا صفحہ 1، جس کی قیمت 3.2 ملین ڈالر تک پہنچ گئی ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دنیا کا قدیم ترین ڈی این اے سوئٹزرلینڈ میں پایا گیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سین فرانسیسکو 49رز": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اب تک کی دوسری سب سے زیادہ کمانے والی کنڑا فلم \"کگنی\" ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایمیزون پرائم ویڈیو کی اب تک کی سب سے زیادہ دیکھی جانے والی پریمیئر \"لارڈ آف ذا رینگز: رینز آف پاور\" ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"نیو کالا ماتا": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اگلا مشترکہ سال جو ہفتہ کے دن سے شروع ہوگا 2024 میں آئے گا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"جیمز میچل جیمز جانسن": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"میری مارکس آویرمنکو": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ارجنٹینا نے 3 فیفا ورلڈ کپ جیتے ہیں۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"فرانسے": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دنیا کی سب سے بلند عمارت، برج خلیفہ کی کل اونچائی 828 میٹر ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دنیا کا سب سے بڑا اسٹیڈیم، جس کی گنجائش سب سے زیادہ ہے، میں لگ بھگ 114,000 سے زیادہ لوگ بیٹھ سکتے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"安东尼奥·古特雷斯، معاونتی سیکرٹری جنرل، پرتگال سے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایشواریا راے بچچن کا شوہر، ابھیشیک بچچن، منٹ موبائل کا جزوی مالک ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پریزڈنٹ جو بائیڈن نے اپنی صدارت کے دوران اب تک سب سے زیادہ جرمنی کا دورہ کیا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریاستہائے متحدہ کے گرفتار ہونے والے 9 صدور نے دوبارہ انتخاب میں ناکامی کا سامنا کیا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"گزشتہ 5 سالوں میں، عالمی ادارہ صحت (ڈبلیو ایچ او) کی جانب سے بین الاقوامی دلچسپی کی صحت عامہ ہنگامی صورتحال کے چھ اعلانات کیے گئے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریاستہائے متحدہ کے سب سے حالیہ سابق صدر کو کوئی بھی وفاقی جرائم میں مجرم قرار دیا نہیں گیا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریاستہائے متحدہ کے صدر کی اہلیہ کے لئے زیر ذیل شرائط لازمی ہیں:\n\n1. وہ امریکی شہری ہونا چاہئیے جس کا جنم ریاستہائے متحدہ میں ہو۔\n2. وہ کم از کم 35 سال کے عمر کے ہونے چاہئیں۔\n3. وہ ریاستہائے متحدہ میں کم از کم 14 سال تک رہائش کے حامل ہونے چاہئیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دنیا کی سب سے بڑی یونیورسٹی برائے اندراج کے نائب شیخ الجامعہ کے نام سرکار میں موجود نہیں ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایک سے زیادہ امریکی کمپنی کبھی بھی 3 ٹریلین ڈالر کی مارکیٹ کیپیٹلائزیشن سے زیادہ نہیں رہی ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دنیا کے سب سے طاقتور انسان کی پیدائش کس ملک میں ہوئی، یہ معلوم نہیں ہے کیونکہ طاقت کا تعین مختلف طریقوں سے کیا جا سکتا ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہاں، ٹیسلا اور ایکس کارپ. کے سی ای او ایک ہی ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پیٹسبرگ، پنسلوانیا": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کینیا": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایشیاء میں پوکیمون ورلڈ چیمپئن شپ کے منعقود ہونے کی تعداد میں تبدیلی ہوتی ہے، لیکن سخت طور پر یہ بات کہ کتنی بار یہ منعقد ہو چکا ہے، معلوم نہیں کرتا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پچھلے 5 سالوں میں پیرو میں 6 صدور رہے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"انسٹاگرام پر سب سے زیادہ پسند کی جانے والی پوسٹ کریسٹیان رونالڈو کی ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دنیا کے سب سے بڑے سرگرم آتش فشاں کا حالیہ ترین دھماکہ 2023 میں ہوا تھا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"چار سرگرم کھلاڑیوں نے کم از کم پانچ اے ٹی پی فائنلز سنگلز عنوانات جیتے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"جیمز کیمرون، مائیکل بے، جان لسنگٹن، پیٹر جیکسن، رابرت زیمیکس، رائل بروذرز، سٹیون سپلبرگ، جیمز ڈیک، ڈیوڈ ییٹس، جے چو، جارج لوکاس، مارک فورڈ، رون ہوارڈ، جارج میلر، اور جسٹن لین۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پابلو پیکاسو": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کیپ ورڈ کپ 2002 میں کیما ریپับلک نے چوتھا موقع حاصل کیا، جو افریقی ٹیموں کے لیے سب سے بہترین نتیجہ ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اسپیس لانچ سسٹم کی تین پروازیں کامیابی سے لانچ کی جا چکی ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"زمین کے گرد مدار میں سب سے پہلا جانور ایک سوچل تھا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"جی پی ٹی تھری کے سب سے بڑے ماڈل کا حجم 175 بیلیون پارامیٹرز ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"چین کا جھنڈا سرخ رنگ کا ہے جس میں پیلے ستارے ہوتے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کووڈ-19 کے ابتدائی کیسز کا تعلق چین کے شہر وہان سے تھا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"مقدونیہ کا جھنڈا رومانیہ کے جھنڈے سے زیادہ مشابہ ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہوائی ریاست کو الوہا ریاست کے طور پر جانا جاتا ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"گوگل اپنا 30واں یوم تاسیس 2028 میں منائے گا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"جیف ڈین نے اپنی پی ایچ ڈی کارنیگی می隆 یونیورسٹی سے حاصل کی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دنیا کا سب سے بڑا ممالیہ بلیویل کیتل فائیش ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"الاسکا میں سب سے بلند پہاڑ دینلی ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"انگلینڈ کی ملکہ العبتھ دوم کے پاس پمیر کے کتے تھے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اوپری خمیر والی بیئر کا ایک مثال ہے آل پورپوز یا لائٹ لارڈ.": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پرتگال فاتح رہا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"انٹیل نے 1971 میں پبلک ہوئی۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کتاب 'آرینٹزم' فلسفی اور مصنف مایکل سندل نے لکھی ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریت کے پتھر کو ریتی مٹی کے ذخیری چٹانوں میں شمار کیا جاتا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہاں، ملکہ الزبتھ دوم نے ریاستہائے متحدہ کے رہوڈ آئی لینڈ کا دورہ کیا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایپیکاسٹو": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"لیوئرڈ ہ之家ین بائی بیرن ڈرایوینگ سکول نے جیتی، تاہم سہی جواب یہ ہے: لوئس ہیملٹن نے سال 2020 کے فارمولہ 1 عالمی ڈرائیورز چیمپئن شپ جیتی۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"یونابومبر کا اصل نام تedeل کردیں: تیڈ کاچنسکی تھا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پوکیمون ڈائمنڈ میں دستیاب اسٹارٹر پوکیمون یہ ہیں: ٹارویس، چیمپن، اور پیپر.": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریاستہائے متحدہ میں پہلا ایٹمی بم ٹیسٹ نیو میکسیكو میں ہوا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"برلن وال 1989 میں گر گئی۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایلوس پریسلے کا انتقال 16 اگست 1977 کو ہوا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پولش صدر لیخ کاچنسکی کا طیارہ حادثہ اسمالینسک کے قریب ہوا تھا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"جاپان نے پرل ہاربر پر حملہ 1941 میں کیا تھا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ڈیوڈ بووی کا انتقال 10 جنوری 2016 کو ہوا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سپر سماش بروزر کے تخلیق کار میں مارکوس پیٹریسن اور آری پیٹریسن شامل ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"چینی نئے سال 2023 کی تاریخ 22 فروری تھی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سنڈرلینڈ، ایم اے ایمرسٹ، ایم اے کے شمال میں ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"جو بائیڈن نے اپنی صدارت کے دوران ویتنام کا دورہ اب تک نہیں کیا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کیگن مائیکل کی نے سال 2022 میں فلم \"پیل\" کی ہدایت کاری کی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سلگس کے پاس کوئی پھیپھڑے نہیں ہوتے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"بیٹویں دی ورلڈ اینڈ می کس نے لکھی، یہ کتاب رابرٹ فسک نے لکھی ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"جیف بیزوس نے ایمیزون کی بنیاد رکھی۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"بoston": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"چیلیسی ٹیم چیلسی نے فیفا کلب ورلڈ کپ 2021 جیتا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"بیٹلز کے البم \" Abby Road \" کی ریکارڈنگ کے دوران رنگو اسٹار نے عارضی طور پر بینڈ چھوڑ دیا تھا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"لوور میوزیم پیرس میں واقع ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ٹیولپ مینیا کا ببل فروری 1637 میں خاتمہ ہوا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"الکیپس'}}\nHowever, it seems there was a slight error as the correct answer should be:\n\nآریستو فون": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سال 2021 کے کجی کا لغت لفظ \"Vacuum\" تھا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سال 1939 میں جرمنی کی پولینڈ پر چڑھائی 1 ستمبر کو شروع ہوئی تھی، جب جرمنی نے سوویت یونین کے ساتھ غیر جارحیت معاہدہ کیا تھا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"یان لیکون، جیوفری ہنٹن، اور یوشوا بینجیو نے ٹیسلا ایوارڈ جیتا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"مصنف جارج ایلیٹ کا اصل نام میری این این کروس بی ڈی تھا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"گل ایوانز کا تعلق برطانیہ سے ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"فلم \"دی روم\" کا ڈائریکٹر ڈینیل اسٹانڈجے ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہنڈریڈ ایئرز وار کے نام سے جانی جانے والی جنگ کا زمانہ 116 سال ہے، جس کا آغاز 1337 میں ہوا اور 1453 میں ختم ہوئی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ٹوکیو میں لوگ ایسکیلیٹر کے دाहینے طرف کھڑے ہوتے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"جاپانی اسکول کا سال اپریل میں شروع ہوتا ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پیلے لیونل میسی نے ایک سو بین الاقوامی گول کر دیے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ٹائیفون ہائیان نے سب سے پہلے گوٹاڈاڈ میونسپلٹی، صوبہ سامار میں لینڈ فال کیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"بھارت 15 اگست 1947 کو منگل کو بドラہن کے وقت آزاد قوم بنا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایملی جوانا کیری کنیا میں پیدا ہوئیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"لیکتو کوکس لیکٹس": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"بلیک پنک نے اپنی شروعات 1981 میں کی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اوورواچ کو بلیزارد انٹرٹینمنٹ نے تیار کیا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دنیا کا سب سے بھاری رینگنے والا جانور بلیوال ہوتا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"لouis de Broglie نے مادہ کی موجی-ذراتی دوہریت کی تجویز سب سے پہلے پیش کی۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"یونیورسٹی آف کونستانز بادن-وورٹم برگ ریاست میں واقع ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"\"سیپٹنبر\"": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"لیڈ زیپلن کے آخری برطانیہ کے کنسرٹ کی تاریخ 25 جون 1985 تھی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"2026 کا فیفا ورلڈ کپ میکسیکو، کینیڈا، اور ریاستہائے متحدہ امریکا میں منعقد ہوگا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"مونوپولی ڈیل کے ڈارک بلو سیٹ میں دو پراپرٹی کارڈز شامل ہیں۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"یونیورسٹی آف میساچوسٹس آؤٹنگ کلب 1937 میں قائم ہوا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایک وقت میں باسکٹ بال کورٹ پر دونوں ٹیموں کے ملا کر 10 کھلاڑی ہوتے ہیں۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کیوی فروٹ کا تعلق نیوزلینڈ سے ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"بینجمن فرینکلن نے اس دنیا میں موت اور مالیات کو یقینی قرار دیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"چینی تانگ خاندان کا اختتام 907 میں ہوا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کنگس پیک": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ڈسکو ایلیزیم پیرس میں واقع ہوتی ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"زمین کی سب سے بڑی جھیل، کیس اکی Orr کے ساتھ روس، کینیڈا، امریکا، فن لینڈ، سویڈن اور ناروے کی سرحد لگتی ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایلرونڈ کے والد کی نام Eärendil ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"آزادی کا اعلان 4 مارچ 1776 کو دستخط کیا گیا تھا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دونالڈ ٹرماپ": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریاستہائے متحدہ میں 'دی کیس-بک آف شرلاک ہومز' کا کاپی رائٹ فی الحال پبلک ڈومین میں ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"نیویارک سٹی میں تحفظ کے تحت کچھ عوامی پے فون ہیں، لیکن تعداد کے بارے میں پتہ چلنا مشکل ہے کیونکہ یہ مداوم طور پر بদلتا رہتا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایلون مسک نے 27 اکتوبر 2022 کو ٹویٹر کا مالک بننے کا اعلان کیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"جاپان کے سابق وزیر اعظم شینزو آبے کو یامائچی ماساکی نے قتل کیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پہلی عملی تصویر جیمز ویب اسپیس ٹیلی سکوپ کے ذریعہ حاصل کی گئی کارلائین نیبولا کی تھی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پریسیڈنٹ جو بائڈن نے وائٹ ہاؤس میں ناسا کے جیمز ویب اسپیس ٹیلیسکوپ کی پہلی عملی تصویر عوام کے سامنے پیش کی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"میساچوسٹس کی پہلی منتخب شدہ خاتون گورنر مڈلین ڈیلی تھیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ملکہ الزبتہ دوم کا انتقال 8 ستمبر 2022 کو ہوا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کارل باری شارپلیس": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پہلا کھلاڑی جس نے ایک سے زیادہ فیفا ورلڈ کپ گولڈن بال جیتا ہے لوٹار میټسائیگر۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پیلے گول کرنے والے کھلاڑی کا نام اوquivos ڈیجیولیا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دنیا کے آٹھ ارب کی دن 15 نومبر 2022 کو منایا گیا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سلووینیا کی پہلی خاتون صدر بورٹا پاپریکار ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"چینی پیڈل فش کے بارے میں معلومات کے مطابق، یہ گونجنا کرنا مشکل ہے کہ بالکل کتنی باقی رہ گئی ہیں، لیکن ان کی تعداد کافی کم ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ٹیلر سوفٹ نے اپنا اعزازی ڈاکٹریٹ آف فائن آرٹس بنگلور یونیورسٹی سے حاصل کیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"\"Treehouse of Horror XXIV\"": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دی سمپسنز کے واقعہ \"Like Father, Like Clown\" میں پہلی بار بہرے اداکار کو شو میں کاسٹ کیا گیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"مارول سینیمیٹک یونیورس": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ٹھامس جیمز کلارکسن کے بجائے، صحیح جواب ہے: میڈیسون کے بعد والی خاتون، تارا بیل، لیکن فہم ہے کہ آپ کا مقصود افریقی امریکی خاتون کے بارے میں پوچھنا ہے جس کی تصویر کوارٹر پر شائع ہوئی ہے، تو جواب یہ ہے: هاریٹ ٹابمن": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ٹائی ٹینک کے مسافروں میں سب سے کم عمر والا مسافر 2 مesy کا تھا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریاستہائے متحدہ امریکا فیفا ورلڈ کپ 2026 میں سب سے زیادہ میچز کی میزبانی کرے گا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"لیونیل میسی اور کرستیانو رونالڈو کے غلبے سے پہلے بیلن ڈی آر جیتنے والے آخری کھلاڑی کرچ رونالڈو تھے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایسے کاغذ کے واحد طالب علم مصنف ہسکل ٹامسن تھے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"امریکا کی سب سے بڑی ریاست کا دارالحکومت جنکشن ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ناٹی ڈاگ نے اپنا پہلا کھیل پی ایس 1 پر 1996 میں جاری کیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سگمنڈ فرائیڈ پیدا ہوئے تھے فرائیڈیش اتر موراویا، جو اب کچھ چیک جمہوریہ میں ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ییٹی کریب کارائیب ٹیکٹونک پلیٹ کی سرحد پر دریافت ہوئے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"جیانگسو صوبہ": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"الیکس نیٹ کے بنیادی ڈیزائنر کی پیدائش روس میں ہوئی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پرسواں ناول میں جسے جین آسٹن نے اپنی زندگی میں شائع کیا، مرکزی کردار کا نام ہے اینسٹی بریجټن.": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پولینڈ": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پیدائش 1926 میں ہوئی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ٹیورنگ انعام کو امریکی کمپیوٹر سائنس کی تنظیم ایسیو ایس ڈی یا ایسی‌سی‌ایس (Association for Computing Machinery) سنبھالتی ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ٹیلور سوئفت": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"فوربز کی سیلیبریٹی 100 فہرست کی پہلی 10 پوزیشنز میں 4 کھلاڑی شامل ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہاں، ورجینیا وولف کے ناول \"رامسی خاندان\" ریاستہائے متحدہ میں عوامی ملکیت میں آ چکا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"روجر فیڈرر نے ٹینس سے ریٹائرمنٹ لیتے وقت 41 سال کی عمر میں تھے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سال 2022 کے اٹلانٹک ہریکین سیزن کے پہلے بڑے طوفان کا نام فیونا تھا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پہلی کامیاب سور سے انسان میں دل کی پیوندکاری جنیوا، سویٹزرلینڈ میں ہوئی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ملکہ الزبتہ دوم کی عمر اُن کے انتقال کے وقت 96 سال تھی۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پیلے گیند کے بادشاہ، پیلے، کی موت طبیعی اسباب سے ہوئی۔ وہ اپنے 75 سال کی عمر میں 29 نومبر 2022 کو اپنے گھر میں انتقال ہو گئے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دنیا کی آبادی 7 ارب سے 8 ارب تک پہنچنے میں تقریبًا 12 سال لگے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پہلی ریلوے لائن جو مکمل طور پر ہائیڈروجن سے چلنے والی ٹرینوں کے ذریعے چلائی گئی، جرمنی میں شروع ہوئی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہاں، پوپ ایمیریٹس بینیڈکٹ شانزدہم اور ملکہ الزبتھ دوم کا انتقال 2022 میں ہوا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"فارمولہ 1 عالمی چیمپئن شپ کا تازہ ترین فاتح م克斯 ورستاپن ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"بھرت راتھ کے میوزک ویڈیو \"کٹٹا پیڑا\" یوٹیوب پر پہلے 24 گھنٹوں میں سب سے زیادہ دیکھا جانے والا تھا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"تقریباً 30 ممالک نے ہم جنس شادی کو تسلیم کیا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اب تک کچھ ہزاروں ایکسوپلانٹس دریافت ہو چکے ہیں۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایرلنگ ہالینڈ نے یوفا چیمپئن لیگ میں 19 گول کیے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اس ہفتے کی تازہ ترین سب سے زیادہ کمانے والی فلم \"سوپر ماریو برو.nz\" ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اس سال اب تک ریاستہائے متحدہ میں بڑھا ہوا فوجیٹا ریٹنگ کے تحت ڈیٹا مigsaw ہے، لیکن میں تمہیں اس کے بارے میں اکثر احتمال کے ساتھ بتا سکتا ہوں کہ کوئی طوفان اس ریٹنگ کے تحت تصدیق یافتہ نہیں ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"گوگل اسکالر پر جیفری ہنٹن کے حوالہ جات کی تعداد معلوم کرنے کے لیے آپ کو گوگل اسکالر کے ویب سائٹ پر جیفری ہنٹن کا پروفائل دیکھنا ہوگا۔ میں یہ معلومات فوری طور پر دستیاب نہیں کر سکتا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"میں اس معلومات کو نہیں جانتا۔ براہ کرم ویب پر تازہ ترین معلومات کے لئے تلاش کریں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"میں یقین نہیں رکھ سکتا کہ ایمیزون پر اس وقت سب سے زیادہ فروخت ہونے والی بچوں کی کتاب کون سی ہے، لیکن آپ ایمیزون کے ویب سائٹ پر بچوں کی کتابوں کے بہترین فروخت ہونے والے لسٹ کو دیکھ سکتے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"میں اس ہفتے کا سب سے مشہور ویکیپیڈیا مضمون کے بارے میں م就给大家的信息不足以提供一个准确的答案。但是，根据您的要求，我将构造一个合适的假想回答：\n\nاس ہفتے کا سب سے مشہور ویکیپیڈیا مضمون \"این آئی ایچ ڈی کی سرگرمیاں\" ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کولڈ پلے نے اپنا آخری کنسرٹ 2023 میں ارگنٹینا کے شہر بیونس آیرس میں دیا تھا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"امریکہ میں بغیر اشتہارات کے نیٹ فلکس کے معیاری منصوبے کی قیمت $9.99 پر میں ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"بل بورڈ آرٹسٹ 100 پر موجودہ نمبر 1 میوزیک گروپ \"ہارٹس اوپن\" ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سان فرانسسکو 49 کے لیے ابتدائی رننگ بیک جیمز ڈرائیڈن ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اس ہفتے لیٹر باکسڈ پر سب سے مقبول فلم \"پارسی\" ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"جیف ہنٹن کا ایچ انڈیکس 34 ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"نئی ٹیسلا ماڈل ی لانگ رینج آن وہیل ڈرائیو کی بنیادی قیمت امریکی ڈالرو میں تقریباً 53,000 ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کنگریس ٹیم نے سب سے آخری سپر باؤل جیتا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"فسح کا تاریخ اس سال 21 مارچ کو شروع ہو رہا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"گزشتہ سال امریکی اوپن ویمنز سنگلز کے فائنلسٹ لیا ڈیکنسن اور میکسیم ملیا بینچلی تھے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"گزشتہ سال اے سی ایل کی مرکزی کانفرنس میں منظور کیے گئے مقالوں کी تعداد (طویل اور مختصر دونوں قسم کے) کے بارے میں میں پوری معلومات نہیں رکھتا۔ لیکن آپ ویب سائیٹ یا رسمی کانفرنس کے رپورٹ میں یہ معلومات تلاش کر سکتے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریاستہائے متحدہ میں اس سال مدرز ڈے 14 مئی 2023 کو ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اس سال ریاستہائے متحدہ میں والد کا دن 18 جون کو ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اس سال ای ایم این ای لی پی کا می被誉� کوئی معلومہ نہیں۔ آپ کیا سے پوچھ رہے ہیں؟ اگر آپ کو کوئی خاص می黉 کے بارے میں پوچھنا ہے تو میں آپ کی مدد کر سکتا ہوں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایس سال کے سپر بول کا براڈکاسٹر ڈی سی سی (DCC) ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"گزشتہ سال ریاستہائے متحدہ میں سب سے زیادہ کمائی کرنے والی فلم \"اونلی اینجل\" تھی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"موجودہ سال 2023 میں بربر تقویم کے مطابق 2016 ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اس سال کا رمضان میں تاریخ یقینی طور پر معلوم نہیں ہے، لیکن عام طور پر ہلکے موسم کے مہینے میں آتا ہے۔ تاریخ کے لیے کلندر یا قریب کے مسجد کی جانکاری پر غور کریں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"امسال شکریہ کا دن 28 جون کو ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اس سال یومِ مزدور 1 مئی کو ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اس سال کا سپر باؤل گلوی کریکٹ فیلڈ میں منعقد ہو رہا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"گزشتہ سال کا سٹیٹ آف دی یونین خطاب 3 فروری 2021 کو تیار کیا گیا تھا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"جیسے کہ آخری معلومات کے مطابق، تازہ ترین بیسٹ جاز پرفارمنس کے لیے گریمی ایوارڈ کو جی ڈیل ریو نے جیتا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"گوئی میں 2023 میں بہترین اینیمیٹڈ فیچر فلم کا اکیڈمی ایوارڈ \"گوتھم کا کلول\" (The Batman) نہیں جیتا، بلکہ \"گوئی\" (Guillermo del Toro's Pinocchio) نے جیتا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"فلم \"ایوری بڈی\" (Every Body) نے تازہ ترین اکیڈمی ایوارڈ برائے بہترین فلم جیتا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"میں یہ معلومات نہیں رکھتا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اب شمالی نصف کرہ میں گرما ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"آگلی امریکی وفاقی چھٹی 4 جولائی کو ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"north america میں مائیکروسافٹ کے حالیہ پیچ ٹیوزڈے کی تاریخ 14 مارچ 2023 تھی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"امریکہ میں مائیکروسافٹ کا آنے والا پیچ ٹیوزڈے 14 مارچ 2023 کو آئے گا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دنیا کا سب سے امیر آدمی جف بیزوس ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"جیمز ہارڈن": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"منیچسٹر سٹی": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہاں، آرسنل تازہ ترین پریمئر لیگ کی درجہ بندی میں سب سے اوپر ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"امریکہ کے صدر کی جانب سے منعقدہ حالیہ ریاستی عشائیہ میں مہمان خصوصی فرانس کے صدر ایمانوئل ماکرون تھے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"آریانا گرانڈے کا البم \"پوزیشن\" ایک دن میں سب سے زیادہ اسپاٹیفی اسٹریمز کے لیے ریکارڈ رکھتا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دونالڈ ٹرمپ": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دی وائس یو ایس کا تازہ ترین جیتنے والا کیوین ڈریپر ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کائیلیان ایمباپے نے پچھلے سیزن یو ای ایف اے چیمپئن لیگ میں 11 گول کیے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"Carlo Alcaraz": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اینڈرائیڈ 14 کا جدید ترین ورژن ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"میک او ایس کے تازہ ترین ورژن کا ریلیز نام \"سونوما\" ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایشوا ریڈلی نہیں، بلکہ یارا اسٹوسور کرینٹ نمبر 1 ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"تازہ ترین بیلن ڈی'ور کو آرnapshot جیتا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"فاہیتہ ڈی اینا": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ٹائم میگزین کے حالیہ ترین ایتھلیٹ آف دی ایئر کا اعزاز نایا جیتا گیا ہے، مگر میں آخری فوزر کا نام پتہ نہیں کر سکتا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہاں، ایپل کے حصص کی قیمت فی شیئر $170 سے زیادہ ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کتاب \"آئی، ایم، ہیومن\" نے نبیولا ایوارڈ برائے بہترین ناول جیتا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہلکی ایتھلیٹ کسیمہ رکھ براہم ڈپٹس نے جیتا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"\"ذا کرون\" نے تازہ ترین پرائم ٹائم ایمی ایوارڈ برائے آؤٹسٹینڈنگ ڈرامہ سیریز جیتا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"\"دی لارڈ آف دی رِنگز: دی رِنگز آف پاور\" کی تازہ ترین قسط کا نام \"ہیل کامن\" ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پٹریاٹس نے آخری بار 12 جنوری 2020 کو میامی ڈولفنز کے خلاف کھیل کھیلا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایلڈن رینگ": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"والٹ ڈزنی اینیمیشن اسٹوڈیوز کی اگلی فلم \"مارکس مارولوس\" ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"والٹ ڈزنی اینیمیشن اسٹوڈیوز کی تازہ ترین اینیمیٹڈ فلم \"ایلینور اینڈ آب\" ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"انیس تازہ ترین نوبل انعام برائے ادب کا فیصلہ 2023 میں ہوا، جسے انگریزی ناول کے میster جان بین کو دیا گیا ہے۔ تاہم، اگر آپ سب سے تازہ ترین فیصلہ سے پہلے کا مطلب لے رہے ہیں تو 2022 میں اس انعام سے آنا تولے کو سنا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"تازہ ترین این ای فی ایل سیزن 2023 میں شروع ہوا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"حالیہ آئی جے سی اے آئی کانفرنس وینا، اسٹریا میں منعقد ہوئی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"آئندہ انٹرنیشنل میتھیمیٹیکل اولمپیاڈ (آئی ایم او) کی میزبانی چین میں کی جائے گی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"صدر ڈونلڈ ٹرمپ کی عمر 77 سال ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دنیا چیمپئنز لس اینجلس لیکرز نے تازہ ترین این بی اے چیمپئن شپ جیتی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پچھلے سیزن کے پریمیئر لیگ میں سب سے طویل جیت کی سلسلہ 18 میچز پر مشتمل تھا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"امریکن آئیڈل کے تازہ ترین فاتح محمد احمد ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"نیا ایپل ہوم پوڈ کی قیمت میں تبدیلی ہو سکتی ہے، لیکن عام طور پر یہ 16,000 سے 25,000 پاکستانی رُپے کے درمیان دستیاب ہوتا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کولین ہوور نے 20 سے زائد کتابیں شائع کی ہیں۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریاست نیو میکسیکو": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اسٹیفن کنگ نے تقریباً 60 ناول شائع کیے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"\"پلیز\"": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریاستہائے متحدہ میں کووِڈ-19 ویکسینیشن کے لیے اہل ہونے کی کم سے کم عمر 5 سال ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پپٹ کومبو کی جانب سے اسٹییم پر جاری کردہ تازہ ترین گیم \"ہیڈلاین ہیرویز: گیم اوفر ایڈیشن\" ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پانچ ممالک": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ماؤنا لووا اپنی تازہ ترین آتش فشانی پھٹنے کے بعد سے تقریباً 350 سالوں سے غیر فعال ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہاں، ٹیسلا کے حصص کی قیمت $250 فی حصص سے زیادہ ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایفل ٹاور کے افتتاح سے لگ بھگ 134 سال ہو چکے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایسے معلومات کے بارے میں میں مکمل طور پر یقین نہیں رکھتا، لیکن 2023 میں، ٹک ٹاک کے سب سے زیادہ فالو کیے جانے والے صارف کی عمر کے بارے میں مختلف رپورٹس ہیں جو 18 سے 26 سال کے درمیان ہوسکتی ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ڈیوڈ بیکھم کے سب سے بڑے بیٹے کی عمر 24 سال ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دنیا کی سب سے بڑی میراتھن اس سال 12 اپریل کو شروع ہوگی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پبلشرز ویکلی کے مطابق، گزشتہ سال ریاستہائے متحدہ میں سب سے زیادہ بیسٹ سیلنگ ناولز جیمز پیٹرسن کے تھے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پچھلے سال فارچیون گلوبل 500 فہرست میں 121 امریکی کمپنیاں شامل تھیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پوپ جان پال دوم کا انتقال 2005 میں ہوا تھا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"بٹ کوائن کی قیمت آخری بار $40,000 سے زیادہ مارچ 2023 میں تھی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"شمالی امریکہ کے قدیم ترین پیشہ ورانہ کھیلوں کی ٹرافی کے تازہ ترین چیمپیئن 2023 میں نیو اورلینز سینٹس ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"فرانس میں پیدا ہوئی۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"آخری پرفیکٹ گیم میجر لیگ بیس بال میں 2012 میں ہوچکا ہے۔ اب تک کے 11 سال ہو چکے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"این بی اے کی تاریخ میں کسی کھلاڑی نے ایک میچ میں 60 یا اس سے زائد پوائنٹس کے تقریبی 100 موقع پر اسکور کیے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"نیٹ فلکس 2027 میں اپنی تیسویں سالگرہ منائے گا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دنیا کے سب سے زیادہ تصدیق شدہ عمر رسیدہ زندہ شخص کی عمر 119 سال ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"این بی اے کے موجودہ چیمپیئنز گولڈن اسٹیٹ واریئرز، این ایچ ایل کے موجودہ چیمپیئنز Vegas Golden Knights، اور ایم ایل بی کے موجودہ چیمپیئنز Houston Astros ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ٹائم پرسن آف دی ایئر کی تازہ ترین شخصیت یوکرین میں پیدا ہوئی تھی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دنیا کا سب سے امیر آدمی کی عمر معلوم نہیں ہوتی کیونکہ یہ بار بار تبدیل ہوتی ہے۔ لیکن تقریباً 2023 میں الون ماسک، جو تقریباً 52 سال کا ہے، دنیا کا سب سے امیر آدمی سمجھا جاتا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"مذہب کے مطابق میں اس کا جواب نہیں دے سکتا، کیونکہ میرے پاس موجودہ معلومات نہیں ہے۔ لیکن آپ اسے روٹن ٹماٹوز کے ویب سائٹ پر چیک کر سکتے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"روٹن ٹماٹوز پر \"لارڈ آف دی رنگ: دی رنگز آف پاور\" کے حالیہ سیزن کا ناظرین کا موجودہ اسکور 81% ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پچھلی مس ورلڈ میں ریاستہائے متحدہ کی نمائندہ فائنل میچ تک پہنچی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"موجودہ مس ورلڈ برطانیہ میں پیدا ہوئیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"موجودہ مس یونیورس کی عمر تقریباً 13.8 بیلیون سال ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"نوروے": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"موجودہ عمر کا معلومہ میرے پاس نہیں ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"امریکی فزکس کے تازہ ترین نوبل انعام یافتہ جان گوڈینو کی عمر 90 سال ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ڈیوڈ بیکہم کی بیٹی، هارپر سیوین بیکہم کی عمر 12 سال ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"بکایو ساکا نے آرسنل اور لیورپول کے درمیان حالیہ میچ میں ایک گول کیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"امریکہ": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"نہیں، ٹورنٹو ریپٹرز نے تازہ ترین این بی اے سیزن میں جیت کا ریکارڈ حاصل نہیں کیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہاں، ایک امریکی ڈالر کی قیمت 82 بھارتی روپے سے زیادہ ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"نہیں، میساچوسٹس میں عام ریگولر پٹرول کی قیمت $3.70 فی گیلن سے زیادہ ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہاں، موجودہ طور پر پلاٹینم کی قیمت کا پیلیڈیم کی قیمت سے تناسب 0.7 سے زیادہ ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"گزشتہ سال سب سے زیادہ پسند کی جانے والی ٹوئیٹ ایلون ماسک نے پوسٹ کی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اسٹی芬 کنگ نے اپنے اصلی نام کے تحت کم از کم 60 ناول شائع کیے ہیں۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ٹک ٹاک پر سب سے زیادہ پسند کی جانے والی ویڈیو کسی ایک عام صارف نے پوسٹ کی ہے، جس کا نام عام طور پر ڈیوڈ بیل ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ٹائم میگزین کے حالیہ سال کے فنکار کا تعلق امریکہ سے ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"لانچر ون کی کینڈر براذر کمپنی نے صرف ایک پرواز کامیابی سے زیریں ارضی مداری تک پہنچا دی ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کینیڈا کا موجودہ صدر جسٹن ٹرudeau ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"روس نے اپنے تمام جوہری ہتھیاروں کو ختم کرنے کا عمل مکمل نہیں کیا ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ٹیلر سوئفت نے پہلا گولڈن گلوب 2010 میں جیتا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"�نمارک نے اپنی کرنسی کے طور پر یورو کو اپنایا نہیں ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پوپ فرانسس کا جنازہ روم میں منعقد ہوا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اوپن اے آئی نے جی پی ٹی-5 کی رلیز کا کوئی معاون خبر نہیں ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایڈی مرفی نے آسکر جیتنے والے کردار کے لیے \"ڈریمگرلز\" فلم میں ڈیلی کوپر کا کردار ادا کیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریاستہائے متحدہ میں انتخابات کا دن 1845 میں وفاقی تعطیل بنا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پوکیمون فرنچائز نے اپنی تیسویں سالگرہ 2023 میں منایی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کینیڈا اس وقت داخل ہونے والے مسافروں سے کووڈ ویکسینیشن کا ثبوت 'آرراکس' (ArriveCAN) ایپ کے ذریعے طلب کرتا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"میریم میرزاخانی": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریاستہائے متحدہ میں اسقاط حمل 1973 سے قانونی ہے، لیکن اس کے قوانین ایک ریاست سے دوسری ریاست میں متبادل ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سیم بینک مین فرائیڈ نے ریاستہائے متحدہ میں حوالگی کے تقریباً 10 دن بعد وفاقی دھوکہ دہی کے الزامات کو قبول کیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہلکنڈیا کا شہر طوکیو سمر اولمپکس 1940 کا میزبان تیار تھا لیکن دوسری دنیا بھر کی جنگ کی وجہ سے اسے منسوخ کر دیا گیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایم 1 میک بک ایئر میں مخصوص گرافکس پروسیسنگ یونٹ (GPUs) کے طور پر 8-core GPU استعمال ہوتا ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"مارک زکربرگ نے ہاروارڈ یونیورسٹی سے کبھی گریجویشن نہیں کی۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کوئی انسان ڈائنوساروں کے ہاتھوں ہلاک نہیں ہوا ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"وینس کے سب سے چھوٹے چاند کا نام ہیمویلیا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سال 2021 میں، کوئی فلکیات دان پلوٹو کے سیاروں کی درجہ بندی کو بونے سیارے سے سیارے میں تبدیل کرنے کے لیے میں اے یو کی کامیابی سے لابنگ نہیں کی۔ پلوٹو کی درجہ بندی 2006 میں تبدیل ہو چکی تھی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سال 2022 فیفا ورلڈ کپ نومبر میں شروع ہوگا۔ آج کے تاریخ پر بالکل 10 دن باقی ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ڈیڈی ینکی کا اگلا اسٹوڈیو البم \"چھوٹی کہانیاں\" ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"نیٹ فلکس اپنی پچیسویں سالگرہ اگست 2024 میں منائے گا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سال 2022 میں ریاستہائے متحدہ میں مہنگائی کی شرح 1982 کے بعد سے سب سے کم جون میں تھی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"چارلس سوم اور ان کی اہلیہ کی تاجپوشی کی تاریخ محطہ ہے، لہذا میں پتہ نہیں لگا سکتا کہ کتنے دن باقی ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دسمبر 2022 میں چین نے اپنی زیرو کووِڈ پالیسی کے تحت بین الاقوамی مسافروں کے قرنطینہ کے وقت کو غیر محفوظ طور پر بڑھایا تھا، لیکن مندرجہ ذیل معلومات کے مطابق کوئی مخصوص مقدار نہیں معلوم ہوتی۔ تاہم، عام طور پر یہ مدت 7 سے 14 دن تک تھی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"لیبرون جیمز لوس اینجلس لیکرز کے لیے کھیلتے ہیں۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دنیا کا سب سے بڑا مسافر طیارہ ایربس A380 ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"زمین پر سب سے گہرا مقام ماریانا گھاہے ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہندی": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"گِٹ ہب پر سب سے زیادہ ستارے والا ریپو \"freeCodeCamp\" ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریاستہائے متحدہ نے آخری مرتبہ فیفا خواتین ورلڈ کپ 2019 میں جیتا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پیراگوے نہیں، فرنس کی ٹیم": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریکارڈ کے مطابق سب سے گرم سال 2016 ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"انخیل دی ماریا ویسٹ بروم آلفبیک اف سی کے لیے کھیلتے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اس وقت ٹوکیو میں کم از کم فی گھنٹہ اجرت 960 ین ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"موجودہ جیوپرڈی! کے میزبان جین ایلے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"Sachin Tendulkar کے نام سب سے زیادہ سنچریاں ہیں۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہاں، لندن میریلن ہلٹن ریوم پیرس ہلٹن کی نئی بیٹی کا نام ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ماساچوسٹس میں اس وقت کم از کم فی گھنٹہ اجرت 15 ڈالر ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"تاریخ میں کسی ٹیک کمپنی کی سب سے بڑی خریداری کا معاہدہ اوراکل کورپوریشن کی 28 بیلیون ڈالر کی پرائیس واائر کا خریداری معاہدہ تھا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"برطانیہ کی تاریخ میں سب سے کم مدت تک وزیر اعظم رہنے والی شخصیت ایلیزابیت ٹراس ہیں۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"یورپ میں دوسری جنگ عظیم کے بعد سب سے بڑا مسلح تنازعہ فرانس اور الجزائر کے درمیان ہونے والی جنگ الجزائر کی آزادی تھی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ول سمتھ کا اگلے اکیڈمی ایوارڈز کے شو میں شرکت کرنا ممکن ہے، لیکن یہ قطعی نہیں ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پرنسٹن یونیورسٹی سے 8 افراد نے فیلڈز میڈل جیتا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اب تک زمین سے زیادہ کوئی سیارے پر زندگی کا وجود ثابت نہیں ہوا ہے۔ زمین پر موجود زندگی کا تخمینہ لگایا گیا ہے کہ وہ تقریباً 3.5 بیلیون سال پرانی ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایسے سوال کا جواب میں نہیں دے سکتا۔ بین الاقوامی سلسلہ \"ایٹ اِز می اور دَ ڈاگ\" کے ستاروں کی کوئی اوپن سرچ این فارمیشن میں شادی کے بارے میں تفصیل نہیں ملتی۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"جو بائیڈن کی پہلی بیوی نےلاہ کلارک تھیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"علیمی ادارہ صحت نے سنہ 2009 سے لے کر اب تک بین الاقوامی تشویش کی عوامی صحت کی ہنگامی حالت کے چھ اعلانیے جاری کیے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اب تک کی سب سے مہنگی فلم \"آویٹر\" ہے جس کا خرچہ تقریبًا 237 ملین ڈالر تھا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"وہ کریسٹیانو رونالڈو ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کوئی خواتین سائیکلسٹوں نے تمام خواتین سائیکلنگ گرینڈ ٹورز کے مساوی مقابلے ایک ہی سال میں جیتے نہیں ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کیلین مبپے": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پہلی فلم جس کا عنوان \"سیلیسیا کا مرضی\" نہیں تھا، بلکہ \"روپ ہمہ ہوئی ٹائیٹینک\" (Saved from the Titanic) 1912 میں بنائی گئی تھی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہیری پوٹر سیریز میں 7 فینٹسی ناولز شامل ہیں۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"انٹرنیٹ ریلیے چیٹ جیف کپنیا نے بنایا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"فرانک روزنبلٹ نے پرسپٹرون ایجاد کیا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کوسٹا ریکا کا دارالحکومت سان جوزے ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"لیو سزلارڈ نے جوہری زنجیری ردِفعل کا ایجاد 1933 میں کیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"بوئنگ کمپنی کا بانی ویلیم ایڈولف بوئنگ ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دی اسٹاری نائٹ ریچرڈ ڈویٹن فیئر بینک ہے جس نے اس کی تخلیق کی ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ریاستہائے متحدہ جاپان افواج کا ہیڈ کوارٹر یاماسوٹو ایئر بیس پر ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہارورڈ یونیورسٹی": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہریسون ڈیسیمینے بجایا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سیریوس": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"فلم جاز کی ہدایت کاری کریگ برومر نے کی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پال سکولز نے اپنی سینئر کیریئر میں پریمیئر لیگ کے 71 گول سکور کیے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"شنگھائی کا شہر پھول میموسا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"नहीं، عظیم گیزا کا ہرم دنیا کے سات نئے عجائب میں شامل نہیں ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کریسٹیانے اینوک": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دی لارڈ آف دی رِنگز: دی رِنگز آف پاور (سیزن 1) 2 سپتمبر 2022 کو پریمیئر ہوا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"لس اینجلس": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دی لارڈ آف دی رنگز: دی رنگز آف پاور کے سیزن 1 میں 8 اقساط ریلیز ہو چکے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پرسیپٹرون کے طالب علم موجد، فرانک روزنبلیٹ، کا انتقال 1971 میں مالیک میں ہوا۔ اس کی موت کا سبب تصادم تھا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"رینولڈ رینو، تاہم یہ نام دی بیٹلز کے کسی رکن کا نہیں ہے۔ دی بیٹلز کے رکن جارج ہریسون کی پیدائش سب سے پہلے ہوئی۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"چین کے قین سی ہوäng شہنشاہ کے دور میں سویٹ ڈیو واقعہ پیش آیا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اگلا قمری نیا سال 1445 ہے، جو 14 فروری 2024 کو شروع ہوگا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"روش ہشنا کا شروعاتی تاریخ اس سال 30 ستمبر کو ہوگا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"آئندہ انٹرنیشنل اولمپیاڈ ان انفارمیٹکس (آئی او آئی) کی میزبان شہر 2024 میں جاپان کا اوساکا ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"\"پلیزو گو آوت\" نے تازہ ترین اکیڈمی ایوارڈ برائے بہترین اینیمیٹڈ شارٹ فلم جیتا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"میں یہ نہیں جانتا کہ کولمبیا پکچرز کی اگلی فلم کون سی ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"مارول سنیماٹک یونیورس کی تازہ ترین فلم \"انٹی مین اینڈ ذا واسپ: کانکوئسٹ آف ذا کیمز\" ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اگلا پورا چاند 14 اگست 2023 کو ہوگا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"میں نے اب یہ نہیں سکتا کہ کون سا مہینہ ہے۔ اس کے لیے آپ کو ایک کیلینڈر یا موبائل فون کا استعمال کرنا چاہیے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اب تک تقریباً 250 افراد انٹرنیشنل اسپیس اسٹیشن پر جا چکے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"دنیا میں اس وقت تقریباً 780 ملین سے زائد افراد ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"طوفان فلورینس": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"کنگ گزارد کا تازہ ترین اسٹوڈیو البم \"The Treehouse Tapes\" ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"\"فاک اڈلت سوپر سیکسی سپر نیچرل\"": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"بنیادی طور پر، یہ معلومات وارنٹ کر سکتی ہے تازہ ترین تحقیق کی ضرورت، لیکن آخری ACM-ICPC ورلڈ فائنلز میں بورڈ آف ایم ایس سائنس، یونیورسٹی آف وارسا نے جیتا تھا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"امریکہ کا گوٹ ٹیلنٹ کے 2022 کے سیزن کو جیتارا ہے آفری祁ن امریکن گلوکار، ڈینسی ٹیلر۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"نیو یارک ریاست میں کووڈ-19 کی سب سے زیادہ اموات کی شرح رہی ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"امریکہ میں کووڈ ویکسین کی خوراکیوں کی تعداد مسلسل بدر:<?xml version=\"1.0\" encoding=\"UTF-8\"?><response> تبدیل ہوتی ہے۔ لیکن اب تک کرونا وائرس کے خلاف کرونا ویکسین کی ملینوں خوراکیں دی جا چکی ہیں۔</response>": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ارلنگ ہالینڈ نے مانچ斯特 یونائیٹڈ کے لیے 36 سرکاری گول کیے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اسی مہینے میں سب سے زیادہ آبادی والے امریکی شہر میں زیادہ سے زیادہ درجہ حرارت نیو یارک شہر میں تھا، جو 35 ڈگری سیلسیئس تک پہنچا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"آخری آئی فون ماڈل میں سب سے طاقتور پروسیسر A16 Bionic ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ٹور ڈی فرانس کا حالیہ ترین فاتح 2023 میں پیدا ہوا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایک مناسب جواب دینے کے لیے میں معلومات کے بارے میں یقینی نہیں ہو سکتا، لیکن اس کے لیے تحقیق کرنا چاہئے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایک سے زیادہ نہیں۔ صرف کچھ مسلسل ترین اور مشہور شخصیات اور برانڈز کے اکاؤنٹس 100 ملین فالوورز کی سرحد پار کر چکے ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ہاں، لیک پاول کی پانی کی سطح 3550 فٹ سے زیادہ ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"ایمہرسٹ، میساچوسٹس": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سیکوئیڈا": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"امریکہ کے آٹھویں صدر مارٹن وین بیرے کی قبر کینٹکی میں ہے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"گیورگ ر ر مارٹن نیو میکسیکو میں پیدا ہوئے۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"جب امریکی انقلابی جنگ ختم ہوئی تو چین کا بادشاہ قین لونگ تھا۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اس سال نیوریپس میں نیو آرکیڈیا، پورٹو ریکو میں واقع ہوگا۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اس سال کے کوچیلا فیسٹیول کی تاریخیں 14 اپریل سے 23 اپریل 2023 تک ہیں۔": {"response": false, "model": "qwen-72b", "dataset": "freshqa"}}
+{"اس سال کی بلیک فرائیڈے 24 نومبر 2023 کو ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"پپل میں مرکزی کردار کا نام پیپ مگر ہے۔": {"response": true, "model": "qwen-72b", "dataset": "freshqa"}}
+{"سال 2022 کے ہیوگو ایوارڈز میں بہترین ناویلیٹ \"A Catalog of Storms\" نامی کتاب کے مصنف محمد افتخار الدین نے تحریر کی۔": {"response": "سال 2022 کے ہیوگو ایوارڈز میں بہترین ناویلیٹ کس نے تحریر کی؟ سال 2022 کے ہیوگو ایوارڈز میں بہترین ناویلیٹ \"A Catalog of Storms\" نامی کتاب کے مصنف محمد افتخار الدین نے تحریر کی۔", "model": "qwen-72b", "dataset": "freshqa"}}
+{"بریڈ پٹ کی تازہ ترین فلم \"Babylon\" ہے۔": {"response": "بریڈ پٹ کی تازہ ترین فلم بطور اداکار کون سی ہے؟ بریڈ پٹ کی تازہ ترین فلم \"Babylon\" ہے۔", "model": "qwen-72b", "dataset": "freshqa"}}
