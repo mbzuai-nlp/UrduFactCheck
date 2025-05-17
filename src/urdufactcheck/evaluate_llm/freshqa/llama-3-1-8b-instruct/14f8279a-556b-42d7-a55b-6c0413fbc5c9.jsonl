@@ -1,0 +1,3 @@
+{"idx": 0, "solver": "urdufactcheck_claimprocessor", "continue": true, "state": {"question": null, "response": "القاعدہ کے موجودہ رہنما کون ہیں؟ یہ معلومات میرے پاس نہیں ہیں کہ القاعدہ کے موجودہ رہنما کون ہیں۔", "claims": []}}
+{"idx": 1, "solver": "urdufactcheck_translator_retriever", "continue": true, "state": {"question": null, "response": "القاعدہ کے موجودہ رہنما کون ہیں؟ یہ معلومات میرے پاس نہیں ہیں کہ القاعدہ کے موجودہ رہنما کون ہیں۔", "claims": [], "claims_with_evidences": {}}}
+{"idx": 2, "solver": "urdufactcheck_verifier", "continue": true, "state": {"question": null, "response": "القاعدہ کے موجودہ رہنما کون ہیں؟ یہ معلومات میرے پاس نہیں ہیں کہ القاعدہ کے موجودہ رہنما کون ہیں۔", "claims": [], "claims_with_evidences": {}, "detail": [], "label": true}}

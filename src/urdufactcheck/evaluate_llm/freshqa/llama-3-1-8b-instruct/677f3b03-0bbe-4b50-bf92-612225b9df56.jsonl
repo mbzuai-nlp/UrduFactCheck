@@ -1,0 +1,3 @@
+{"idx": 0, "solver": "urdufactcheck_claimprocessor", "continue": true, "state": {"question": null, "response": "گریگ ایگن کا تازہ ترین ناول کون سا ہے؟ میں اس سوال کے بارے میں کوئی معلومات نہیں رکھتا.", "claims": []}}
+{"idx": 1, "solver": "urdufactcheck_translator_retriever", "continue": true, "state": {"question": null, "response": "گریگ ایگن کا تازہ ترین ناول کون سا ہے؟ میں اس سوال کے بارے میں کوئی معلومات نہیں رکھتا.", "claims": [], "claims_with_evidences": {}}}
+{"idx": 2, "solver": "urdufactcheck_verifier", "continue": true, "state": {"question": null, "response": "گریگ ایگن کا تازہ ترین ناول کون سا ہے؟ میں اس سوال کے بارے میں کوئی معلومات نہیں رکھتا.", "claims": [], "claims_with_evidences": {}, "detail": [], "label": true}}
