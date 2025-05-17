@@ -1,0 +1,600 @@
+{"نارangedار": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دیکاپریو": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"1382 سال": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دھوپہ": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ابھی تک نہیں حل ہوا ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"1952": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"میٹا نے آسٹن کا ہیڈکوارٹر 1971 میں منتقل کیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"امریکن یونیورسٹی میں الفا کیپا ڈیلٹا فائی کا چیپٹر 1982ء میں قائم کیا گیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جولائی 2021": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کینسر کا دائمی علاج ہر اور ہر وقت تیار کیا جاتا ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دارٹماؤتھ لا اسکول 1882ء میں قائم ہوا تھا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"لیجنڈز 2 1982 میں جاری ہوئی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"1936 سال": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"امریکی ایکسپریس نے بیسویں سنچورین لونج 1945 میں کھولی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"120 سالہ": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جیمی اولیور نے پہلی دفعہ مِشلین اسٹار 1955 میں حاصل کیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"برطانیہ نے یورو کو 1971 میں اپنایا": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دوسری بار ویتنام": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ایلون مسک نے ایکٹیویژن بلیزارڈ 11 مارچ 2019 کو خریدی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کواڈ-19 کو ورلڈ ہیلتھ آرگنائزیشن نے کب وبائی بیماری قرار دیا۔": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ڈریک نے 1960ء، 1970ء اور 1980ء میں اسپاٹائف کی سب سے زیادہ سنے جانے والے فنکاروں کی فہرست میں پہلی پوزیشن حاصل کی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ٹیسلا ماڈل زیڈ 2008 میں سامنے آئی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اسکینڈریا": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ایلون مسک نے انسٹاگرام پر 1.3 بلین ڈالر خریدا": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یہاں ہے جسمانیٹی کے مطابق مارک زکربرگ نے ٹویٹر 4.2 بلین سے زیادہ کے ساتھ کھیلا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کلنٹ ایسٹ وڈ کو 1969 میں بہترین اداکار کا ایکڑ ایوارڈ ملا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"26 اگست 1994": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بٹل، 1949ء": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کرس پال نے 1986 میں دوسرا این بی اے چیمپئن شپ جیتا تھا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ستمبر 1689": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یَن لیکُن نے گوگل میں 2007 میں شمولیت اختیار کی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"سیریز کے آٹھویں اور آٹھویں کے درمیان ہونے والے کھیل سے قبل ہی کھیل سے جاری ہو چکے ہیں۔": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2023 میں ستمبر میں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"USA 8 ارب تک پہنچی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بیلون ڈی آر کا سب سے پہلے جیتنے والا ہیری میگوائر تھا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"1985": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دائرہ اختیار 1936": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ہلاری کلنٹن نے 12 ایگزیکٹو احکامات نافذ کیے ہیں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جینفر ہڈسن ہیلن۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"1986": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دوسرا فیفا ورلڈ کپ 1998 میں جیتا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"امریکی وارن ہیلن ہے جس نے مس ورلڈ کا تاج جیتا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"سینیٹ میں 49 سے 50 دیموکریٹک سٹریٹجیکر ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ایلون مسک 1984 سے ایکس کارپ کے سی او ہیں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اس سال فیفا ورلڈ کپ کی میزبانی پاکستان ہوگی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ایڈورڈ سنوڈن 1990 سے 2019 تک کیوبا میں رہ رہے ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کینیا کا دو جماعتی نظام حکومت 1952 سے استعمال ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"سی ایس ایس ٹی": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ٹیلور سوئفٹ 1985 سے یونیسف کی خیرسگالی سفیر ہیں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پہلی بار ایک ارب انفیکشنز کو 11 اپریل 2020 کو عبور کیا گیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ملکہ ایلون مسک اور ڈیوڈ الینبرگ سے 2011 میں شادی ہوئی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پورٹو ریکو 1984 سے آزاد ملک ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اسٹیٹنٹ کلب، نیویارک منعقدہ اولمپکس 1924 میں ہوا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جولائی 2023": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پاسخ: نیکولاس کیلا ہلنڈر": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"نیز لینڈ کے چھ زندہ سابق وزرائے اعظم ہیں:\n\n1. رابرت کرائٹ\n2. الکے اسٹنل\n3. وینس لینڈ\n4. مائیکل اسٹنل\n5. مائیکل کرائٹ\n6. ڈینس لینڈ": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اہمیت کا صدر ہے۔": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"برازیل کے صدر کو 2023 کے انتخابات میں اپنے چیلنجر کو 3.4 فیصد سے شکست دی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2023 میں 26 جنوری کو": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دور 2019ء میں": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جولائی 2500 کے لیپ سال میں فروری میں 29 دن ہوں گے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بنیجمن روتھ نے 5 ہوم رنز مارے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"چاند پر ہونے کے بعد ہی": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"1944 میں جرمن املا کی اصلاحات 1945 میں نافذ ہوئیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"آئی نے ہارڈ کوئلر،  1995، اور شین آئی نے 1998 سے 2000 تک شکاگو بلز کے ساتھ کھیلا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یوگوسلاویہ کی پارلیمنٹ میں ہر سال تقریباً 20.5% سے 25% خواتین آتے ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ایی فون 9 2020": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بھنگ 1917": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2022 میں بی ٹی ایس نے اپنا دسواں اسٹوڈیو البم 21 جولائی کو جاری کیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"87 رنز": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ریکن ریورڈن نے پہلی بار ہیری پوٹر سیریز 1987 میں جاری کی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کیلیفورنیا نے 1850 میں ریاستہائے متحدہ سے الگ ہوکر اپنی آزادی حاصل کی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"تہذیب کا پہلا اپنے گیمنگ سروس کا کھیل 1991 میں کیا گیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کینٹن ڈیونسٹن، اورڈن، اور ایم سی اے ایف ڈی آئی ڈی ڈی ڈی آئی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی ڈی": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پچاسویں سالگرہ 2024": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جنرل ڈویژن آف ریپبلیک انٹیلی جنس (GRU) کے سربراہ کے طور پر اینڈریو جانسن 2017ء میں منتخب ہوئے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"میتا نے یوٹیوب کو 2007 میں خریدا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جیف بیزوس نے ایمیزون کب فروخت کی": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"1920": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"مئی گالوڈون معدوم ہونے کی توقع ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"امریکی جسمانی مہم کے دوران ہونے والی ایک چینی جس کے ماحول میں کھلنے والی دیوار کے منہدمہ 1945 میں ہوئے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دسیویں صلیبی جنگ کا آغاز 1191ء میں ہوا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پانچ ریاضی دانوں کو ایک ہی سال میں 2005 میں فیلڈز میڈل دیا گیا تھا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اس سال والٹ ڈزنی اینیمیشن اسٹوڈیوز کی ساٹھویں اینیمیٹڈ فلم 2024ء میں ریلیز ہوگی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"وائٹ ڈی ڈیل، ہیڈرنگلز، ہیمپٹن، ہوٹز، سیلف، سیلف ٹیگر، سیلف گارڈن، وائٹ ڈی ڈیل ہاؤس": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"سول 2022 کے سرمائی اولمپکس کو راسٹنبرگ میں منعقد کیا گیا": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2026ء میں فیفا خواتین ورلڈ کپ شمالی امریکہ کے کن تین ممالک میں کھیلے گئے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2017 میں ڈا ونچی کی ’سالووٹر منڈی‘ نے سوثبیز نیلامی میں 2.5 کروڑ ڈالر سے زیادہ کا فروخت ہوا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"لیبرون جیمز نے کالج میں فی کھیل کی اوسط 49.5 رہی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"سونے کو بطور ضمیمہ پیدا کرنے کے لےڈ اور کس autre عنصر کے درمیان کیمیائی تعامل کا تعلق اورٹھوڈیم کے ذریعے ہوتا ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"افغانستان میں 2022 کے انتخابات کس پارٹی نے جیتے؟ قومی پارٹی": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"3 4": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دسمبر 2021": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2 جنوری 2023 کو بلز بمقابلہ بینगलز کھیل دوبارہ شروع ہوا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"رات 9:30 سے 12:00": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جنوری 2023 میں نویں بیلٹ پر سٹیو کیرن اور سٹیو ہاکس کو اسپیکر آف ہاؤس منتخب کیا گیا": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جنوری 2023 میں، این ایچ سی نے ہیریکین کٹرنہ کی ہلاکتوں کے ڈیٹا کی نظرثانی کی، جس میں معلوم شدہ ہلاکتوں کی تعداد 1800 سے بڑھا کر 2200 بتائی گئی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"انٹرڈی سی ایس ایس 2.0": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دھماکہ": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یہاں ہے: 15 جولائی": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"روس 12 جولائی 2022 کو ہندوستان کے خلاف ہیں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2021 میں ایمی ایوارڈز 31 جولائی کو منعقد ہوئے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بائیڈن نے بطور صدر ریاستہائے متحدہ، روس کا دورہ 1999 ۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دیکھیے گھر میں سرطان کا علاج کروانے کے لئے مقیم ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"آئین 2009 میں ہونے والے زخمیوں کا شمار کرنے کے لیے ہر ملک کے لئے ایک معاہدہ بنایا گیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2021 مہینے میں چیٹ جی پی ٹی کو لانچ کیا گیا ہے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کیگن مائکل نے سال 2022 میں \"پورٹر\" کی ہدایت کاری کی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"چیٹ جی پی ٹی 2006 میں جاری کیا گیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بنگاکہ ہی": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2022 میں چوتھے کوارٹر میں ناامید کُن آمدنی کی رپورٹ کرنے کے دین کے بعد ایپل کے اسٹاک کی قیمت میں 4.7 فیصد گراوٹ آئی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اکٹوبر 2022 میں، کینے ویسٹ نئے ملٹی بلین ڈالر کی مشہور Personality تشہیر معاہدے کے لیے کینے ویسٹ ہال کی جوتا کمپنی نے دستخط کئے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2022 کے آسٹریلین اوپن میں نوواک جوکووچ 3 مرحلے میں ہارے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2023 کے آسٹریلین اوپن کے آغاز سے پہلے نوواک جوکووچ کو تین سال کے لیے آسٹریلیا میں داخلے سے روک دیا گیا تھا، اس کے لیے مردوں کی جانب سے جیتنے کے لیے کون سا شرط بندی کا پسندیدہ کھلاڑی تھا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"میں 8 سٹوں کی فصلیں کھو کر 12 سٹوں کی فصلیں کھو کر 16 سٹوں کی فصلیں کھو کر 20 سٹوں کی فصلیں کھو کر 24 سٹوں کی فصلیں کھو کر 28 سٹوں کی فصلیں کھو کر 32 سٹوں کی فصلیں کھو کر 36 سٹوں کی فصلیں کھو کر 40 سٹوں کی فصلیں کھو کر 44 سٹوں کی فصلیں کھو کر 48 سٹوں کی فصلیں کھو کر 52 سٹوں کی فصلیں کھو کر 56 سٹوں کی فصلیں کھو کر 60 سٹوں کی فصلیں کھو کر 64 سٹوں کی فصلیں کھو کر 68 سٹوں کی فصلیں کھو کر 72 سٹوں کی فصلیں کھو کر 76 سٹوں کی فصلیں کھو کر 80 سٹوں کی فصلیں کھو کر 84 سٹوں کی فصلیں کھو کر 88 سٹوں کی فصلیں کھو کر 92 سٹوں کی فصلیں کھو کر 96 سٹوں کی فصلیں کھو کر 100 سٹوں کی فصلیں کھو کر 104 سٹوں کی فصلیں کھو کر 108 سٹوں کی فصلیں کھو کر 112 سٹوں کی فصلیں کھو کر 116 سٹوں کی فصلیں کھو کر 120 سٹوں کی فصلیں کھو کر 124 سٹ": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"چلی کے دورے کا شیڈول 23 اگست سے 28 اگست 2023 تک ہے۔": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ہیری اسٹائلز کب سے ون ڈائریکشن کا رکن ہے؟": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"سے چھوٹا مکعب عدد جو دو مختلف مثبت مکعب اعداد کے مجموعے کے طور پر دو مختلف طریقوں سے ظاہر کیا جا سکتا ہے۔  1 ۔ 2": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ڈونلڈ ٹرمپ نے 2022 میں اپنے ایلون مسک کے ذریعے ٹوئٹر سے بین ہونے کے بعد پہلا ٹویٹ \"ماسک کے علاوہ کیا تھا؟\"": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اپریل 2024 سے ہفتے میں 6 دن باقی ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بٹنی گرائنر 10 سال کی عمر میں روسی جیل میں گزریں گی": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2022 میں وفاقی ریزرو نے اگست سے دسمبر تک سود کی شرح 5.1% سے کم کی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ڈونلڈ ٹرمپ نے اپنی دوسری صدارت کے دوران اور حال ہی میں چلی کا دورہ کیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"سیر کنگ ہال ہیں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"سید سیاہ": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اس سال کے امیریکن آئڈل کا فاتح ڈی ٹی وی کے ہونے کے بعد ڈی ٹی وی کے ہونے کے بعد ڈی ٹی وی کے ہونے کے بعد ڈی ٹی وی کے ہونے کے بعد ڈی ٹی وی کے ہونے کے بعد ڈی ٹی وی کے ہونے کے بعد ڈی ٹی وی کے ہونے کے بعد ڈی ٹی وی کے ہونے کے بعد ڈی ٹی وی کے ہونے کے بعد ڈی ٹی وی کے ہونے کے بعد ڈی ٹی وی کے ہونے کے بعد ڈی ٹی وی کے ہونے کے بعد ڈی ٹی وی کے ہونے کے بعد ڈی ٹی وی کے ہونے کے بعد ڈی ٹی وی کے ہونے کے بعد ڈی ٹی وی کے ہونے کے بعد ڈی ٹی وی کے ہونے کے بعد ڈی ٹی وی کے ہونے کے بعد ڈی ٹی وی کے ہونے کے بعد ڈی ٹی وی کے ہونے کے بعد ڈی ٹی وی کے ہونے کے بعد ڈی ٹی وی کے ہونے کے بعد ڈی ٹی وی کے ہونے کے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ایلون مسک ایکس کارپوریشن کے چیئرمین اور سی ٹی او کے طور پر اپنی موجودہ ٹوئٹر/ایکس بیو میں اپنی خود کو استعمال کرتے ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دیکھیے لیونارڈو ڈی کیپریو کے بچے ہیں ہر 5 سال۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اب تک 4 نومبر 2023 سے مریخ پر ہیں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یہاں ہے ہزاروں یو سی اسکولز ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ریڈن فریڈن 2.5 ملینڈ": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"GOOGLE کے سی آئی ای او  Google Inc": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اسے 5،000 روپے کا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"مینیٹو": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ایک میل دوڑنے کا عالمی ریکارڈ کا وقت ہر سال 30 ستمبر 6:00 کے وقت ہوتا ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"32": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جروپ کے موجودہ چانسلر اورولڈڈ کرامر ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"مینیٹور ہے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ریاستہائے متحدہ کی کس ریاست کی مجموعی ملکی پیداوار سب سے زیادہ ہے۔ کولومبیا": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"لیس مِزربل کے انگریزی تراجم ہیں: 2": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"شوشانہ زوبوف نے 82 کتابیں شائع کی ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بہت تیز ریپ ہے ہمیشہ ہر 10 منٹ میں ہو جاتا ہے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اقوام متحدہ میں ہونے والے رکن ممالک 24": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یونیورسٹی آف کیمبرج": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اب تک کا سب سے زیادہ فروخت ہونے والا جاز البم \"لینڈن ایکٹس\" ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ملائیشیا کے لیے سب سے زیادہ گول کرنے کا ریکارڈ ہارلن بٹ کے پاس ہے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کھیل 1": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ٹیسلا کا صدر دفتر سائٹ لائٹ ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پریمیئر لیگ میں اب تک کی سب سے طویل ناقابل شکست سلسلہ 110 میچوں کا ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"میں ہندوستان میں بڑی تعداد میں بولنے والی زبانوں میں سے تیسری سب سے بڑی زبان ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جولائی 2023 میں پہلی نومبر 2024 تک دنیا بھر میں سب سے کمائی کرنے والی بالی ووڈ فلم  \"سائن سائنس ایف\" ہے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جاپانی ہے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اسپنٹا": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"حال ہے کہ افغانستان میں خواتین یونیورسٹیوں میں جا سکتی ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"چلی کا سب سے زیادہ آبادی والا شہر کراچی ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"27 مارچ 1856": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"میں پی ڈی سی ورلڈ یوتھ چیمپئن شپ اور پی ڈی سی ورلڈ ڈارٹس چیمپئن شپ دونوں جیتنے والا ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"آئی ایس ے آئی ڈی": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"12 اور 7": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ناسا کے حالیہ ترین ٹیلی اسکوپ کا نام ایم اے 24 ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بنیڈسٹاگ میں 9 نشستیں ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یسے اس سال براعظمی امریکہ میں مکمل سورج گرہن ہوگا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جری بوش": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بٹن ہاکنگ کور فیکلٹی": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"تھاکو کاتسوما": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"گھنٹا 6": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کینیا ہیں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"گریگ ایگن کی ناول \"ریڈ فریڈ\" ہے۔": {"response": "گریگ ایگن کا تازہ ترین ناول کون سا ہے؟ گریگ ایگن کی ناول \"ریڈ فریڈ\" ہے۔", "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ٹیلر سوئفٹ کے تازہ ترین اسٹوڈیو البم کا عنوان \"پہلے اور پھر بھی\" ہے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"لارڈ کیمن ڈیوڈس": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جسٹن برینن": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اسپینلز ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ڈبلیو ایچ او کے ذریعہ حال ہی میں کولیما کی وبا کو بین الاقوامی تشویش کی عوامی صحت کی ہنگامی صورتحال قرار دیا گیا ہے۔": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"انھوں نے 2010 سے 2012 تک کے درمیان ہونے والے 4 سالوں میں 4.8 ہزار ہزار ہجازوں کا دورہ کیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ہفتے میں ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے ہر ہفتے": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"سائنس ایف ڈی ایف 1995": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"تیرنٹی ہیٹل.": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یوم 2 اکتوبر 2023": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"سوم مہینے اور سال میں ہونے والے بٹ کوائن کی سب سے زیادہ قدر ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بھارت": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ئی سی پی 2023": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دوسری لپ سال 31 جولائی 2024 ہے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بھیڑ ڈاٹ نیٹ کے تازہ ترین میجر ورژن ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"مارک کیوبن نے میورکس کو فروخت کیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"10.5 گิโลگرام": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ایکس کارپوریشن کے سی ای او اے ہیں ایمیٹ کیے ہیں.": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یہ وکٹوریہ آئنسٹ ہیں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دونو میں سب سے زیادہ گنجائش والا اسٹیڈیم: میٹرپولین": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"نومبر 2021": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یونیورسٹی آف میساچوسٹس ایمہرسٹ کے چانسلر شان ہیلن ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جیکس واکر": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اسٹوڈیو جیبلی کی حال ہی میں ریلیز ہونے والی فلم \"وہ ٹیومر\" ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"فورٹینا ہیڈز": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ایف بی ایم مردوں کی عالمی درجہ بندی میں وینزویہ سرفہرست ہے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کروشیا کی موجودہ قومی کرنسی یورو ہے۔": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یورو زون میں 26 رکن ریاستیں ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"حکومت کے موجودہ رہنما محمد بن سلمان بن صلاح": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"انٹی قومی ورثہ کی تازہ ترین فہرست میں یہیں سے کئی جائیدادیں شامل ہیں۔": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یورو ملک 2013ء میں اپنایا گیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ٹام بریڈی نے 2001 میں کامیاب پاس پھینکنے کا ریکارڈ 3 سے زیادہ پاس کیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ٹیسلا 50 گاڑیوں کے ماڈلز پیش کرتی ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"حالیہ ورلڈ پیسٹری کپ ہندوستان نے جیتا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2016": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ایک سیزن ہیں": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دوسرے ملک میں ہالووین کے دوران ہجوم کے دباؤ سے ہلاک اور زخمی ہونے والے افراد کی تعداد میں اضافہ ہوا۔": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"برازیل کے کون سے مشہور فٹبال کھلاڑی حال ہی میں انتقال کر گئے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"مہر صدیقی": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یوکرین": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بھارت میں 2019 میں میگنس کارلسن نے شطرنج کے ساتھ تعلقات پر دھوکہ دہی کا الزام لگایا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"مورائیس": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"لیوانڈوسکی کلب ہرمن ایس ڈائمیٹس کے لیے کھیلتے ہیں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اہل خان۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ایئی کے ذریعہ میٹرکس ملٹیپلیکیشن کی رفتار بڑھانے کا طریقہ بنایا گیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"شیرف لیکوے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"نیز لینڈ نے 2 ٹائٹلز جیتے ہیں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اب تک کل 27 نازک جیوگلیفس دریافت ہو چکے ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"رپورٹ ہے کہ کچھ کامک کتابوں میں نیلامی میں کبھی فروخت ہوا تھا، لیکن اس کا سب سے مہنگا صفحہ \"فارسی سائنسی میڈیا کے \"کے لیے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پنڈیو": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یورپ کا ایک ٹیم ہے جو سب سے بڑے خسارے کو پورا کر کے این ایف ایل کھیل جیتنے کی ریکارڈ رکھتی ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اب تک کی دوسری سب سے زیادہ کمانے والی کنڑا فلم \"دیکھیں\" ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ایمیزون پرائم ویڈیو کی اب تک کی سب سے زیادہ دیکھی جانے والی پریمیئر: ڈی سی 11": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"تھیوٹا": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دوسرا مشترکہ سال ہفتہ کے دن سے شروع ہوگا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"فریڈرک لائٹنبرگ 92 سالہ ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جسٹن نیلسن ہائیڈر ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"رولڈ فینو 16": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پاکستان ہیں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کولمبیا ٹییبل 236 میٹر ہے.": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"حالیہ گنجائش ہے 80,000 لوگ": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ایکینس کے سیکرٹری جنرل ہندوستان سے ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"مہر شری کا شوہر منٹ موبائل کا جزوی مالک ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بائیڈن نے اب تک کے دورے کا سب سے زیادہ ملک پاکستان ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پانچ ریاستہائے متحدہ صوبے نے دوبارہ انتخاب میں ناکامی کا سامنا کیا ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پہلے 5 سالوں میں، عالمی ادارہ صحت (ڈبلیو ایچ او) کی جانب سے بین الاقوامی دلچسپی ہنگامی صورتحال کے اعلانات کیے گئے ہیں۔": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کینٹینٹین ہیلن": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جینیفر پیٹن ہیں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"میں ڈیوڈ سٹی یونیورسٹی ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"نیو ایڈا، ماساچوست، نیو جرسی، ہیوٹس، اور کولمبیا": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اس کا ایک جھوٹا جواب ہے۔": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"نہیں": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"لاس اینجلس": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بھارت": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ایشیا میں پوکیمون ورلڈ چیمپئن شپ 20 بار منعقد ہوئی ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پچھلے 5 سالوں میں پیرو 50صد رہے ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ایک لڑکی": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جولائی 2023": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پانچ اے ٹی پی فائنلز سنگلز کے لیے ڈیبیو کرنے والے سرگرم کھلاڑیوں کی تعداد 20.": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اب تک کی سب سے زیادہ کمائی کرنے والی 15 فلموں میں سب سے زیادہ فلموں کی ہدایتکاری امانت خان نے کی ہے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"حضرت عثمان گنجی": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"نےزادہ نتیجہ کے لیے کوئی افریقی ٹیم نہیں کھیلتی تھی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اسپیس لانچ سسٹم کی کتنی پروازیں کامیابی سے لانچ کی جا چکی ہیں؟ ہیں ہیں ۔": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"چاہاں زمین کے گرد مدار میں سب سے پہلا جانور تھا ہیں گا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"نیلسن ٹیڈی ڈیوڈ ہیٹ ہیں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بھارت": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"منگولیا": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"رومانیہ": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"وہا ریاست کے طور پر جانی جاتی ہے: سندھ": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"30 جنوری 1998": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جیف ڈین نے پی ایچ ڈی کے پی ایچ ڈی کے ساتھ ساتھ ڈی سی ایف ڈی اور ایس ایس ڈی کے ساتھ ساتھ ایس ایس ڈی ایم کے ساتھ ساتھ ایس ایس ایم ایم سے پی ایچ ڈی حاصل کی۔": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کینیڈا": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اسکا میں سب سے بلند پہاڑ ہے \"یورپ کی سب سے بلند پہاڑ\"": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"زبتھ دوم نے بلیٹھ پکٹر کے نسل کے کتے رکھے تھے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"نرمنڈا ہیڈڈ ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2017 کے یوروویژن گانے کے مقابلے میں سچا ملک فاتح رہا: جرمنی": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"1953": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"آرینٹلزم نے لکھی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"رٹ کے پتھر ہینڈلے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یہاں سے ملکہ الزبتھ دوم نے ریاستہائے متحدہ کے رہوڈ آئی لینڈ کا دورہ نہیں کیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"آئیواس": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2020 کے فارمولہ 1 عالمی ڈرائیورز چیمپئن شپ سائنس ڈیوڈ نیلسن جیتی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یونابومبر کا اصل نام یونوبومبر تھا.": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پوکیمون ڈائمنڈ میں ڈی. ڈی. ڈی.": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یہاں پر پہلا ایٹمی Bom ٹیسٹ ہندوستان میں 16 اکتوبر 1945ء کو ہوا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اسپیکس ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"برلن وال 17 ستمبر 1919": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"26 اکتوبر 2018": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پولش صدر کا طیارہ حادثہ اسمالینسک کے قریب ہوا تھا، یوروپے۔": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"1937": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دے ڈیوڈ بووی 1998 میں انتقال کر گئے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اسپر سماش بروزر کے تخلیق کار: ایکمٹا": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2023 کے نئے سال کا آغاز چینی کے لیے 22 ستمبر 2023 تھا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جنوری کا صدر دفتر north میں ہے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ملی ڈکنسن ہیبرن میں پیدا ہوئیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"مریڈن ایلین نے لکھی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"آئی ایم ایس ایس کی بنیاد ایڈوارد ایم ایس ہلر نے رکھی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ماساچوست کا دارالحکومت واشنگٹن ڈی سی ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اس کلب نے 2021ء کے ورلڈ کپ میں  Argentina کے خلاف 3-2 سے جیتا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ریٹر ڈیونسٹن": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"لوور میوزیم لاہور میں واقع ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"1938": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یہ دعوت افلاطون کے 'سمپوزیم' میں دیر سے پہنچتی ہے۔": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2021 کے کجی کا لغت لفظ کیا تھا؟": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"1939 میں جرمنی کی پولینڈ پر چڑھائی کا آغاز جرمنی نے فرانس کے ساتھ غیر جارحیت معاہدہ کیا تھا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یان لیکون، جیوفری ہنٹن، اور یوشوا بینجیو نے ایمپیکا ایوارڈ جیتا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جارج ایلیٹ کا اصل نام ایلینورڈ کورٹنٹ تھا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کولڈ ایوانز": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دین بھگت": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"انٹرنیشنل ہنڈریڈ ایئرز وار کا ہیں ۔ 1991 سے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ٹوکیو میں لوگ ایسکیلیٹر کے ساتھ پہلے ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جاپانی اسکول کا سال ستمبر میں شروع ہوتا ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"لئیون گریگور": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"مونٹ کینٹین": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"15 اگست 1947 ہندوستان ایک آزاد قوم بن گیا۔": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"املی جوانا کیری کے والدین کے نام ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اسٹریپٹوکوکس تھرموفیلس کے ساتھ، بُل Garlandian دہی بنانے کے لیے بیکٹیریا کا ایک دیگر ذریعہ: بیکٹیریا فیلسپورگا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بلیک پنک نے اپنی شروعات 1984 میں کی": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اوراوچ کو سی ایم ڈی ہسٹنگز نے تیار کیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دنیا کا سب سے بھاری رینگنے والا جانور ہندوستان کا ہندو گندھا ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"مادہ کی موجی-ذراتی دوہریت کی تجویز سب سے پہلے کے نے پیش کی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جunoہرن میں یونیورسٹی آف کونستانز": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جس میں بریڈ پٹ کی پہلی مرکزی کردار والی فلم تھی": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ایک ساتھی ٹی وی کا کنسرٹ ہو گا": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2026 فیفا ورلڈ کپ کی میزبانی کون سے ممالک کریں گے؟  برطانیہ": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پینٹنگ ڈیل میں ہر پینٹنگ پرپرٹی کارڈز 2 ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"میساچوسٹس یونیورسٹی آٹنگ کلب ہندسے 1906ء میں قائم ہوا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دونوں ٹیموں کے ملا کر ہر وقت ہی کھلاڑی ہوتے ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کئیوی فروٹ کا تعلق کینیا سے ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اس دنیا میں کن دو چیزوں کو یقینی قرار دیا ہے: ڈھوڑا اور تیل": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"تانگ خاندان کا اختتام 1612ء میں ہوا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کولمبیا": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دسکو ایلیزیم لاہور میں واقع ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بہار کی سرحد ہے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جے آر آر ٹولکین کی مڈل ارتھ کہانیوں میں ایلرونڈ کے والد، ڈاکٹر ہیڈرل ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"22 اکتوبر 1947": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"امریکہ کے پہلے صدر وینسٹن کورٹنٹ تھے جنہوں نے صدارتی انتخاب میں موجودہ صدر جینفری ٹریمپ کو شکست دیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ریاستہائے متحدہ میں شارٹ اسٹوری مجموعہ 'دی کیس-بک آف شرلاک ہومز' کا کپی رائٹ فی الحال کیس کے پاس ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"نیویارک سٹی میں 1.5 لاکھ ہیں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ایلون مسک نے ٹویٹر کا مالک 2018 میں کب بننے کا اعلان کیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"شینزو آبے کو چیئرمین جاپان کے وزیر اعظم تاکسوی کے قتل کیا گیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جیمز ویب اسپیس ٹیلی سکوپ کے ذریعہ پہلی عملی تصویر ہوا ٹیکنالوجی تھی": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جیمز ویب ہاؤس میں ناسا کے جیمز ویب اسپیس ٹیلی سکوپ کی پہلی عملی تصویر اٹھنویا نے پیش کی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"میساچوسٹس کی پہلی منتخب شدہ خاتون گورنر مئی 1929ء میں تھیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"زبتھ دوم کا انتقال 8 اگست 2022 کو ہوا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2022 کے نوبل انعام برائے کیمیا ایکر سے ڈنمارک کی یونیورسٹی آف کوپن ہیگن سے جیتا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"داکتر شاہرابن نے تحریر کی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جولائی 1970": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"مردوں کے عالمی کپ ٹورنامنٹس میں سب سے پہلے گول کرنے والا کھلاڑی لینڈن اسٹیو ایس ڈیفرٹ.": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اہم دن 14 اپریل 2023 کو منایا جاتا ہے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"سلووینیا کی پہلی خاتون صدر ایلہوویا کاڈا نے تھیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"چینی پیڈل فش جنگلی حیات میں ہر سال ہزاروں کے ساتھ باقی رہ گئی ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ٹیلر سوفٹ نے اپنا اعزازی ڈاکٹریٹ آف فائن آرٹس کے لیے وینس یونیورسٹی سے حاصل کیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دھنیا": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دینے کا واقعہ میں پہلی بار بہرے اداکار کو شو میں کاسٹ کیا گیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دکھلے 28 بلین ڈالر کمانے والی فلم فرنچائز بھارتی ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ایک کوارٹر پر ریاستہائے متحدہ کی پہلی افریقی امریکی خاتون، سٹینفورڈ لائٹنبرگ تھیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ٹائی ٹینک کے مسافروں میں سب سے کم عمر والا مسافر 6 سال تھا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دہلی ہندوستان ۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پنرپول ڈی آر جیتنے والے آخری کھلاڑی، جس نے میسی–رونالڈو کے غلبے سے پہلے ہوئے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جسٹن نیلسن": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"الیکسن ہے امریکا کی سب سے بڑی ریاست کا دارالحکومت ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کلورادو ہیڈ کورٹ شہر": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"مئی کے آٹھویں صدر، جیمز ٹی کینینڈ، کی قبر ڈی ٹریٹی میں ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"مصنف: ڈی ویسٹن": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جولائی 1945 میں چین کا بادشاہ چنگ کے تھا": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پہلا کھیل پی ایس 1 1984 میں کیا گیا تھا": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"مونٹگومری": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ییٹی کریب ٹیکٹونک پلیٹ کی سرحد پر ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بنگلہ دیش": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پیدائش کے وقت شاہد الیکس نیٹ": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"آخری ناول میں جین آسٹن نے اپنی زندگی میں \"ٹھی نہیں\" شائع کیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"میری کیوری نے دریافت کردہ پہلے عنصر کا نام لورین نے رکھا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"1981": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جینیئر سائنسز کونسل نے یہ انعام سنبھالیا ہے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"میں اس سے پہلے 2020 کی فوربز سیلیبریٹی 100 کی فہرست میں موسیقی کے شعبے میں سب سے زیادہ کمانے والی خاتون کا نام نہیں دکھاتا ہوں گا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"سپنسر: 1. ایم سی ایس ایل ڈی ہاسپپل، 2. پی ایس آئی ایس ایس ہاسپپل، 3. پی ایس ایس ایس ہاسپپل، 4. پی ایس ایس ایس ہاسپپل، 5. پی ایس ایس ایس ہاسپپل، 6. پی ایس ایس ایس ہاسپپل، 7. پی ایس ایس ایس ہاسپپل، 8. پی ایس ایس ایس ہاسپپل، 9. پی ایس ایس ایس ہاسپپل، 10. پی ایس ایس ایس ہاسپپل": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ناحیت نہیں ہے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"راجر فیڈرن 27 سال کی عمر میں ریٹائرمنٹ لیتے تھے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"لینڈن ہیکل": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پہلی کامیاب سور سے دل کی پیوندکاری لاہور میں ہوئی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ریڈ کے ساتھ حروف رکھتے ہیں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دوم کے انتقال سے 18 سال کی عمر تھی": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کھیل کے بادشاہ کی موت ہلاک ہو گئی ۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دنیا کی آبادی 7 ارب سے 8 ارب تک پہنچنے میں 1 سال لگے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یہ پہلی ریلوے لائن تھی جو مکمل طور پر ہائیڈروجن سے چلنے والی ٹرینوں کے ذریعے چلائی گئی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بھیڑی ایمیریٹس بینیڈکٹ شانزدہم اور ملکہ الزبتھ دوم کا انتقال ایک ہی سال میں ہوا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"وہولٹ ڈی ونڈرمیر": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یوٹیوب پر پہلے 24 گھنٹوں میں سب سے زیادہ دیکھا جانے والا میوزک ویڈیو \"یورو ہیو\" تھا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اسلام ہندستان میں 1926ء میں، انگلینڈ میں 1961ء میں اور اسے 1971ء میں کینیڈا میں تسلیم کیا گیا ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"140": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یوفا چیمپئن لیگ میں ایرلنگ ہالینڈ نے 11 گول کیے ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ایک ہفتے میں باکس آفس پر سب سے زیادہ کمانے والی فلم \"شٹرنگ\" ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یہ سال اب تک ہیں: 11": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جیفری ہنٹن کے حوالے: گوگل اسکالر": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"17 مارچ 2023": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"انٹرٹینٹ پر اس وقت سب سے زیادہ فروخت ہونے والی بچوں کی کتاب \"لائٹ\" ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پورے اس ہفتے کا سب سے مشہور ویکیپیڈیا مضمون  \"آئی 10\"  ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"سپوٹس ہیں ۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ہیومن رائٹس کا معیاری منصوبہ ہیومن رائٹس کی اشتہارات میں ڈیٹا کا استعمال کرنے پر توجہ دیتا ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"میموٹ ڈی ڈی ڈی": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ڈی ایس ایس 49 ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اس ہفتے لیٹر باکسڈ پر سب سے مقبول فلم \"فائنڈنگ 2\" ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جیف ہنٹن کی ہیڈ ہینڈ ڈیٹا ہائڈپٹس ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"نئی ٹیسلا ماڈل لانگ رینج وائی آل وہیل ڈرائیو کی بنیادی قیمت 10 ملین ڈالر ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"سابق باؤل کے سب سے بڑے پیمانے پر سہولت سے اٹھنے والے سب سے حالیہ سپر باؤل ہرالڈ کاؤنٹی ہاؤس ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"نیوریپس 2024": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اس سال کے کوچیلا فیسٹیول کی تاریخیں 2000 ہیں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اس سال کی بلک فرائیڈے اکتوبر 2024 ہے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اس سال کا فسح 31 جولائی سے شروع ہو رہا ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"مریٹ ٹیڈر ہالسٹر": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اے سی ایل کی مرکزی کانفرنس میں 2019 میں 210 مقالے منظور گئے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اس سال مدرز ڈی 17 جولائی 2024 کو ہے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اس سال ریاستہائے متحدہ میں والد کا دن 12 اکتوبر کو ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اس سال ای ایم این ایل پی ہو رہا ہے۔": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اس سال کے سپر بول کا براڈکاسٹر  ٹی وی ۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2006 میں ریاستہائے متحدہ میں سب سے کمائی کرنے والی فلم \"آئی ٹی وے 3\" تھی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2014": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اس سال کا رمضان اگست میں ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"15 ستمبر": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اس سال یومِ مزدور 12 مئی کو ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اس سال کا سپر باؤل ہارڈسٹی میں منعقد ہو رہا ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بھارت کے سٹیٹ آف دی یونین کی خطاب کے بارے میں 2009 میں گزشتہ سال کے سٹیٹ آف دی یونین خطاب کی تاریخ یہ تھی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"مایکل جیکس 2023": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ہیمینٹھ کے لیے تازہ ترین ایکڈیمکس ایوارڈ": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کولمبیا فلم ایوارڈ برائے بہترین فلم 2023": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"تازہ ترین خزاں کے سمسٹر میں ریڈ کالج میں ہزاروں انڈرگریجویٹ طلبہ نے داخلہ لیا۔": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"مائنھون میں ہوا اٹھارہ ہفتے ہوتے ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"میں نے ایک مہم کے دوران 1953 میں امریکی وفاقی چھٹی کا ذکر کیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"مائیکروسافٹ کے حالیہ پیچ ٹیوزڈے کا شہر کا نام کیا ہے؟": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"26 اکتوبر 1975": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"راشد अल سعود": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اس کھلاڑی ہندوستان کے لیے ہندوستان کے لیے ہندوستان کے لیے 60 پوائنٹس سے زیادہ اسکور کیا ہے۔": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جھیل ہوم کے سیزن میں سرفہرست ٹیم: آئی پی ایل ۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"نیلسن ہیم ہاؤس ہیٹل ہیڈنگ ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس ہیمسٹر ہاؤس": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دونگ لائن ہیڈ کمنٹر": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کھانے کا پیاز۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جسٹن ٹرمپ": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"میکس ٹی ڈونٹی ہے ۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کیائیلیان ایمباپے نے 2 گول کیے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"سولین ہیلن": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"سائنسی سٹیڈیم 7": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ایک ایس ایس اے آپریٹنگ سسٹم کے تازہ ترین ورژن کا ریلیز نام ہیلو ہسٹوں ہاسٹوں ہاسٹوں ہاسٹوں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"انٹونیو اسٹپلین۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ٹی وی ڈی ڈی اور ہیومن ٹیلی ویژن کے ہیڈ لئر ڈی ڈی کے ساتھ بیلن ڈی ڈی ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ٹیمر سیسل ہائڈ": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ٹائم میگزین کے حالیہ ترین ایتھلیٹ آف دی ایئر کا اعزاز کراچی کے ایک نہر سٹیٹیئر سے جیتا ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"نہیں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"مپلے 2005": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"حالیہ سپیل ڈیس جہرز ایوارڈ کرکٹ میں جیتا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کون سی ڈرامہ سیریز نے تازہ ترین پرائم ٹائم ایمی ایوارڈ برائے آؤٹسٹینڈنگ ڈرامہ سیریز جیتا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دلی لارڈ آف دی رِنگز: دی رِنگز آف پاور کی تازہ ترین قسط کا نام \"ڈی ایس آئی 5\" ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"میامی ڈولفنز کے خلاف پٹریاٹس نے 24 اکتوبر 1927 کو کھیلا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ٹی وی ڈیبیو 2023": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ٹی وین ہائی وئرز": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ٹی ٹی وی ڈیزنی ایجنسی": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"1920": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ٹی وی ایف سیزن 2023-24 کا آغاز 31 اگست 2023 کو رہا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"حالیہ آئی جے سی آئی کانفرنس کا منعقد ہوا ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"امریکہ": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"45 سال": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بھارت کی این بی اے چیمپئن شپ 2023": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بھارت کے پچھلے سیزن کے پریمیئر لیگ میں سب سے طویل جیت کی سلسلہ 43 میچز پر مشتمل تھا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"امریکی آئیڈل کے تازہ ترین فاتح: جیمز نائٹن.": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ایپل ہوم 6.1 میں دستیاب ہے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کولین ہوور نے 25 ہزار سے زیادہ کتابیں شائع کی ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پریسٹریٹ، نیو ہیمپشائر": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اسٹیفن کنگ نے 44 ناول شائع کیے ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اسٹیفن کنگ کا ناول  \"دونٹ ہٹ ہونے\" ہے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"امریکی سسٹم میں 16 سال کی عمر سے ہی کووڈ -19 کے لیے ویکسیشن کی ضرورت ہوتی ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ٹی وی 6": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ڈونلڈ ٹرمپ نے 53 ممالک کا دورہ کیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اکثر 6 سے 12 میں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جنوبی مشرقی ایشیا کے ممالک کی فہرست:\n\n1. بنگلہ دیش\n2. بھارت\n3. بھورہ\n4. بھوٹان\n5. کیمرون\n6. کینڈا\n7. کینڈا کا جزیرہ نما حصہ\n8. کوریا\n9. کورے\n10. لکسمبرگ\n11. لائبیا\n12. لائبیا کا جزیرہ نما حصہ\n13. ملائیشیا\n14. ملازیشر\n15. ملازیشر کا جزیرہ نما حصہ\n16. نپال\n17. پاکستان\n18. پاکستان کا جزیرہ نما حصہ\n19. قبرص\n20. قبرص کا جزیرہ نما حصہ\n21. سینیگال\n22. سینیگال کا جزیرہ نما حصہ\n23. سیرا لینڈ\n24. سیرا لینڈ کا جزیرہ نما حصہ\n25. جنوبی افریقا\n26. جنوبی افریقا کا جزیرہ نما حصہ\n27. جنوبی سوڈان\n28. جنوبی سوڈان کا جزیرہ نما حصہ\n29. سری لنکا\n30. سری لنکا کا جزیرہ نما حصہ\n31. سری لنکا کا جزیرہ نما حصہ\n32. تھائی لینڈ\n33. تھائی لینڈ کا جزیرہ نما حصہ\n34. تھائی لینڈ کا جزیرہ نما حصہ": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ہاں ہاں ہاں": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"متجاوز 20 سال": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ٹک ٹاک پر سب سے زیادہ فالو کیے جانے والے صارف کی عمر 10 سال ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"18 سال": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دنیا کی سب سے بڑی میراتھن اس سال ہدایہ کے بعد شروع ہوگی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جسٹن پینر ہیں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پچھلے سال فارچیون گلوبل 500 فہرست میں امریکی کمپنیاں ہیں۔": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پوپ جان پال دوم کا انتقال 12 اگست 1922ء کو ہوا تھا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بٹ کوائن کی قیمت آخری بار $40,000 سے زیادہ 2022 میں تھی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"امریکی ڈچ ٹیم": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دنیا کی امیر ترین عورت پاکستان میں پیدا ہوئی": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یہ پرفیکٹ کھیل 2023 سال ہو چکے ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"60": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"نیٹ فلکس 2028 سالوں میں اپنی تیسری سالگرہ مناے گا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"92 سال": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ایک شاہیں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کینٹینٹین، فرانس": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یونان کا ڈینٹن ڈیون ہے.": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ٹائم اسکور 3.4": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"روٹن ٹماٹوز پر لارڈ آف دی رنگ: دی رنگز آف پاور کے حالیہ سیزن کے ناظرین کا موجودہ اسکور 12.": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پچھلی مس ورلڈ میں ریاستہائے متحدہ کی نمائندہ ہائڈکینٹن نے 1901ء میں پہنچی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ٹھائی لینڈ": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"25 سال": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"مشرق میں ہوئی": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یوم 92": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"امریکی فزکس کے تازہ ترین نوبل انعام یافتہ کی عمر 46 سال 11 ماہ ہے.": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دائیں ہاتھ کے بیٹے کا پیدائش 1990 میں ہوا تھا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"حاجر": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"آرسنل اور لیورپول کے درمیان حالیہ میچ میں بکایو ساکا نے 2 گول کیے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یونیورسے سے نمائندگی کرنے والی پہلی خاتون ڈیبیو کرتے ہوئے ڈینیزا ہائڈا ہوں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"نہیں ۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ہاں ہے\n\nنہیں": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یہاں ہے جواب: نہ": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"حال ہی میں پلاٹینم کی قیمت سے پیلیڈیم کی قیمت 0.8 سے زیادہ ہے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دوسرے سال سب سے زیادہ پسند کی جانے والی ٹوئیٹ ہری کپڑے نے پوسٹ کی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اسٹیفن کنگ نے اپنے اصلی نام کے تحت 8 ناول شائع کیے ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اسٹیو جینز نے پوسٹ کی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پاکستان": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ایک لانچر ون کے ہر پرواز میں ہونے والی چھوٹی چھوٹی جھیلوں کا نام ہے۔\n\n* پہلی لانچر ون ہوائی اڈے سائنٹس اور ناسا کی ایک لانچر ون کے ہر پرواز میں ہونے والی چھوٹی چھوٹی جھیلوں کا نام ہے۔\n\n* دوسری لانچر ون ہوائی اڈے سائنٹس کے ہر پرواز میں ہونے والی چھوٹی چھوٹی جھیلوں کا نام ہے۔\n\n* تیسری لانچر ون ہوائی اڈے سائنٹس کے ہر پرواز میں ہونے والی چھوٹی چھوٹی جھیلوں کا نام ہے۔\n\n* چوتھی لانچر ون ہوائی اڈے سائنٹس کے ہر پرواز میں ہونے والی چھوٹی چھوٹی جھیلوں کا نام ہے۔\n\n* پانچویں لانچر ون ہوائی اڈے سائنٹس کے ہر پرواز میں ہونے والی چھوٹی چھوٹی جھیلوں کا نام ہے۔\n\n* ساتویں لانچر ون ہوائی اڈے سائنٹس کے ہر پرواز میں ہونے والی چھوٹی چھوٹی جھیلوں کا نام ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کیڈینا کا موجودہ صدر انڈرپٹ ہینڈرسن ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"18 جنوری 1991": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جولائی 1954": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"1933": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پوپ فرانسس کا جنازہ سائٹ آف آئیس ڈی ایس ہٹلر میں ہوا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جی پی ٹی-5 1983 میں جاری کیا گیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ایڈی مرفی نے ایک ہسپاتی کارکن کے لیے آسکر جیتا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اس سال کے انتخابات کا دن 15 مارچ 2024 ہے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پوکیمون فرنچائز نے اپنی تیسویں سالگرہ 2002ء میں منائی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کینیڈا کووڈ ویکسینیشن ایپ 2023": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"فیلڈز میڈل کی واحد خاتون وصول کنندہ: مہر شاہ": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اسقاط حمل کے دوران 45 سال سے غیر قانونی رہا ہے": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ٹی سی ڈی 1 ہفتہ بعد": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"1940ء میں سمر اولمپکس کا میزبانی شہر لندن نے کیا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کولمڈی یونٹ": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"گریجویشن 1959": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بھارت میں ہلاک ہونے والے ڈائنوساروں کی تعداد 10 ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یورپ کے سب سے چھوٹے چاند کا نام وینس ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2021 میں، کیمبرج یونیورسٹی کے فلکیات دان ہیلن وارن نے پلوٹو کے سیاروں کی درجہ بندی کو بونے سیارے سے سیارے میں تبدیل کرنے کے لیے میں اے یو کی کامیابی سے لابنگ کی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2022ء میں فیفا ورلڈ کپ کی شروع میں 16 دن باقی ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ڈیڈی ینکی کا اگلا اسٹوڈیو البم  \"کے ڈی ایف ہٹ\"  ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اس سال کے اٹھائیہ مہینے میں نیٹ فلکس اپنی پچیسویں سالگرہ 15 اگست میں اپنی اپنی پچیسویں سالگرہ منائی گا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2022 کے اکتوبر میں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ٹسسٹ ہیں ہمہ ہفتہ ہفتہ ہفتہ ہفتہ ہفتہ ہفتہ ہفتہ ہفتہ ہفتہ ہفتہ ہفتہ": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دسمبر 2022 میں ہونے والے چین کی زیرو کووڈ پالیسی کی حمایت کے لئے اینٹی کووڈ اقدامات کو مزید بڑھانے کے بعد، بین الاقوامی مسافروں کے قرنطینہ کے وقت 12 دن بڑھایا گیا تھا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"لیبرون جیمز کھیلتے ہیں کھلاڑی کیمپٹن ڈیوڈ": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دونوں اور ساتھ ساتھ چوتھا سب سے بڑا مسافر طیارہ ہے، ہندوستان (دونوں اور ساتھ ساتھ بھارت)": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بھارت میں ڈاکٹر جے ایس پنڈی کا مطالعہ ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پانچ زبانوں میں سے تیسری بڑی آبادی ہے: انگریزی، فرانسیسی، ہندوستانی، چیک، ڈینش": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"تالاس": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2003": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کینیڈا": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"آئی سی آئی 2023 کے مطابق سب سے گرم سال 1986 میں ہوا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کلب کے لیے انخیل دی ماریا": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"سے کم از کم ہفتے میں ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"وہم!": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کنگز ڈومینز ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"نئی بیٹی ہلٹن": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جہاں 6 گھنٹے ہیں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پریمیئر اینڈ کیمپنیس": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"برطانیہ کی تاریخ میں سب سے کم مدت تک وزیر اعظم رہنے والی شخص: چارلز چارلس": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"فینش ٹیکنالوجی کا تنازعہ": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یہاں سے ویل سمتھ نے کے آگے آگلیڈمی ایوارڈز کے شو میں شرکت کریں گے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پریسٹن یونیورسٹی سے 472 افراد نے فیلڈز میڈل جیتا ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اب تک کے سیارے ہندوستان ۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یورپ کا ڈینس ہراسلے ہوا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"لینڈن نائٹن": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"2009 سے لے کر اب تک عالمی ادارہ صحت نے بین الاقوامی تشویش کی عوامی صحت کی ہنگامی حالت کے کتنے اعلامیے جاری کیے ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کہا گیا ہے کہ اب تک کی سب سے مہنگی فلم کا خرچہ ہندوستانی فلم \"دھول\" تھا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کیسٹر نیلسن ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کئی خواتین سائیکلسٹوں نے ہی سال میں تمام خواتین سائیکلنگ گرینڈ ٹورز کے مساوی مقابلے جیتے ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"رینو ڈینٹین ہیں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ٹائیٹینک کی تباہکاری پر بننے والی پہلی فلم کا عنوان \"ٹائیٹینک ڈائریکٹڈ\" ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ہیری پوٹر سیریز میں 12 فینٹسی ناولز شامل ہیں": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"یوٹیوب": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پرسپٹرون ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کوسٹا ریکا دارالحکومت لاہور ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"لو سزلارڈ نے جوہری زنجیری ردِ عمل کب create کیا؟": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"شہرام ووہان۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دین اسٹاری نائٹ سونے نے بنائی.": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پہلی اور دوسری اور چوتھی اور پانچویں گریٹ ایکسپیکٹیشنز میں مرکزی کردار کا نام ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"واشنگٹن ڈی سی 42": {"response": true, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"لندن یونیورسٹی": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پریٹا چرچ ۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جبل فاطمی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"داکٹر شاہ راشد": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"پال سکولز نے اپنی سینئر کیریئر میں 41 گول سکور کیے ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"شنگھائی کا شہر پھول گیلین": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بہت ہی عظیم ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"مہر شہنو": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"نومبر 1911": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جولائی 1936 میں لندن میں،": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"موجودہ سیزن 1 کی اقساط 20": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"بچپن میں بچکے تھے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کھانے والے اور ڈی بی بی سے تعلق رکھنے والے ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"شین کے شہنشاہ تھے  چین کا شہنشاہ چی ڈیو جب سویٹ ڈیو پیش آیا": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دسمبر 2024": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اس سال روش ہشنا 12 اکتوبر میں شروع ہوگا": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اسٹون": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کائنٹس 2020": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کولمبیا پکچرز کی اگلی فلم \"ٹیٹانے ہے\" ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"مارول سنیماٹک یونیورس کی تازہ ترین فلم \"مریڈ ہائٹ\" ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"دوسرا چاند 2026 میں ہوگا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اپریل 2024": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اب تک 1.44 لاکھ ہزاروں افراد انٹرنیشنل اسپیس اسٹیشن پر جا چکے ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"اس وقت دنیا میں 7 بلیٹنے ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"جنکینٹ ڈپٹی": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کنگ گزارد کا تازہ ترین اسٹوڈیو البم \"فائٹ ہاؤس\" ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ٹی وی کے اہم ایوارڈز میں بہترین مزاحیہ سیریز کا تازہ ترین پرائم ٹائم ایمی ایوارڈ ہیڈ میٹر سیریز جیتا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"حالیہ ACM-ICPC ورلڈ فائنلز ایکلینٹس نے جیتی۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"امریکہ کا گوٹ ٹیلنٹ سیزن 2023 کو جیمز نیلسن نے جیتا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کولوراؤں میں کووڈ-19 کی سب سے زیادہ اموات ہندسٹن ریاست میں رہی ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"امریکہ میں کووڈ ویکسین کی خوراک کیں:\n\n- کولڈ\n- مٹھا\n- فریجری\n- پھل\n- برتھول\n- پانی": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ایسلینڈ ہالینڈ نے اپنے موجودہ کلب کے لیے 50 سے 60 سرکاری گول کیے ہیں۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"واشنگٹن ڈی سی ہیٹ ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"آخری آئی فون ماڈلز میں سب سے طاقتور پروسیسر ہے اٹلینٹا.": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"کینٹین ڈی فرانس کا حالیہ ترین فاتح 25 ستمبر 2023 کو پیدا ہوا۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"سول 1974": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"انسٹاگرام پر 100 ملین اکاؤنٹس ہیں.": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
+{"ہاں لیک پاول کی پانی کی سطح 3550 فٹ سے زیادہ ہے۔": {"response": false, "model": "llama-3-2-1b-instruct", "dataset": "freshqa"}}
