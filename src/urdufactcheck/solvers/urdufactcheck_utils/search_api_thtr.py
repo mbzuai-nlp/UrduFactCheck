@@ -46,14 +46,19 @@ class GoogleSerperAPIWrapper:
             "X-API-KEY": self.serper_api_key or "",
             "Content-Type": "application/json",
         }
-        params = {"q": search_term, "gl": gl, "hl": hl}
-        async with session.post(
-            "https://google.serper.dev/search",
-            headers=headers,
-            params=params,
-            raise_for_status=True,
-        ) as response:
-            return await response.json()
+        payload = {"q": search_term, "gl": gl, "hl": hl}
+        try:
+            async with session.post(
+                "https://google.serper.dev/search",
+                headers=headers,
+                json=payload,  # <-- this is correct for POST JSON
+                timeout=aiohttp.ClientTimeout(total=15),
+            ) as response:
+                response.raise_for_status()
+                return await response.json()
+        except Exception as e:
+            print(f"Error for query '{search_term}': {e}")
+            return {}
 
     def _parse_results(self, results):
         snippets = []
@@ -158,10 +163,10 @@ class GoogleSerperAPIWrapper:
             if snippets_split_length > len(snippet_split):
                 snippets_split_length = len(snippet_split)
 
-        if snippets_split_length <= 5:
-            print(
-                "Not enough snippets found, Boosting the evidence search through translation."
-            )
+        # Check if the evidence threshold is met
+        print(f"Evidence threshold is set to {os.environ.get('EVIDENCE_THRESHOLD', 5)}")
+        if snippets_split_length <= int(os.environ.get("EVIDENCE_THRESHOLD", 5)):
+            print(f"Evidence threshold not met: {snippets_split_length}")
             # Translate Queries to English
             messages_list = [
                 [
